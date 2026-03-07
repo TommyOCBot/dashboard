@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tommy Mission Control 🎛️</title>
+<style>
+  :root {
+    --bg: #0f1117;
+    --card: #1a1d27;
+    --border: #2a2d3a;
+    --text: #e4e4e7;
+    --muted: #8b8d97;
+    --accent: #6366f1;
+    --green: #22c55e;
+    --yellow: #eab308;
+    --red: #ef4444;
+    --blue: #3b82f6;
+    --orange: #f97316;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    padding: 20px;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid var(--border);
+  }
+  header h1 { font-size: 24px; font-weight: 700; }
+  header h1 span { color: var(--accent); }
+  .updated { color: var(--muted); font-size: 13px; }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
+    gap: 16px;
+  }
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px;
+  }
+  .card h2 {
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .card h2 .icon { font-size: 18px; }
+  .item {
+    padding: 10px 0;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 12px;
+  }
+  .item:last-child { border-bottom: none; }
+  .item-title { font-size: 14px; font-weight: 500; flex: 1; }
+  .item-meta { font-size: 12px; color: var(--muted); margin-top: 2px; }
+  .badge {
+    font-size: 11px;
+    font-weight: 600;
+    padding: 3px 8px;
+    border-radius: 6px;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .badge-active { background: rgba(34,197,94,0.15); color: var(--green); }
+  .badge-scheduled { background: rgba(59,130,246,0.15); color: var(--blue); }
+  .badge-pending { background: rgba(234,179,8,0.15); color: var(--yellow); }
+  .badge-blocked { background: rgba(239,68,68,0.15); color: var(--red); }
+  .badge-idea { background: rgba(99,102,241,0.15); color: var(--accent); }
+  .badge-done { background: rgba(34,197,94,0.1); color: #4ade80; }
+  .badge-model { background: rgba(249,115,22,0.15); color: var(--orange); }
+  .stat-row {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 16px;
+  }
+  .stat {
+    flex: 1;
+    background: var(--bg);
+    border-radius: 8px;
+    padding: 14px;
+    text-align: center;
+  }
+  .stat-value { font-size: 24px; font-weight: 700; color: var(--accent); }
+  .stat-label { font-size: 11px; color: var(--muted); margin-top: 4px; text-transform: uppercase; letter-spacing: 0.05em; }
+  .progress-bar {
+    width: 100%;
+    height: 6px;
+    background: var(--bg);
+    border-radius: 3px;
+    margin-top: 8px;
+    overflow: hidden;
+  }
+  .progress-fill {
+    height: 100%;
+    border-radius: 3px;
+    transition: width 0.3s ease;
+  }
+  .section-full { grid-column: 1 / -1; }
+  .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  @media (max-width: 768px) {
+    .grid { grid-template-columns: 1fr; }
+    .two-col { grid-template-columns: 1fr; }
+    body { padding: 12px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>🎛️ <span>Tommy</span> Mission Control</h1>
+  <div class="updated">Last updated: March 6, 2026 — 2:52 PM EST</div>
+</header>
+
+<div class="stat-row">
+  <div class="stat">
+    <div class="stat-value">3</div>
+    <div class="stat-label">Cron Jobs Active</div>
+  </div>
+  <div class="stat">
+    <div class="stat-value">Day 1</div>
+    <div class="stat-label">Operational</div>
+  </div>
+  <div class="stat">
+    <div class="stat-value" style="color:var(--green)">$0.66</div>
+    <div class="stat-label">Today's Spend</div>
+  </div>
+  <div class="stat">
+    <div class="stat-value">3</div>
+    <div class="stat-label">Models Configured</div>
+  </div>
+</div>
+
+<div class="grid">
+
+  <!-- PRIORITIES -->
+  <div class="card">
+    <h2><span class="icon">🎯</span> Current Priorities</h2>
+    <div class="item">
+      <div>
+        <div class="item-title">Send contract — new website client</div>
+        <div class="item-meta">SEO, AEO, GEO optimized site build</div>
+      </div>
+      <span class="badge badge-pending">Chris Action</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">Grow AI That Scales LLC</div>
+        <div class="item-meta">Voice/chat agents, automations, GHL workflows</div>
+      </div>
+      <span class="badge badge-active">Active</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">Social media ramp-up</div>
+        <div class="item-meta">Local authority — Daytona Beach / Volusia / Flagler</div>
+      </div>
+      <span class="badge badge-active">Active</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">Outbound sales — plumber strategy</div>
+        <div class="item-meta">FB Ads Library → DM → Loom video → demo call</div>
+      </div>
+      <span class="badge badge-active">Active</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">VR marketing — fill marketing VA gap</div>
+        <div class="item-meta">Lead gen, skip tracing, FL license scraping, GHL automations</div>
+      </div>
+      <span class="badge badge-blocked">Needs GHL Access</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">VR property sourcing</div>
+        <div class="item-meta">4+ BR, pool, coastal FL, $120K+/yr</div>
+      </div>
+      <span class="badge badge-idea">Ongoing</span>
+    </div>
+  </div>
+
+  <!-- SCHEDULED JOBS -->
+  <div class="card">
+    <h2><span class="icon">⏰</span> Scheduled Jobs</h2>
+    <div class="item">
+      <div>
+        <div class="item-title">Morning Brief</div>
+        <div class="item-meta">Daily @ 7:30 AM ET → Telegram</div>
+      </div>
+      <span class="badge badge-model">Haiku</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">Nightly Work Session</div>
+        <div class="item-meta">Daily @ 11:00 PM ET → Autonomous work</div>
+      </div>
+      <span class="badge badge-model">Sonnet</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">Monthly Subscription Audit</div>
+        <div class="item-meta">1st of each month @ 9:00 AM ET</div>
+      </div>
+      <span class="badge badge-model">Haiku</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">Heartbeat</div>
+        <div class="item-meta">Every 30 min — system health check</div>
+      </div>
+      <span class="badge badge-model">Haiku</span>
+    </div>
+  </div>
+
+  <!-- IN PROGRESS -->
+  <div class="card">
+    <h2><span class="icon">🔄</span> In Progress</h2>
+    <div class="item">
+      <div>
+        <div class="item-title">FL DBPR vacation rental data pipeline</div>
+        <div class="item-meta">Free CSV download of all active VR licenses — owner names, addresses, phones</div>
+        <div class="progress-bar"><div class="progress-fill" style="width:30%;background:var(--blue)"></div></div>
+      </div>
+      <span class="badge badge-active">Research</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">Subscription tracker</div>
+        <div class="item-meta">Structure built — needs actual amounts from Chris</div>
+        <div class="progress-bar"><div class="progress-fill" style="width:40%;background:var(--yellow)"></div></div>
+      </div>
+      <span class="badge badge-pending">Needs Input</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">Surveyor shortlist — Liberty St</div>
+        <div class="item-meta">5 surveyors with contact info. Emely following up.</div>
+        <div class="progress-bar"><div class="progress-fill" style="width:60%;background:var(--green)"></div></div>
+      </div>
+      <span class="badge badge-active">Emely</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">Workspace & identity setup</div>
+        <div class="item-meta">SOUL.md, IDENTITY.md, USER.md, MEMORY.md — all live</div>
+        <div class="progress-bar"><div class="progress-fill" style="width:90%;background:var(--green)"></div></div>
+      </div>
+      <span class="badge badge-done">Nearly Done</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">Token optimization</div>
+        <div class="item-meta">Model routing + cron models configured</div>
+        <div class="progress-bar"><div class="progress-fill" style="width:85%;background:var(--green)"></div></div>
+      </div>
+      <span class="badge badge-done">Nearly Done</span>
+    </div>
+  </div>
+
+  <!-- WAITING ON -->
+  <div class="card">
+    <h2><span class="icon">⏳</span> Waiting On</h2>
+    <div class="item">
+      <div>
+        <div class="item-title">GHL API access</div>
+        <div class="item-meta">Need API keys for Stay Coastal + AI That Scales subaccounts</div>
+      </div>
+      <span class="badge badge-blocked">Weekend</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">Vintory / GHL audit</div>
+        <div class="item-meta">Blocked by GHL access — scheduled for this weekend</div>
+      </div>
+      <span class="badge badge-blocked">Weekend</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">Slack integration</div>
+        <div class="item-meta">Read-only access to observe team workflows</div>
+      </div>
+      <span class="badge badge-pending">Future</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">Subscription amounts</div>
+        <div class="item-meta">Tracker built — needs actual monthly costs filled in</div>
+      </div>
+      <span class="badge badge-pending">Chris Input</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">Quo call recording access</div>
+        <div class="item-meta">For learning Chris's brand voice</div>
+      </div>
+      <span class="badge badge-pending">Future</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">SOPs & training videos</div>
+        <div class="item-meta">Property projections, marketing workflows</div>
+      </div>
+      <span class="badge badge-pending">Future</span>
+    </div>
+  </div>
+
+  <!-- IDEAS & PROPOSALS -->
+  <div class="card">
+    <h2><span class="icon">💡</span> Ideas & Proposals</h2>
+    <div class="item">
+      <div>
+        <div class="item-title">Owner financial dashboards</div>
+        <div class="item-meta">Per-property-owner website with financials + reservation data. Could build with Lovable Pro.</div>
+      </div>
+      <span class="badge badge-idea">Proposal</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">Loom personalization via HeyGen</div>
+        <div class="item-meta">AI avatar + prospect's FB page background = personalized at scale</div>
+      </div>
+      <span class="badge badge-idea">Proposal</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">DIY lead gen pipeline</div>
+        <div class="item-meta">FL DBPR data → skip trace → GHL import. Replace what Vintory does, for free.</div>
+      </div>
+      <span class="badge badge-idea">Proposal</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">AI agent product for VR managers</div>
+        <div class="item-meta">Team of specialized bots. Need to map all workflows first via Slack.</div>
+      </div>
+      <span class="badge badge-idea">Long-term</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">Automated property analysis</div>
+        <div class="item-meta">Template + data pull for VR projections when properties hit Chris's desk</div>
+      </div>
+      <span class="badge badge-idea">Proposal</span>
+    </div>
+  </div>
+
+  <!-- USAGE & COSTS -->
+  <div class="card">
+    <h2><span class="icon">💰</span> Usage & Costs</h2>
+    <div class="stat-row" style="margin-bottom:12px">
+      <div class="stat">
+        <div class="stat-value" style="color:var(--green)">$0.66</div>
+        <div class="stat-label">Today</div>
+      </div>
+      <div class="stat">
+        <div class="stat-value" style="color:var(--green)">$0.66</div>
+        <div class="stat-label">This Month</div>
+      </div>
+      <div class="stat">
+        <div class="stat-value" style="color:var(--blue)">$5.00</div>
+        <div class="stat-label">Daily Budget</div>
+      </div>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">Today's Spend</div>
+        <div class="item-meta">Day 1 setup: identity, memory, cron, research, dashboard</div>
+        <div class="progress-bar"><div class="progress-fill" style="width:13%;background:var(--green)"></div></div>
+      </div>
+      <span class="badge badge-done">13% of budget</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">Cache Hit Rate</div>
+        <div class="item-meta">100% — 108K tokens cached @ 90% discount</div>
+      </div>
+      <span class="badge badge-done">Optimal</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">Model Usage Today</div>
+        <div class="item-meta">Opus: ~$0.66 · Sonnet: $0.00 · Haiku: $0.00</div>
+      </div>
+      <span class="badge badge-model">Opus</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">Audit</div>
+        <div class="item-meta"><a href="https://console.anthropic.com" style="color:var(--accent)">Anthropic Console</a> → Usage tab for source of truth</div>
+      </div>
+      <span class="badge badge-idea">Verify</span>
+    </div>
+  </div>
+
+  <!-- RECENT TASKS -->
+  <div class="card">
+    <h2><span class="icon">📋</span> Recent Tasks & Costs</h2>
+    <div class="item">
+      <div>
+        <div class="item-title">Dashboard build</div>
+        <div class="item-meta">2:52 PM · Opus · HTML mission control with 6 sections</div>
+      </div>
+      <span class="badge badge-done">~$0.08</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">Token optimization</div>
+        <div class="item-meta">2:11 PM · Opus · Config updates, cron model routing</div>
+      </div>
+      <span class="badge badge-done">~$0.06</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">Surveyor research + contact info</div>
+        <div class="item-meta">1:57 PM · Opus · 5 surveyors with phones/emails</div>
+      </div>
+      <span class="badge badge-done">~$0.10</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">FL DBPR data pipeline research</div>
+        <div class="item-meta">1:30 PM · Opus · Found free CSV license downloads</div>
+      </div>
+      <span class="badge badge-done">~$0.08</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">Full workspace setup</div>
+        <div class="item-meta">12:06 PM · Opus · SOUL, IDENTITY, USER, MEMORY, cron jobs</div>
+      </div>
+      <span class="badge badge-done">~$0.34</span>
+    </div>
+  </div>
+
+  <!-- INFRASTRUCTURE -->
+  <div class="card">
+    <h2><span class="icon">⚙️</span> Infrastructure</h2>
+    <div class="item">
+      <div>
+        <div class="item-title">Platform</div>
+        <div class="item-meta">OpenClaw on Hostinger VPS (Docker)</div>
+      </div>
+      <span class="badge badge-active">Running</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">VPS Specs</div>
+        <div class="item-meta">AMD EPYC 9355P · 2 cores · 7.8GB RAM · 6.7GB available</div>
+      </div>
+      <span class="badge badge-done">Healthy</span>
+    </div>
+    <div class="item two-col">
+      <div>
+        <div class="item-title">Model Routing</div>
+        <div class="item-meta">
+          Interactive: Opus<br>
+          Autonomous: Sonnet<br>
+          Heartbeat/Cron: Haiku
+        </div>
+      </div>
+      <span class="badge badge-done">Optimized</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">Channels</div>
+        <div class="item-meta">Telegram (active) · Slack, Discord, WhatsApp (configured, not connected)</div>
+      </div>
+      <span class="badge badge-active">Telegram</span>
+    </div>
+    <div class="item">
+      <div>
+        <div class="item-title">Web Search</div>
+        <div class="item-meta">Brave API — $5/mo free credits</div>
+      </div>
+      <span class="badge badge-done">Active</span>
+    </div>
+  </div>
+
+</div>
+
+<div style="text-align:center;margin-top:24px;color:var(--muted);font-size:12px;">
+  Tommy 🎛️ · Administrator · OpenClaw · Reporting to Chris Miller
+</div>
+
+</body>
+</html>
