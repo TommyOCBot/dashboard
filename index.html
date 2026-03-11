@@ -2,503 +2,907 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Tommy Mission Control 🎛️</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="theme-color" content="#0f1117">
+<title>Tommy Dashboard 🎛️</title>
 <style>
-  :root {
-    --bg: #0f1117;
-    --card: #1a1d27;
-    --border: #2a2d3a;
-    --text: #e4e4e7;
-    --muted: #8b8d97;
-    --accent: #6366f1;
-    --green: #22c55e;
-    --yellow: #eab308;
-    --red: #ef4444;
-    --blue: #3b82f6;
-    --orange: #f97316;
-  }
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
-    background: var(--bg);
-    color: var(--text);
-    padding: 20px;
-    max-width: 1400px;
-    margin: 0 auto;
-  }
-  header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 24px;
-    padding-bottom: 16px;
-    border-bottom: 1px solid var(--border);
-  }
-  header h1 { font-size: 24px; font-weight: 700; }
-  header h1 span { color: var(--accent); }
-  .updated { color: var(--muted); font-size: 13px; }
-  .grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
-    gap: 16px;
-  }
-  .card {
-    background: var(--card);
-    border: 1px solid var(--border);
-    border-radius: 12px;
-    padding: 20px;
-  }
-  .card h2 {
-    font-size: 15px;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    margin-bottom: 16px;
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
-  .card h2 .icon { font-size: 18px; }
-  .item {
-    padding: 10px 0;
-    border-bottom: 1px solid var(--border);
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    gap: 12px;
-  }
-  .item:last-child { border-bottom: none; }
-  .item-title { font-size: 14px; font-weight: 500; flex: 1; }
-  .item-meta { font-size: 12px; color: var(--muted); margin-top: 2px; }
-  .badge {
-    font-size: 11px;
-    font-weight: 600;
-    padding: 3px 8px;
-    border-radius: 6px;
-    white-space: nowrap;
-    flex-shrink: 0;
-  }
-  .badge-active { background: rgba(34,197,94,0.15); color: var(--green); }
-  .badge-scheduled { background: rgba(59,130,246,0.15); color: var(--blue); }
-  .badge-pending { background: rgba(234,179,8,0.15); color: var(--yellow); }
-  .badge-blocked { background: rgba(239,68,68,0.15); color: var(--red); }
-  .badge-idea { background: rgba(99,102,241,0.15); color: var(--accent); }
-  .badge-done { background: rgba(34,197,94,0.1); color: #4ade80; }
-  .badge-model { background: rgba(249,115,22,0.15); color: var(--orange); }
-  .stat-row {
-    display: flex;
-    gap: 12px;
-    margin-bottom: 16px;
-  }
-  .stat {
-    flex: 1;
-    background: var(--bg);
-    border-radius: 8px;
-    padding: 14px;
-    text-align: center;
-  }
-  .stat-value { font-size: 24px; font-weight: 700; color: var(--accent); }
-  .stat-label { font-size: 11px; color: var(--muted); margin-top: 4px; text-transform: uppercase; letter-spacing: 0.05em; }
-  .progress-bar {
-    width: 100%;
-    height: 6px;
-    background: var(--bg);
-    border-radius: 3px;
-    margin-top: 8px;
-    overflow: hidden;
-  }
-  .progress-fill {
-    height: 100%;
-    border-radius: 3px;
-    transition: width 0.3s ease;
-  }
-  .section-full { grid-column: 1 / -1; }
-  .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
-  @media (max-width: 768px) {
-    .grid { grid-template-columns: 1fr; }
-    .two-col { grid-template-columns: 1fr; }
-    body { padding: 12px; }
-  }
+/* ─── Reset & Base ─────────────────────────────────────────────────────── */
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+:root {
+  --bg: #0f1117;
+  --surface: #1a1d27;
+  --surface2: #22263a;
+  --border: #2a2d3a;
+  --text: #e4e4e7;
+  --muted: #8b8d97;
+  --accent: #6366f1;
+  --accent-dim: rgba(99,102,241,0.15);
+  --green: #22c55e;
+  --green-dim: rgba(34,197,94,0.15);
+  --yellow: #eab308;
+  --yellow-dim: rgba(234,179,8,0.15);
+  --red: #ef4444;
+  --red-dim: rgba(239,68,68,0.15);
+  --blue: #3b82f6;
+  --orange: #f97316;
+  --radius: 12px;
+  --radius-sm: 8px;
+}
+html { font-size: 16px; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ─── Header ─────────────────────────────────────────────────────────── */
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba(15,17,23,0.95);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
+  padding: 12px 16px 0;
+}
+.header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.brand-emoji { font-size: 22px; line-height: 1; }
+.brand-text { font-size: 17px; font-weight: 700; letter-spacing: -0.3px; }
+.brand-text span { color: var(--accent); }
+.header-date {
+  font-size: 12px;
+  color: var(--muted);
+  text-align: right;
+  line-height: 1.4;
+}
+
+/* ─── Tabs ───────────────────────────────────────────────────────────── */
+.tabs {
+  display: flex;
+  gap: 4px;
+}
+.tab {
+  flex: 1;
+  padding: 10px 0;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--muted);
+  border-bottom: 2px solid transparent;
+  cursor: pointer;
+  transition: color 0.2s, border-color 0.2s;
+  letter-spacing: 0.2px;
+  user-select: none;
+}
+.tab.active {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+/* ─── Panels ─────────────────────────────────────────────────────────── */
+.panel {
+  display: none;
+  padding: 16px;
+  max-width: 680px;
+  margin: 0 auto;
+  padding-bottom: 40px;
+}
+.panel.active { display: block; }
+
+/* ─── Section Headers ────────────────────────────────────────────────── */
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+.section-title {
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: var(--muted);
+}
+.section-badge {
+  font-size: 12px;
+  font-weight: 600;
+  background: var(--accent-dim);
+  color: var(--accent);
+  padding: 3px 8px;
+  border-radius: 20px;
+}
+
+/* ─── Post Cards ─────────────────────────────────────────────────────── */
+.posts-list { display: flex; flex-direction: column; gap: 16px; }
+
+.post-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  transition: border-color 0.2s;
+}
+.post-card:active { border-color: var(--accent); }
+
+.post-image-wrap {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16/9;
+  overflow: hidden;
+  background: var(--surface2);
+}
+.post-image-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.post-category-badge {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  padding: 4px 8px;
+  border-radius: 6px;
+  background: rgba(15,17,23,0.85);
+  backdrop-filter: blur(6px);
+}
+.post-category-badge.ai { color: var(--accent); border: 1px solid var(--accent); }
+.post-category-badge.world { color: var(--orange); border: 1px solid var(--orange); }
+
+.post-score-badge {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 4px 8px;
+  border-radius: 6px;
+  background: rgba(15,17,23,0.85);
+  backdrop-filter: blur(6px);
+}
+.post-score-badge.high { color: var(--green); }
+.post-score-badge.mid { color: var(--yellow); }
+
+.post-body { padding: 14px; }
+.post-topic {
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1.35;
+  margin-bottom: 10px;
+  color: var(--text);
+}
+.post-text {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #c4c4cc;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.post-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+  gap: 10px;
+}
+.post-source {
+  font-size: 12px;
+  color: var(--muted);
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  flex-shrink: 0;
+}
+.post-source:hover { color: var(--accent); }
+.post-source-icon { font-size: 11px; }
+
+.post-platforms {
+  font-size: 11px;
+  color: var(--muted);
+  background: var(--surface2);
+  padding: 3px 8px;
+  border-radius: 20px;
+  white-space: nowrap;
+}
+
+.post-actions {
+  padding: 0 14px 14px;
+  display: flex;
+  gap: 8px;
+}
+.btn-copy {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  padding: 11px;
+  border-radius: var(--radius-sm);
+  font-size: 14px;
+  font-weight: 600;
+  background: var(--accent-dim);
+  color: var(--accent);
+  border: 1px solid var(--accent);
+  cursor: pointer;
+  transition: all 0.15s;
+  -webkit-appearance: none;
+  appearance: none;
+}
+.btn-copy:active {
+  background: var(--accent);
+  color: white;
+  transform: scale(0.98);
+}
+.btn-copy.copied {
+  background: var(--green-dim);
+  color: var(--green);
+  border-color: var(--green);
+}
+.btn-copy svg { width: 16px; height: 16px; flex-shrink: 0; }
+
+/* ─── Payroll ────────────────────────────────────────────────────────── */
+.payroll-summary {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px;
+  margin-bottom: 16px;
+}
+.payroll-total-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 12px;
+}
+.payroll-total-label { font-size: 13px; color: var(--muted); margin-bottom: 4px; }
+.payroll-total-amount {
+  font-size: 28px;
+  font-weight: 800;
+  color: var(--green);
+  letter-spacing: -0.5px;
+}
+.payroll-period {
+  text-align: right;
+}
+.payroll-period-label { font-size: 11px; color: var(--muted); }
+.payroll-period-value { font-size: 14px; font-weight: 600; color: var(--text); }
+.payroll-meta-row {
+  display: flex;
+  gap: 12px;
+}
+.payroll-meta-item {
+  flex: 1;
+  background: var(--surface2);
+  border-radius: var(--radius-sm);
+  padding: 10px 12px;
+  text-align: center;
+}
+.payroll-meta-item .val { font-size: 18px; font-weight: 700; color: var(--text); }
+.payroll-meta-item .lbl { font-size: 11px; color: var(--muted); margin-top: 2px; }
+
+.batch-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  margin-bottom: 12px;
+  overflow: hidden;
+}
+.batch-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 14px;
+  background: var(--surface2);
+  border-bottom: 1px solid var(--border);
+}
+.batch-processor {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 15px;
+  font-weight: 700;
+}
+.batch-icon { font-size: 20px; }
+.batch-total {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--green);
+}
+.member-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 14px;
+  border-bottom: 1px solid var(--border);
+  gap: 10px;
+}
+.member-row:last-child { border-bottom: none; }
+.member-info { flex: 1; min-width: 0; }
+.member-name { font-size: 14px; font-weight: 600; color: var(--text); }
+.member-location { font-size: 12px; color: var(--muted); margin-top: 2px; }
+.member-right { display: flex; align-items: center; gap: 10px; flex-shrink: 0; }
+.member-amount { font-size: 16px; font-weight: 700; color: var(--text); }
+.status-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--green);
+  flex-shrink: 0;
+}
+
+/* ─── Operations ─────────────────────────────────────────────────────── */
+.ops-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+.ops-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 14px;
+}
+.ops-card-full {
+  grid-column: 1 / -1;
+}
+.ops-stat-value {
+  font-size: 26px;
+  font-weight: 800;
+  letter-spacing: -0.5px;
+  margin-bottom: 2px;
+  line-height: 1;
+}
+.ops-stat-label {
+  font-size: 12px;
+  color: var(--muted);
+  margin-top: 4px;
+}
+.ops-stat-sub {
+  font-size: 11px;
+  margin-top: 6px;
+}
+
+.progress-bar-wrap {
+  height: 6px;
+  background: var(--surface2);
+  border-radius: 3px;
+  overflow: hidden;
+  margin-top: 8px;
+}
+.progress-bar-fill {
+  height: 100%;
+  border-radius: 3px;
+  background: var(--accent);
+  transition: width 0.4s ease;
+}
+.progress-bar-fill.green { background: var(--green); }
+.progress-bar-fill.yellow { background: var(--yellow); }
+
+.alert-list { display: flex; flex-direction: column; gap: 8px; }
+.alert-item {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 12px;
+}
+.alert-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-top: 3px;
+  flex-shrink: 0;
+}
+.alert-dot.red { background: var(--red); box-shadow: 0 0 6px var(--red); }
+.alert-dot.yellow { background: var(--yellow); }
+.alert-dot.green { background: var(--green); }
+.alert-property { font-size: 13px; font-weight: 600; color: var(--text); }
+.alert-issue { font-size: 12px; color: var(--muted); margin-top: 2px; line-height: 1.4; }
+
+.top-performers {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+.top-performer-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 11px 14px;
+  border-bottom: 1px solid var(--border);
+  gap: 10px;
+}
+.top-performer-row:last-child { border-bottom: none; }
+.tp-rank {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--muted);
+  width: 20px;
+  flex-shrink: 0;
+}
+.tp-name { font-size: 13px; font-weight: 600; flex: 1; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.tp-stats { display: flex; gap: 10px; flex-shrink: 0; }
+.tp-stat { font-size: 12px; color: var(--muted); }
+.tp-stat strong { color: var(--text); font-weight: 600; }
+
+/* ─── Empty State ────────────────────────────────────────────────────── */
+.empty-state {
+  text-align: center;
+  padding: 40px 20px;
+  color: var(--muted);
+}
+.empty-icon { font-size: 40px; margin-bottom: 12px; }
+.empty-title { font-size: 16px; font-weight: 600; color: var(--text); margin-bottom: 6px; }
+.empty-desc { font-size: 14px; line-height: 1.5; }
+
+/* ─── Toast ──────────────────────────────────────────────────────────── */
+#toast {
+  position: fixed;
+  bottom: 24px;
+  left: 50%;
+  transform: translateX(-50%) translateY(80px);
+  background: #1e2035;
+  border: 1px solid var(--green);
+  color: var(--green);
+  padding: 12px 20px;
+  border-radius: 30px;
+  font-size: 14px;
+  font-weight: 600;
+  z-index: 9999;
+  transition: transform 0.3s cubic-bezier(0.34,1.56,0.64,1), opacity 0.3s;
+  opacity: 0;
+  pointer-events: none;
+  white-space: nowrap;
+}
+#toast.show {
+  transform: translateX(-50%) translateY(0);
+  opacity: 1;
+}
+
+/* ─── Loading ────────────────────────────────────────────────────────── */
+#loading {
+  position: fixed;
+  inset: 0;
+  background: var(--bg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 9998;
+  gap: 16px;
+  transition: opacity 0.3s;
+}
+#loading.hidden { opacity: 0; pointer-events: none; }
+.spinner {
+  width: 36px;
+  height: 36px;
+  border: 3px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+.loading-text { font-size: 14px; color: var(--muted); }
+
+/* ─── Scrollbar ──────────────────────────────────────────────────────── */
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+
+/* ─── Media ──────────────────────────────────────────────────────────── */
+@media (prefers-color-scheme: light) {
+  /* Keep dark theme regardless */
+}
+@media (min-width: 480px) {
+  .panel { padding: 20px; }
+  .ops-grid { gap: 12px; }
+}
 </style>
 </head>
 <body>
 
-<header>
-  <h1>🎛️ <span>Tommy</span> Mission Control</h1>
-  <div class="updated">Last updated: March 7, 2026 — 8:40 AM EST</div>
+<!-- Loading overlay -->
+<div id="loading">
+  <div class="spinner"></div>
+  <div class="loading-text">Loading dashboard…</div>
+</div>
+
+<!-- Header -->
+<header class="header">
+  <div class="header-top">
+    <div class="brand">
+      <span class="brand-emoji">🎛️</span>
+      <span class="brand-text">Tommy <span>Dashboard</span></span>
+    </div>
+    <div class="header-date" id="headerDate">—</div>
+  </div>
+  <nav class="tabs">
+    <div class="tab active" data-tab="content" onclick="switchTab('content')">📱 Content</div>
+    <div class="tab" data-tab="payroll" onclick="switchTab('payroll')">💸 Payroll</div>
+    <div class="tab" data-tab="ops" onclick="switchTab('ops')">📊 Operations</div>
+  </nav>
 </header>
 
-<div class="stat-row">
-  <div class="stat">
-    <div class="stat-value">3</div>
-    <div class="stat-label">Cron Jobs Active</div>
+<!-- ─── CONTENT TAB ─────────────────────────────────────────────────────── -->
+<section class="panel active" id="panel-content">
+  <div class="section-header">
+    <span class="section-title">Today's Posts</span>
+    <span class="section-badge" id="postCount">—</span>
   </div>
-  <div class="stat">
-    <div class="stat-value">Day 1</div>
-    <div class="stat-label">Operational</div>
+  <div class="posts-list" id="postsList">
+    <div class="empty-state">
+      <div class="empty-icon">📝</div>
+      <div class="empty-title">No posts yet</div>
+      <div class="empty-desc">Posts will appear here after the 6:30 AM scraper run.</div>
+    </div>
   </div>
-  <div class="stat">
-    <div class="stat-value" style="color:var(--green)">$0.66</div>
-    <div class="stat-label">Today's Spend</div>
-  </div>
-  <div class="stat">
-    <div class="stat-value">3</div>
-    <div class="stat-label">Models Configured</div>
-  </div>
-</div>
+</section>
 
-<div class="grid">
-
-  <!-- PRIORITIES -->
-  <div class="card">
-    <h2><span class="icon">🎯</span> Current Priorities</h2>
-    <div class="item">
-      <div>
-        <div class="item-title">Send contract — new website client</div>
-        <div class="item-meta">SEO, AEO, GEO optimized site build</div>
-      </div>
-      <span class="badge badge-pending">Chris Action</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">Grow AI That Scales LLC</div>
-        <div class="item-meta">Voice/chat agents, automations, GHL workflows</div>
-      </div>
-      <span class="badge badge-active">Active</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">Social media ramp-up</div>
-        <div class="item-meta">Local authority — Daytona Beach / Volusia / Flagler</div>
-      </div>
-      <span class="badge badge-active">Active</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">Outbound sales — plumber strategy</div>
-        <div class="item-meta">FB Ads Library → DM → Loom video → demo call</div>
-      </div>
-      <span class="badge badge-active">Active</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">VR marketing — fill marketing VA gap</div>
-        <div class="item-meta">Lead gen, skip tracing, FL license scraping, GHL automations</div>
-      </div>
-      <span class="badge badge-blocked">Needs GHL Access</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">VR property sourcing</div>
-        <div class="item-meta">4+ BR, pool, coastal FL, $120K+/yr</div>
-      </div>
-      <span class="badge badge-idea">Ongoing</span>
+<!-- ─── PAYROLL TAB ────────────────────────────────────────────────────── -->
+<section class="panel" id="panel-payroll">
+  <div id="payrollContent">
+    <div class="empty-state">
+      <div class="empty-icon">💸</div>
+      <div class="empty-title">Loading payroll…</div>
     </div>
   </div>
+</section>
 
-  <!-- SCHEDULED JOBS -->
-  <div class="card">
-    <h2><span class="icon">⏰</span> Scheduled Jobs</h2>
-    <div class="item">
-      <div>
-        <div class="item-title">Morning Brief</div>
-        <div class="item-meta">Daily @ 7:30 AM ET → Telegram</div>
-      </div>
-      <span class="badge badge-model">Haiku</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">Nightly Work Session</div>
-        <div class="item-meta">Daily @ 11:00 PM ET → Autonomous work</div>
-      </div>
-      <span class="badge badge-model">Sonnet</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">Monthly Subscription Audit</div>
-        <div class="item-meta">1st of each month @ 9:00 AM ET</div>
-      </div>
-      <span class="badge badge-model">Haiku</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">Heartbeat</div>
-        <div class="item-meta">Every 30 min — system health check</div>
-      </div>
-      <span class="badge badge-model">Haiku</span>
+<!-- ─── OPS TAB ───────────────────────────────────────────────────────── -->
+<section class="panel" id="panel-ops">
+  <div id="opsContent">
+    <div class="empty-state">
+      <div class="empty-icon">📊</div>
+      <div class="empty-title">Loading operations…</div>
     </div>
   </div>
+</section>
 
-  <!-- IN PROGRESS -->
-  <div class="card">
-    <h2><span class="icon">🔄</span> In Progress</h2>
-    <div class="item">
-      <div>
-        <div class="item-title">FL DBPR vacation rental data pipeline</div>
-        <div class="item-meta">Free CSV download of all active VR licenses — owner names, addresses, phones</div>
-        <div class="progress-bar"><div class="progress-fill" style="width:30%;background:var(--blue)"></div></div>
-      </div>
-      <span class="badge badge-active">Research</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">Subscription tracker</div>
-        <div class="item-meta">Structure built — needs actual amounts from Chris</div>
-        <div class="progress-bar"><div class="progress-fill" style="width:40%;background:var(--yellow)"></div></div>
-      </div>
-      <span class="badge badge-pending">Needs Input</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">Surveyor shortlist — Liberty St</div>
-        <div class="item-meta">5 surveyors with contact info. Emely following up.</div>
-        <div class="progress-bar"><div class="progress-fill" style="width:60%;background:var(--green)"></div></div>
-      </div>
-      <span class="badge badge-active">Emely</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">Workspace & identity setup</div>
-        <div class="item-meta">SOUL.md, IDENTITY.md, USER.md, MEMORY.md — all live</div>
-        <div class="progress-bar"><div class="progress-fill" style="width:90%;background:var(--green)"></div></div>
-      </div>
-      <span class="badge badge-done">Nearly Done</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">Token optimization</div>
-        <div class="item-meta">Model routing + cron models configured</div>
-        <div class="progress-bar"><div class="progress-fill" style="width:85%;background:var(--green)"></div></div>
-      </div>
-      <span class="badge badge-done">Nearly Done</span>
-    </div>
-  </div>
+<!-- Toast notification -->
+<div id="toast">✓ Copied to clipboard!</div>
 
-  <!-- WAITING ON -->
-  <div class="card">
-    <h2><span class="icon">⏳</span> Waiting On</h2>
-    <div class="item">
-      <div>
-        <div class="item-title">GHL API access</div>
-        <div class="item-meta">Need API keys for Stay Coastal + AI That Scales subaccounts</div>
-      </div>
-      <span class="badge badge-blocked">Weekend</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">Vintory / GHL audit</div>
-        <div class="item-meta">Blocked by GHL access — scheduled for this weekend</div>
-      </div>
-      <span class="badge badge-blocked">Weekend</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">Slack integration</div>
-        <div class="item-meta">Read-only access to observe team workflows</div>
-      </div>
-      <span class="badge badge-pending">Future</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">Subscription amounts</div>
-        <div class="item-meta">Tracker built — needs actual monthly costs filled in</div>
-      </div>
-      <span class="badge badge-pending">Chris Input</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">Quo call recording access</div>
-        <div class="item-meta">For learning Chris's brand voice</div>
-      </div>
-      <span class="badge badge-pending">Future</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">SOPs & training videos</div>
-        <div class="item-meta">Property projections, marketing workflows</div>
-      </div>
-      <span class="badge badge-pending">Future</span>
-    </div>
-  </div>
+<script>
+// ─── Tab Switching ─────────────────────────────────────────────────────────
+function switchTab(name) {
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
+  document.querySelector(`[data-tab="${name}"]`).classList.add('active');
+  document.getElementById(`panel-${name}`).classList.add('active');
+  window.scrollTo(0, 0);
+}
 
-  <!-- IDEAS & PROPOSALS -->
-  <div class="card">
-    <h2><span class="icon">💡</span> Ideas & Proposals</h2>
-    <div class="item">
-      <div>
-        <div class="item-title">Owner financial dashboards</div>
-        <div class="item-meta">Per-property-owner website with financials + reservation data. Could build with Lovable Pro.</div>
-      </div>
-      <span class="badge badge-idea">Proposal</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">Loom personalization via HeyGen</div>
-        <div class="item-meta">AI avatar + prospect's FB page background = personalized at scale</div>
-      </div>
-      <span class="badge badge-idea">Proposal</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">DIY lead gen pipeline</div>
-        <div class="item-meta">FL DBPR data → skip trace → GHL import. Replace what Vintory does, for free.</div>
-      </div>
-      <span class="badge badge-idea">Proposal</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">AI agent product for VR managers</div>
-        <div class="item-meta">Team of specialized bots. Need to map all workflows first via Slack.</div>
-      </div>
-      <span class="badge badge-idea">Long-term</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">Automated property analysis</div>
-        <div class="item-meta">Template + data pull for VR projections when properties hit Chris's desk</div>
-      </div>
-      <span class="badge badge-idea">Proposal</span>
-    </div>
-  </div>
+// ─── Toast ─────────────────────────────────────────────────────────────────
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2200);
+}
 
-  <!-- USAGE & COSTS -->
-  <div class="card">
-    <h2><span class="icon">💰</span> Usage & Costs</h2>
-    <div class="stat-row" style="margin-bottom:12px">
-      <div class="stat">
-        <div class="stat-value" style="color:var(--green)">$0.66</div>
-        <div class="stat-label">Today</div>
-      </div>
-      <div class="stat">
-        <div class="stat-value" style="color:var(--green)">$0.66</div>
-        <div class="stat-label">This Month</div>
-      </div>
-      <div class="stat">
-        <div class="stat-value" style="color:var(--blue)">$5.00</div>
-        <div class="stat-label">Daily Budget</div>
-      </div>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">Today's Spend</div>
-        <div class="item-meta">Day 1 setup: identity, memory, cron, research, dashboard</div>
-        <div class="progress-bar"><div class="progress-fill" style="width:13%;background:var(--green)"></div></div>
-      </div>
-      <span class="badge badge-done">13% of budget</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">Cache Hit Rate</div>
-        <div class="item-meta">100% — 108K tokens cached @ 90% discount</div>
-      </div>
-      <span class="badge badge-done">Optimal</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">Model Usage Today</div>
-        <div class="item-meta">Opus: ~$0.66 · Sonnet: $0.00 · Haiku: $0.00</div>
-      </div>
-      <span class="badge badge-model">Opus</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">Audit</div>
-        <div class="item-meta"><a href="https://console.anthropic.com" style="color:var(--accent)">Anthropic Console</a> → Usage tab for source of truth</div>
-      </div>
-      <span class="badge badge-idea">Verify</span>
-    </div>
-  </div>
+// ─── Copy to Clipboard ─────────────────────────────────────────────────────
+function copyPost(btn, postId) {
+  const data = window._data;
+  if (!data) return;
+  const post = data.content.posts.find(p => p.id === postId);
+  if (!post) return;
+  const text = post.post_text;
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(text).then(() => {
+      btn.classList.add('copied');
+      btn.querySelector('.copy-label').textContent = 'Copied!';
+      showToast('✓ Copied to clipboard!');
+      setTimeout(() => {
+        btn.classList.remove('copied');
+        btn.querySelector('.copy-label').textContent = 'Copy Post';
+      }, 2500);
+    }).catch(() => fallbackCopy(btn, text));
+  } else {
+    fallbackCopy(btn, text);
+  }
+}
 
-  <!-- RECENT TASKS -->
-  <div class="card">
-    <h2><span class="icon">📋</span> Recent Tasks & Costs</h2>
-    <div class="item">
-      <div>
-        <div class="item-title">Dashboard build</div>
-        <div class="item-meta">2:52 PM · Opus · HTML mission control with 6 sections</div>
-      </div>
-      <span class="badge badge-done">~$0.08</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">Token optimization</div>
-        <div class="item-meta">2:11 PM · Opus · Config updates, cron model routing</div>
-      </div>
-      <span class="badge badge-done">~$0.06</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">Surveyor research + contact info</div>
-        <div class="item-meta">1:57 PM · Opus · 5 surveyors with phones/emails</div>
-      </div>
-      <span class="badge badge-done">~$0.10</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">FL DBPR data pipeline research</div>
-        <div class="item-meta">1:30 PM · Opus · Found free CSV license downloads</div>
-      </div>
-      <span class="badge badge-done">~$0.08</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">Full workspace setup</div>
-        <div class="item-meta">12:06 PM · Opus · SOUL, IDENTITY, USER, MEMORY, cron jobs</div>
-      </div>
-      <span class="badge badge-done">~$0.34</span>
-    </div>
-  </div>
+function fallbackCopy(btn, text) {
+  const ta = document.createElement('textarea');
+  ta.value = text;
+  ta.style.cssText = 'position:fixed;top:-9999px;left:-9999px;';
+  document.body.appendChild(ta);
+  ta.select();
+  try {
+    document.execCommand('copy');
+    btn.classList.add('copied');
+    btn.querySelector('.copy-label').textContent = 'Copied!';
+    showToast('✓ Copied to clipboard!');
+    setTimeout(() => {
+      btn.classList.remove('copied');
+      btn.querySelector('.copy-label').textContent = 'Copy Post';
+    }, 2500);
+  } catch(e) {
+    showToast('⚠ Copy failed — select manually');
+  }
+  document.body.removeChild(ta);
+}
 
-  <!-- INFRASTRUCTURE -->
-  <div class="card">
-    <h2><span class="icon">⚙️</span> Infrastructure</h2>
-    <div class="item">
-      <div>
-        <div class="item-title">Platform</div>
-        <div class="item-meta">OpenClaw on Hostinger VPS (Docker)</div>
+// ─── Voice Score Color ─────────────────────────────────────────────────────
+function scoreClass(n) { return n >= 90 ? 'high' : 'mid'; }
+function scoreLabel(n) { return `🎯 ${n}%`; }
+
+// ─── Render Content Tab ────────────────────────────────────────────────────
+function renderContent(data) {
+  const posts = data.content.posts;
+  document.getElementById('postCount').textContent = `${posts.length} posts`;
+
+  const html = posts.map(p => `
+    <article class="post-card">
+      <div class="post-image-wrap">
+        <img src="${p.image_url}" alt="${escHtml(p.topic)}" loading="lazy" onerror="this.style.opacity=0">
+        <span class="post-category-badge ${p.category.toLowerCase()}">${p.category}</span>
+        <span class="post-score-badge ${scoreClass(p.voice_score)}">${scoreLabel(p.voice_score)}</span>
       </div>
-      <span class="badge badge-active">Running</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">VPS Specs</div>
-        <div class="item-meta">AMD EPYC 9355P · 2 cores · 7.8GB RAM · 6.7GB available</div>
-      </div>
-      <span class="badge badge-done">Healthy</span>
-    </div>
-    <div class="item two-col">
-      <div>
-        <div class="item-title">Model Routing</div>
-        <div class="item-meta">
-          Interactive: Opus<br>
-          Autonomous: Sonnet<br>
-          Heartbeat/Cron: Haiku
+      <div class="post-body">
+        <div class="post-topic">${escHtml(p.topic)}</div>
+        <div class="post-text">${escHtml(p.post_text)}</div>
+        <div class="post-meta">
+          <a class="post-source" href="${p.source_url}" target="_blank" rel="noopener">
+            <span class="post-source-icon">🔗</span>${escHtml(p.source_label)}
+          </a>
+          <span class="post-platforms">${escHtml(p.platforms)}</span>
         </div>
       </div>
-      <span class="badge badge-done">Optimized</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">Channels</div>
-        <div class="item-meta">Telegram (active) · Slack, Discord, WhatsApp (configured, not connected)</div>
+      <div class="post-actions">
+        <button class="btn-copy" onclick="copyPost(this, ${p.id})">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/>
+          </svg>
+          <span class="copy-label">Copy Post</span>
+        </button>
       </div>
-      <span class="badge badge-active">Telegram</span>
-    </div>
-    <div class="item">
-      <div>
-        <div class="item-title">Web Search</div>
-        <div class="item-meta">Brave API — $5/mo free credits</div>
+    </article>
+  `).join('');
+
+  document.getElementById('postsList').innerHTML = html;
+}
+
+// ─── Render Payroll Tab ────────────────────────────────────────────────────
+function renderPayroll(data) {
+  const p = data.payroll;
+  const fmt = n => '$' + n.toLocaleString('en-US', {minimumFractionDigits:2, maximumFractionDigits:2});
+
+  const batchesHtml = p.batches.map(b => `
+    <div class="batch-card">
+      <div class="batch-header">
+        <div class="batch-processor">
+          <span class="batch-icon">${b.processor === 'Chase' ? '🏦' : '💚'}</span>
+          <span>${b.processor}</span>
+          <span style="font-size:12px;color:var(--muted);font-weight:500">${b.members.length} members</span>
+        </div>
+        <div class="batch-total">${fmt(b.total)}</div>
       </div>
-      <span class="badge badge-done">Active</span>
+      ${b.members.map(m => `
+        <div class="member-row">
+          <div class="member-info">
+            <div class="member-name">${escHtml(m.name)}</div>
+            <div class="member-location">🌎 ${escHtml(m.location)}</div>
+          </div>
+          <div class="member-right">
+            <div class="member-amount">${fmt(m.amount)}</div>
+            <div class="status-dot"></div>
+          </div>
+        </div>
+      `).join('')}
     </div>
-  </div>
+  `).join('');
 
-</div>
+  document.getElementById('payrollContent').innerHTML = `
+    <div class="payroll-summary">
+      <div class="payroll-total-row">
+        <div>
+          <div class="payroll-total-label">Total Payout</div>
+          <div class="payroll-total-amount">${fmt(p.total_payout)}</div>
+        </div>
+        <div class="payroll-period">
+          <div class="payroll-period-label">Pay Period</div>
+          <div class="payroll-period-value">${escHtml(p.period)}</div>
+          <div class="payroll-period-label" style="margin-top:4px">Pay Date</div>
+          <div class="payroll-period-value">${escHtml(p.pay_date)}</div>
+        </div>
+      </div>
+      <div class="payroll-meta-row">
+        <div class="payroll-meta-item">
+          <div class="val">${p.team_summary.total_members}</div>
+          <div class="lbl">Team Members</div>
+        </div>
+        <div class="payroll-meta-item">
+          <div class="val">${p.team_summary.chase_count}</div>
+          <div class="lbl">Chase</div>
+        </div>
+        <div class="payroll-meta-item">
+          <div class="val">${p.team_summary.remitly_count}</div>
+          <div class="lbl">Remitly</div>
+        </div>
+      </div>
+    </div>
+    <div class="section-header" style="margin-top:20px">
+      <span class="section-title">Payment Batches</span>
+    </div>
+    ${batchesHtml}
+  `;
+}
 
-<div style="text-align:center;margin-top:24px;color:var(--muted);font-size:12px;">
-  Tommy 🎛️ · Administrator · OpenClaw · Reporting to Chris Miller
-</div>
+// ─── Render Ops Tab ────────────────────────────────────────────────────────
+function renderOps(data) {
+  const o = data.operations;
+  const props = o.properties;
+  const rev = o.revenue;
+  const comms = o.guest_comms;
 
+  const alertsHtml = o.alerts.map(a => `
+    <div class="alert-item">
+      <div class="alert-dot ${a.level}"></div>
+      <div>
+        <div class="alert-property">${escHtml(a.property)}</div>
+        <div class="alert-issue">${escHtml(a.issue)}</div>
+      </div>
+    </div>
+  `).join('');
+
+  const topHtml = o.top_performers.map((tp, i) => `
+    <div class="top-performer-row">
+      <div class="tp-rank">#${i+1}</div>
+      <div class="tp-name">${escHtml(tp.property)}</div>
+      <div class="tp-stats">
+        <div class="tp-stat"><strong>${tp.occupancy}%</strong> occ</div>
+        <div class="tp-stat"><strong>⭐${tp.rating}</strong></div>
+      </div>
+    </div>
+  `).join('');
+
+  const occColor = props.occupancy_rate >= 80 ? 'green' : props.occupancy_rate >= 60 ? '' : 'yellow';
+  const revColor = rev.mtd_pct >= 90 ? 'green' : rev.mtd_pct >= 70 ? '' : 'yellow';
+  const changeSign = rev.last_30_days_change >= 0 ? '+' : '';
+  const changeColor = rev.last_30_days_change >= 0 ? 'var(--green)' : 'var(--red)';
+
+  document.getElementById('opsContent').innerHTML = `
+    <div class="section-header">
+      <span class="section-title">Properties</span>
+      <span class="section-badge">${props.total} total</span>
+    </div>
+    <div class="ops-grid" style="margin-bottom:16px">
+      <div class="ops-card">
+        <div class="ops-stat-value" style="color:var(--accent)">${props.occupied_today}</div>
+        <div class="ops-stat-label">Occupied Tonight</div>
+        <div class="progress-bar-wrap"><div class="progress-bar-fill ${occColor}" style="width:${props.occupancy_rate}%"></div></div>
+        <div class="ops-stat-sub" style="color:var(--muted)">${props.occupancy_rate}% occupancy</div>
+      </div>
+      <div class="ops-card">
+        <div class="ops-stat-value" style="color:var(--yellow)">${props.checking_in}</div>
+        <div class="ops-stat-label">Check-ins Today</div>
+        <div class="ops-stat-sub" style="color:var(--muted)">${props.checking_out} checking out</div>
+      </div>
+      <div class="ops-card">
+        <div class="ops-stat-value" style="color:var(--green)">$${(rev.mtd/1000).toFixed(1)}k</div>
+        <div class="ops-stat-label">Revenue MTD</div>
+        <div class="progress-bar-wrap"><div class="progress-bar-fill ${revColor}" style="width:${rev.mtd_pct}%"></div></div>
+        <div class="ops-stat-sub" style="color:var(--muted)">${rev.mtd_pct}% of target</div>
+      </div>
+      <div class="ops-card">
+        <div class="ops-stat-value" style="color:var(--blue)">${comms.open_messages}</div>
+        <div class="ops-stat-label">Open Messages</div>
+        <div class="ops-stat-sub" style="color:${comms.urgent > 0 ? 'var(--red)' : 'var(--muted)'}">${comms.urgent} urgent · ${comms.avg_response_min}min avg</div>
+      </div>
+      <div class="ops-card ops-card-full">
+        <div style="display:flex;justify-content:space-between;align-items:center">
+          <div>
+            <div class="ops-stat-value" style="color:var(--text);font-size:20px">$${(rev.last_30_days/1000).toFixed(1)}k</div>
+            <div class="ops-stat-label">Last 30 Days Revenue</div>
+          </div>
+          <div style="font-size:16px;font-weight:700;color:${changeColor}">${changeSign}${rev.last_30_days_change}% MoM</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section-header">
+      <span class="section-title">Active Alerts</span>
+      <span class="section-badge" style="${o.alerts.filter(a=>a.level==='red').length > 0 ? 'background:var(--red-dim);color:var(--red)' : ''}">${o.alerts.filter(a=>a.level==='red').length} urgent</span>
+    </div>
+    <div class="alert-list" style="margin-bottom:16px">${alertsHtml}</div>
+
+    <div class="section-header">
+      <span class="section-title">Top Performers</span>
+    </div>
+    <div class="top-performers">${topHtml}</div>
+
+    <div style="margin-top:12px;text-align:center;font-size:11px;color:var(--muted)">
+      Updated: ${formatDate(o.last_updated)}
+    </div>
+  `;
+}
+
+// ─── Utilities ─────────────────────────────────────────────────────────────
+function escHtml(str) {
+  return String(str).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function formatDate(iso) {
+  try {
+    return new Date(iso).toLocaleString('en-US', {
+      month:'short', day:'numeric', hour:'numeric', minute:'2-digit',
+      hour12:true, timeZone:'America/New_York'
+    }) + ' EST';
+  } catch(e) { return iso; }
+}
+
+// ─── Main Load ─────────────────────────────────────────────────────────────
+async function loadDashboard() {
+  try {
+    // Try fetching the data file (works when served, falls back to embedded)
+    let data;
+    try {
+      const res = await fetch('data/dashboard.json?_=' + Date.now(), {
+        cache: 'no-cache'
+      });
+      if (!res.ok) throw new Error('fetch failed');
+      data = await res.json();
+    } catch(e) {
+      // Use embedded fallback data
+      data = window._EMBEDDED_DATA || null;
+    }
+
+    if (!data) {
+      document.getElementById('loading').classList.add('hidden');
+      return;
+    }
+
+    window._data = data;
+
+    // Set header date
+    const d = new Date(data.date + 'T12:00:00');
+    document.getElementById('headerDate').innerHTML =
+      d.toLocaleDateString('en-US', {weekday:'short', month:'short', day:'numeric'}) +
+      '<br><span style="font-size:10px">' + data.generated_at.slice(11,16) + ' EST</span>';
+
+    renderContent(data);
+    renderPayroll(data);
+    renderOps(data);
+
+  } catch(err) {
+    console.error('Dashboard load error:', err);
+  } finally {
+    setTimeout(() => {
+      document.getElementById('loading').classList.add('hidden');
+    }, 300);
+  }
+}
+
+// Init
+document.addEventListener('DOMContentLoaded', loadDashboard);
+</script>
 </body>
 </html>

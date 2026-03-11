@@ -1,0 +1,134 @@
+{
+  "generated_at": "2026-03-11T08:38:13.010456-04:00",
+  "date": "2026-03-11",
+  "content": {
+    "posts": [
+      {
+        "id": 1,
+        "category": "AI",
+        "topic": "No scraper output yet \u2014 posts will appear after 6:30 AM run",
+        "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
+        "source_url": "#",
+        "source_label": "Pending",
+        "voice_score": 0,
+        "hashtags": "",
+        "platforms": "Facebook + Instagram",
+        "post_text": "Posts will be auto-populated here after the daily content scraper runs at 6:30 AM EST.\n\nRun manually: cd projects/content-generator && python run_daily.py"
+      }
+    ]
+  },
+  "payroll": {
+    "period": "Mar 10 \u2013 Mar 24, 2026",
+    "period_type": "B",
+    "pay_date": "Mar 27, 2026",
+    "total_payout": 5150.0,
+    "batches": [
+      {
+        "processor": "Chase",
+        "total": 3100.0,
+        "members": [
+          {
+            "name": "Maria Rodriguez",
+            "location": "Colombia",
+            "amount": 1200.0,
+            "status": "ready"
+          },
+          {
+            "name": "Carlos Mendoza",
+            "location": "Venezuela",
+            "amount": 1000.0,
+            "status": "ready"
+          },
+          {
+            "name": "Sofia Gutierrez",
+            "location": "Dominican Republic",
+            "amount": 900.0,
+            "status": "ready"
+          }
+        ]
+      },
+      {
+        "processor": "Remitly",
+        "total": 2050.0,
+        "members": [
+          {
+            "name": "Ana Santos",
+            "location": "Philippines",
+            "amount": 1100.0,
+            "status": "ready"
+          },
+          {
+            "name": "Jose Reyes",
+            "location": "Philippines",
+            "amount": 950.0,
+            "status": "ready"
+          }
+        ]
+      }
+    ],
+    "team_summary": {
+      "total_members": 5,
+      "active": 5,
+      "chase_count": 3,
+      "remitly_count": 2
+    }
+  },
+  "operations": {
+    "last_updated": "2026-03-11T08:38:13.019749-04:00",
+    "properties": {
+      "total": 30,
+      "occupied_today": 22,
+      "checking_in": 4,
+      "checking_out": 3,
+      "maintenance": 1,
+      "occupancy_rate": 73
+    },
+    "revenue": {
+      "mtd": 48200,
+      "mtd_target": 55000,
+      "mtd_pct": 88,
+      "last_30_days": 112400,
+      "last_30_days_change": 6
+    },
+    "guest_comms": {
+      "open_messages": 7,
+      "urgent": 1,
+      "avg_response_min": 12,
+      "satisfaction_trend": "stable"
+    },
+    "alerts": [
+      {
+        "level": "red",
+        "property": "10 S Halifax Ave",
+        "issue": "AC unit reported not cooling \u2014 HVAC scheduled"
+      },
+      {
+        "level": "yellow",
+        "property": "3332 S Peninsula Dr",
+        "issue": "Owner follow-up pending (checkout report)"
+      },
+      {
+        "level": "green",
+        "property": "117 N Hollywood Ave",
+        "issue": "WiFi complaint resolved \u2014 confirmed by guest"
+      }
+    ],
+    "top_performers": [
+      {
+        "property": "14 Fleming Ct",
+        "occupancy": 95,
+        "rating": 4.9
+      },
+      {
+        "property": "207 Seabreeze Blvd",
+        "occupancy": 91,
+        "rating": 4.8
+      },
+      {
+        "property": "88 Grandview Ave",
+        "occupancy": 89,
+        "rating": 4.8
+      }
+    ]
+  }
+}
