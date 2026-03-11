@@ -22,7 +22,24 @@
         "is_thread": false,
         "thread_post_1": null,
         "thread_post_2": null,
-        "thread_post_3": null
+        "thread_post_3": null,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/ChatGPT/comments/1rp78zu/microsoft_just_launched_an_ai_that_does_your/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Anthropic%20is%20launching%20a%20new&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.anthropic.com/news/the-anthropic-institute",
+            "label": "News Article"
+          }
+        ]
       },
       {
         "id": 2,
@@ -43,7 +60,24 @@
         "is_thread": false,
         "thread_post_1": null,
         "thread_post_2": null,
-        "thread_post_3": null
+        "thread_post_3": null,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/search/?q=Google%20brings%20Gemini%20in%20Chrome&sort=relevance&t=week",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Google%20brings%20Gemini%20in%20Chrome&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
+            "label": "News Article"
+          }
+        ]
       },
       {
         "id": 3,
@@ -64,7 +98,24 @@
         "is_thread": false,
         "thread_post_1": null,
         "thread_post_2": null,
-        "thread_post_3": null
+        "thread_post_3": null,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1rmdiu3/ai_agents_today_are_far_more_dangerous_that_you/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=ChatGPT%20can%20now%20create%20interactive&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
+            "label": "News Article"
+          }
+        ]
       },
       {
         "id": 4,
@@ -85,7 +136,24 @@
         "is_thread": true,
         "thread_post_1": "Andrej Karpathy just deployed an autonomous AI swarm that improves itself. Not a demo. Operational. This is the moment we look back on.",
         "thread_post_2": "The swarm is multi-agent, each agent learning from the others. Self-improvement loops are the core. Think of it as a software team that gets better overnight without anyone managing it. Real estate, hospitality, small biz, this is where operations automation is heading.",
-        "thread_post_3": "The play right now: start small. One agent. One workflow. Learn how it behaves. Then expand. The businesses who figure this out in 2026 will have an actual moat. Where are you starting?\n\n#AIAgents #Automation #FutureOfWork #AIThatScales #SmallBusiness #RealEstate"
+        "thread_post_3": "The play right now: start small. One agent. One workflow. Learn how it behaves. Then expand. The businesses who figure this out in 2026 will have an actual moat. Where are you starting?\n\n#AIAgents #Automation #FutureOfWork #AIThatScales #SmallBusiness #RealEstate",
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/singularity/comments/1rq5vlw/andrej_karpathys_newest_development_autonomously/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Andrej%20Karpathy%27s%20Newest%20Development%20-&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=Andrej%20Karpathy%27s%20Newest%20Development%20-%20Autonomously%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 5,
@@ -106,7 +174,24 @@
         "is_thread": false,
         "thread_post_1": null,
         "thread_post_2": null,
-        "thread_post_3": null
+        "thread_post_3": null,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/OpenAI/comments/1rqim4d/if_elon_manipulate_the_algorithm_i_think_that/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=If%20elon%20manipulate%20the%20algorithm&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=If%20elon%20manipulate%20the%20algorithm%20i%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 6,
@@ -127,7 +212,24 @@
         "is_thread": true,
         "thread_post_1": "Scientists digitally copied an entire fruit fly brain. Neuron by neuron. Then it started walking, grooming, and feeding on its own. This week changed something fundamental.",
         "thread_post_2": "The implications for AI and business automation are real. We are now at the stage where biological neural patterns can be replicated in silicon. What happens when we scale this up? Not sci-fi. Active research with commercial applications in the next 5 years.",
-        "thread_post_3": "For entrepreneurs and operators: the businesses that understand how intelligence works, biological or artificial, will build better systems. Curiosity is a competitive advantage right now. What are you studying?\n\n#AI #FutureOfWork #Neuroscience #Innovation #AIThatScales"
+        "thread_post_3": "For entrepreneurs and operators: the businesses that understand how intelligence works, biological or artificial, will build better systems. Curiosity is a competitive advantage right now. What are you studying?\n\n#AI #FutureOfWork #Neuroscience #Innovation #AIThatScales",
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/singularity/comments/1rqgv7y/scientists_at_eon_systems_just_copied_a_fruit/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Scientists%20at%20Eon%20Systems%20just&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=Scientists%20at%20Eon%20Systems%20just%20copied%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 7,
@@ -148,7 +250,24 @@
         "is_thread": false,
         "thread_post_1": null,
         "thread_post_2": null,
-        "thread_post_3": null
+        "thread_post_3": null,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1rpu8su/yann_lecun_raises_1_billion_to_build_ai_that/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Yann%20LeCun%20raises%20%241B%20to&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+            "label": "News Article"
+          }
+        ]
       },
       {
         "id": 8,
@@ -169,7 +288,24 @@
         "is_thread": false,
         "thread_post_1": null,
         "thread_post_2": null,
-        "thread_post_3": null
+        "thread_post_3": null,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/Economics/comments/1rq3u8n/this_cannot_be_sustainable_the_us_borrowed_50/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=%E2%80%98This%20cannot%20be%20sustainable%E2%80%99%3A%20The&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=%E2%80%98This%20cannot%20be%20sustainable%E2%80%99%3A%20The%20U.S.%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 9,
@@ -190,7 +326,24 @@
         "is_thread": false,
         "thread_post_1": null,
         "thread_post_2": null,
-        "thread_post_3": null
+        "thread_post_3": null,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/Economics/comments/1rq2426/pete_hegseth_blew_billions_on_fruit_basket_stands/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Pete%20Hegseth%20Blew%20Billions%20on&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=Pete%20Hegseth%20Blew%20Billions%20on%20Fruit%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 10,
@@ -211,217 +364,24 @@
         "is_thread": false,
         "thread_post_1": null,
         "thread_post_2": null,
-        "thread_post_3": null
-      },
-      {
-        "id": 1,
-        "category": "AI",
-        "topic": "An EpochAI Frontier Math open problem may have been solved for the first time by GPT5.4",
-        "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
-        "source_url": "https://reddit.com/r/singularity/comments/1rq1av1/an_epochai_frontier_math_open_problem_may_have/",
-        "source_label": "r/singularity on Reddit",
-        "voice_score": 89,
-        "hashtags": "#AI #ArtificialIntelligence #GPT5 #FrontierMath #TechTrends #SmallBusiness #Innovation",
-        "platforms": "Facebook + Instagram",
-        "post_text": "Real talk. GPT5.4 just solved a math problem that's stumped researchers for years. Not subtle how fast AI's moving. The practical play? Businesses sitting on the sidelines while this happens are legitimately missing the boat. What's your move? #AI #ArtificialIntelligence #GPT5 #FrontierMath #TechTrends #SmallBusiness #Innovation",
-        "published_at": "2026-03-10T16:16:56+00:00",
-        "age_hours": 22.3,
-        "scraped_from": "r/singularity",
-        "batch": "afternoon",
-        "is_feature_release": false,
-        "is_thread": false,
-        "thread_post_1": null,
-        "thread_post_2": null,
-        "thread_post_3": null
-      },
-      {
-        "id": 2,
-        "category": "AI",
-        "topic": "Debian decides not to decide on AI-generated contributions",
-        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
-        "source_url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
-        "source_label": "Hacker News",
-        "voice_score": 90,
-        "hashtags": "#AI #OpenSource #RealEstate #TechBusiness #Debian #SmallBusiness #AIConsulting",
-        "platforms": "Facebook + Instagram",
-        "post_text": "Real talk: Debian's decision to not decide on AI code contributions is actually pretty smart. Kicking the can down the road beats making a bad rule now. Same energy as waiting to scale your rental business until you understand your unit economics. What's your take. AI contributions yay or nay? #AI #OpenSource #RealEstate #TechBusiness #Debian #SmallBusiness #AIConsulting",
-        "published_at": "2026-03-10T14:53:13+00:00",
-        "age_hours": 23.6,
-        "scraped_from": "Hacker News",
-        "batch": "afternoon",
-        "is_feature_release": false,
-        "is_thread": false,
-        "thread_post_1": null,
-        "thread_post_2": null,
-        "thread_post_3": null
-      },
-      {
-        "id": 3,
-        "category": "AI",
-        "topic": "Claude is running for President.",
-        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
-        "source_url": "https://reddit.com/r/singularity/comments/1rq791v/claude_is_running_for_president/",
-        "source_label": "r/singularity on Reddit",
-        "voice_score": 91,
-        "hashtags": "#AI #Politics #Claude #Tech #Future #President #AIConsulting",
-        "platforms": "Facebook + Instagram",
-        "post_text": "Real talk, an AI running for President is genuinely the most honest campaign we've seen in years. No special interests, no ego, just logic and data. Funny how that sounds appealing right now. Curious what policy positions an AI would actually prioritize. #AI #Politics #Claude #Tech #Future #President #AIConsulting",
-        "published_at": "2026-03-10T19:46:48+00:00",
-        "age_hours": 18.8,
-        "scraped_from": "r/singularity",
-        "batch": "afternoon",
-        "is_feature_release": false,
-        "is_thread": false,
-        "thread_post_1": null,
-        "thread_post_2": null,
-        "thread_post_3": null
-      },
-      {
-        "id": 4,
-        "category": "AI",
-        "topic": "[D] Meta-Reviews ARR January 2026",
-        "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
-        "source_url": "https://reddit.com/r/MachineLearning/comments/1rpz2bh/d_metareviews_arr_january_2026/",
-        "source_label": "r/MachineLearning on Reddit",
-        "voice_score": 92,
-        "hashtags": "#AIConsulting #MachineLearning #AITools #TechTrends #SmallBizAI #RealEstate #DaytonaBeach",
-        "platforms": "Facebook + Instagram",
-        "post_text": "Genuinely curious what the AI community's meta-review scores look like this month. Real talk, watching how models perform on real-world tasks (not just benchmarks) is how we actually decide what tools work for our business. Legitimately matters more than the hype cycle. #AIConsulting #MachineLearning #AITools #TechTrends #SmallBizAI #RealEstate #DaytonaBeach",
-        "published_at": "2026-03-10T14:53:01+00:00",
-        "age_hours": 23.6,
-        "scraped_from": "r/MachineLearning",
-        "batch": "afternoon",
-        "is_feature_release": false,
-        "is_thread": false,
-        "thread_post_1": null,
-        "thread_post_2": null,
-        "thread_post_3": null
-      },
-      {
-        "id": 5,
-        "category": "AI",
-        "topic": "Meta acquires AI agent social network Moltbook",
-        "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
-        "source_url": "https://reddit.com/r/singularity/comments/1rq2yju/meta_acquires_ai_agent_social_network_moltbook/",
-        "source_label": "r/singularity on Reddit",
-        "voice_score": 93,
-        "hashtags": "#AI #Meta #AIAgents #RealEstate #Hospitality #SmallBusiness #FutureOfWork",
-        "platforms": "Facebook + Instagram",
-        "post_text": "Meta just grabbed Moltbook and genuinely, this is the move that matters. AI agents handling customer relationships at scale? That's not subtle positioning. Real talk, vacation rental owners and hospitality businesses need to watch this. Automating guest interactions just got a whole lot more serious. Who's already thinking about this for their operation? #AI #Meta #AIAgents #RealEstate #Hospitality #SmallBusiness #FutureOfWork",
-        "published_at": "2026-03-10T17:15:52+00:00",
-        "age_hours": 21.3,
-        "scraped_from": "r/singularity",
-        "batch": "afternoon",
-        "is_feature_release": false,
-        "is_thread": false,
-        "thread_post_1": null,
-        "thread_post_2": null,
-        "thread_post_3": null
-      },
-      {
-        "id": 6,
-        "category": "AI",
-        "topic": "Study Finds That Execs Are Already Outsourcing Their Thinking to AI",
-        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
-        "source_url": "https://reddit.com/r/singularity/comments/1rqa0js/study_finds_that_execs_are_already_outsourcing/",
-        "source_label": "r/singularity on Reddit",
-        "voice_score": 94,
-        "hashtags": "#AIConsulting #SmallBusiness #RealEstate #Leadership #AI #Daytona #FutureOfWork",
-        "platforms": "Facebook + Instagram",
-        "post_text": "Real talk, execs outsourcing their thinking to AI is like a quarterback letting the playbook call itself. Legitimately nervous about this one. The ones winning? They're using AI as a research assistant, not a replacement brain. Big difference between working smarter and just... checking out. #AIConsulting #SmallBusiness #RealEstate #Leadership #AI #Daytona #FutureOfWork",
-        "published_at": "2026-03-10T21:24:33+00:00",
-        "age_hours": 17.1,
-        "scraped_from": "r/singularity",
-        "batch": "afternoon",
-        "is_feature_release": false,
-        "is_thread": false,
-        "thread_post_1": null,
-        "thread_post_2": null,
-        "thread_post_3": null
-      },
-      {
-        "id": 7,
-        "category": "AI",
-        "topic": "roon on 10.03.2026",
-        "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
-        "source_url": "https://reddit.com/r/singularity/comments/1rq3gso/roon_on_10032026/",
-        "source_label": "r/singularity on Reddit",
-        "voice_score": 88,
-        "hashtags": "#AIConsulting #SmallBusiness #TechTrends #RealEstate #FutureOfWork #AIAdoption #DaytonaBeach",
-        "platforms": "Facebook + Instagram",
-        "post_text": "Real talk, watching AI predictions from Reddit feel less like sci-fi and more like next quarter's business reality. Whether roon hits those benchmarks or not, the teams already building with AI today are gonna be so far ahead. Not subtle how fast this is moving. #AIConsulting #SmallBusiness #TechTrends #RealEstate #FutureOfWork #AIAdoption #DaytonaBeach",
-        "published_at": "2026-03-10T17:33:42+00:00",
-        "age_hours": 21.0,
-        "scraped_from": "r/singularity",
-        "batch": "afternoon",
-        "is_feature_release": false,
-        "is_thread": false,
-        "thread_post_1": null,
-        "thread_post_2": null,
-        "thread_post_3": null
-      },
-      {
-        "id": 8,
-        "category": "WORLD",
-        "topic": "Zelenskyy: \"Orb\u00e1n's election campaign is based on hostility towards Ukraine and me\"",
-        "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
-        "source_url": "https://reddit.com/r/worldnews/comments/1rqoupt/zelenskyy_orb\u00e1ns_election_campaign_is_based_on/",
-        "source_label": "r/worldnews on Reddit",
-        "voice_score": 89,
-        "hashtags": "#Geopolitics #BusinessStability #Ukraine #InternationalRelations #Leadership #RealTalk #EconomicImpact",
-        "platforms": "Facebook + Instagram",
-        "post_text": "Real talk, when a political campaign is built on hostility toward a neighbor country, that's genuinely bad business. It's like running your company on what you're against instead of what you're building. Never ends well. Stability matters, whether it's geopolitics or your local market. #Geopolitics #BusinessStability #Ukraine #InternationalRelations #Leadership #RealTalk #EconomicImpact",
-        "published_at": "2026-03-11T09:15:44+00:00",
-        "age_hours": 5.3,
-        "scraped_from": "r/worldnews",
-        "batch": "afternoon",
-        "is_feature_release": false,
-        "is_thread": false,
-        "thread_post_1": null,
-        "thread_post_2": null,
-        "thread_post_3": null
-      },
-      {
-        "id": 9,
-        "category": "WORLD",
-        "topic": "Tony Hoare has died",
-        "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
-        "source_url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
-        "source_label": "Hacker News",
-        "voice_score": 90,
-        "hashtags": "#TechHistory #ComputerScience #Innovation #Legacy #Programming #SystemsThinking #RIP",
-        "platforms": "Facebook + Instagram",
-        "post_text": "Tony Hoare just passed away at 90, and genuinely, this matters beyond tech circles. The guy invented null references and formal verification, basically built the foundation for systems that don't catastrophically fail. Real talk: every reliable business process you depend on traces back to his thinking. #TechHistory #ComputerScience #Innovation #Legacy #Programming #SystemsThinking #RIP",
-        "published_at": "2026-03-10T14:50:16+00:00",
-        "age_hours": 23.7,
-        "scraped_from": "Hacker News",
-        "batch": "afternoon",
-        "is_feature_release": false,
-        "is_thread": false,
-        "thread_post_1": null,
-        "thread_post_2": null,
-        "thread_post_3": null
-      },
-      {
-        "id": 10,
-        "category": "WORLD",
-        "topic": "Zelenskyy: Russia Providing Drones and Missiles to Support Iran",
-        "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
-        "source_url": "https://reddit.com/r/worldnews/comments/1rqplhf/zelenskyy_russia_providing_drones_and_missiles_to/",
-        "source_label": "r/worldnews on Reddit",
-        "voice_score": 91,
-        "hashtags": "#GeopoliticsMatters #BusinessStrategy #GlobalEconomy #SmallBusiness #RealWorldImpact #EconomicTrends #StayInformed",
-        "platforms": "Facebook + Instagram",
-        "post_text": "Real talk: when global superpowers start arming each other's allies, supply chain chaos follows. Affects everything from tech prices to travel costs. Businesses need to watch geopolitical moves like they watch local competition. What's your contingency plan if things escalate?\n\n#GeopoliticsMatters #BusinessStrategy #GlobalEconomy #SmallBusiness #RealWorldImpact #EconomicTrends #StayInformed",
-        "published_at": "2026-03-11T10:01:14+00:00",
-        "age_hours": 4.5,
-        "scraped_from": "r/worldnews",
-        "batch": "afternoon",
-        "is_feature_release": false,
-        "is_thread": false,
-        "thread_post_1": null,
-        "thread_post_2": null,
-        "thread_post_3": null
+        "thread_post_3": null,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/worldnews/comments/1rqr7j0/iran_sends_millions_of_oil_barrels_to_china/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Iran%20sends%20millions%20of%20oil&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=Iran%20sends%20millions%20of%20oil%20barrels%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       }
     ],
     "morning": {
@@ -445,7 +405,24 @@
           "is_thread": false,
           "thread_post_1": null,
           "thread_post_2": null,
-          "thread_post_3": null
+          "thread_post_3": null,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/ChatGPT/comments/1rp78zu/microsoft_just_launched_an_ai_that_does_your/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Anthropic%20is%20launching%20a%20new&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.anthropic.com/news/the-anthropic-institute",
+              "label": "News Article"
+            }
+          ]
         },
         {
           "id": 2,
@@ -466,7 +443,24 @@
           "is_thread": false,
           "thread_post_1": null,
           "thread_post_2": null,
-          "thread_post_3": null
+          "thread_post_3": null,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/search/?q=Google%20brings%20Gemini%20in%20Chrome&sort=relevance&t=week",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Google%20brings%20Gemini%20in%20Chrome&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
+              "label": "News Article"
+            }
+          ]
         },
         {
           "id": 3,
@@ -487,7 +481,24 @@
           "is_thread": false,
           "thread_post_1": null,
           "thread_post_2": null,
-          "thread_post_3": null
+          "thread_post_3": null,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1rmdiu3/ai_agents_today_are_far_more_dangerous_that_you/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=ChatGPT%20can%20now%20create%20interactive&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
+              "label": "News Article"
+            }
+          ]
         },
         {
           "id": 4,
@@ -508,7 +519,24 @@
           "is_thread": true,
           "thread_post_1": "Andrej Karpathy just deployed an autonomous AI swarm that improves itself. Not a demo. Operational. This is the moment we look back on.",
           "thread_post_2": "The swarm is multi-agent, each agent learning from the others. Self-improvement loops are the core. Think of it as a software team that gets better overnight without anyone managing it. Real estate, hospitality, small biz, this is where operations automation is heading.",
-          "thread_post_3": "The play right now: start small. One agent. One workflow. Learn how it behaves. Then expand. The businesses who figure this out in 2026 will have an actual moat. Where are you starting?\n\n#AIAgents #Automation #FutureOfWork #AIThatScales #SmallBusiness #RealEstate"
+          "thread_post_3": "The play right now: start small. One agent. One workflow. Learn how it behaves. Then expand. The businesses who figure this out in 2026 will have an actual moat. Where are you starting?\n\n#AIAgents #Automation #FutureOfWork #AIThatScales #SmallBusiness #RealEstate",
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/singularity/comments/1rq5vlw/andrej_karpathys_newest_development_autonomously/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Andrej%20Karpathy%27s%20Newest%20Development%20-&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Andrej%20Karpathy%27s%20Newest%20Development%20-%20Autonomously%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
         },
         {
           "id": 5,
@@ -529,7 +557,24 @@
           "is_thread": false,
           "thread_post_1": null,
           "thread_post_2": null,
-          "thread_post_3": null
+          "thread_post_3": null,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/OpenAI/comments/1rqim4d/if_elon_manipulate_the_algorithm_i_think_that/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=If%20elon%20manipulate%20the%20algorithm&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=If%20elon%20manipulate%20the%20algorithm%20i%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
         },
         {
           "id": 6,
@@ -550,7 +595,24 @@
           "is_thread": true,
           "thread_post_1": "Scientists digitally copied an entire fruit fly brain. Neuron by neuron. Then it started walking, grooming, and feeding on its own. This week changed something fundamental.",
           "thread_post_2": "The implications for AI and business automation are real. We are now at the stage where biological neural patterns can be replicated in silicon. What happens when we scale this up? Not sci-fi. Active research with commercial applications in the next 5 years.",
-          "thread_post_3": "For entrepreneurs and operators: the businesses that understand how intelligence works, biological or artificial, will build better systems. Curiosity is a competitive advantage right now. What are you studying?\n\n#AI #FutureOfWork #Neuroscience #Innovation #AIThatScales"
+          "thread_post_3": "For entrepreneurs and operators: the businesses that understand how intelligence works, biological or artificial, will build better systems. Curiosity is a competitive advantage right now. What are you studying?\n\n#AI #FutureOfWork #Neuroscience #Innovation #AIThatScales",
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/singularity/comments/1rqgv7y/scientists_at_eon_systems_just_copied_a_fruit/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Scientists%20at%20Eon%20Systems%20just&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Scientists%20at%20Eon%20Systems%20just%20copied%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
         },
         {
           "id": 7,
@@ -571,7 +633,24 @@
           "is_thread": false,
           "thread_post_1": null,
           "thread_post_2": null,
-          "thread_post_3": null
+          "thread_post_3": null,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1rpu8su/yann_lecun_raises_1_billion_to_build_ai_that/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Yann%20LeCun%20raises%20%241B%20to&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+              "label": "News Article"
+            }
+          ]
         },
         {
           "id": 8,
@@ -592,7 +671,24 @@
           "is_thread": false,
           "thread_post_1": null,
           "thread_post_2": null,
-          "thread_post_3": null
+          "thread_post_3": null,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/Economics/comments/1rq3u8n/this_cannot_be_sustainable_the_us_borrowed_50/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=%E2%80%98This%20cannot%20be%20sustainable%E2%80%99%3A%20The&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=%E2%80%98This%20cannot%20be%20sustainable%E2%80%99%3A%20The%20U.S.%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
         },
         {
           "id": 9,
@@ -613,7 +709,24 @@
           "is_thread": false,
           "thread_post_1": null,
           "thread_post_2": null,
-          "thread_post_3": null
+          "thread_post_3": null,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/Economics/comments/1rq2426/pete_hegseth_blew_billions_on_fruit_basket_stands/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Pete%20Hegseth%20Blew%20Billions%20on&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Pete%20Hegseth%20Blew%20Billions%20on%20Fruit%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
         },
         {
           "id": 10,
@@ -634,7 +747,24 @@
           "is_thread": false,
           "thread_post_1": null,
           "thread_post_2": null,
-          "thread_post_3": null
+          "thread_post_3": null,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/worldnews/comments/1rqr7j0/iran_sends_millions_of_oil_barrels_to_china/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Iran%20sends%20millions%20of%20oil&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Iran%20sends%20millions%20of%20oil%20barrels%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
         }
       ]
     },
@@ -659,7 +789,24 @@
           "is_thread": false,
           "thread_post_1": null,
           "thread_post_2": null,
-          "thread_post_3": null
+          "thread_post_3": null,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/singularity/comments/1rq1av1/an_epochai_frontier_math_open_problem_may_have/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=An%20EpochAI%20Frontier%20Math%20open&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=An%20EpochAI%20Frontier%20Math%20open%20problem%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
         },
         {
           "id": 2,
@@ -680,7 +827,24 @@
           "is_thread": false,
           "thread_post_1": null,
           "thread_post_2": null,
-          "thread_post_3": null
+          "thread_post_3": null,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/hackernews/comments/1rq3xxd/debian_decides_not_to_decide_on_aigenerated/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Debian%20decides%20not%20to%20decide&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
+              "label": "Official Source"
+            }
+          ]
         },
         {
           "id": 3,
@@ -701,7 +865,24 @@
           "is_thread": false,
           "thread_post_1": null,
           "thread_post_2": null,
-          "thread_post_3": null
+          "thread_post_3": null,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/singularity/comments/1rq791v/claude_is_running_for_president/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Claude%20is%20running%20for%20President.&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Claude%20is%20running%20for%20President.%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
         },
         {
           "id": 4,
@@ -722,7 +903,24 @@
           "is_thread": false,
           "thread_post_1": null,
           "thread_post_2": null,
-          "thread_post_3": null
+          "thread_post_3": null,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/MachineLearning/comments/1rpz2bh/d_metareviews_arr_january_2026/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=%5BD%5D%20Meta-Reviews%20ARR%20January%202026&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=%5BD%5D%20Meta-Reviews%20ARR%20January%202026%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
         },
         {
           "id": 5,
@@ -743,7 +941,24 @@
           "is_thread": false,
           "thread_post_1": null,
           "thread_post_2": null,
-          "thread_post_3": null
+          "thread_post_3": null,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/singularity/comments/1rq2yju/meta_acquires_ai_agent_social_network_moltbook/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Meta%20acquires%20AI%20agent%20social&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Meta%20acquires%20AI%20agent%20social%20network%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
         },
         {
           "id": 6,
@@ -764,7 +979,24 @@
           "is_thread": false,
           "thread_post_1": null,
           "thread_post_2": null,
-          "thread_post_3": null
+          "thread_post_3": null,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/singularity/comments/1rqa0js/study_finds_that_execs_are_already_outsourcing/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Study%20Finds%20That%20Execs%20Are&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Study%20Finds%20That%20Execs%20Are%20Already%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
         },
         {
           "id": 7,
@@ -785,7 +1017,24 @@
           "is_thread": false,
           "thread_post_1": null,
           "thread_post_2": null,
-          "thread_post_3": null
+          "thread_post_3": null,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/singularity/comments/1rq3gso/roon_on_10032026/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=roon%20on%2010.03.2026&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=roon%20on%2010.03.2026%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
         },
         {
           "id": 8,
@@ -806,7 +1055,24 @@
           "is_thread": false,
           "thread_post_1": null,
           "thread_post_2": null,
-          "thread_post_3": null
+          "thread_post_3": null,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/worldnews/comments/1rqoupt/zelenskyy_orb\u00e1ns_election_campaign_is_based_on/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Zelenskyy%3A%20%22Orb%C3%A1n%27s%20election%20campaign%20is&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Zelenskyy%3A%20%22Orb%C3%A1n%27s%20election%20campaign%20is%20based%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
         },
         {
           "id": 9,
@@ -827,7 +1093,24 @@
           "is_thread": false,
           "thread_post_1": null,
           "thread_post_2": null,
-          "thread_post_3": null
+          "thread_post_3": null,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/Fauxmoi/comments/1rm4rjp/republican_rep_tony_gonzales_rtx_announces_he/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Tony%20Hoare%20has%20died&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+              "label": "Official Source"
+            }
+          ]
         },
         {
           "id": 10,
@@ -848,7 +1131,24 @@
           "is_thread": false,
           "thread_post_1": null,
           "thread_post_2": null,
-          "thread_post_3": null
+          "thread_post_3": null,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/worldnews/comments/1rqplhf/zelenskyy_russia_providing_drones_and_missiles_to/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Zelenskyy%3A%20Russia%20Providing%20Drones%20and&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Zelenskyy%3A%20Russia%20Providing%20Drones%20and%20Missiles%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
         }
       ]
     },
