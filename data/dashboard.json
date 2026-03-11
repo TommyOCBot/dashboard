@@ -1,132 +1,162 @@
 {
-  "generated_at": "2026-03-11T08:46:09.549424-04:00",
+  "generated_at": "2026-03-11T10:01:46.016721-04:00",
   "date": "2026-03-11",
   "content": {
     "posts": [
       {
         "id": 1,
         "category": "AI",
-        "topic": "OpenAI Drops GPT-5 — Real-Time Reasoning Benchmark Shattered",
+        "topic": "Andrej Karpathy's Newest Development - Autonomously Improving Agentic Swarm Is Now Operational",
         "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
-        "source_url": "https://openai.com/blog",
-        "source_label": "OpenAI Blog",
-        "voice_score": 94,
-        "hashtags": "#AI #GPT5 #Automation #AIThatScales",
+        "source_url": "https://reddit.com/r/singularity/comments/1rq5vlw/andrej_karpathys_newest_development_autonomously/",
+        "source_label": "r/singularity on Reddit",
+        "voice_score": 89,
+        "hashtags": "#AI #ArtificialIntelligence #SmallBusiness #RealEstateTech #Automation #AIConsulting #FutureOfWork",
         "platforms": "Facebook + Instagram",
-        "post_text": "The game just changed — again.\n\nOpenAI dropped GPT-5 this morning and the reasoning capability leap is real. I've been testing it since 6 AM and the difference isn't subtle.\n\nFor business owners: this isn't theoretical anymore. The automation workflows that felt \"almost there\" last year? They're \"fully there\" now.\n\nWe're already updating 3 client systems this week. If you haven't started automating your operations, you're now 2 generations behind.\n\nDM me if you want to talk about what this means for your business.\n\n#AI #GPT5 #Automation #AIThatScales #BusinessAutomation #FutureOfWork"
+        "post_text": "Andrej Karpathy just got autonomous AI agents improving themselves without human input. Real talk \u2014 this is the stuff that either automates your business operations or makes you obsolete at it. Funny how the companies paying attention to this now won't be the ones scrambling in 18 months.\n\n#AI #ArtificialIntelligence #SmallBusiness #RealEstateTech #Automation #AIConsulting #FutureOfWork",
+        "published_at": "2026-03-10T18:58:18+00:00",
+        "age_hours": 19.0,
+        "scraped_from": "r/singularity"
       },
       {
         "id": 2,
         "category": "AI",
-        "topic": "AI Agents Now Handle 40% of Fortune 500 Customer Service",
-        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/artificial",
-        "source_label": "r/artificial",
-        "voice_score": 87,
-        "hashtags": "#CustomerService #AIAgents #Automation",
+        "topic": "If elon manipulate the algorithm i think that creates many questions",
+        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+        "source_url": "https://reddit.com/r/OpenAI/comments/1rqim4d/if_elon_manipulate_the_algorithm_i_think_that/",
+        "source_label": "r/OpenAI on Reddit",
+        "voice_score": 90,
+        "hashtags": "#AI #TechTransparency #SmallBusiness #Algorithm #RealEstate #AIConsulting #DaytonaBeach",
         "platforms": "Facebook + Instagram",
-        "post_text": "New data out: AI agents handle 40% of customer service interactions at Fortune 500 companies.\n\nThat's not a pilot program. That's operational reality.\n\nThe companies winning aren't waiting for \"perfect\" AI — they're deploying 80% solutions and improving in real-time.\n\nYour competitors are already doing this. The question is whether you're building the system or getting left behind.\n\nWhat's your biggest customer service bottleneck right now?\n\n#CustomerService #AIAgents #Automation #SmallBusiness #AIThatScales"
+        "post_text": "Real talk \u2014 if algorithm manipulation is happening at scale, that's genuinely a problem for everyone running businesses on these platforms. Not subtle moves like that usually affect real estate listings, ad reach, everything. Question becomes: how do we trust the tools we're building our companies on?\n\n#AI #TechTransparency #SmallBusiness #Algorithm #RealEstate #AIConsulting #DaytonaBeach",
+        "published_at": "2026-03-11T03:18:24+00:00",
+        "age_hours": 10.7,
+        "scraped_from": "r/OpenAI"
       },
       {
         "id": 3,
         "category": "AI",
-        "topic": "Claude 4 Sonnet Tops Every Major Coding Benchmark",
-        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
-        "source_url": "https://www.anthropic.com",
-        "source_label": "Anthropic",
+        "topic": "Yann LeCun raises $1B to build AI that understands the physical world",
+        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+        "source_url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+        "source_label": "Hacker News",
         "voice_score": 91,
-        "hashtags": "#Claude #Anthropic #AITools",
+        "hashtags": "#AIConsulting #RealEstate #TechInnovation #SmallBusiness #FutureOfWork #Hospitality #DaytonaBeach",
         "platforms": "Facebook + Instagram",
-        "post_text": "Anthropic published Claude 4 Sonnet benchmark results and the coding performance is legitimately impressive.\n\nWe use Claude for 80% of our automation builds at AI That Scales. The jump from 3.5 → 4 is the biggest single-version improvement I've seen.\n\nA workflow that used to take 3 iterations now lands first pass 70% of the time. That's not small.\n\nIf you're building automations and not using Claude, you're working harder than you need to.\n\n#Claude #Anthropic #AITools #Automation #AIThatScales #BuildSmarter"
+        "post_text": "Yann LeCun dropping $1B to build AI that actually understands the physical world is legitimately wild. Real talk though \u2014 this matters for us in real estate and hospitality. Better spatial reasoning in AI means smarter property management, predictive maintenance, guest experience optimization. Not subtle how fast this moves.\n\n#AIConsulting #RealEstate #TechInnovation #SmallBusiness #FutureOfWork #Hospitality #DaytonaBeach",
+        "published_at": "2026-03-10T08:46:53+00:00",
+        "age_hours": 29.2,
+        "scraped_from": "Hacker News"
       },
       {
         "id": 4,
         "category": "AI",
-        "topic": "Gemini 2.0 Just Shipped Inside Every Google Workspace App",
+        "topic": "Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own",
         "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
-        "source_url": "https://workspace.google.com",
-        "source_label": "Google Workspace",
-        "voice_score": 82,
-        "hashtags": "#Google #Gemini #Productivity",
+        "source_url": "https://reddit.com/r/singularity/comments/1rqgv7y/scientists_at_eon_systems_just_copied_a_fruit/",
+        "source_label": "r/singularity on Reddit",
+        "voice_score": 92,
+        "hashtags": "#AI #FutureOfTech #ArtificialIntelligence #SmallBusiness #TechInnovation #Automation #AIConsulting",
         "platforms": "Facebook + Instagram",
-        "post_text": "Google pushed Gemini 2.0 into Workspace — Docs, Sheets, Gmail, Meet.\n\nThe practical impact for small business teams: your VA now has a co-pilot baked into every tool they already use.\n\nBeen playing with the Sheets integration this week. The ability to describe what you want and have it build formulas + summarize data is genuinely useful — not demo-ware.\n\nIf your team runs on Google, this upgrade happened automatically. Make sure you're actually using it.\n\n#Google #Gemini #Productivity #SmallBusiness #WorkSmarter #AIThatScales"
+        "post_text": "Real talk \u2014 a fruit fly brain just became digital and started doing fly things automatically. That's not sci-fi anymore. For us building businesses, this means AI understanding *context* and *behavior* at a whole new level. The implications for automation are genuinely wild.\n\n#AI #FutureOfTech #ArtificialIntelligence #SmallBusiness #TechInnovation #Automation #AIConsulting",
+        "published_at": "2026-03-11T01:59:41+00:00",
+        "age_hours": 12.0,
+        "scraped_from": "r/singularity"
       },
       {
         "id": 5,
         "category": "AI",
-        "topic": "Make.com, Zapier, n8n — No-Code Platforms Hit 300% Growth",
+        "topic": "An EpochAI Frontier Math open problem may have been solved for the first time by GPT5.4",
         "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/ChatGPT",
-        "source_label": "r/ChatGPT",
-        "voice_score": 89,
-        "hashtags": "#NoCode #Workflow #Automation",
+        "source_url": "https://reddit.com/r/singularity/comments/1rq1av1/an_epochai_frontier_math_open_problem_may_have/",
+        "source_label": "r/singularity on Reddit",
+        "voice_score": 93,
+        "hashtags": "#AI #MathBreakthrough #GPT5 #RealEstate #FutureOfWork #ArtificialIntelligence #Innovation",
         "platforms": "Facebook + Instagram",
-        "post_text": "No-code automation platforms hit 300% user growth last quarter.\n\nTranslation: the barrier to automation is officially gone. You don't need a developer. You need someone who understands your process and 2-4 hours.\n\nI've been building no-code automations for clients for 18 months. The tools keep getting better. The window to get ahead of competitors is still open — but it's closing.\n\nStill doing manually what a bot could do? That's a choice. Make sure it's intentional.\n\n#NoCode #Workflow #Automation #Productivity #AIThatScales #BusinessGrowth"
+        "post_text": "Real talk: GPT5.4 just solved a math problem that's been stumping researchers for years. Funny how AI keeps proving doubters wrong. This isn't just academic\u2014it's the same reasoning that'll optimize everything from pricing models to property management. We're genuinely living through the shift.\n\n#AI #MathBreakthrough #GPT5 #RealEstate #FutureOfWork #ArtificialIntelligence #Innovation",
+        "published_at": "2026-03-10T16:16:56+00:00",
+        "age_hours": 21.7,
+        "scraped_from": "r/singularity"
       },
       {
         "id": 6,
         "category": "AI",
-        "topic": "AI Guest Comms Cut STR Response Time from 4 Hours to 8 Minutes",
-        "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/airbnb",
-        "source_label": "r/airbnb",
-        "voice_score": 96,
-        "hashtags": "#VacationRental #PropertyManagement #AI",
+        "topic": "Debian decides not to decide on AI-generated contributions",
+        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+        "source_url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
+        "source_label": "Hacker News",
+        "voice_score": 94,
+        "hashtags": "#AI #OpenSource #Tech #RealEstate #Debian #AIConsulting #SmallBusiness",
         "platforms": "Facebook + Instagram",
-        "post_text": "Case study: AI-powered guest comms cut response time from 4 hours to 8 minutes across a 40-property portfolio.\n\nNot theoretical — I've seen it firsthand with Stay Coastal's 30+ properties.\n\nGuests don't care if a bot answered. They care that someone answered. Fast responses = better reviews = more bookings.\n\nMath is simple. Setup takes a weekend. ROI is permanent.\n\nRunning STRs and still answering every message manually? Let's talk.\n\n#VacationRental #PropertyManagement #AI #Airbnb #ShortTermRental #AIThatScales"
+        "post_text": "Real talk: Debian basically said \"we're not touching this yet\" on AI code contributions. Funny how the open source world is still figuring out what's legit and what's not. For those of us running businesses that use these tools, this matters \u2014 legitimately need to know what's actually safe to build on.\n\n#AI #OpenSource #Tech #RealEstate #Debian #AIConsulting #SmallBusiness",
+        "published_at": "2026-03-10T14:53:13+00:00",
+        "age_hours": 23.1,
+        "scraped_from": "Hacker News"
       },
       {
         "id": 7,
         "category": "AI",
-        "topic": "2026 AI Adoption Report: SMBs Close the Gap on Enterprise",
-        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 85,
-        "hashtags": "#SMB #AIAdoption #Business2026",
+        "topic": "Claude is running for President.",
+        "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
+        "source_url": "https://reddit.com/r/singularity/comments/1rq791v/claude_is_running_for_president/",
+        "source_label": "r/singularity on Reddit",
+        "voice_score": 88,
+        "hashtags": "#AI #Politics #Tech #FutureOfWork #RealEstate #Innovation #Presidential2024",
         "platforms": "Facebook + Instagram",
-        "post_text": "2026 AI Adoption Report: the gap between enterprise and SMB AI usage closed by 40% last year.\n\nThe tools got cheaper. The interfaces got simpler. The use cases got clearer.\n\nBusinesses that adopted early are seeing it in their margins. The ones who waited are scrambling.\n\nWhere are you in this curve? Reply with where you are and where you want to be.\n\n#SMB #AIAdoption #Business2026 #Productivity #AIThatScales #Entrepreneur"
+        "post_text": "Real talk \u2014 an AI running for President is genuinely the most not subtle sign that we're living in sci-fi. Funny how nobody's asking the real question: who's managing its real estate portfolio during the campaign? That's the actual power move.\n\n#AI #Politics #Tech #FutureOfWork #RealEstate #Innovation #Presidential2024",
+        "published_at": "2026-03-10T19:46:48+00:00",
+        "age_hours": 18.2,
+        "scraped_from": "r/singularity"
       },
       {
         "id": 8,
         "category": "WORLD",
-        "topic": "Fed Holds Rates — Here's What That Actually Means for Your Business",
+        "topic": "Zelenskyy: Ukraine now has cards and everyone understands it",
         "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/worldnews",
-        "source_label": "r/worldnews",
-        "voice_score": 78,
-        "hashtags": "#Economy #FederalReserve #SmallBusiness",
+        "source_url": "https://reddit.com/r/worldnews/comments/1rqlwh2/zelenskyy_ukraine_now_has_cards_and_everyone/",
+        "source_label": "r/worldnews on Reddit",
+        "voice_score": 89,
+        "hashtags": "#Negotiations #Leadership #BusinessStrategy #RealTalk #Ukraine #Leverage #SmallBusiness",
         "platforms": "Facebook + Instagram",
-        "post_text": "The Fed held rates again. Inflation still uncertain. Lending still tight.\n\nStraight talk: if you're waiting for rates to drop before making moves, you're tying your growth strategy to a variable you can't control.\n\nOperators winning right now are cutting costs through efficiency (automation), not waiting for cheap capital.\n\nFocus on what you can control: margins, team productivity, systems. The macro clears when it clears.\n\n#Economy #FederalReserve #SmallBusiness #Entrepreneur #BusinessStrategy #AIThatScales"
+        "post_text": "Zelenskyy's basically saying Ukraine's got leverage now and the whole world knows it. Real talk \u2014 this is how negotiation actually works. You don't win by hiding your position; you win by making it crystal clear what you bring to the table. Same applies to your business pitch.\n\n#Negotiations #Leadership #BusinessStrategy #RealTalk #Ukraine #Leverage #SmallBusiness",
+        "published_at": "2026-03-11T06:09:59+00:00",
+        "age_hours": 7.8,
+        "scraped_from": "r/worldnews"
       },
       {
         "id": 9,
         "category": "WORLD",
-        "topic": "Daytona Beach Q1 2026: Occupancy Strong, ADR Up 8% YoY",
-        "image_url": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/realestate",
-        "source_label": "r/realestate",
-        "voice_score": 92,
-        "hashtags": "#FloridaRealEstate #DaytonaBeach #ShortTermRental",
+        "topic": "\u2018This cannot be sustainable\u2019: The U.S. borrowed $50 billion a week for the past five months, the CBO says",
+        "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
+        "source_url": "https://reddit.com/r/Economics/comments/1rq3u8n/this_cannot_be_sustainable_the_us_borrowed_50/",
+        "source_label": "r/economics on Reddit",
+        "voice_score": 90,
+        "hashtags": "#SmallBusiness #RealEstate #Economy #DebtCrisis #BusinessOwner #Economics #RealTalk",
         "platforms": "Facebook + Instagram",
-        "post_text": "Daytona Beach Q1 data is in: occupancy holding strong, ADRs up 8% YoY, inventory tight on the quality end.\n\nFor property owners: if your property isn't performing at market, the issue isn't the market.\n\nFor investors watching: the STR opportunity here is real. \"Set it and forget it\" is dead, but returns for well-managed properties are there.\n\nWant to see actual comps or talk through an acquisition? DM me.\n\n#FloridaRealEstate #DaytonaBeach #ShortTermRental #VacationRental #RealEstateInvesting #StayCoastal"
+        "post_text": "Real talk: $50B a week in borrowing isn't just a number on a spreadsheet. That kind of debt eventually shows up in interest rates, which hits small business loans and real estate financing hard. Genuinely curious how long before this affects your bottom line.\n\n#SmallBusiness #RealEstate #Economy #DebtCrisis #BusinessOwner #Economics #RealTalk",
+        "published_at": "2026-03-10T17:46:56+00:00",
+        "age_hours": 20.2,
+        "scraped_from": "r/economics"
       },
       {
         "id": 10,
         "category": "WORLD",
-        "topic": "35% of US Workforce Permanently Remote — What That Means for STR Operators",
-        "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 83,
-        "hashtags": "#RemoteWork #VacationRental #WorkFromAnywhere",
+        "topic": "Pete Hegseth Blew Billions on Fruit Basket Stands, Chairs, and Crab | \nThe Defense Department went on a $93 billion spending spree in 2025.",
+        "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+        "source_url": "https://reddit.com/r/Economics/comments/1rq2426/pete_hegseth_blew_billions_on_fruit_basket_stands/",
+        "source_label": "r/economics on Reddit",
+        "voice_score": 91,
+        "hashtags": "#GovernmentWaste #FiscalResponsibility #SmallBusiness #Accountability #Economy #DefenseSpending #RealTalk",
         "platforms": "Facebook + Instagram",
-        "post_text": "New Gallup data: 35% of the US workforce is now permanently remote. That's not going back.\n\nFor vacation rental operators, this drives mid-week and extended-stay demand. Guests aren't just coming for the weekend — they're coming for 2-4 weeks.\n\nSeen it in our own portfolio. Longer stays, better reviews, less turnover.\n\nSTR not set up for extended stays? (workspace, faster WiFi, monthly discounts) You're leaving money on the table.\n\n#RemoteWork #VacationRental #WorkFromAnywhere #ShortTermRental #StayCoastal #AIThatScales"
+        "post_text": "Real talk: $93 billion in Pentagon spending on fruit stands, chairs, and crab? That's what happens when nobody's actually managing the budget. Small business owners would get laughed out of the room for this. Government accountability isn't optional\u2014it's baseline.\n\n#GovernmentWaste #FiscalResponsibility #SmallBusiness #Accountability #Economy #DefenseSpending #RealTalk",
+        "published_at": "2026-03-10T16:46:22+00:00",
+        "age_hours": 21.2,
+        "scraped_from": "r/economics"
       }
     ]
   },
   "payroll": {
-    "period": "Mar 10 – Mar 24, 2026",
+    "period": "Mar 10 \u2013 Mar 24, 2026",
     "period_type": "B",
     "pay_date": "Mar 27, 2026",
     "total_payout": 5150.0,
@@ -208,7 +238,7 @@
       {
         "level": "red",
         "property": "10 S Halifax Ave",
-        "issue": "AC unit reported not cooling — HVAC scheduled"
+        "issue": "AC unit reported not cooling \u2014 HVAC scheduled"
       },
       {
         "level": "yellow",
@@ -218,7 +248,7 @@
       {
         "level": "green",
         "property": "117 N Hollywood Ave",
-        "issue": "WiFi complaint resolved — confirmed by guest"
+        "issue": "WiFi complaint resolved \u2014 confirmed by guest"
       }
     ],
     "top_performers": [
@@ -238,5 +268,17 @@
         "rating": 4.8
       }
     ]
+  },
+  "scraper_meta": {
+    "scraped_at": "2026-03-11T14:00:58.646292+00:00",
+    "sources_used": [
+      "r/worldnews",
+      "Hacker News",
+      "r/singularity",
+      "r/OpenAI",
+      "r/economics"
+    ],
+    "all_from_last_24h": true,
+    "post_count": 10
   }
 }
