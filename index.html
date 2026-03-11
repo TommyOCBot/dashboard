@@ -128,7 +128,86 @@ body {
   border-radius: 20px;
 }
 
-/* ─── Post Cards ─────────────────────────────────────────────────────── */
+/* ─── Batch Sections ────────────────────────────────────────────────── */
+.batch-section {
+  margin-bottom: 8px;
+}
+.batch-header-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 16px;
+  border-radius: var(--radius) var(--radius) 0 0;
+  margin-bottom: 0;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+}
+.morning-bar {
+  background: linear-gradient(135deg, rgba(99,102,241,0.18) 0%, rgba(59,130,246,0.12) 100%);
+  border: 1px solid rgba(99,102,241,0.25);
+}
+.afternoon-bar {
+  background: linear-gradient(135deg, rgba(234,179,8,0.18) 0%, rgba(249,115,22,0.12) 100%);
+  border: 1px solid rgba(234,179,8,0.25);
+  margin-top: 20px;
+  border-radius: var(--radius) var(--radius) 0 0;
+}
+.batch-section .posts-list {
+  border: 1px solid rgba(255,255,255,0.06);
+  border-top: none;
+  border-radius: 0 0 var(--radius) var(--radius);
+  padding: 12px;
+}
+.batch-title-group {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.batch-icon { font-size: 18px; }
+.batch-title {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text);
+  letter-spacing: -0.2px;
+}
+.batch-time {
+  font-size: 11px;
+  color: var(--muted);
+  background: rgba(255,255,255,0.06);
+  padding: 2px 7px;
+  border-radius: 10px;
+}
+.batch-right {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.btn-copy-all {
+  background: rgba(255,255,255,0.08);
+  border: 1px solid rgba(255,255,255,0.12);
+  color: var(--text);
+  font-size: 12px;
+  font-weight: 600;
+  padding: 5px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+.btn-copy-all:active { background: rgba(255,255,255,0.15); }
+.post-release-badge {
+  display: inline-block;
+  background: rgba(239,68,68,0.15);
+  color: #ef4444;
+  font-size: 10px;
+  font-weight: 700;
+  padding: 2px 7px;
+  border-radius: 10px;
+  margin-left: 6px;
+  vertical-align: middle;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* ─── Post Cards ────────────────────────────────────────────────────── */
 .posts-list { display: flex; flex-direction: column; gap: 16px; }
 
 .post-card {
@@ -553,17 +632,51 @@ body {
 
 <!-- ─── CONTENT TAB ─────────────────────────────────────────────────────── -->
 <section class="panel active" id="panel-content">
-  <div class="section-header">
-    <span class="section-title">Today's Posts</span>
-    <span class="section-badge" id="postCount">—</span>
-  </div>
-  <div class="posts-list" id="postsList">
-    <div class="empty-state">
-      <div class="empty-icon">📝</div>
-      <div class="empty-title">No posts yet</div>
-      <div class="empty-desc">Posts will appear here after the 6:30 AM scraper run.</div>
+
+  <!-- Morning Brief Section -->
+  <div class="batch-section" id="section-morning">
+    <div class="batch-header-bar morning-bar">
+      <div class="batch-title-group">
+        <span class="batch-icon">🌅</span>
+        <span class="batch-title">Morning Brief</span>
+        <span class="batch-time">6:30 AM</span>
+      </div>
+      <div class="batch-right">
+        <span class="section-badge" id="morningCount">—</span>
+        <button class="btn-copy-all" onclick="copyAllPosts('morning')">Copy All</button>
+      </div>
+    </div>
+    <div class="posts-list" id="morningPosts">
+      <div class="empty-state">
+        <div class="empty-icon">🌅</div>
+        <div class="empty-title">No morning posts yet</div>
+        <div class="empty-desc">Morning batch posts will appear here after the 6:30 AM run.</div>
+      </div>
     </div>
   </div>
+
+  <!-- Afternoon Update Section -->
+  <div class="batch-section" id="section-afternoon">
+    <div class="batch-header-bar afternoon-bar">
+      <div class="batch-title-group">
+        <span class="batch-icon">☀️</span>
+        <span class="batch-title">Afternoon Update</span>
+        <span class="batch-time">1:00 PM</span>
+      </div>
+      <div class="batch-right">
+        <span class="section-badge" id="afternoonCount">—</span>
+        <button class="btn-copy-all" onclick="copyAllPosts('afternoon')">Copy All</button>
+      </div>
+    </div>
+    <div class="posts-list" id="afternoonPosts">
+      <div class="empty-state">
+        <div class="empty-icon">☀️</div>
+        <div class="empty-title">Waiting for afternoon run</div>
+        <div class="empty-desc">Afternoon batch generates at 1 PM EST with 10 fresh posts.</div>
+      </div>
+    </div>
+  </div>
+
 </section>
 
 <!-- ─── PAYROLL TAB ────────────────────────────────────────────────────── -->
@@ -654,20 +767,19 @@ function fallbackCopy(btn, text) {
 function scoreClass(n) { return n >= 90 ? 'high' : 'mid'; }
 function scoreLabel(n) { return `🎯 ${n}%`; }
 
-// ─── Render Content Tab ────────────────────────────────────────────────────
-function renderContent(data) {
-  const posts = data.content.posts;
-  document.getElementById('postCount').textContent = `${posts.length} posts`;
-
-  const html = posts.map(p => `
+// ─── Post Card HTML ─────────────────────────────────────────────────────────
+function postCardHtml(p) {
+  const releaseBadge = p.is_feature_release
+    ? `<span class="post-release-badge">🔥 Release</span>` : '';
+  return `
     <article class="post-card">
       <div class="post-image-wrap">
         <img src="${p.image_url}" alt="${escHtml(p.topic)}" loading="lazy" onerror="this.style.opacity=0">
-        <span class="post-category-badge ${p.category.toLowerCase()}">${p.category}</span>
+        <span class="post-category-badge ${(p.category||'ai').toLowerCase()}">${p.category}</span>
         <span class="post-score-badge ${scoreClass(p.voice_score)}">${scoreLabel(p.voice_score)}</span>
       </div>
       <div class="post-body">
-        <div class="post-topic">${escHtml(p.topic)}</div>
+        <div class="post-topic">${escHtml(p.topic)}${releaseBadge}</div>
         <div class="post-text">${escHtml(p.post_text)}</div>
         <div class="post-meta">
           <a class="post-source" href="${p.source_url}" target="_blank" rel="noopener">
@@ -677,17 +789,110 @@ function renderContent(data) {
         </div>
       </div>
       <div class="post-actions">
-        <button class="btn-copy" onclick="copyPost(this, ${p.id})">
+        <button class="btn-copy" onclick="copyPostById(this, '${p.batch||'morning'}', ${p.id})">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/>
           </svg>
           <span class="copy-label">Copy Post</span>
         </button>
       </div>
-    </article>
-  `).join('');
+    </article>`;
+}
 
-  document.getElementById('postsList').innerHTML = html;
+// ─── Copy All Posts ─────────────────────────────────────────────────────────
+function copyAllPosts(batch) {
+  const data = window._data;
+  if (!data || !data.content) return;
+  const section = data.content[batch];
+  if (!section || !section.posts || !section.posts.length) {
+    showToast('No posts to copy');
+    return;
+  }
+  const allText = section.posts.map((p, i) =>
+    `--- Post ${i+1} ---\n${p.post_text}\n`
+  ).join('\n');
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(allText).then(() => {
+      showToast(`✓ Copied all ${section.posts.length} ${batch} posts!`);
+    }).catch(() => {
+      const ta = document.createElement('textarea');
+      ta.value = allText;
+      ta.style.cssText = 'position:fixed;top:-9999px;left:-9999px;';
+      document.body.appendChild(ta);
+      ta.select();
+      document.execCommand('copy');
+      document.body.removeChild(ta);
+      showToast(`✓ Copied all ${section.posts.length} ${batch} posts!`);
+    });
+  }
+}
+
+// ─── Copy Single Post by Batch + ID ────────────────────────────────────────
+function copyPostById(btn, batch, postId) {
+  const data = window._data;
+  if (!data) return;
+  const section = data.content[batch];
+  const post = section ? section.posts.find(p => p.id === postId)
+                       : (data.content.posts || []).find(p => p.id === postId);
+  if (!post) return;
+  const text = post.post_text;
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(text).then(() => {
+      btn.classList.add('copied');
+      btn.querySelector('.copy-label').textContent = 'Copied!';
+      showToast('✓ Copied to clipboard!');
+      setTimeout(() => { btn.classList.remove('copied'); btn.querySelector('.copy-label').textContent = 'Copy Post'; }, 2500);
+    }).catch(() => fallbackCopy(btn, text));
+  } else {
+    fallbackCopy(btn, text);
+  }
+}
+
+// Keep backward compat
+function copyPost(btn, postId) { copyPostById(btn, 'morning', postId); }
+
+// ─── Render Content Tab ────────────────────────────────────────────────────
+function renderContent(data) {
+  const content = data.content || {};
+
+  // Morning batch
+  const morning = content.morning;
+  if (morning && morning.posts && morning.posts.length > 0) {
+    document.getElementById('morningCount').textContent = `${morning.posts.length} posts`;
+    document.getElementById('morningPosts').innerHTML = morning.posts.map(postCardHtml).join('');
+  } else {
+    // Fall back to combined posts (legacy format)
+    const allPosts = content.posts || [];
+    const morningPosts = allPosts.filter(p => !p.batch || p.batch === 'morning');
+    if (morningPosts.length > 0) {
+      document.getElementById('morningCount').textContent = `${morningPosts.length} posts`;
+      document.getElementById('morningPosts').innerHTML = morningPosts.map(postCardHtml).join('');
+      // Patch data for copyAll
+      if (!content.morning) {
+        content.morning = { posts: morningPosts };
+        data.content.morning = content.morning;
+      }
+    }
+  }
+
+  // Afternoon batch
+  const afternoon = content.afternoon;
+  if (afternoon && afternoon.posts && afternoon.posts.length > 0) {
+    document.getElementById('afternoonCount').textContent = `${afternoon.posts.length} posts`;
+    document.getElementById('afternoonPosts').innerHTML = afternoon.posts.map(postCardHtml).join('');
+  } else {
+    // Check combined posts for afternoon batch
+    const allPosts = content.posts || [];
+    const afternoonPosts = allPosts.filter(p => p.batch === 'afternoon');
+    if (afternoonPosts.length > 0) {
+      document.getElementById('afternoonCount').textContent = `${afternoonPosts.length} posts`;
+      document.getElementById('afternoonPosts').innerHTML = afternoonPosts.map(postCardHtml).join('');
+      if (!content.afternoon) {
+        content.afternoon = { posts: afternoonPosts };
+        data.content.afternoon = content.afternoon;
+      }
+    }
+  }
 }
 
 // ─── Render Payroll Tab ────────────────────────────────────────────────────
