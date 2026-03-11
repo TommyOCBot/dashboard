@@ -1,19 +1,127 @@
 {
-  "generated_at": "2026-03-11T08:43:34.951162-04:00",
+  "generated_at": "2026-03-11T08:46:09.549424-04:00",
   "date": "2026-03-11",
   "content": {
     "posts": [
       {
         "id": 1,
         "category": "AI",
-        "topic": "No scraper output yet \u2014 posts will appear after 6:30 AM run",
-        "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
-        "source_url": "#",
-        "source_label": "Pending",
-        "voice_score": 0,
-        "hashtags": "",
+        "topic": "I know that writing style....",
+        "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80&sig=800",
+        "source_url": "https://i.redd.it/v3huyobfz7og1.jpeg",
+        "source_label": "reddit/r/ChatGPT",
+        "voice_score": 70,
+        "hashtags": "#AI #AIThatScales",
         "platforms": "Facebook + Instagram",
-        "post_text": "Posts will be auto-populated here after the daily content scraper runs at 6:30 AM EST.\n\nRun manually: cd projects/content-generator && python run_daily.py"
+        "post_text": "I know that writing style...."
+      },
+      {
+        "id": 2,
+        "category": "AI",
+        "topic": "What",
+        "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80&sig=900",
+        "source_url": "https://i.redd.it/k4yeyvberbog1.jpeg",
+        "source_label": "reddit/r/ChatGPT",
+        "voice_score": 70,
+        "hashtags": "#AIThatScales #AI #ArtificialIntelligence #Automation",
+        "platforms": "Facebook + Instagram",
+        "post_text": "What"
+      },
+      {
+        "id": 3,
+        "category": "AI",
+        "topic": "Reverse Turing Test",
+        "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80&sig=700",
+        "source_url": "https://i.redd.it/dc8mtgzvnbog1.jpeg",
+        "source_label": "reddit/r/ChatGPT",
+        "voice_score": 70,
+        "hashtags": "#AI #AIThatScales",
+        "platforms": "Facebook + Instagram",
+        "post_text": "Reverse Turing Test"
+      },
+      {
+        "id": 4,
+        "category": "AI",
+        "topic": "Kurt Cobain shows up...",
+        "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80&sig=600",
+        "source_url": "https://v.redd.it/w1j46g4638og1",
+        "source_label": "reddit/r/ChatGPT",
+        "voice_score": 70,
+        "hashtags": "#AI #AIThatScales",
+        "platforms": "Facebook + Instagram",
+        "post_text": "Kurt Cobain shows up..."
+      },
+      {
+        "id": 5,
+        "category": "AI",
+        "topic": "This guy \ud83e\udd21",
+        "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80&sig=500",
+        "source_url": "https://www.reddit.com/gallery/1rq2ukc",
+        "source_label": "reddit/r/LocalLLaMA",
+        "voice_score": 88,
+        "hashtags": "#AIThatScales #AI #ArtificialIntelligence #Automation",
+        "platforms": "Facebook + Instagram",
+        "post_text": "Watched someone try to charge $500/month for a closed-source wrapper around an open-source LLM this morning. Here's the thing \u2014 I get it, packaging matters, and support has value. But when you're hiding what's actually under the hood and charging premium prices for it, you're betting people won't figure it out. They always do. The wild part? T3 Code is MIT licensed and sitting right there free. Same capabilities, full transparency. I've made plenty of mistakes in business, but trying to obscure what I'm actually selling isn't one I'd make twice. Build on open-source, sure, but be honest about it. Your reputation is worth way more than that one-time revenue grab. What's your take \u2014 does transparency actually matter to you when you're picking tools?\n\n#OpenSource #AI #LocalLLM #Transparency #BuildInPublic #TechTruth"
+      },
+      {
+        "id": 6,
+        "category": "AI",
+        "topic": "I regret ever finding LocalLLaMA",
+        "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80&sig=400",
+        "source_url": "https://www.reddit.com/r/LocalLLaMA/comments/1rq8ijl/i_regret_ever_finding_localllama/",
+        "source_label": "reddit/r/LocalLLaMA",
+        "voice_score": 70,
+        "hashtags": "#AI #AIThatScales",
+        "platforms": "Facebook + Instagram",
+        "post_text": "I regret ever finding LocalLLaMA"
+      },
+      {
+        "id": 7,
+        "category": "AI",
+        "topic": "ChatGPT vs Gemini vs Claude vs Perplexity: I gave them $1k each to trade stocks. After 9 weeks, ChatGPT went from frozen in cash to +21% (one stock doubled)",
+        "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80&sig=300",
+        "source_url": "https://www.reddit.com/r/ChatGPT/comments/1rq33za/chatgpt_vs_gemini_vs_claude_vs_perplexity_i_gave/",
+        "source_label": "reddit/r/ChatGPT",
+        "voice_score": 92,
+        "hashtags": "#AI #AIThatScales",
+        "platforms": "Facebook + Instagram",
+        "post_text": "ChatGPT vs Gemini vs Claude vs Perplexity: I gave them $1k each to trade stocks. After 9 weeks, ChatGPT went from frozen in cash to +21% (one stock doubled)"
+      },
+      {
+        "id": 8,
+        "category": "WORLD",
+        "topic": "Report: U.S. detects signs Iran preparing to lay mines in Strait of Hormuz",
+        "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80&sig=200",
+        "source_url": "https://www.ynetnews.com/article/bkfkxa4i4",
+        "source_label": "reddit/r/worldnews",
+        "voice_score": 94,
+        "hashtags": "#AI #AIThatScales",
+        "platforms": "Facebook + Instagram",
+        "post_text": "Report: U.S. detects signs Iran preparing to lay mines in Strait of Hormuz"
+      },
+      {
+        "id": 9,
+        "category": "WORLD",
+        "topic": "Iran begins laying mines in Strait of Hormuz, sources say",
+        "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80&sig=100",
+        "source_url": "https://www.cnn.com/2026/03/10/politics/iran-begins-laying-mines-in-strait-of-hormuz",
+        "source_label": "reddit/r/worldnews",
+        "voice_score": 88,
+        "hashtags": "#AI #AIThatScales",
+        "platforms": "Facebook + Instagram",
+        "post_text": "Iran begins laying mines in Strait of Hormuz, sources say"
+      },
+      {
+        "id": 10,
+        "category": "WORLD",
+        "topic": "Zelenskyy: Ukraine now has cards and everyone understands it",
+        "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80&sig=150",
+        "source_url": "https://www.pravda.com.ua/eng/news/2026/03/11/8024901/",
+        "source_label": "reddit/r/worldnews",
+        "voice_score": 90,
+        "hashtags": "#AI #AIThatScales",
+        "platforms": "Facebook + Instagram",
+        "post_text": "Zelenskyy: Ukraine now has cards and everyone understands it"
       }
     ]
   },
@@ -74,7 +182,7 @@
     }
   },
   "operations": {
-    "last_updated": "2026-03-11T08:43:34.960297-04:00",
+    "last_updated": "2026-03-11T08:46:09.560054-04:00",
     "properties": {
       "total": 30,
       "occupied_today": 22,
