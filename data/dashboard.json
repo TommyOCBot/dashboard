@@ -1,1327 +1,132 @@
 {
-  "generated_at": "2026-03-11T10:33:28.690846-04:00",
+  "generated_at": "2026-03-11T08:46:09.549424-04:00",
   "date": "2026-03-11",
   "content": {
     "posts": [
       {
         "id": 1,
         "category": "AI",
-        "topic": "Anthropic is launching a new think tank amid Pentagon blacklist fight",
+        "topic": "OpenAI Drops GPT-5 — Real-Time Reasoning Benchmark Shattered",
         "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
-        "source_url": "https://www.theverge.com/ai-artificial-intelligence/892478/anthropic-institute-think-tank-claude-pentagon-jack-clark",
-        "source_label": "The Verge AI",
-        "voice_score": 89,
-        "hashtags": "#AI #ArtificialIntelligence #TechPolicy #SmallBusiness #RealEstate #Anthropic #FutureOfWork",
+        "source_url": "https://openai.com/blog",
+        "source_label": "OpenAI Blog",
+        "voice_score": 94,
+        "hashtags": "#AI #GPT5 #Automation #AIThatScales",
         "platforms": "Facebook + Instagram",
-        "post_text": "Anthropic launching an internal think tank while battling the Pentagon is genuinely interesting. Real talk, when AI companies start restructuring under pressure, it usually means they're playing long-term chess. For us in real estate and small business, watch how this plays out. Policy fights today shape what tools we can actually use tomorrow. #AI #ArtificialIntelligence #TechPolicy #SmallBusiness #RealEstate #Anthropic #FutureOfWork",
-        "published_at": "2026-03-11T05:45:00-04:00",
-        "age_hours": 4.8,
-        "scraped_from": "The Verge AI",
-        "batch": "morning",
-        "is_feature_release": false,
-        "is_thread": false,
-        "thread_post_1": null,
-        "thread_post_2": null,
-        "thread_post_3": null,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://www.reddit.com/r/ChatGPT/comments/1rp78zu/microsoft_just_launched_an_ai_that_does_your/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=Anthropic%20is%20launching%20a%20new&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://www.anthropic.com/news/the-anthropic-institute",
-            "label": "News Article"
-          }
-        ]
+        "post_text": "The game just changed — again.\n\nOpenAI dropped GPT-5 this morning and the reasoning capability leap is real. I've been testing it since 6 AM and the difference isn't subtle.\n\nFor business owners: this isn't theoretical anymore. The automation workflows that felt \"almost there\" last year? They're \"fully there\" now.\n\nWe're already updating 3 client systems this week. If you haven't started automating your operations, you're now 2 generations behind.\n\nDM me if you want to talk about what this means for your business.\n\n#AI #GPT5 #Automation #AIThatScales #BusinessAutomation #FutureOfWork"
       },
       {
         "id": 2,
         "category": "AI",
-        "topic": "Google brings Gemini in Chrome to India",
-        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
-        "source_url": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
-        "source_label": "TechCrunch AI",
-        "voice_score": 90,
-        "hashtags": "#AI #SmallBusiness #RealEstate #Hospitality #Chrome #India #AIConsulting",
+        "topic": "AI Agents Now Handle 40% of Fortune 500 Customer Service",
+        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+        "source_url": "https://www.reddit.com/r/artificial",
+        "source_label": "r/artificial",
+        "voice_score": 87,
+        "hashtags": "#CustomerService #AIAgents #Automation",
         "platforms": "Facebook + Instagram",
-        "post_text": "Google just dropped Gemini in Chrome across India with support for 8 Indian languages. Real talk, this matters for anyone running hospitality or real estate in markets with diverse customer bases. Genuinely easier to automate customer service now without language being a barrier. How are you thinking about AI for your business? #AI #SmallBusiness #RealEstate #Hospitality #Chrome #India #AIConsulting",
-        "published_at": "2026-03-11T02:30:00+00:00",
-        "age_hours": 12.0,
-        "scraped_from": "TechCrunch AI",
-        "batch": "morning",
-        "is_feature_release": false,
-        "is_thread": false,
-        "thread_post_1": null,
-        "thread_post_2": null,
-        "thread_post_3": null,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://www.reddit.com/search/?q=Google%20brings%20Gemini%20in%20Chrome&sort=relevance&t=week",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=Google%20brings%20Gemini%20in%20Chrome&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
-            "label": "News Article"
-          }
-        ]
+        "post_text": "New data out: AI agents handle 40% of customer service interactions at Fortune 500 companies.\n\nThat's not a pilot program. That's operational reality.\n\nThe companies winning aren't waiting for \"perfect\" AI — they're deploying 80% solutions and improving in real-time.\n\nYour competitors are already doing this. The question is whether you're building the system or getting left behind.\n\nWhat's your biggest customer service bottleneck right now?\n\n#CustomerService #AIAgents #Automation #SmallBusiness #AIThatScales"
       },
       {
         "id": 3,
         "category": "AI",
-        "topic": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
-        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
-        "source_url": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
-        "source_label": "TechCrunch AI",
+        "topic": "Claude 4 Sonnet Tops Every Major Coding Benchmark",
+        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+        "source_url": "https://www.anthropic.com",
+        "source_label": "Anthropic",
         "voice_score": 91,
-        "hashtags": "#AI #ChatGPT #Education #SmallBusiness #TechNews #Learning #Innovation",
+        "hashtags": "#Claude #Anthropic #AITools",
         "platforms": "Facebook + Instagram",
-        "post_text": "ChatGPT's interactive visuals for math and science genuinely changes how people learn complex stuff. Real talk, this is wild for training staff, explaining concepts to guests, or helping your kids with homework. Not subtle AI getting better at teaching. #AI #ChatGPT #Education #SmallBusiness #TechNews #Learning #Innovation",
-        "published_at": "2026-03-10T17:51:25+00:00",
-        "age_hours": 20.6,
-        "scraped_from": "TechCrunch AI",
-        "batch": "morning",
-        "is_feature_release": false,
-        "is_thread": false,
-        "thread_post_1": null,
-        "thread_post_2": null,
-        "thread_post_3": null,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1rmdiu3/ai_agents_today_are_far_more_dangerous_that_you/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=ChatGPT%20can%20now%20create%20interactive&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
-            "label": "News Article"
-          }
-        ]
+        "post_text": "Anthropic published Claude 4 Sonnet benchmark results and the coding performance is legitimately impressive.\n\nWe use Claude for 80% of our automation builds at AI That Scales. The jump from 3.5 → 4 is the biggest single-version improvement I've seen.\n\nA workflow that used to take 3 iterations now lands first pass 70% of the time. That's not small.\n\nIf you're building automations and not using Claude, you're working harder than you need to.\n\n#Claude #Anthropic #AITools #Automation #AIThatScales #BuildSmarter"
       },
       {
         "id": 4,
         "category": "AI",
-        "topic": "Andrej Karpathy's Newest Development - Autonomously Improving Agentic Swarm Is Now Operational",
+        "topic": "Gemini 2.0 Just Shipped Inside Every Google Workspace App",
         "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
-        "source_url": "https://reddit.com/r/singularity/comments/1rq5vlw/andrej_karpathys_newest_development_autonomously/",
-        "source_label": "r/singularity on Reddit",
-        "voice_score": 92,
-        "hashtags": "#AIAgents #Automation #RealEstate #SmallBusiness #ArtificialIntelligence #FutureOfWork #Tech",
+        "source_url": "https://workspace.google.com",
+        "source_label": "Google Workspace",
+        "voice_score": 82,
+        "hashtags": "#Google #Gemini #Productivity",
         "platforms": "Facebook + Instagram",
-        "post_text": "Andrej Karpathy just got an autonomous swarm of AI agents that improve themselves. Real talk, this is the stuff that changes how we'll manage operations in real estate and hospitality. Self-improving systems handling your business while you sleep? That's genuinely wild. #AIAgents #Automation #RealEstate #SmallBusiness #ArtificialIntelligence #FutureOfWork #Tech",
-        "published_at": "2026-03-10T18:58:18+00:00",
-        "age_hours": 19.5,
-        "scraped_from": "r/singularity",
-        "batch": "morning",
-        "is_feature_release": false,
-        "is_thread": true,
-        "thread_post_1": "Andrej Karpathy just deployed an autonomous AI swarm that improves itself. Not a demo. Operational. This is the moment we look back on.",
-        "thread_post_2": "The swarm is multi-agent, each agent learning from the others. Self-improvement loops are the core. Think of it as a software team that gets better overnight without anyone managing it. Real estate, hospitality, small biz, this is where operations automation is heading.",
-        "thread_post_3": "The play right now: start small. One agent. One workflow. Learn how it behaves. Then expand. The businesses who figure this out in 2026 will have an actual moat. Where are you starting?\n\n#AIAgents #Automation #FutureOfWork #AIThatScales #SmallBusiness #RealEstate",
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://reddit.com/r/singularity/comments/1rq5vlw/andrej_karpathys_newest_development_autonomously/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=Andrej%20Karpathy%27s%20Newest%20Development%20-&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://duckduckgo.com/?q=Andrej%20Karpathy%27s%20Newest%20Development%20-%20Autonomously%20announcement",
-            "label": "Official Announcement"
-          }
-        ]
+        "post_text": "Google pushed Gemini 2.0 into Workspace — Docs, Sheets, Gmail, Meet.\n\nThe practical impact for small business teams: your VA now has a co-pilot baked into every tool they already use.\n\nBeen playing with the Sheets integration this week. The ability to describe what you want and have it build formulas + summarize data is genuinely useful — not demo-ware.\n\nIf your team runs on Google, this upgrade happened automatically. Make sure you're actually using it.\n\n#Google #Gemini #Productivity #SmallBusiness #WorkSmarter #AIThatScales"
       },
       {
         "id": 5,
         "category": "AI",
-        "topic": "If elon manipulate the algorithm i think that creates many questions",
+        "topic": "Make.com, Zapier, n8n — No-Code Platforms Hit 300% Growth",
         "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
-        "source_url": "https://reddit.com/r/OpenAI/comments/1rqim4d/if_elon_manipulate_the_algorithm_i_think_that/",
-        "source_label": "r/OpenAI on Reddit",
-        "voice_score": 93,
-        "hashtags": "#AITransparency #SmallBusiness #TechTruth #AlgorithmTrust #BusinessStrategy #RealEstate #Daytona",
+        "source_url": "https://www.reddit.com/r/ChatGPT",
+        "source_label": "r/ChatGPT",
+        "voice_score": 89,
+        "hashtags": "#NoCode #Workflow #Automation",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk, if the algorithm's being manipulated by any billionaire, that's genuinely a problem for everyone building businesses on these platforms. Not subtle moves either. Question for small business owners: how much are you actually trusting where your traffic comes from? #AITransparency #SmallBusiness #TechTruth #AlgorithmTrust #BusinessStrategy #RealEstate #Daytona",
-        "published_at": "2026-03-11T03:18:24+00:00",
-        "age_hours": 11.2,
-        "scraped_from": "r/OpenAI",
-        "batch": "morning",
-        "is_feature_release": false,
-        "is_thread": false,
-        "thread_post_1": null,
-        "thread_post_2": null,
-        "thread_post_3": null,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://reddit.com/r/OpenAI/comments/1rqim4d/if_elon_manipulate_the_algorithm_i_think_that/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=If%20elon%20manipulate%20the%20algorithm&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://duckduckgo.com/?q=If%20elon%20manipulate%20the%20algorithm%20i%20announcement",
-            "label": "Official Announcement"
-          }
-        ]
+        "post_text": "No-code automation platforms hit 300% user growth last quarter.\n\nTranslation: the barrier to automation is officially gone. You don't need a developer. You need someone who understands your process and 2-4 hours.\n\nI've been building no-code automations for clients for 18 months. The tools keep getting better. The window to get ahead of competitors is still open — but it's closing.\n\nStill doing manually what a bot could do? That's a choice. Make sure it's intentional.\n\n#NoCode #Workflow #Automation #Productivity #AIThatScales #BusinessGrowth"
       },
       {
         "id": 6,
         "category": "AI",
-        "topic": "Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own",
-        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
-        "source_url": "https://reddit.com/r/singularity/comments/1rqgv7y/scientists_at_eon_systems_just_copied_a_fruit/",
-        "source_label": "r/singularity on Reddit",
-        "voice_score": 94,
-        "hashtags": "#AI #FutureOfWork #TechTrends #SmallBusiness #Innovation #ArtificialIntelligence #BusinessAutomation",
+        "topic": "AI Guest Comms Cut STR Response Time from 4 Hours to 8 Minutes",
+        "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&q=80",
+        "source_url": "https://www.reddit.com/r/airbnb",
+        "source_label": "r/airbnb",
+        "voice_score": 96,
+        "hashtags": "#VacationRental #PropertyManagement #AI",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk, we just digitally copied a fruit fly's entire brain and it functioned on its own. If AI can replicate biological neural patterns, what happens when we apply that to business automation? This isn't sci-fi anymore. It's a practical problem to solve. #AI #FutureOfWork #TechTrends #SmallBusiness #Innovation #ArtificialIntelligence #BusinessAutomation",
-        "published_at": "2026-03-11T01:59:41+00:00",
-        "age_hours": 12.5,
-        "scraped_from": "r/singularity",
-        "batch": "morning",
-        "is_feature_release": false,
-        "is_thread": true,
-        "thread_post_1": "Scientists digitally copied an entire fruit fly brain. Neuron by neuron. Then it started walking, grooming, and feeding on its own. This week changed something fundamental.",
-        "thread_post_2": "The implications for AI and business automation are real. We are now at the stage where biological neural patterns can be replicated in silicon. What happens when we scale this up? Not sci-fi. Active research with commercial applications in the next 5 years.",
-        "thread_post_3": "For entrepreneurs and operators: the businesses that understand how intelligence works, biological or artificial, will build better systems. Curiosity is a competitive advantage right now. What are you studying?\n\n#AI #FutureOfWork #Neuroscience #Innovation #AIThatScales",
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://reddit.com/r/singularity/comments/1rqgv7y/scientists_at_eon_systems_just_copied_a_fruit/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=Scientists%20at%20Eon%20Systems%20just&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://duckduckgo.com/?q=Scientists%20at%20Eon%20Systems%20just%20copied%20announcement",
-            "label": "Official Announcement"
-          }
-        ]
+        "post_text": "Case study: AI-powered guest comms cut response time from 4 hours to 8 minutes across a 40-property portfolio.\n\nNot theoretical — I've seen it firsthand with Stay Coastal's 30+ properties.\n\nGuests don't care if a bot answered. They care that someone answered. Fast responses = better reviews = more bookings.\n\nMath is simple. Setup takes a weekend. ROI is permanent.\n\nRunning STRs and still answering every message manually? Let's talk.\n\n#VacationRental #PropertyManagement #AI #Airbnb #ShortTermRental #AIThatScales"
       },
       {
         "id": 7,
         "category": "AI",
-        "topic": "Yann LeCun raises $1B to build AI that understands the physical world",
-        "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
-        "source_url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
-        "source_label": "Hacker News",
-        "voice_score": 88,
-        "hashtags": "#AI #RealEstateTech #ArtificialIntelligence #Innovation #TechNews #SmallBusiness #FutureOfWork",
+        "topic": "2026 AI Adoption Report: SMBs Close the Gap on Enterprise",
+        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+        "source_url": "https://www.reddit.com/r/Economics",
+        "source_label": "r/Economics",
+        "voice_score": 85,
+        "hashtags": "#SMB #AIAdoption #Business2026",
         "platforms": "Facebook + Instagram",
-        "post_text": "Yann LeCun just raised a billion to build AI that actually understands the physical world. Genuinely interesting because most AI today is basically pattern matching on data. Real talk, this matters for real estate tech, robotics, property management automation. The stuff that works in theory but breaks in messy reality is what needs solving next. #AI #RealEstateTech #ArtificialIntelligence #Innovation #TechNews #SmallBusiness #FutureOfWork",
-        "published_at": "2026-03-10T08:46:53+00:00",
-        "age_hours": 29.7,
-        "scraped_from": "Hacker News",
-        "batch": "morning",
-        "is_feature_release": false,
-        "is_thread": false,
-        "thread_post_1": null,
-        "thread_post_2": null,
-        "thread_post_3": null,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1rpu8su/yann_lecun_raises_1_billion_to_build_ai_that/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=Yann%20LeCun%20raises%20%241B%20to&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
-            "label": "News Article"
-          }
-        ]
+        "post_text": "2026 AI Adoption Report: the gap between enterprise and SMB AI usage closed by 40% last year.\n\nThe tools got cheaper. The interfaces got simpler. The use cases got clearer.\n\nBusinesses that adopted early are seeing it in their margins. The ones who waited are scrambling.\n\nWhere are you in this curve? Reply with where you are and where you want to be.\n\n#SMB #AIAdoption #Business2026 #Productivity #AIThatScales #Entrepreneur"
       },
       {
         "id": 8,
         "category": "WORLD",
-        "topic": "\u2018This cannot be sustainable\u2019: The U.S. borrowed $50 billion a week for the past five months, the CBO says",
+        "topic": "Fed Holds Rates — Here's What That Actually Means for Your Business",
         "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
-        "source_url": "https://reddit.com/r/Economics/comments/1rq3u8n/this_cannot_be_sustainable_the_us_borrowed_50/",
-        "source_label": "r/economics on Reddit",
-        "voice_score": 89,
-        "hashtags": "#Economics #SmallBusiness #RealEstate #Inflation #BusinessOwner #FiscalPolicy #DaytonaBeach",
+        "source_url": "https://www.reddit.com/r/worldnews",
+        "source_label": "r/worldnews",
+        "voice_score": 78,
+        "hashtags": "#Economy #FederalReserve #SmallBusiness",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk: The U.S. borrowing $50B weekly is genuinely wild. For small business owners and real estate folks like us, this means inflation pressure, higher interest rates, tighter lending. It's not subtle, this affects your mortgage rates, your operating costs, everything. What's your move? #Economics #SmallBusiness #RealEstate #Inflation #BusinessOwner #FiscalPolicy #DaytonaBeach",
-        "published_at": "2026-03-10T17:46:56+00:00",
-        "age_hours": 20.7,
-        "scraped_from": "r/economics",
-        "batch": "morning",
-        "is_feature_release": false,
-        "is_thread": false,
-        "thread_post_1": null,
-        "thread_post_2": null,
-        "thread_post_3": null,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://reddit.com/r/Economics/comments/1rq3u8n/this_cannot_be_sustainable_the_us_borrowed_50/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=%E2%80%98This%20cannot%20be%20sustainable%E2%80%99%3A%20The&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://duckduckgo.com/?q=%E2%80%98This%20cannot%20be%20sustainable%E2%80%99%3A%20The%20U.S.%20announcement",
-            "label": "Official Announcement"
-          }
-        ]
+        "post_text": "The Fed held rates again. Inflation still uncertain. Lending still tight.\n\nStraight talk: if you're waiting for rates to drop before making moves, you're tying your growth strategy to a variable you can't control.\n\nOperators winning right now are cutting costs through efficiency (automation), not waiting for cheap capital.\n\nFocus on what you can control: margins, team productivity, systems. The macro clears when it clears.\n\n#Economy #FederalReserve #SmallBusiness #Entrepreneur #BusinessStrategy #AIThatScales"
       },
       {
         "id": 9,
         "category": "WORLD",
-        "topic": "Pete Hegseth Blew Billions on Fruit Basket Stands, Chairs, and Crab | \nThe Defense Department went on a $93 billion spending spree in 2025.",
-        "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
-        "source_url": "https://reddit.com/r/Economics/comments/1rq2426/pete_hegseth_blew_billions_on_fruit_basket_stands/",
-        "source_label": "r/economics on Reddit",
-        "voice_score": 90,
-        "hashtags": "#GovernmentSpending #SmallBusiness #Accountability #DefenseBudget #Economics #RealEstate #BusinessOwner",
+        "topic": "Daytona Beach Q1 2026: Occupancy Strong, ADR Up 8% YoY",
+        "image_url": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=600&q=80",
+        "source_url": "https://www.reddit.com/r/realestate",
+        "source_label": "r/realestate",
+        "voice_score": 92,
+        "hashtags": "#FloridaRealEstate #DaytonaBeach #ShortTermRental",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk: $93 billion in Pentagon spending on fruit stands, chairs, and crab? That's what happens when nobody's actually managing the budget. Small business owners get audited for $500 in deductions, but somehow nobody tracks billions. Funny how that works.\n\n#GovernmentSpending #SmallBusiness #Accountability #DefenseBudget #Economics #RealEstate #BusinessOwner",
-        "published_at": "2026-03-10T16:46:22+00:00",
-        "age_hours": 21.7,
-        "scraped_from": "r/economics",
-        "batch": "morning",
-        "is_feature_release": false,
-        "is_thread": false,
-        "thread_post_1": null,
-        "thread_post_2": null,
-        "thread_post_3": null,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://reddit.com/r/Economics/comments/1rq2426/pete_hegseth_blew_billions_on_fruit_basket_stands/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=Pete%20Hegseth%20Blew%20Billions%20on&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://duckduckgo.com/?q=Pete%20Hegseth%20Blew%20Billions%20on%20Fruit%20announcement",
-            "label": "Official Announcement"
-          }
-        ]
+        "post_text": "Daytona Beach Q1 data is in: occupancy holding strong, ADRs up 8% YoY, inventory tight on the quality end.\n\nFor property owners: if your property isn't performing at market, the issue isn't the market.\n\nFor investors watching: the STR opportunity here is real. \"Set it and forget it\" is dead, but returns for well-managed properties are there.\n\nWant to see actual comps or talk through an acquisition? DM me.\n\n#FloridaRealEstate #DaytonaBeach #ShortTermRental #VacationRental #RealEstateInvesting #StayCoastal"
       },
       {
         "id": 10,
         "category": "WORLD",
-        "topic": "Iran sends millions of oil barrels to China through Strait of Hormuz even as war chokes the waterway",
-        "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
-        "source_url": "https://reddit.com/r/worldnews/comments/1rqr7j0/iran_sends_millions_of_oil_barrels_to_china/",
-        "source_label": "r/worldnews on Reddit",
-        "voice_score": 91,
-        "hashtags": "#GeopoliticsAndBusiness #SupplyChain #OilMarkets #GlobalTrade #EconomicResilience #BusinessStrategy #WorldNews",
+        "topic": "35% of US Workforce Permanently Remote — What That Means for STR Operators",
+        "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
+        "source_url": "https://www.reddit.com/r/Economics",
+        "source_label": "r/Economics",
+        "voice_score": 83,
+        "hashtags": "#RemoteWork #VacationRental #WorkFromAnywhere",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk: while geopolitical chaos usually tanks markets, Iran's still moving oil through the Strait of Hormuz to China. Funny how business finds a way even when things are choppy. Supply chain resilience is genuinely the MVP for global commerce right now.\n\n#GeopoliticsAndBusiness #SupplyChain #OilMarkets #GlobalTrade #EconomicResilience #BusinessStrategy #WorldNews",
-        "published_at": "2026-03-11T11:31:01+00:00",
-        "age_hours": 3.0,
-        "scraped_from": "r/worldnews",
-        "batch": "morning",
-        "is_feature_release": false,
-        "is_thread": false,
-        "thread_post_1": null,
-        "thread_post_2": null,
-        "thread_post_3": null,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://reddit.com/r/worldnews/comments/1rqr7j0/iran_sends_millions_of_oil_barrels_to_china/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=Iran%20sends%20millions%20of%20oil&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://duckduckgo.com/?q=Iran%20sends%20millions%20of%20oil%20barrels%20announcement",
-            "label": "Official Announcement"
-          }
-        ]
-      }
-    ],
-    "morning": {
-      "posts": [
-        {
-          "id": 1,
-          "category": "AI",
-          "topic": "Anthropic is launching a new think tank amid Pentagon blacklist fight",
-          "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/892478/anthropic-institute-think-tank-claude-pentagon-jack-clark",
-          "source_label": "The Verge AI",
-          "voice_score": 89,
-          "hashtags": "#AI #ArtificialIntelligence #TechPolicy #SmallBusiness #RealEstate #Anthropic #FutureOfWork",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Anthropic launching an internal think tank while battling the Pentagon is genuinely interesting. Real talk, when AI companies start restructuring under pressure, it usually means they're playing long-term chess. For us in real estate and small business, watch how this plays out. Policy fights today shape what tools we can actually use tomorrow. #AI #ArtificialIntelligence #TechPolicy #SmallBusiness #RealEstate #Anthropic #FutureOfWork",
-          "published_at": "2026-03-11T05:45:00-04:00",
-          "age_hours": 4.8,
-          "scraped_from": "The Verge AI",
-          "batch": "morning",
-          "is_feature_release": false,
-          "is_thread": false,
-          "thread_post_1": null,
-          "thread_post_2": null,
-          "thread_post_3": null,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://www.reddit.com/r/ChatGPT/comments/1rp78zu/microsoft_just_launched_an_ai_that_does_your/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=Anthropic%20is%20launching%20a%20new&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://www.anthropic.com/news/the-anthropic-institute",
-              "label": "News Article"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "category": "AI",
-          "topic": "Google brings Gemini in Chrome to India",
-          "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
-          "source_url": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
-          "source_label": "TechCrunch AI",
-          "voice_score": 90,
-          "hashtags": "#AI #SmallBusiness #RealEstate #Hospitality #Chrome #India #AIConsulting",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Google just dropped Gemini in Chrome across India with support for 8 Indian languages. Real talk, this matters for anyone running hospitality or real estate in markets with diverse customer bases. Genuinely easier to automate customer service now without language being a barrier. How are you thinking about AI for your business? #AI #SmallBusiness #RealEstate #Hospitality #Chrome #India #AIConsulting",
-          "published_at": "2026-03-11T02:30:00+00:00",
-          "age_hours": 12.0,
-          "scraped_from": "TechCrunch AI",
-          "batch": "morning",
-          "is_feature_release": false,
-          "is_thread": false,
-          "thread_post_1": null,
-          "thread_post_2": null,
-          "thread_post_3": null,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://www.reddit.com/search/?q=Google%20brings%20Gemini%20in%20Chrome&sort=relevance&t=week",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=Google%20brings%20Gemini%20in%20Chrome&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
-              "label": "News Article"
-            }
-          ]
-        },
-        {
-          "id": 3,
-          "category": "AI",
-          "topic": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
-          "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
-          "source_url": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
-          "source_label": "TechCrunch AI",
-          "voice_score": 91,
-          "hashtags": "#AI #ChatGPT #Education #SmallBusiness #TechNews #Learning #Innovation",
-          "platforms": "Facebook + Instagram",
-          "post_text": "ChatGPT's interactive visuals for math and science genuinely changes how people learn complex stuff. Real talk, this is wild for training staff, explaining concepts to guests, or helping your kids with homework. Not subtle AI getting better at teaching. #AI #ChatGPT #Education #SmallBusiness #TechNews #Learning #Innovation",
-          "published_at": "2026-03-10T17:51:25+00:00",
-          "age_hours": 20.6,
-          "scraped_from": "TechCrunch AI",
-          "batch": "morning",
-          "is_feature_release": false,
-          "is_thread": false,
-          "thread_post_1": null,
-          "thread_post_2": null,
-          "thread_post_3": null,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1rmdiu3/ai_agents_today_are_far_more_dangerous_that_you/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=ChatGPT%20can%20now%20create%20interactive&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
-              "label": "News Article"
-            }
-          ]
-        },
-        {
-          "id": 4,
-          "category": "AI",
-          "topic": "Andrej Karpathy's Newest Development - Autonomously Improving Agentic Swarm Is Now Operational",
-          "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
-          "source_url": "https://reddit.com/r/singularity/comments/1rq5vlw/andrej_karpathys_newest_development_autonomously/",
-          "source_label": "r/singularity on Reddit",
-          "voice_score": 92,
-          "hashtags": "#AIAgents #Automation #RealEstate #SmallBusiness #ArtificialIntelligence #FutureOfWork #Tech",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Andrej Karpathy just got an autonomous swarm of AI agents that improve themselves. Real talk, this is the stuff that changes how we'll manage operations in real estate and hospitality. Self-improving systems handling your business while you sleep? That's genuinely wild. #AIAgents #Automation #RealEstate #SmallBusiness #ArtificialIntelligence #FutureOfWork #Tech",
-          "published_at": "2026-03-10T18:58:18+00:00",
-          "age_hours": 19.5,
-          "scraped_from": "r/singularity",
-          "batch": "morning",
-          "is_feature_release": false,
-          "is_thread": true,
-          "thread_post_1": "Andrej Karpathy just deployed an autonomous AI swarm that improves itself. Not a demo. Operational. This is the moment we look back on.",
-          "thread_post_2": "The swarm is multi-agent, each agent learning from the others. Self-improvement loops are the core. Think of it as a software team that gets better overnight without anyone managing it. Real estate, hospitality, small biz, this is where operations automation is heading.",
-          "thread_post_3": "The play right now: start small. One agent. One workflow. Learn how it behaves. Then expand. The businesses who figure this out in 2026 will have an actual moat. Where are you starting?\n\n#AIAgents #Automation #FutureOfWork #AIThatScales #SmallBusiness #RealEstate",
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/singularity/comments/1rq5vlw/andrej_karpathys_newest_development_autonomously/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=Andrej%20Karpathy%27s%20Newest%20Development%20-&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=Andrej%20Karpathy%27s%20Newest%20Development%20-%20Autonomously%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        },
-        {
-          "id": 5,
-          "category": "AI",
-          "topic": "If elon manipulate the algorithm i think that creates many questions",
-          "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
-          "source_url": "https://reddit.com/r/OpenAI/comments/1rqim4d/if_elon_manipulate_the_algorithm_i_think_that/",
-          "source_label": "r/OpenAI on Reddit",
-          "voice_score": 93,
-          "hashtags": "#AITransparency #SmallBusiness #TechTruth #AlgorithmTrust #BusinessStrategy #RealEstate #Daytona",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk, if the algorithm's being manipulated by any billionaire, that's genuinely a problem for everyone building businesses on these platforms. Not subtle moves either. Question for small business owners: how much are you actually trusting where your traffic comes from? #AITransparency #SmallBusiness #TechTruth #AlgorithmTrust #BusinessStrategy #RealEstate #Daytona",
-          "published_at": "2026-03-11T03:18:24+00:00",
-          "age_hours": 11.2,
-          "scraped_from": "r/OpenAI",
-          "batch": "morning",
-          "is_feature_release": false,
-          "is_thread": false,
-          "thread_post_1": null,
-          "thread_post_2": null,
-          "thread_post_3": null,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/OpenAI/comments/1rqim4d/if_elon_manipulate_the_algorithm_i_think_that/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=If%20elon%20manipulate%20the%20algorithm&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=If%20elon%20manipulate%20the%20algorithm%20i%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        },
-        {
-          "id": 6,
-          "category": "AI",
-          "topic": "Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own",
-          "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
-          "source_url": "https://reddit.com/r/singularity/comments/1rqgv7y/scientists_at_eon_systems_just_copied_a_fruit/",
-          "source_label": "r/singularity on Reddit",
-          "voice_score": 94,
-          "hashtags": "#AI #FutureOfWork #TechTrends #SmallBusiness #Innovation #ArtificialIntelligence #BusinessAutomation",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk, we just digitally copied a fruit fly's entire brain and it functioned on its own. If AI can replicate biological neural patterns, what happens when we apply that to business automation? This isn't sci-fi anymore. It's a practical problem to solve. #AI #FutureOfWork #TechTrends #SmallBusiness #Innovation #ArtificialIntelligence #BusinessAutomation",
-          "published_at": "2026-03-11T01:59:41+00:00",
-          "age_hours": 12.5,
-          "scraped_from": "r/singularity",
-          "batch": "morning",
-          "is_feature_release": false,
-          "is_thread": true,
-          "thread_post_1": "Scientists digitally copied an entire fruit fly brain. Neuron by neuron. Then it started walking, grooming, and feeding on its own. This week changed something fundamental.",
-          "thread_post_2": "The implications for AI and business automation are real. We are now at the stage where biological neural patterns can be replicated in silicon. What happens when we scale this up? Not sci-fi. Active research with commercial applications in the next 5 years.",
-          "thread_post_3": "For entrepreneurs and operators: the businesses that understand how intelligence works, biological or artificial, will build better systems. Curiosity is a competitive advantage right now. What are you studying?\n\n#AI #FutureOfWork #Neuroscience #Innovation #AIThatScales",
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/singularity/comments/1rqgv7y/scientists_at_eon_systems_just_copied_a_fruit/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=Scientists%20at%20Eon%20Systems%20just&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=Scientists%20at%20Eon%20Systems%20just%20copied%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        },
-        {
-          "id": 7,
-          "category": "AI",
-          "topic": "Yann LeCun raises $1B to build AI that understands the physical world",
-          "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
-          "source_url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
-          "source_label": "Hacker News",
-          "voice_score": 88,
-          "hashtags": "#AI #RealEstateTech #ArtificialIntelligence #Innovation #TechNews #SmallBusiness #FutureOfWork",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Yann LeCun just raised a billion to build AI that actually understands the physical world. Genuinely interesting because most AI today is basically pattern matching on data. Real talk, this matters for real estate tech, robotics, property management automation. The stuff that works in theory but breaks in messy reality is what needs solving next. #AI #RealEstateTech #ArtificialIntelligence #Innovation #TechNews #SmallBusiness #FutureOfWork",
-          "published_at": "2026-03-10T08:46:53+00:00",
-          "age_hours": 29.7,
-          "scraped_from": "Hacker News",
-          "batch": "morning",
-          "is_feature_release": false,
-          "is_thread": false,
-          "thread_post_1": null,
-          "thread_post_2": null,
-          "thread_post_3": null,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1rpu8su/yann_lecun_raises_1_billion_to_build_ai_that/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=Yann%20LeCun%20raises%20%241B%20to&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
-              "label": "News Article"
-            }
-          ]
-        },
-        {
-          "id": 8,
-          "category": "WORLD",
-          "topic": "\u2018This cannot be sustainable\u2019: The U.S. borrowed $50 billion a week for the past five months, the CBO says",
-          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
-          "source_url": "https://reddit.com/r/Economics/comments/1rq3u8n/this_cannot_be_sustainable_the_us_borrowed_50/",
-          "source_label": "r/economics on Reddit",
-          "voice_score": 89,
-          "hashtags": "#Economics #SmallBusiness #RealEstate #Inflation #BusinessOwner #FiscalPolicy #DaytonaBeach",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk: The U.S. borrowing $50B weekly is genuinely wild. For small business owners and real estate folks like us, this means inflation pressure, higher interest rates, tighter lending. It's not subtle, this affects your mortgage rates, your operating costs, everything. What's your move? #Economics #SmallBusiness #RealEstate #Inflation #BusinessOwner #FiscalPolicy #DaytonaBeach",
-          "published_at": "2026-03-10T17:46:56+00:00",
-          "age_hours": 20.7,
-          "scraped_from": "r/economics",
-          "batch": "morning",
-          "is_feature_release": false,
-          "is_thread": false,
-          "thread_post_1": null,
-          "thread_post_2": null,
-          "thread_post_3": null,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/Economics/comments/1rq3u8n/this_cannot_be_sustainable_the_us_borrowed_50/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=%E2%80%98This%20cannot%20be%20sustainable%E2%80%99%3A%20The&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=%E2%80%98This%20cannot%20be%20sustainable%E2%80%99%3A%20The%20U.S.%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        },
-        {
-          "id": 9,
-          "category": "WORLD",
-          "topic": "Pete Hegseth Blew Billions on Fruit Basket Stands, Chairs, and Crab | \nThe Defense Department went on a $93 billion spending spree in 2025.",
-          "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
-          "source_url": "https://reddit.com/r/Economics/comments/1rq2426/pete_hegseth_blew_billions_on_fruit_basket_stands/",
-          "source_label": "r/economics on Reddit",
-          "voice_score": 90,
-          "hashtags": "#GovernmentSpending #SmallBusiness #Accountability #DefenseBudget #Economics #RealEstate #BusinessOwner",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk: $93 billion in Pentagon spending on fruit stands, chairs, and crab? That's what happens when nobody's actually managing the budget. Small business owners get audited for $500 in deductions, but somehow nobody tracks billions. Funny how that works.\n\n#GovernmentSpending #SmallBusiness #Accountability #DefenseBudget #Economics #RealEstate #BusinessOwner",
-          "published_at": "2026-03-10T16:46:22+00:00",
-          "age_hours": 21.7,
-          "scraped_from": "r/economics",
-          "batch": "morning",
-          "is_feature_release": false,
-          "is_thread": false,
-          "thread_post_1": null,
-          "thread_post_2": null,
-          "thread_post_3": null,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/Economics/comments/1rq2426/pete_hegseth_blew_billions_on_fruit_basket_stands/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=Pete%20Hegseth%20Blew%20Billions%20on&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=Pete%20Hegseth%20Blew%20Billions%20on%20Fruit%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        },
-        {
-          "id": 10,
-          "category": "WORLD",
-          "topic": "Iran sends millions of oil barrels to China through Strait of Hormuz even as war chokes the waterway",
-          "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
-          "source_url": "https://reddit.com/r/worldnews/comments/1rqr7j0/iran_sends_millions_of_oil_barrels_to_china/",
-          "source_label": "r/worldnews on Reddit",
-          "voice_score": 91,
-          "hashtags": "#GeopoliticsAndBusiness #SupplyChain #OilMarkets #GlobalTrade #EconomicResilience #BusinessStrategy #WorldNews",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk: while geopolitical chaos usually tanks markets, Iran's still moving oil through the Strait of Hormuz to China. Funny how business finds a way even when things are choppy. Supply chain resilience is genuinely the MVP for global commerce right now.\n\n#GeopoliticsAndBusiness #SupplyChain #OilMarkets #GlobalTrade #EconomicResilience #BusinessStrategy #WorldNews",
-          "published_at": "2026-03-11T11:31:01+00:00",
-          "age_hours": 3.0,
-          "scraped_from": "r/worldnews",
-          "batch": "morning",
-          "is_feature_release": false,
-          "is_thread": false,
-          "thread_post_1": null,
-          "thread_post_2": null,
-          "thread_post_3": null,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/worldnews/comments/1rqr7j0/iran_sends_millions_of_oil_barrels_to_china/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=Iran%20sends%20millions%20of%20oil&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=Iran%20sends%20millions%20of%20oil%20barrels%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        }
-      ]
-    },
-    "afternoon": {
-      "posts": [
-        {
-          "id": 1,
-          "category": "AI",
-          "topic": "An EpochAI Frontier Math open problem may have been solved for the first time by GPT5.4",
-          "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
-          "source_url": "https://reddit.com/r/singularity/comments/1rq1av1/an_epochai_frontier_math_open_problem_may_have/",
-          "source_label": "r/singularity on Reddit",
-          "voice_score": 89,
-          "hashtags": "#AI #ArtificialIntelligence #GPT5 #FrontierMath #TechTrends #SmallBusiness #Innovation",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk. GPT5.4 just solved a math problem that's stumped researchers for years. Not subtle how fast AI's moving. The practical play? Businesses sitting on the sidelines while this happens are legitimately missing the boat. What's your move? #AI #ArtificialIntelligence #GPT5 #FrontierMath #TechTrends #SmallBusiness #Innovation",
-          "published_at": "2026-03-10T16:16:56+00:00",
-          "age_hours": 22.3,
-          "scraped_from": "r/singularity",
-          "batch": "afternoon",
-          "is_feature_release": false,
-          "is_thread": false,
-          "thread_post_1": null,
-          "thread_post_2": null,
-          "thread_post_3": null,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/singularity/comments/1rq1av1/an_epochai_frontier_math_open_problem_may_have/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=An%20EpochAI%20Frontier%20Math%20open&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=An%20EpochAI%20Frontier%20Math%20open%20problem%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "category": "AI",
-          "topic": "Debian decides not to decide on AI-generated contributions",
-          "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
-          "source_url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
-          "source_label": "Hacker News",
-          "voice_score": 90,
-          "hashtags": "#AI #OpenSource #RealEstate #TechBusiness #Debian #SmallBusiness #AIConsulting",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk: Debian's decision to not decide on AI code contributions is actually pretty smart. Kicking the can down the road beats making a bad rule now. Same energy as waiting to scale your rental business until you understand your unit economics. What's your take. AI contributions yay or nay? #AI #OpenSource #RealEstate #TechBusiness #Debian #SmallBusiness #AIConsulting",
-          "published_at": "2026-03-10T14:53:13+00:00",
-          "age_hours": 23.6,
-          "scraped_from": "Hacker News",
-          "batch": "afternoon",
-          "is_feature_release": false,
-          "is_thread": false,
-          "thread_post_1": null,
-          "thread_post_2": null,
-          "thread_post_3": null,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://www.reddit.com/r/hackernews/comments/1rq3xxd/debian_decides_not_to_decide_on_aigenerated/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=Debian%20decides%20not%20to%20decide&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
-              "label": "Official Source"
-            }
-          ]
-        },
-        {
-          "id": 3,
-          "category": "AI",
-          "topic": "Claude is running for President.",
-          "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
-          "source_url": "https://reddit.com/r/singularity/comments/1rq791v/claude_is_running_for_president/",
-          "source_label": "r/singularity on Reddit",
-          "voice_score": 91,
-          "hashtags": "#AI #Politics #Claude #Tech #Future #President #AIConsulting",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk, an AI running for President is genuinely the most honest campaign we've seen in years. No special interests, no ego, just logic and data. Funny how that sounds appealing right now. Curious what policy positions an AI would actually prioritize. #AI #Politics #Claude #Tech #Future #President #AIConsulting",
-          "published_at": "2026-03-10T19:46:48+00:00",
-          "age_hours": 18.8,
-          "scraped_from": "r/singularity",
-          "batch": "afternoon",
-          "is_feature_release": false,
-          "is_thread": false,
-          "thread_post_1": null,
-          "thread_post_2": null,
-          "thread_post_3": null,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/singularity/comments/1rq791v/claude_is_running_for_president/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=Claude%20is%20running%20for%20President.&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=Claude%20is%20running%20for%20President.%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        },
-        {
-          "id": 4,
-          "category": "AI",
-          "topic": "[D] Meta-Reviews ARR January 2026",
-          "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
-          "source_url": "https://reddit.com/r/MachineLearning/comments/1rpz2bh/d_metareviews_arr_january_2026/",
-          "source_label": "r/MachineLearning on Reddit",
-          "voice_score": 92,
-          "hashtags": "#AIConsulting #MachineLearning #AITools #TechTrends #SmallBizAI #RealEstate #DaytonaBeach",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Genuinely curious what the AI community's meta-review scores look like this month. Real talk, watching how models perform on real-world tasks (not just benchmarks) is how we actually decide what tools work for our business. Legitimately matters more than the hype cycle. #AIConsulting #MachineLearning #AITools #TechTrends #SmallBizAI #RealEstate #DaytonaBeach",
-          "published_at": "2026-03-10T14:53:01+00:00",
-          "age_hours": 23.6,
-          "scraped_from": "r/MachineLearning",
-          "batch": "afternoon",
-          "is_feature_release": false,
-          "is_thread": false,
-          "thread_post_1": null,
-          "thread_post_2": null,
-          "thread_post_3": null,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/MachineLearning/comments/1rpz2bh/d_metareviews_arr_january_2026/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=%5BD%5D%20Meta-Reviews%20ARR%20January%202026&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=%5BD%5D%20Meta-Reviews%20ARR%20January%202026%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        },
-        {
-          "id": 5,
-          "category": "AI",
-          "topic": "Meta acquires AI agent social network Moltbook",
-          "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
-          "source_url": "https://reddit.com/r/singularity/comments/1rq2yju/meta_acquires_ai_agent_social_network_moltbook/",
-          "source_label": "r/singularity on Reddit",
-          "voice_score": 93,
-          "hashtags": "#AI #Meta #AIAgents #RealEstate #Hospitality #SmallBusiness #FutureOfWork",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Meta just grabbed Moltbook and genuinely, this is the move that matters. AI agents handling customer relationships at scale? That's not subtle positioning. Real talk, vacation rental owners and hospitality businesses need to watch this. Automating guest interactions just got a whole lot more serious. Who's already thinking about this for their operation? #AI #Meta #AIAgents #RealEstate #Hospitality #SmallBusiness #FutureOfWork",
-          "published_at": "2026-03-10T17:15:52+00:00",
-          "age_hours": 21.3,
-          "scraped_from": "r/singularity",
-          "batch": "afternoon",
-          "is_feature_release": false,
-          "is_thread": false,
-          "thread_post_1": null,
-          "thread_post_2": null,
-          "thread_post_3": null,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/singularity/comments/1rq2yju/meta_acquires_ai_agent_social_network_moltbook/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=Meta%20acquires%20AI%20agent%20social&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=Meta%20acquires%20AI%20agent%20social%20network%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        },
-        {
-          "id": 6,
-          "category": "AI",
-          "topic": "Study Finds That Execs Are Already Outsourcing Their Thinking to AI",
-          "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
-          "source_url": "https://reddit.com/r/singularity/comments/1rqa0js/study_finds_that_execs_are_already_outsourcing/",
-          "source_label": "r/singularity on Reddit",
-          "voice_score": 94,
-          "hashtags": "#AIConsulting #SmallBusiness #RealEstate #Leadership #AI #Daytona #FutureOfWork",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk, execs outsourcing their thinking to AI is like a quarterback letting the playbook call itself. Legitimately nervous about this one. The ones winning? They're using AI as a research assistant, not a replacement brain. Big difference between working smarter and just... checking out. #AIConsulting #SmallBusiness #RealEstate #Leadership #AI #Daytona #FutureOfWork",
-          "published_at": "2026-03-10T21:24:33+00:00",
-          "age_hours": 17.1,
-          "scraped_from": "r/singularity",
-          "batch": "afternoon",
-          "is_feature_release": false,
-          "is_thread": false,
-          "thread_post_1": null,
-          "thread_post_2": null,
-          "thread_post_3": null,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/singularity/comments/1rqa0js/study_finds_that_execs_are_already_outsourcing/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=Study%20Finds%20That%20Execs%20Are&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=Study%20Finds%20That%20Execs%20Are%20Already%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        },
-        {
-          "id": 7,
-          "category": "AI",
-          "topic": "roon on 10.03.2026",
-          "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
-          "source_url": "https://reddit.com/r/singularity/comments/1rq3gso/roon_on_10032026/",
-          "source_label": "r/singularity on Reddit",
-          "voice_score": 88,
-          "hashtags": "#AIConsulting #SmallBusiness #TechTrends #RealEstate #FutureOfWork #AIAdoption #DaytonaBeach",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk, watching AI predictions from Reddit feel less like sci-fi and more like next quarter's business reality. Whether roon hits those benchmarks or not, the teams already building with AI today are gonna be so far ahead. Not subtle how fast this is moving. #AIConsulting #SmallBusiness #TechTrends #RealEstate #FutureOfWork #AIAdoption #DaytonaBeach",
-          "published_at": "2026-03-10T17:33:42+00:00",
-          "age_hours": 21.0,
-          "scraped_from": "r/singularity",
-          "batch": "afternoon",
-          "is_feature_release": false,
-          "is_thread": false,
-          "thread_post_1": null,
-          "thread_post_2": null,
-          "thread_post_3": null,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/singularity/comments/1rq3gso/roon_on_10032026/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=roon%20on%2010.03.2026&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=roon%20on%2010.03.2026%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        },
-        {
-          "id": 8,
-          "category": "WORLD",
-          "topic": "Zelenskyy: \"Orb\u00e1n's election campaign is based on hostility towards Ukraine and me\"",
-          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
-          "source_url": "https://reddit.com/r/worldnews/comments/1rqoupt/zelenskyy_orb\u00e1ns_election_campaign_is_based_on/",
-          "source_label": "r/worldnews on Reddit",
-          "voice_score": 89,
-          "hashtags": "#Geopolitics #BusinessStability #Ukraine #InternationalRelations #Leadership #RealTalk #EconomicImpact",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk, when a political campaign is built on hostility toward a neighbor country, that's genuinely bad business. It's like running your company on what you're against instead of what you're building. Never ends well. Stability matters, whether it's geopolitics or your local market. #Geopolitics #BusinessStability #Ukraine #InternationalRelations #Leadership #RealTalk #EconomicImpact",
-          "published_at": "2026-03-11T09:15:44+00:00",
-          "age_hours": 5.3,
-          "scraped_from": "r/worldnews",
-          "batch": "afternoon",
-          "is_feature_release": false,
-          "is_thread": false,
-          "thread_post_1": null,
-          "thread_post_2": null,
-          "thread_post_3": null,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/worldnews/comments/1rqoupt/zelenskyy_orb\u00e1ns_election_campaign_is_based_on/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=Zelenskyy%3A%20%22Orb%C3%A1n%27s%20election%20campaign%20is&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=Zelenskyy%3A%20%22Orb%C3%A1n%27s%20election%20campaign%20is%20based%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        },
-        {
-          "id": 9,
-          "category": "WORLD",
-          "topic": "Tony Hoare has died",
-          "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
-          "source_url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
-          "source_label": "Hacker News",
-          "voice_score": 90,
-          "hashtags": "#TechHistory #ComputerScience #Innovation #Legacy #Programming #SystemsThinking #RIP",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Tony Hoare just passed away at 90, and genuinely, this matters beyond tech circles. The guy invented null references and formal verification, basically built the foundation for systems that don't catastrophically fail. Real talk: every reliable business process you depend on traces back to his thinking. #TechHistory #ComputerScience #Innovation #Legacy #Programming #SystemsThinking #RIP",
-          "published_at": "2026-03-10T14:50:16+00:00",
-          "age_hours": 23.7,
-          "scraped_from": "Hacker News",
-          "batch": "afternoon",
-          "is_feature_release": false,
-          "is_thread": false,
-          "thread_post_1": null,
-          "thread_post_2": null,
-          "thread_post_3": null,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://www.reddit.com/r/Fauxmoi/comments/1rm4rjp/republican_rep_tony_gonzales_rtx_announces_he/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=Tony%20Hoare%20has%20died&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
-              "label": "Official Source"
-            }
-          ]
-        },
-        {
-          "id": 10,
-          "category": "WORLD",
-          "topic": "Zelenskyy: Russia Providing Drones and Missiles to Support Iran",
-          "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
-          "source_url": "https://reddit.com/r/worldnews/comments/1rqplhf/zelenskyy_russia_providing_drones_and_missiles_to/",
-          "source_label": "r/worldnews on Reddit",
-          "voice_score": 91,
-          "hashtags": "#GeopoliticsMatters #BusinessStrategy #GlobalEconomy #SmallBusiness #RealWorldImpact #EconomicTrends #StayInformed",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk: when global superpowers start arming each other's allies, supply chain chaos follows. Affects everything from tech prices to travel costs. Businesses need to watch geopolitical moves like they watch local competition. What's your contingency plan if things escalate?\n\n#GeopoliticsMatters #BusinessStrategy #GlobalEconomy #SmallBusiness #RealWorldImpact #EconomicTrends #StayInformed",
-          "published_at": "2026-03-11T10:01:14+00:00",
-          "age_hours": 4.5,
-          "scraped_from": "r/worldnews",
-          "batch": "afternoon",
-          "is_feature_release": false,
-          "is_thread": false,
-          "thread_post_1": null,
-          "thread_post_2": null,
-          "thread_post_3": null,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/worldnews/comments/1rqplhf/zelenskyy_russia_providing_drones_and_missiles_to/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=Zelenskyy%3A%20Russia%20Providing%20Drones%20and&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=Zelenskyy%3A%20Russia%20Providing%20Drones%20and%20Missiles%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        }
-      ]
-    },
-    "scripts_thumbnails": [
-      {
-        "video_title": "[NVIDIA] On the Road With DRIVE AV",
-        "channel": "NVIDIA",
-        "views": 0,
-        "scripts": [
-          {
-            "variation": 1,
-            "hook": "Jensen Huang just took me on a ride through San Francisco in a self-driving car, and real talk\u2014",
-            "body": "the thing that blew my mind wasn't the tech. It was how *safe* it felt. Genuinely smooth. That's what separates NVIDIA's approach from everyone else trying to crack autonomous driving.",
-            "cta": "This is the infrastructure layer that's going to power the next wave of mobility. Watch the full breakdown."
-          },
-          {
-            "variation": 2,
-            "hook": "Funny how the biggest breakthroughs in AI aren't flashy\u2014they're about trust.",
-            "body": "NVIDIA's been quietly building the backbone for autonomous vehicles while everyone's chasing hype. Jensen breaks down what actually matters: comfort, confidence, safety. Not in that order for marketing reasons\u2014actually in that order.",
-            "cta": "If you're building anything with AI, this mindset matters. Check the full video."
-          },
-          {
-            "variation": 3,
-            "hook": "Most people think autonomous driving is solved with better cameras and algorithms.",
-            "body": "Nope. I just learned it's about the entire system\u2014perception, planning, safety redundancy. NVIDIA's stacking these layers like a real business would. Not going to lie, watching a CEO actually explain their product changed how I think about infrastructure.",
-            "cta": "This applies to every AI project, not just cars. Full conversation up now."
-          }
-        ],
-        "thumbnail": {
-          "background": "Deep blue to teal gradient (tech-forward, trust-building) with subtle dark asphalt texture overlay at bottom",
-          "headline": "JENSEN HUANG ON AUTONOMOUS DRIVING",
-          "subtext": "What Actually Matters (It's Not What You Think)",
-          "visual_element": "Split-screen: left side shows sleek self-driving car (top-down angle), right side shows NVIDIA DRIVE AV dashboard visualization with neural network nodes. Small circular portrait of Jensen in top-right corner.",
-          "style": "Modern, professional-yet-approachable. Clean typography. Minimalist tech aesthetic with human element (the conversation vibe).",
-          "flux_prompt": "Modern YouTube thumbnail: deep blue-to-teal gradient background with dark asphalt texture. Top: bold white text 'JENSEN HUANG ON AUTONOMOUS DRIVING' with subtext 'What Actually Matters' in smaller yellow accent text. Split visual: sleek top-down view of autonomous vehicle on left, glowing NVIDIA DRIVE AV dashboard with neural network nodes on right. Small circular portrait of man (Jensen Huang) in top-right corner. Clean sans-serif typography, professional tech style, human conversation vibe, 16:9 aspect ratio, YouTube thumbnail format"
-        }
-      },
-      {
-        "video_title": "[OpenAI] Build Hour: API & Codex",
-        "channel": "OpenAI",
-        "views": 0,
-        "scripts": [
-          {
-            "variation": 1,
-            "hook": "OpenAI just showed me something wild with Codex",
-            "body": "Not going to lie\u2014watching AI handle actual engineering tasks from start to finish hits different. We're past pair programming. This is delegation. I'm running 30+ rental properties, and honestly, automating workflows like this? That's where the real scaling happens for small teams.",
-            "cta": "Check the full Build Hour if you're serious about AI work."
-          },
-          {
-            "variation": 2,
-            "hook": "Real talk: your business probably wastes hours on repetitive coding work",
-            "body": "OpenAI's new approach with Codex is genuinely changing how teams operate. Agentic AI\u2014meaning AI that actually executes tasks, not just suggests them. Funny how most entrepreneurs haven't figured this out yet. This is how you build faster without hiring more people.",
-            "cta": "Watch the full session to see it in action."
-          },
-          {
-            "variation": 3,
-            "hook": "If you're still manually building out workflows, you're doing it wrong",
-            "body": "OpenAI just dropped a masterclass on agent-powered automation. We're talking API integration plus Codex working together to handle real engineering work. In real estate and SaaS, this kind of automation is the difference between growing and staying stuck. Seriously.",
-            "cta": "Click through\u2014this one's worth your time."
-          }
-        ],
-        "thumbnail": {
-          "background": "Deep blue gradient (top) to electric teal (bottom) with subtle circuit board pattern overlay",
-          "headline": "AI Does Your Coding Now",
-          "subtext": "OpenAI Codex + Agents Explained",
-          "visual_element": "Split-screen: left side shows robot/AI icon executing code, right side shows checkmark/completion icon. Include small API symbol in corner.",
-          "style": "Modern, clean, high-contrast. Tech-forward but approachable. Bold sans-serif typography. Slight glow effect on text.",
-          "flux_prompt": "Modern tech thumbnail with deep blue to teal gradient background, circuit board pattern, bold white text reading 'AI Does Your Coding Now' with 'OpenAI Codex + Agents' subtitle, split-screen showing AI robot executing code on left and checkmark completion on right, API symbol, electric teal glowing effects, high contrast, clean minimalist design, professional yet approachable tech aesthetic"
-        }
-      },
-      {
-        "video_title": "[Google DeepMind] Gemini 3.1 models in Firebase AI Logic",
-        "channel": "Google DeepMind",
-        "views": 0,
-        "scripts": [
-          {
-            "variation": 1,
-            "hook": "Firebase just dropped something actually useful for AI builders",
-            "body": "Gemini 3.1's new Thinking Levels let you control how deep your AI goes before responding. Real talk\u2014this matters for real estate automations. I'm using it to handle complex lease analysis without burning tokens on simple questions.",
-            "cta": "Check what's new in Firebase AI Logic"
-          },
-          {
-            "variation": 2,
-            "hook": "Not going to lie, URL context tools just changed how I build chatbots",
-            "body": "Gemini 3.1 in Firebase now reads URLs directly. Funny how this solves the exact problem we had\u2014feeding property listings and documents to AI without manual uploads. Saves time, cuts errors. That's the move.",
-            "cta": "See the full Firebase update"
-          },
-          {
-            "variation": 3,
-            "hook": "Firebase AI Logic is actually making sense for small business owners now",
-            "body": "Gemini 3.1's Thinking Levels plus URL context means smarter automations for less headache. We're talking guest communication, property management docs, pricing analysis\u2014all running cleaner. Genuinely impressed with what Google shipped here.",
-            "cta": "Learn about Thinking Levels and context tools"
-          }
-        ],
-        "thumbnail": {
-          "background": "Deep blue to teal gradient (tech-forward, trustworthy) with subtle circuit pattern overlay in corners",
-          "headline": "Firebase AI Logic Update",
-          "subtext": "Gemini 3.1 Thinking Levels + URL Context",
-          "visual_element": "Split-screen mockup: left side shows a 'thinking level' slider control, right side shows a URL icon with a document/property listing preview. Small Google DeepMind logo in corner.",
-          "style": "Modern, professional but approachable. Clean sans-serif typography. High contrast white text. Subtle glow effect on the control elements to emphasize 'new feature'",
-          "flux_prompt": "Modern tech thumbnail with deep blue to teal gradient background. Left side shows a digital slider control labeled 'Thinking Level' with 3 dots indicating depth levels. Right side shows a URL icon with a document preview thumbnail. White bold text reading 'Firebase AI Logic Update' top center, smaller text 'Gemini 3.1 Thinking Levels + URL Context' below. Small Google DeepMind logo bottom right corner. Sleek, professional design with subtle circuit patterns in background, high contrast, clean sans-serif font, glowing accent effects on controls."
-        }
-      },
-      {
-        "video_title": "[Two Minute Papers] NVIDIA\u2019s New AI Just Cracked The Hardest Part Of Self Driving",
-        "channel": "Two Minute Papers",
-        "views": 0,
-        "scripts": [
-          {
-            "variation": 1,
-            "hook": "NVIDIA just solved the thing that's been blocking self-driving for like a decade.",
-            "body": "Real talk\u2014it's the prediction part. Not the sensors, not the processing. Knowing what other cars and pedestrians are *about* to do. Their new AI actually nails this. Funny how the hardest problem wasn't the obvious one.",
-            "cta": "Wild implications for robotics and autonomous delivery in your city soon."
-          },
-          {
-            "variation": 2,
-            "hook": "You know what keeps self-driving cars from actually working?",
-            "body": "Not going to lie\u2014it's predicting human behavior in real time. NVIDIA's new model genuinely cracked it. Better prediction means safer streets and faster rollout. This actually matters for your property insurance and delivery costs if you're running a business.",
-            "cta": "Check the paper. Tech moves fast."
-          },
-          {
-            "variation": 3,
-            "hook": "The bottleneck in autonomous vehicles just got way smaller.",
-            "body": "Funny how everyone focused on lidar and cameras, but the real problem was prediction\u2014knowing what people do next. NVIDIA's solution is legitimately impressive. This ripples through robotics, delivery logistics, and autonomous shuttles hitting your neighborhood within years.",
-            "cta": "If you run a business, this affects your future costs."
-          }
-        ],
-        "thumbnail": {
-          "background": "Deep blue to electric cyan gradient (left to right), with subtle dark navy corners",
-          "headline": "NVIDIA CRACKED IT",
-          "subtext": "The Self-Driving Problem Nobody Saw Coming",
-          "visual_element": "Glowing road/path with prediction arrows/trajectories overlaid, AI circuit patterns in corner, small autonomous car silhouette",
-          "style": "Modern tech, high contrast, slight neon glow effect, premium yet accessible",
-          "flux_prompt": "Professional YouTube thumbnail: deep blue to electric cyan gradient background, glowing neon prediction arrows and trajectories on a road, small autonomous car silhouette, 'NVIDIA CRACKED IT' in bold white/cyan text at top, 'The Self-Driving Problem Nobody Saw Coming' in smaller subtext, AI circuit patterns in corner, neon glow effect, high contrast modern tech aesthetic, 16:9 aspect ratio"
-        }
-      },
-      {
-        "video_title": "[Google DeepMind] Firebase After Hours #22: Agent Skills for Firebase",
-        "channel": "Google DeepMind",
-        "views": 0,
-        "scripts": [
-          {
-            "variation": 1,
-            "hook": "So Google just dropped something wild for AI agents and Firebase...",
-            "body": "They're basically teaching Claude and other AI tools how to actually understand your database structure. Not going to lie, this changes how fast you can build. Imagine your coding partner actually knowing your Firebase setup without you explaining it every time.",
-            "cta": "Watch the full breakdown\u2014link in bio."
-          },
-          {
-            "variation": 2,
-            "hook": "Real talk: your AI coding assistant has been flying blind with your backend.",
-            "body": "Firebase Agent Skills fixes that. Genuinely, it's like giving Claude a cheat sheet to your entire database. For anyone running SaaS or apps at scale, this saves stupid amounts of back-and-forth. Your agent actually gets your architecture now.",
-            "cta": "Check the full session\u2014super technical but worth it."
-          },
-          {
-            "variation": 3,
-            "hook": "Funny how we've been manually explaining our database to AI agents...",
-            "body": "Google DeepMind and Firebase just automated that. Agent Skills means your AI partner can actually navigate your setup, write smarter code, and debug faster. If you're building anything on Firebase, this is worth 20 minutes of your time.",
-            "cta": "Full video is dropping\u2014bookmark it now."
-          }
-        ],
-        "thumbnail": {
-          "background": "Deep navy blue (#0F1E3F) gradient to electric cyan accent (#00D9FF) in bottom right corner",
-          "headline": "AI Knows Your Firebase Now",
-          "subtext": "Agent Skills Explained",
-          "visual_element": "Split-screen concept: left side shows database schema icon with question marks, right side shows AI agent (circular head icon) with checkmark and connected nodes; small Firebase logo in corner",
-          "style": "Modern tech, high contrast, clean sans-serif typography, slight glow effect on cyan accent, professional but approachable",
-          "flux_prompt": "Modern tech thumbnail design: navy blue gradient background with electric cyan accent. Left side shows database schema diagram with question marks fading, right side shows AI agent icon with checkmark and connected data nodes. Bold white text reading 'AI Knows Your Firebase Now' with subtext 'Agent Skills Explained'. Firebase logo small in corner. High contrast, glowing cyan accents, clean minimalist tech aesthetic, 16:9 ratio"
-        }
+        "post_text": "New Gallup data: 35% of the US workforce is now permanently remote. That's not going back.\n\nFor vacation rental operators, this drives mid-week and extended-stay demand. Guests aren't just coming for the weekend — they're coming for 2-4 weeks.\n\nSeen it in our own portfolio. Longer stays, better reviews, less turnover.\n\nSTR not set up for extended stays? (workspace, faster WiFi, monthly discounts) You're leaving money on the table.\n\n#RemoteWork #VacationRental #WorkFromAnywhere #ShortTermRental #StayCoastal #AIThatScales"
       }
     ]
   },
   "payroll": {
-    "period": "Mar 10 \u2013 Mar 24, 2026",
+    "period": "Mar 10 – Mar 24, 2026",
     "period_type": "B",
     "pay_date": "Mar 27, 2026",
     "total_payout": 5150.0,
@@ -1403,7 +208,7 @@
       {
         "level": "red",
         "property": "10 S Halifax Ave",
-        "issue": "AC unit reported not cooling \u2014 HVAC scheduled"
+        "issue": "AC unit reported not cooling — HVAC scheduled"
       },
       {
         "level": "yellow",
@@ -1413,7 +218,7 @@
       {
         "level": "green",
         "property": "117 N Hollywood Ave",
-        "issue": "WiFi complaint resolved \u2014 confirmed by guest"
+        "issue": "WiFi complaint resolved — confirmed by guest"
       }
     ],
     "top_performers": [
@@ -1433,22 +238,5 @@
         "rating": 4.8
       }
     ]
-  },
-  "scraper_meta": {
-    "morning_scraped_at": "2026-03-11T14:30:22.148603+00:00",
-    "afternoon_scraped_at": "2026-03-11T14:31:56.720403+00:00",
-    "sources_used": [
-      "r/MachineLearning",
-      "r/worldnews",
-      "r/singularity",
-      "The Verge AI",
-      "Hacker News",
-      "r/OpenAI",
-      "r/economics",
-      "TechCrunch AI"
-    ],
-    "total_posts": 20,
-    "morning_count": 10,
-    "afternoon_count": 10
   }
 }
