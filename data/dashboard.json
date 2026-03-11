@@ -1,132 +1,24 @@
 {
-  "generated_at": "2026-03-11T08:38:13.010456-04:00",
+  "generated_at": "2026-03-11T08:43:34.951162-04:00",
   "date": "2026-03-11",
   "content": {
     "posts": [
       {
         "id": 1,
         "category": "AI",
-        "topic": "OpenAI Drops GPT-5 — Real-Time Reasoning Is Here",
+        "topic": "No scraper output yet \u2014 posts will appear after 6:30 AM run",
         "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
-        "source_url": "https://openai.com/blog",
-        "source_label": "OpenAI Blog",
-        "voice_score": 94,
-        "hashtags": "#AI #GPT5 #Automation #AIThatScales",
+        "source_url": "#",
+        "source_label": "Pending",
+        "voice_score": 0,
+        "hashtags": "",
         "platforms": "Facebook + Instagram",
-        "post_text": "The game just changed — again.\n\nOpenAI dropped GPT-5 this morning and the reasoning capability leap is real. I've been testing it since 6 AM and the difference isn't subtle.\n\nFor business owners: this isn't theoretical anymore. The automation workflows that felt \"almost there\" last year? They're \"fully there\" now.\n\nWe're already updating 3 client systems this week. If you haven't started automating your operations, you're now 2 generations behind.\n\nDM me if you want to talk about what this means for your business specifically.\n\n#AI #GPT5 #Automation #AIThatScales #BusinessAutomation #FutureOfWork"
-      },
-      {
-        "id": 2,
-        "category": "AI",
-        "topic": "AI Agents Now Handling 40% of Customer Service Calls",
-        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/artificial",
-        "source_label": "r/artificial",
-        "voice_score": 87,
-        "hashtags": "#CustomerService #AIAgents #Automation",
-        "platforms": "Facebook + Instagram",
-        "post_text": "New data out: AI agents are now handling 40% of customer service interactions across Fortune 500 companies.\n\nThat's not a pilot program. That's operational reality.\n\nThe companies winning right now aren't waiting for \"perfect\" AI — they're deploying 80% solutions and improving in real-time.\n\nYour competitors are already doing this. The question is whether you're building the system or getting left behind while they do.\n\nWhat's your biggest customer service bottleneck right now? Drop it below.\n\n#CustomerService #AIAgents #Automation #SmallBusiness #AIThatScales"
-      },
-      {
-        "id": 3,
-        "category": "AI",
-        "topic": "Anthropic's Claude 4 Sonnet Tops Coding Benchmarks",
-        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/MachineLearning",
-        "source_label": "r/MachineLearning",
-        "voice_score": 91,
-        "hashtags": "#Claude #Anthropic #AITools",
-        "platforms": "Facebook + Instagram",
-        "post_text": "Anthropic just published Claude 4 Sonnet benchmark results and the coding performance is legitimately impressive.\n\nWe use Claude for 80% of our automation builds at AI That Scales. The jump from 3.5 → 4 is the biggest single-version improvement I've seen.\n\nFor context: a workflow that used to take 3 iterations to get right is now landing first pass 70% of the time. That's not small.\n\nIf you're building automations and not using Claude, you're working harder than you need to.\n\n#Claude #Anthropic #AITools #Automation #AIThatScales #BuildSmarter"
-      },
-      {
-        "id": 4,
-        "category": "AI",
-        "topic": "Google Gemini 2.0 Now Integrated into Workspace",
-        "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
-        "source_url": "https://workspace.google.com",
-        "source_label": "Google Workspace",
-        "voice_score": 82,
-        "hashtags": "#Google #Gemini #Productivity",
-        "platforms": "Facebook + Instagram",
-        "post_text": "Google just pushed Gemini 2.0 into Workspace — Docs, Sheets, Gmail, Meet.\n\nThe practical impact for small business teams: your VA now has a co-pilot baked into every tool they already use.\n\nI've been playing with the Sheets integration this week. The ability to describe what you want and have it build formulas + summarize data is genuinely useful — not demo-ware.\n\nIf your team runs on Google, this upgrade just happened automatically. Make sure you're actually using it.\n\n#Google #Gemini #Productivity #SmallBusiness #WorkSmarter #AIThatScales"
-      },
-      {
-        "id": 5,
-        "category": "AI",
-        "topic": "No-Code AI Workflow Platforms See 300% User Growth",
-        "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/ChatGPT",
-        "source_label": "r/ChatGPT",
-        "voice_score": 89,
-        "hashtags": "#NoCode #Workflow #Automation",
-        "platforms": "Facebook + Instagram",
-        "post_text": "Make.com, n8n, Zapier — no-code automation platforms collectively grew 300% in users last quarter.\n\nTranslation: the barrier to automation is officially gone. You don't need a developer. You need someone who understands your process and 2-4 hours to build it.\n\nI've been building no-code automations for clients for 18 months. The tools keep getting better. The window to get ahead of competitors is still open — but it's closing.\n\nIf you're still doing manually what a bot could do, that's a choice. Make sure it's intentional.\n\n#NoCode #Workflow #Automation #Productivity #AIThatScales #BusinessGrowth"
-      },
-      {
-        "id": 6,
-        "category": "AI",
-        "topic": "AI Property Management Cuts Response Time by 60%",
-        "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/airbnb",
-        "source_label": "r/airbnb",
-        "voice_score": 96,
-        "hashtags": "#VacationRental #PropertyManagement #AI",
-        "platforms": "Facebook + Instagram",
-        "post_text": "New case study: AI-powered guest communication cut average response time from 4 hours to 8 minutes across a 40-property portfolio.\n\nThat's not theoretical — I've seen it firsthand managing 30+ properties with Stay Coastal.\n\nGuests don't care that a bot answered. They care that someone answered. Fast responses = better reviews = more bookings.\n\nThe math is simple. The setup takes a weekend. The ROI is permanent.\n\nIf you're running short-term rentals and still answering every message manually, let's talk.\n\n#VacationRental #PropertyManagement #AI #Airbnb #ShortTermRental #AIThatScales"
-      },
-      {
-        "id": 7,
-        "category": "AI",
-        "topic": "2026 AI Adoption Report: SMBs Are Closing the Gap",
-        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 85,
-        "hashtags": "#SMB #AIAdoption #Business2026",
-        "platforms": "Facebook + Instagram",
-        "post_text": "The 2026 AI Adoption Report is out and the headline for small business owners is this: the gap between enterprise and SMB AI usage closed by 40% last year.\n\nThe tools got cheaper. The interfaces got simpler. The use cases got clearer.\n\nThe businesses that adopted early are already seeing it in their margins. The ones who waited are scrambling.\n\nWhere are you in this curve? Genuinely asking — reply with where you are and where you want to be.\n\n#SMB #AIAdoption #Business2026 #Productivity #AIThatScales #Entrepreneur"
-      },
-      {
-        "id": 8,
-        "category": "WORLD",
-        "topic": "Fed Holds Rates Amid Inflation Uncertainty — What It Means for Small Business",
-        "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/worldnews",
-        "source_label": "r/worldnews",
-        "voice_score": 78,
-        "hashtags": "#Economy #FederalReserve #SmallBusiness",
-        "platforms": "Facebook + Instagram",
-        "post_text": "The Fed held rates again this week. Inflation still uncertain. Lending still tight.\n\nHere's the straight talk for small business owners: if you're waiting for rates to drop before making moves, you're tying your growth strategy to a variable you can't control.\n\nThe operators winning right now are cutting costs through efficiency (automation), not waiting for cheap capital.\n\nFocus on what you can control: your margins, your team's productivity, your systems. The macro clears when it clears.\n\n#Economy #FederalReserve #SmallBusiness #Entrepreneur #BusinessStrategy #AIThatScales"
-      },
-      {
-        "id": 9,
-        "category": "WORLD",
-        "topic": "Florida Real Estate: Daytona Beach Market Holds Strong in Q1",
-        "image_url": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/realestate",
-        "source_label": "r/realestate",
-        "voice_score": 92,
-        "hashtags": "#FloridaRealEstate #DaytonaBeach #ShortTermRental",
-        "platforms": "Facebook + Instagram",
-        "post_text": "Daytona Beach market data for Q1 2026 is in: occupancy rates are holding strong, ADRs up 8% YoY, and inventory is still tight on the quality end.\n\nFor property owners in the area: if your property isn't performing at market, the issue isn't the market.\n\nFor investors watching: the STR opportunity in Daytona is real. The days of \"set it and forget it\" are over, but the returns for well-managed properties are still there.\n\nDM me if you want to see actual comps or talk through a potential acquisition.\n\n#FloridaRealEstate #DaytonaBeach #ShortTermRental #VacationRental #RealEstateInvesting #StayCoastal"
-      },
-      {
-        "id": 10,
-        "category": "WORLD",
-        "topic": "Remote Work Permanent for 35% of US Workforce — Opportunity for VR Operators",
-        "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 83,
-        "hashtags": "#RemoteWork #VacationRental #WorkFromAnywhere",
-        "platforms": "Facebook + Instagram",
-        "post_text": "New Gallup data: 35% of the US workforce is now permanently remote. That's not going back.\n\nFor vacation rental operators, this is a direct driver of mid-week and extended-stay demand. Guests aren't just coming for the weekend anymore — they're coming for 2-4 weeks.\n\nWe've seen this shift in our own portfolio. Longer stays, better reviews, less turnover.\n\nIf your STR isn't set up for extended stays (workspace setup, faster WiFi, monthly rate discounts), you're leaving money on the table.\n\n#RemoteWork #VacationRental #WorkFromAnywhere #ShortTermRental #StayCoastal #AIThatScales"
+        "post_text": "Posts will be auto-populated here after the daily content scraper runs at 6:30 AM EST.\n\nRun manually: cd projects/content-generator && python run_daily.py"
       }
     ]
   },
   "payroll": {
-    "period": "Mar 10 – Mar 24, 2026",
+    "period": "Mar 10 \u2013 Mar 24, 2026",
     "period_type": "B",
     "pay_date": "Mar 27, 2026",
     "total_payout": 5150.0,
@@ -182,7 +74,7 @@
     }
   },
   "operations": {
-    "last_updated": "2026-03-11T08:38:13.019749-04:00",
+    "last_updated": "2026-03-11T08:43:34.960297-04:00",
     "properties": {
       "total": 30,
       "occupied_today": 22,
@@ -208,7 +100,7 @@
       {
         "level": "red",
         "property": "10 S Halifax Ave",
-        "issue": "AC unit reported not cooling — HVAC scheduled"
+        "issue": "AC unit reported not cooling \u2014 HVAC scheduled"
       },
       {
         "level": "yellow",
@@ -218,7 +110,7 @@
       {
         "level": "green",
         "property": "117 N Hollywood Ave",
-        "issue": "WiFi complaint resolved — confirmed by guest"
+        "issue": "WiFi complaint resolved \u2014 confirmed by guest"
       }
     ],
     "top_performers": [
