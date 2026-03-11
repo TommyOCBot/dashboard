@@ -852,6 +852,256 @@ body {
   .panel { padding: 20px; }
   .ops-grid { gap: 12px; }
 }
+
+/* ─── Share Buttons ──────────────────────────────────────────────────────── */
+.post-share-section {
+  padding: 0 14px 8px;
+}
+.share-label {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  color: var(--muted);
+  margin-bottom: 6px;
+}
+.share-buttons {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+.btn-share {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  padding: 7px 10px;
+  border-radius: var(--radius-sm);
+  font-size: 12px;
+  font-weight: 700;
+  cursor: pointer;
+  border: 1px solid;
+  transition: all 0.15s;
+  -webkit-appearance: none;
+  appearance: none;
+  white-space: nowrap;
+}
+.btn-share.facebook { background: rgba(24,119,242,0.12); color: #1877f2; border-color: #1877f2; }
+.btn-share.instagram { background: rgba(225,48,108,0.12); color: #e1306c; border-color: #e1306c; }
+.btn-share.tiktok { background: rgba(0,0,0,0.15); color: #69c9d0; border-color: #69c9d0; }
+.btn-share.linkedin { background: rgba(0,119,181,0.12); color: #0077b5; border-color: #0077b5; }
+.btn-share.twitter { background: rgba(29,161,242,0.12); color: #1da1f2; border-color: #1da1f2; }
+.btn-share.shared { opacity: 0.6; }
+.btn-share.shared::after { content: ' ✓'; }
+
+/* ─── Platform Dropdown ──────────────────────────────────────────────────── */
+.post-platform-select {
+  padding: 0 14px 10px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.platform-select-label {
+  font-size: 12px;
+  color: var(--muted);
+  white-space: nowrap;
+}
+.platform-dropdown {
+  flex: 1;
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  color: var(--text);
+  font-size: 13px;
+  font-weight: 600;
+  padding: 7px 10px;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  -webkit-appearance: none;
+  appearance: none;
+}
+.platform-dropdown:focus { outline: none; border-color: var(--accent); }
+
+/* ─── Engagement Fields ──────────────────────────────────────────────────── */
+.post-engagement {
+  padding: 0 14px 12px;
+}
+.engagement-label {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  color: var(--muted);
+  margin-bottom: 8px;
+}
+.engagement-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 6px;
+}
+.engagement-field {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+.engagement-field-label {
+  font-size: 10px;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+}
+.engagement-input {
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  color: var(--text);
+  font-size: 14px;
+  font-weight: 700;
+  padding: 7px 8px;
+  border-radius: var(--radius-sm);
+  width: 100%;
+  text-align: center;
+  -webkit-appearance: none;
+  appearance: none;
+}
+.engagement-input:focus { outline: none; border-color: var(--green); }
+.engagement-input::placeholder { color: var(--muted); font-weight: 400; font-size: 12px; }
+.btn-save-engagement {
+  margin-top: 8px;
+  width: 100%;
+  padding: 8px;
+  border-radius: var(--radius-sm);
+  font-size: 12px;
+  font-weight: 700;
+  background: var(--green-dim);
+  color: var(--green);
+  border: 1px solid var(--green);
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.btn-save-engagement:active { background: var(--green); color: #0f1117; }
+
+/* ─── Thread Cards ───────────────────────────────────────────────────────── */
+.thread-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  position: relative;
+}
+.thread-container::before {
+  content: '';
+  position: absolute;
+  left: 22px;
+  top: 50px;
+  bottom: 50px;
+  width: 2px;
+  background: linear-gradient(to bottom, var(--accent), rgba(99,102,241,0.3));
+  z-index: 1;
+}
+.thread-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  background: rgba(99,102,241,0.15);
+  color: var(--accent);
+  border: 1px solid var(--accent);
+  font-size: 11px;
+  font-weight: 700;
+  padding: 3px 8px;
+  border-radius: 10px;
+  margin-left: 6px;
+  vertical-align: middle;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+}
+.thread-post-card {
+  border-left: 3px solid var(--accent) !important;
+  margin-left: 8px;
+}
+.thread-post-card:first-child { border-top-left-radius: var(--radius) !important; }
+.thread-number-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: var(--accent);
+  color: white;
+  font-size: 11px;
+  font-weight: 800;
+  margin-right: 6px;
+  flex-shrink: 0;
+}
+.thread-connector {
+  height: 12px;
+  margin-left: 20px;
+  border-left: 2px dashed rgba(99,102,241,0.4);
+}
+.thread-group-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  background: var(--accent-dim);
+  border: 1px solid var(--accent);
+  border-radius: var(--radius) var(--radius) 0 0;
+  margin-bottom: 0;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+/* ─── Engagement Analytics ───────────────────────────────────────────────── */
+.eng-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+.eng-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 14px;
+}
+.eng-card-full { grid-column: 1 / -1; }
+.eng-card-value {
+  font-size: 24px;
+  font-weight: 800;
+  letter-spacing: -0.5px;
+  line-height: 1;
+  margin-bottom: 4px;
+}
+.eng-card-label { font-size: 12px; color: var(--muted); margin-top: 4px; }
+.eng-top-post {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 12px;
+  margin-bottom: 8px;
+}
+.eng-top-post-title { font-size: 13px; font-weight: 600; margin-bottom: 6px; color: var(--text); }
+.eng-stats-row { display: flex; gap: 12px; flex-wrap: wrap; }
+.eng-stat { font-size: 12px; color: var(--muted); }
+.eng-stat strong { color: var(--text); }
+.eng-platform-bar { display: flex; flex-direction: column; gap: 8px; }
+.eng-platform-row { display: flex; align-items: center; gap: 10px; }
+.eng-platform-name { font-size: 13px; color: var(--text); width: 80px; flex-shrink: 0; }
+.eng-platform-count { font-size: 12px; font-weight: 700; color: var(--accent); width: 40px; text-align: right; flex-shrink: 0; }
+.eng-platform-track { flex: 1; height: 6px; background: var(--surface2); border-radius: 3px; overflow: hidden; }
+.eng-platform-fill { height: 100%; border-radius: 3px; }
+.eng-rec {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 12px;
+  margin-bottom: 8px;
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+}
+.eng-rec-icon { font-size: 18px; flex-shrink: 0; }
+.eng-rec-text { font-size: 13px; line-height: 1.5; color: var(--text); }
+.eng-rec-text strong { color: var(--accent); }
 </style>
 </head>
 <body>
@@ -1027,22 +1277,76 @@ function fallbackCopy(btn, text) {
 function scoreClass(n) { return n >= 90 ? 'high' : 'mid'; }
 function scoreLabel(n) { return `🎯 ${n}%`; }
 
+// ─── Platform Config ───────────────────────────────────────────────────────
+const PLATFORMS = [
+  { id: 'facebook',  label: 'Facebook',  icon: '📘', color: '#1877f2' },
+  { id: 'instagram', label: 'Instagram', icon: '📸', color: '#e1306c' },
+  { id: 'tiktok',    label: 'TikTok',    icon: '🎵', color: '#69c9d0' },
+  { id: 'linkedin',  label: 'LinkedIn',  icon: '💼', color: '#0077b5' },
+  { id: 'twitter',   label: 'X/Twitter', icon: '🐦', color: '#1da1f2' },
+];
+
 // ─── Post Card HTML ─────────────────────────────────────────────────────────
-function postCardHtml(p) {
+function postCardHtml(p, threadNum) {
   const releaseBadge = p.is_feature_release
     ? `<span class="post-release-badge">🔥 Release</span>` : '';
+  const threadBadge = p.is_thread
+    ? `<span class="thread-badge">🧵 Thread</span>` : '';
+  const threadNumBadge = threadNum
+    ? `<span class="thread-number-badge">${threadNum}</span>` : '';
+
   const fbKey = getFeedbackKey(p);
   const fb = getFeedback(fbKey);
   const usedActive = fb && fb.used === true ? 'active' : '';
   const didntActive = fb && fb.used === false ? 'active' : '';
   const editSaved = fb && fb.final_version ? 'saved' : '';
-  const cardClass = fb ? (fb.used === true ? 'used-card' : (fb.used === false ? 'unused-card' : '')) : '';
+  const cardClass = (fb ? (fb.used === true ? 'used-card' : (fb.used === false ? 'unused-card' : '')) : '') +
+                    (p.is_thread ? ' thread-post-card' : '');
   const fbIndicator = fb
     ? (fb.final_version ? `<span class="feedback-indicator edited">✏️ Edited</span>`
        : fb.used === true ? `<span class="feedback-indicator used">✅ Used</span>`
        : fb.used === false ? `<span class="feedback-indicator unused">❌ Skipped</span>` : '')
     : '';
   const editContent = fb && fb.final_version ? escHtml(fb.final_version) : escHtml(p.post_text);
+
+  // Share button states
+  const shares = fb ? (fb.shares || []) : [];
+  const shareButtons = PLATFORMS.map(pl => {
+    const alreadyShared = shares.some(s => s.platform === pl.id);
+    return `<button class="btn-share ${pl.id}${alreadyShared ? ' shared' : ''}"
+      onclick="recordShare('${fbKey}', ${p.id}, '${p.batch||'morning'}', '${pl.id}', this)">
+      ${pl.icon} ${pl.label}
+    </button>`;
+  }).join('');
+
+  // Platform dropdown value
+  const sharedToPlatform = fb ? (fb.shared_to_platform || '') : '';
+  const platformOptions = `<option value="">None</option>` +
+    PLATFORMS.map(pl => `<option value="${pl.id}"${sharedToPlatform === pl.id ? ' selected' : ''}>${pl.label}</option>`).join('');
+
+  // Engagement values
+  const eng = fb ? (fb.engagement || {}) : {};
+
+  // Thread post display: if this is a thread, show thread_post_1 as main, rest below
+  let threadSection = '';
+  if (p.is_thread && p.thread_post_2) {
+    threadSection = `
+      <div class="thread-connector"></div>
+      <div style="padding:10px 14px 6px;background:var(--surface2);border-radius:0;border-left:3px solid rgba(99,102,241,0.5)">
+        <div style="font-size:10px;color:var(--accent);font-weight:700;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:4px">
+          <span class="thread-number-badge" style="width:16px;height:16px;font-size:9px">2</span> Details
+        </div>
+        <div style="font-size:13px;line-height:1.6;color:#c4c4cc;white-space:pre-wrap">${escHtml(p.thread_post_2)}</div>
+      </div>
+      <div class="thread-connector"></div>
+      <div style="padding:10px 14px 12px;background:var(--surface2);border-radius:0 0 var(--radius) var(--radius);border-left:3px solid rgba(99,102,241,0.5)">
+        <div style="font-size:10px;color:var(--accent);font-weight:700;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:4px">
+          <span class="thread-number-badge" style="width:16px;height:16px;font-size:9px">3</span> CTA
+        </div>
+        <div style="font-size:13px;line-height:1.6;color:#c4c4cc;white-space:pre-wrap">${escHtml(p.thread_post_3||'')}</div>
+      </div>`;
+  }
+
   return `
     <article class="post-card ${cardClass}" id="card-${fbKey}">
       <div class="post-image-wrap">
@@ -1051,7 +1355,7 @@ function postCardHtml(p) {
         <span class="post-score-badge ${scoreClass(p.voice_score)}">${scoreLabel(p.voice_score)}</span>
       </div>
       <div class="post-body">
-        <div class="post-topic">${escHtml(p.topic)}${releaseBadge}${fbIndicator}</div>
+        <div class="post-topic">${threadNumBadge}${escHtml(p.topic)}${releaseBadge}${threadBadge}${fbIndicator}</div>
         <div class="post-text" id="text-${fbKey}">${fb && fb.final_version ? escHtml(fb.final_version) : escHtml(p.post_text)}</div>
         <div class="post-meta">
           <a class="post-source" href="${p.source_url}" target="_blank" rel="noopener">
@@ -1060,6 +1364,7 @@ function postCardHtml(p) {
           <span class="post-platforms">${escHtml(p.platforms)}</span>
         </div>
       </div>
+      ${threadSection}
       <div class="post-actions">
         <button class="btn-copy" onclick="copyPostById(this, '${p.batch||'morning'}', ${p.id})">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -1067,6 +1372,46 @@ function postCardHtml(p) {
           </svg>
           <span class="copy-label">Copy Post</span>
         </button>
+      </div>
+      <div class="post-share-section">
+        <div class="share-label">Share to Platform</div>
+        <div class="share-buttons" id="share-btns-${fbKey}">${shareButtons}</div>
+      </div>
+      <div class="post-platform-select">
+        <span class="platform-select-label">Shared to:</span>
+        <select class="platform-dropdown" onchange="savePlatform('${fbKey}', ${p.id}, '${p.batch||'morning'}', this.value)">
+          ${platformOptions}
+        </select>
+      </div>
+      <div class="post-engagement">
+        <div class="engagement-label">Engagement Data</div>
+        <div class="engagement-grid">
+          <div class="engagement-field">
+            <span class="engagement-field-label">👍 Likes</span>
+            <input type="number" class="engagement-input" id="eng-likes-${fbKey}"
+              value="${eng.likes||''}" placeholder="0"
+              onchange="saveEngagement('${fbKey}', ${p.id}, '${p.batch||'morning'}')">
+          </div>
+          <div class="engagement-field">
+            <span class="engagement-field-label">💬 Comments</span>
+            <input type="number" class="engagement-input" id="eng-comments-${fbKey}"
+              value="${eng.comments||''}" placeholder="0"
+              onchange="saveEngagement('${fbKey}', ${p.id}, '${p.batch||'morning'}')">
+          </div>
+          <div class="engagement-field">
+            <span class="engagement-field-label">🔁 Shares</span>
+            <input type="number" class="engagement-input" id="eng-shares-${fbKey}"
+              value="${eng.shares||''}" placeholder="0"
+              onchange="saveEngagement('${fbKey}', ${p.id}, '${p.batch||'morning'}')">
+          </div>
+          <div class="engagement-field">
+            <span class="engagement-field-label">👁 Views</span>
+            <input type="number" class="engagement-input" id="eng-views-${fbKey}"
+              value="${eng.views||''}" placeholder="0"
+              onchange="saveEngagement('${fbKey}', ${p.id}, '${p.batch||'morning'}')">
+          </div>
+        </div>
+        <button class="btn-save-engagement" onclick="saveEngagement('${fbKey}', ${p.id}, '${p.batch||'morning'}')">📊 Save Engagement</button>
       </div>
       <div class="post-feedback">
         <button class="btn-feedback btn-used ${usedActive}" onclick="markUsed('${fbKey}', ${p.id}, '${p.batch||'morning'}', this)">✅ Used This</button>
@@ -1240,6 +1585,85 @@ function refreshCardFeedback(fbKey, postId, batch) {
   }
 }
 
+// ─── Share Tracking ───────────────────────────────────────────────────────
+function recordShare(fbKey, postId, batch, platform, btn) {
+  const post = getPostData(postId, batch);
+  const data = window._data;
+  const date = data ? data.date : new Date().toISOString().slice(0, 10);
+  const existing = getFeedback(fbKey) || {};
+  const shares = existing.shares || [];
+  const alreadyShared = shares.some(s => s.platform === platform);
+
+  if (!alreadyShared) {
+    shares.push({ platform, timestamp: new Date().toISOString() });
+    upsertFeedback(fbKey, {
+      post_id: fbKey,
+      post_id_raw: postId,
+      batch,
+      date,
+      used: true, // Sharing = used
+      shares,
+      shared_to_platform: platform,
+      category: post ? post.category : '',
+      topic: post ? post.topic : '',
+      authenticity_score_original: post ? post.voice_score : null,
+    });
+    // Update button state
+    btn.classList.add('shared');
+    // Update dropdown
+    const card = document.getElementById('card-' + fbKey);
+    if (card) {
+      const dd = card.querySelector('.platform-dropdown');
+      if (dd) dd.value = platform;
+    }
+    showToast(`📤 Shared to ${platform.charAt(0).toUpperCase() + platform.slice(1)}!`);
+    refreshCardFeedback(fbKey, postId, batch);
+  } else {
+    showToast(`Already tracked as shared to ${platform}`);
+  }
+}
+
+function savePlatform(fbKey, postId, batch, platform) {
+  const post = getPostData(postId, batch);
+  const data = window._data;
+  const date = data ? data.date : new Date().toISOString().slice(0, 10);
+  upsertFeedback(fbKey, {
+    post_id: fbKey,
+    post_id_raw: postId,
+    batch,
+    date,
+    shared_to_platform: platform,
+    category: post ? post.category : '',
+    topic: post ? post.topic : '',
+    authenticity_score_original: post ? post.voice_score : null,
+  });
+  if (platform) showToast(`📌 Platform set: ${platform}`);
+}
+
+function saveEngagement(fbKey, postId, batch) {
+  const card = document.getElementById('card-' + fbKey);
+  if (!card) return;
+  const likes = parseInt(card.querySelector(`#eng-likes-${fbKey}`)?.value || '0') || 0;
+  const comments = parseInt(card.querySelector(`#eng-comments-${fbKey}`)?.value || '0') || 0;
+  const shares = parseInt(card.querySelector(`#eng-shares-${fbKey}`)?.value || '0') || 0;
+  const views = parseInt(card.querySelector(`#eng-views-${fbKey}`)?.value || '0') || 0;
+  const post = getPostData(postId, batch);
+  const data = window._data;
+  const date = data ? data.date : new Date().toISOString().slice(0, 10);
+  const total = likes + comments + shares + (views > 0 ? Math.round(views / 10) : 0);
+  upsertFeedback(fbKey, {
+    post_id: fbKey,
+    post_id_raw: postId,
+    batch,
+    date,
+    engagement: { likes, comments, shares, views, total, updated: new Date().toISOString() },
+    category: post ? post.category : '',
+    topic: post ? post.topic : '',
+    authenticity_score_original: post ? post.voice_score : null,
+  });
+  showToast(`📊 Engagement saved! (${total > 0 ? total + ' total' : 'all zeros'})`);
+}
+
 // ─── Text Analysis Helpers ─────────────────────────────────────────────────
 function countEmDashes(text) { return (text.match(/—/g) || []).length; }
 function countWords(text) { return text.trim().split(/\s+/).filter(Boolean).length; }
@@ -1345,6 +1769,49 @@ function computeAnalytics() {
   const today = new Date().toISOString().slice(0, 10);
   const todayData = byDate[today] || { used: 0, total: 0 };
 
+  // ─── Engagement Analytics ────────────────────────────────────────
+  const withEngagement = all.filter(f => f.engagement && f.engagement.total > 0);
+  const totalEngagement = withEngagement.reduce((sum, f) => sum + (f.engagement?.total || 0), 0);
+
+  // Top posts by engagement
+  const topPosts = [...withEngagement]
+    .sort((a, b) => (b.engagement?.total || 0) - (a.engagement?.total || 0))
+    .slice(0, 5);
+
+  // Engagement by platform
+  const platformEng = {};
+  PLATFORMS.forEach(pl => { platformEng[pl.id] = { count: 0, total_eng: 0 }; });
+  all.forEach(f => {
+    const pl = f.shared_to_platform;
+    if (pl && platformEng[pl]) {
+      platformEng[pl].count++;
+      platformEng[pl].total_eng += f.engagement?.total || 0;
+    }
+    // Also count from shares array
+    (f.shares || []).forEach(s => {
+      if (platformEng[s.platform]) {
+        platformEng[s.platform].count++;
+      }
+    });
+  });
+  const maxPlatformCount = Math.max(1, ...Object.values(platformEng).map(p => p.count));
+
+  // Best performing topics (categories + keywords by engagement)
+  const topicEng = {};
+  withEngagement.forEach(f => {
+    const cat = f.category || 'Unknown';
+    if (!topicEng[cat]) topicEng[cat] = { total: 0, count: 0, posts: [] };
+    topicEng[cat].total += f.engagement?.total || 0;
+    topicEng[cat].count++;
+    topicEng[cat].posts.push(f.topic || '');
+  });
+  const topicRanked = Object.entries(topicEng)
+    .map(([cat, d]) => ({ cat, avgEng: d.count > 0 ? Math.round(d.total/d.count) : 0, count: d.count }))
+    .sort((a, b) => b.avgEng - a.avgEng);
+
+  // Recommended themes for tomorrow
+  const recommendations = generateThemeRecommendations(topicRanked, topPosts, platformEng);
+
   return {
     total, used: used.length, unused: unused.length, edited: edited.length,
     useRate: total > 0 ? Math.round((used.length / total) * 100) : 0,
@@ -1356,8 +1823,41 @@ function computeAnalytics() {
     batchData,
     dailyTrend,
     todayData,
-    allFeedback: all
+    allFeedback: all,
+    // Engagement
+    withEngagement: withEngagement.length,
+    totalEngagement,
+    topPosts,
+    platformEng,
+    maxPlatformCount,
+    topicRanked,
+    recommendations,
   };
+}
+
+function generateThemeRecommendations(topicRanked, topPosts, platformEng) {
+  const recs = [];
+  if (topicRanked.length > 0) {
+    const best = topicRanked[0];
+    recs.push({ icon: '🏆', text: `<strong>${best.cat} posts</strong> are getting the most engagement (avg ${best.avgEng} pts). Double down tomorrow.` });
+  }
+  // Platform with most activity
+  const activePlatform = Object.entries(platformEng)
+    .filter(([,d]) => d.count > 0)
+    .sort((a,b) => b[1].count - a[1].count)[0];
+  if (activePlatform) {
+    const plName = PLATFORMS.find(p => p.id === activePlatform[0])?.label || activePlatform[0];
+    recs.push({ icon: '📱', text: `<strong>${plName}</strong> is your most active platform (${activePlatform[1].count} shares). Optimize post format for it.` });
+  }
+  // Top post topic hint
+  if (topPosts.length > 0) {
+    const topTopic = (topPosts[0].topic || '').split(' ').slice(0, 6).join(' ');
+    recs.push({ icon: '💡', text: `Top post topic: "<strong>${escHtml(topTopic)}...</strong>" — find similar angles tomorrow.` });
+  }
+  if (recs.length === 0) {
+    recs.push({ icon: '📊', text: 'Add engagement data to posts to get theme recommendations for tomorrow.' });
+  }
+  return recs;
 }
 
 function generateWeeklyReport(a) {
@@ -1488,6 +1988,40 @@ function renderFeedbackDashboard() {
       <div class="fb-insight-text">${i.text}</div>
     </div>`).join('') || '<div class="fb-insight"><span class="fb-insight-icon">📊</span><div class="fb-insight-text">More feedback needed for insights.</div></div>';
 
+  // Engagement HTML
+  const topPostsHtml = a.topPosts.length > 0
+    ? a.topPosts.map((f, i) => {
+        const eng = f.engagement || {};
+        return `<div class="eng-top-post">
+          <div class="eng-top-post-title">#${i+1} ${escHtml((f.topic||'').slice(0,60))}${(f.topic||'').length > 60 ? '…' : ''}</div>
+          <div class="eng-stats-row">
+            <span class="eng-stat">👍 <strong>${eng.likes||0}</strong></span>
+            <span class="eng-stat">💬 <strong>${eng.comments||0}</strong></span>
+            <span class="eng-stat">🔁 <strong>${eng.shares||0}</strong></span>
+            <span class="eng-stat">👁 <strong>${eng.views||0}</strong></span>
+            ${f.shared_to_platform ? `<span class="eng-stat" style="color:var(--accent)">📱 ${f.shared_to_platform}</span>` : ''}
+          </div>
+        </div>`;
+      }).join('')
+    : '<div style="color:var(--muted);font-size:13px">No engagement data yet. Add likes/comments/shares/views to posts above.</div>';
+
+  const platformBarsHtml = PLATFORMS.map(pl => {
+    const pd = a.platformEng[pl.id] || { count: 0 };
+    const pct = Math.round((pd.count / a.maxPlatformCount) * 100);
+    const colorMap = { facebook:'#1877f2', instagram:'#e1306c', tiktok:'#69c9d0', linkedin:'#0077b5', twitter:'#1da1f2' };
+    return `<div class="eng-platform-row">
+      <div class="eng-platform-name">${pl.icon} ${pl.label}</div>
+      <div class="eng-platform-track"><div class="eng-platform-fill" style="width:${pct}%;background:${colorMap[pl.id]}"></div></div>
+      <div class="eng-platform-count">${pd.count}</div>
+    </div>`;
+  }).join('');
+
+  const recsHtml = a.recommendations.map(r => `
+    <div class="eng-rec">
+      <span class="eng-rec-icon">${r.icon}</span>
+      <div class="eng-rec-text">${r.text}</div>
+    </div>`).join('');
+
   document.getElementById('feedbackContent').innerHTML = `
     <div class="section-header">
       <span class="section-title">Today's Performance</span>
@@ -1510,9 +2044,9 @@ function renderFeedbackDashboard() {
         <div class="fb-card-sub">${a.avgAlignment != null ? `${a.avgAlignment}% avg alignment` : 'Edit to track alignment'}</div>
       </div>
       <div class="fb-card">
-        <div class="fb-card-value" style="color:var(--yellow)">${a.avgUsedScore || '—'}</div>
-        <div class="fb-card-label">Avg Voice Score (Used)</div>
-        <div class="fb-card-sub">${a.avgUnusedScore ? `${a.avgUnusedScore}% on skipped` : 'Rate posts to compare'}</div>
+        <div class="fb-card-value" style="color:var(--yellow)">${a.totalEngagement || '—'}</div>
+        <div class="fb-card-label">Total Engagement Pts</div>
+        <div class="fb-card-sub">${a.withEngagement} posts tracked</div>
       </div>
     </div>
 
@@ -1520,6 +2054,38 @@ function renderFeedbackDashboard() {
       <span class="section-title">Smart Insights</span>
     </div>
     <div class="fb-insight-list" style="margin-bottom:16px">${insightsHtml}</div>
+
+    <!-- ENGAGEMENT ANALYTICS -->
+    <div class="section-header">
+      <span class="section-title">🏆 Top Posts by Engagement</span>
+    </div>
+    <div style="margin-bottom:16px">${topPostsHtml}</div>
+
+    <div class="section-header">
+      <span class="section-title">📱 Engagement by Platform</span>
+    </div>
+    <div class="fb-card fb-card-full" style="margin-bottom:16px">
+      <div class="eng-platform-bar">${platformBarsHtml}</div>
+    </div>
+
+    <div class="section-header">
+      <span class="section-title">🎯 Best Performing Topics</span>
+    </div>
+    <div class="fb-card fb-card-full" style="margin-bottom:16px">
+      ${a.topicRanked.length > 0
+        ? `<table class="trend-table"><thead><tr><th>Topic</th><th>Posts</th><th>Avg Eng</th></tr></thead><tbody>` +
+          a.topicRanked.map(t => `<tr>
+            <td>${t.cat}</td>
+            <td>${t.count}</td>
+            <td><span class="trend-badge ${t.avgEng > 50 ? 'up' : t.avgEng > 20 ? 'neutral' : 'down'}">${t.avgEng}</span></td>
+          </tr>`).join('') + `</tbody></table>`
+        : '<div style="color:var(--muted);font-size:13px">Add engagement data to see topic performance.</div>'}
+    </div>
+
+    <div class="section-header">
+      <span class="section-title">💡 Tomorrow's Content Themes</span>
+    </div>
+    <div style="margin-bottom:16px">${recsHtml}</div>
 
     <div class="section-header">
       <span class="section-title">By Category</span>
@@ -1620,6 +2186,21 @@ function copyPostById(btn, batch, postId) {
 function copyPost(btn, postId) { copyPostById(btn, 'morning', postId); }
 
 // ─── Render Content Tab ────────────────────────────────────────────────────
+function renderPostsList(posts) {
+  // Group thread posts together visually
+  const rendered = [];
+  const seenThreadIds = new Set();
+
+  posts.forEach(p => {
+    if (p.is_thread) {
+      rendered.push(postCardHtml(p));
+    } else {
+      rendered.push(postCardHtml(p));
+    }
+  });
+  return rendered.join('');
+}
+
 function renderContent(data) {
   const content = data.content || {};
 
@@ -1627,14 +2208,14 @@ function renderContent(data) {
   const morning = content.morning;
   if (morning && morning.posts && morning.posts.length > 0) {
     document.getElementById('morningCount').textContent = `${morning.posts.length} posts`;
-    document.getElementById('morningPosts').innerHTML = morning.posts.map(postCardHtml).join('');
+    document.getElementById('morningPosts').innerHTML = renderPostsList(morning.posts);
   } else {
     // Fall back to combined posts (legacy format)
     const allPosts = content.posts || [];
     const morningPosts = allPosts.filter(p => !p.batch || p.batch === 'morning');
     if (morningPosts.length > 0) {
       document.getElementById('morningCount').textContent = `${morningPosts.length} posts`;
-      document.getElementById('morningPosts').innerHTML = morningPosts.map(postCardHtml).join('');
+      document.getElementById('morningPosts').innerHTML = renderPostsList(morningPosts);
       // Patch data for copyAll
       if (!content.morning) {
         content.morning = { posts: morningPosts };
@@ -1647,14 +2228,14 @@ function renderContent(data) {
   const afternoon = content.afternoon;
   if (afternoon && afternoon.posts && afternoon.posts.length > 0) {
     document.getElementById('afternoonCount').textContent = `${afternoon.posts.length} posts`;
-    document.getElementById('afternoonPosts').innerHTML = afternoon.posts.map(postCardHtml).join('');
+    document.getElementById('afternoonPosts').innerHTML = renderPostsList(afternoon.posts);
   } else {
     // Check combined posts for afternoon batch
     const allPosts = content.posts || [];
     const afternoonPosts = allPosts.filter(p => p.batch === 'afternoon');
     if (afternoonPosts.length > 0) {
       document.getElementById('afternoonCount').textContent = `${afternoonPosts.length} posts`;
-      document.getElementById('afternoonPosts').innerHTML = afternoonPosts.map(postCardHtml).join('');
+      document.getElementById('afternoonPosts').innerHTML = renderPostsList(afternoonPosts);
       if (!content.afternoon) {
         content.afternoon = { posts: afternoonPosts };
         data.content.afternoon = content.afternoon;

@@ -13,12 +13,16 @@
         "voice_score": 89,
         "hashtags": "#AI #ArtificialIntelligence #TechPolicy #SmallBusiness #RealEstate #Anthropic #FutureOfWork",
         "platforms": "Facebook + Instagram",
-        "post_text": "Anthropic launching an internal think tank while battling the Pentagon is genuinely interesting. Real talk \u2014 when AI companies start restructuring under pressure, it usually means they're playing long-term chess. For us in real estate and small business, watch how this plays out. Policy fights today shape what tools we can actually use tomorrow.\n\n#AI #ArtificialIntelligence #TechPolicy #SmallBusiness #RealEstate #Anthropic #FutureOfWork",
+        "post_text": "Anthropic launching an internal think tank while battling the Pentagon is genuinely interesting. Real talk, when AI companies start restructuring under pressure, it usually means they're playing long-term chess. For us in real estate and small business, watch how this plays out. Policy fights today shape what tools we can actually use tomorrow. #AI #ArtificialIntelligence #TechPolicy #SmallBusiness #RealEstate #Anthropic #FutureOfWork",
         "published_at": "2026-03-11T05:45:00-04:00",
         "age_hours": 4.8,
         "scraped_from": "The Verge AI",
         "batch": "morning",
-        "is_feature_release": false
+        "is_feature_release": false,
+        "is_thread": false,
+        "thread_post_1": null,
+        "thread_post_2": null,
+        "thread_post_3": null
       },
       {
         "id": 2,
@@ -30,12 +34,16 @@
         "voice_score": 90,
         "hashtags": "#AI #SmallBusiness #RealEstate #Hospitality #Chrome #India #AIConsulting",
         "platforms": "Facebook + Instagram",
-        "post_text": "Google just dropped Gemini in Chrome across India with support for 8 Indian languages. Real talk \u2014 this matters for anyone running hospitality or real estate in markets with diverse customer bases. Genuinely easier to automate customer service now without language being a barrier. How are you thinking about AI for your business?\n\n#AI #SmallBusiness #RealEstate #Hospitality #Chrome #India #AIConsulting",
+        "post_text": "Google just dropped Gemini in Chrome across India with support for 8 Indian languages. Real talk, this matters for anyone running hospitality or real estate in markets with diverse customer bases. Genuinely easier to automate customer service now without language being a barrier. How are you thinking about AI for your business? #AI #SmallBusiness #RealEstate #Hospitality #Chrome #India #AIConsulting",
         "published_at": "2026-03-11T02:30:00+00:00",
         "age_hours": 12.0,
         "scraped_from": "TechCrunch AI",
         "batch": "morning",
-        "is_feature_release": false
+        "is_feature_release": false,
+        "is_thread": false,
+        "thread_post_1": null,
+        "thread_post_2": null,
+        "thread_post_3": null
       },
       {
         "id": 3,
@@ -47,12 +55,16 @@
         "voice_score": 91,
         "hashtags": "#AI #ChatGPT #Education #SmallBusiness #TechNews #Learning #Innovation",
         "platforms": "Facebook + Instagram",
-        "post_text": "ChatGPT's interactive visuals for math and science genuinely changes how people learn complex stuff. Real talk \u2014 this is wild for training staff, explaining concepts to guests, or helping your kids with homework. Not subtle AI getting better at teaching.\n\n#AI #ChatGPT #Education #SmallBusiness #TechNews #Learning #Innovation",
+        "post_text": "ChatGPT's interactive visuals for math and science genuinely changes how people learn complex stuff. Real talk, this is wild for training staff, explaining concepts to guests, or helping your kids with homework. Not subtle AI getting better at teaching. #AI #ChatGPT #Education #SmallBusiness #TechNews #Learning #Innovation",
         "published_at": "2026-03-10T17:51:25+00:00",
         "age_hours": 20.6,
         "scraped_from": "TechCrunch AI",
         "batch": "morning",
-        "is_feature_release": false
+        "is_feature_release": false,
+        "is_thread": false,
+        "thread_post_1": null,
+        "thread_post_2": null,
+        "thread_post_3": null
       },
       {
         "id": 4,
@@ -64,12 +76,16 @@
         "voice_score": 92,
         "hashtags": "#AIAgents #Automation #RealEstate #SmallBusiness #ArtificialIntelligence #FutureOfWork #Tech",
         "platforms": "Facebook + Instagram",
-        "post_text": "Andrej Karpathy just got an autonomous swarm of AI agents that improve themselves. Real talk \u2014 this is the stuff that changes how we'll manage operations in real estate and hospitality. Self-improving systems handling your business while you sleep? That's genuinely wild.\n\n#AIAgents #Automation #RealEstate #SmallBusiness #ArtificialIntelligence #FutureOfWork #Tech",
+        "post_text": "Andrej Karpathy just got an autonomous swarm of AI agents that improve themselves. Real talk, this is the stuff that changes how we'll manage operations in real estate and hospitality. Self-improving systems handling your business while you sleep? That's genuinely wild. #AIAgents #Automation #RealEstate #SmallBusiness #ArtificialIntelligence #FutureOfWork #Tech",
         "published_at": "2026-03-10T18:58:18+00:00",
         "age_hours": 19.5,
         "scraped_from": "r/singularity",
         "batch": "morning",
-        "is_feature_release": false
+        "is_feature_release": false,
+        "is_thread": true,
+        "thread_post_1": "Andrej Karpathy just deployed an autonomous AI swarm that improves itself. Not a demo. Operational. This is the moment we look back on.",
+        "thread_post_2": "The swarm is multi-agent, each agent learning from the others. Self-improvement loops are the core. Think of it as a software team that gets better overnight without anyone managing it. Real estate, hospitality, small biz, this is where operations automation is heading.",
+        "thread_post_3": "The play right now: start small. One agent. One workflow. Learn how it behaves. Then expand. The businesses who figure this out in 2026 will have an actual moat. Where are you starting?\n\n#AIAgents #Automation #FutureOfWork #AIThatScales #SmallBusiness #RealEstate"
       },
       {
         "id": 5,
@@ -81,12 +97,16 @@
         "voice_score": 93,
         "hashtags": "#AITransparency #SmallBusiness #TechTruth #AlgorithmTrust #BusinessStrategy #RealEstate #Daytona",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk \u2014 if the algorithm's being manipulated by any billionaire, that's genuinely a problem for everyone building businesses on these platforms. Not subtle moves either. Question for small business owners: how much are you actually trusting where your traffic comes from?\n\n#AITransparency #SmallBusiness #TechTruth #AlgorithmTrust #BusinessStrategy #RealEstate #Daytona",
+        "post_text": "Real talk, if the algorithm's being manipulated by any billionaire, that's genuinely a problem for everyone building businesses on these platforms. Not subtle moves either. Question for small business owners: how much are you actually trusting where your traffic comes from? #AITransparency #SmallBusiness #TechTruth #AlgorithmTrust #BusinessStrategy #RealEstate #Daytona",
         "published_at": "2026-03-11T03:18:24+00:00",
         "age_hours": 11.2,
         "scraped_from": "r/OpenAI",
         "batch": "morning",
-        "is_feature_release": false
+        "is_feature_release": false,
+        "is_thread": false,
+        "thread_post_1": null,
+        "thread_post_2": null,
+        "thread_post_3": null
       },
       {
         "id": 6,
@@ -98,12 +118,16 @@
         "voice_score": 94,
         "hashtags": "#AI #FutureOfWork #TechTrends #SmallBusiness #Innovation #ArtificialIntelligence #BusinessAutomation",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk \u2014 we just digitally copied a fruit fly's entire brain and it functioned on its own. If AI can replicate biological neural patterns, what happens when we apply that to business automation? This isn't sci-fi anymore. It's a practical problem to solve.\n\n#AI #FutureOfWork #TechTrends #SmallBusiness #Innovation #ArtificialIntelligence #BusinessAutomation",
+        "post_text": "Real talk, we just digitally copied a fruit fly's entire brain and it functioned on its own. If AI can replicate biological neural patterns, what happens when we apply that to business automation? This isn't sci-fi anymore. It's a practical problem to solve. #AI #FutureOfWork #TechTrends #SmallBusiness #Innovation #ArtificialIntelligence #BusinessAutomation",
         "published_at": "2026-03-11T01:59:41+00:00",
         "age_hours": 12.5,
         "scraped_from": "r/singularity",
         "batch": "morning",
-        "is_feature_release": false
+        "is_feature_release": false,
+        "is_thread": true,
+        "thread_post_1": "Scientists digitally copied an entire fruit fly brain. Neuron by neuron. Then it started walking, grooming, and feeding on its own. This week changed something fundamental.",
+        "thread_post_2": "The implications for AI and business automation are real. We are now at the stage where biological neural patterns can be replicated in silicon. What happens when we scale this up? Not sci-fi. Active research with commercial applications in the next 5 years.",
+        "thread_post_3": "For entrepreneurs and operators: the businesses that understand how intelligence works, biological or artificial, will build better systems. Curiosity is a competitive advantage right now. What are you studying?\n\n#AI #FutureOfWork #Neuroscience #Innovation #AIThatScales"
       },
       {
         "id": 7,
@@ -115,12 +139,16 @@
         "voice_score": 88,
         "hashtags": "#AI #RealEstateTech #ArtificialIntelligence #Innovation #TechNews #SmallBusiness #FutureOfWork",
         "platforms": "Facebook + Instagram",
-        "post_text": "Yann LeCun just raised a billion to build AI that actually understands the physical world. Genuinely interesting because most AI today is basically pattern matching on data. Real talk \u2014 this matters for real estate tech, robotics, property management automation. The stuff that works in theory but breaks in messy reality is what needs solving next.\n\n#AI #RealEstateTech #ArtificialIntelligence #Innovation #TechNews #SmallBusiness #FutureOfWork",
+        "post_text": "Yann LeCun just raised a billion to build AI that actually understands the physical world. Genuinely interesting because most AI today is basically pattern matching on data. Real talk, this matters for real estate tech, robotics, property management automation. The stuff that works in theory but breaks in messy reality is what needs solving next. #AI #RealEstateTech #ArtificialIntelligence #Innovation #TechNews #SmallBusiness #FutureOfWork",
         "published_at": "2026-03-10T08:46:53+00:00",
         "age_hours": 29.7,
         "scraped_from": "Hacker News",
         "batch": "morning",
-        "is_feature_release": false
+        "is_feature_release": false,
+        "is_thread": false,
+        "thread_post_1": null,
+        "thread_post_2": null,
+        "thread_post_3": null
       },
       {
         "id": 8,
@@ -132,12 +160,16 @@
         "voice_score": 89,
         "hashtags": "#Economics #SmallBusiness #RealEstate #Inflation #BusinessOwner #FiscalPolicy #DaytonaBeach",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk: The U.S. borrowing $50B weekly is genuinely wild. For small business owners and real estate folks like us, this means inflation pressure, higher interest rates, tighter lending. It's not subtle\u2014this affects your mortgage rates, your operating costs, everything. What's your move?\n\n#Economics #SmallBusiness #RealEstate #Inflation #BusinessOwner #FiscalPolicy #DaytonaBeach",
+        "post_text": "Real talk: The U.S. borrowing $50B weekly is genuinely wild. For small business owners and real estate folks like us, this means inflation pressure, higher interest rates, tighter lending. It's not subtle, this affects your mortgage rates, your operating costs, everything. What's your move? #Economics #SmallBusiness #RealEstate #Inflation #BusinessOwner #FiscalPolicy #DaytonaBeach",
         "published_at": "2026-03-10T17:46:56+00:00",
         "age_hours": 20.7,
         "scraped_from": "r/economics",
         "batch": "morning",
-        "is_feature_release": false
+        "is_feature_release": false,
+        "is_thread": false,
+        "thread_post_1": null,
+        "thread_post_2": null,
+        "thread_post_3": null
       },
       {
         "id": 9,
@@ -154,7 +186,11 @@
         "age_hours": 21.7,
         "scraped_from": "r/economics",
         "batch": "morning",
-        "is_feature_release": false
+        "is_feature_release": false,
+        "is_thread": false,
+        "thread_post_1": null,
+        "thread_post_2": null,
+        "thread_post_3": null
       },
       {
         "id": 10,
@@ -171,7 +207,11 @@
         "age_hours": 3.0,
         "scraped_from": "r/worldnews",
         "batch": "morning",
-        "is_feature_release": false
+        "is_feature_release": false,
+        "is_thread": false,
+        "thread_post_1": null,
+        "thread_post_2": null,
+        "thread_post_3": null
       },
       {
         "id": 1,
@@ -183,12 +223,16 @@
         "voice_score": 89,
         "hashtags": "#AI #ArtificialIntelligence #GPT5 #FrontierMath #TechTrends #SmallBusiness #Innovation",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk \u2014 GPT5.4 just solved a math problem that's stumped researchers for years. Not subtle how fast AI's moving. The practical play? Businesses sitting on the sidelines while this happens are legitimately missing the boat. What's your move?\n\n#AI #ArtificialIntelligence #GPT5 #FrontierMath #TechTrends #SmallBusiness #Innovation",
+        "post_text": "Real talk. GPT5.4 just solved a math problem that's stumped researchers for years. Not subtle how fast AI's moving. The practical play? Businesses sitting on the sidelines while this happens are legitimately missing the boat. What's your move? #AI #ArtificialIntelligence #GPT5 #FrontierMath #TechTrends #SmallBusiness #Innovation",
         "published_at": "2026-03-10T16:16:56+00:00",
         "age_hours": 22.3,
         "scraped_from": "r/singularity",
         "batch": "afternoon",
-        "is_feature_release": false
+        "is_feature_release": false,
+        "is_thread": false,
+        "thread_post_1": null,
+        "thread_post_2": null,
+        "thread_post_3": null
       },
       {
         "id": 2,
@@ -200,12 +244,16 @@
         "voice_score": 90,
         "hashtags": "#AI #OpenSource #RealEstate #TechBusiness #Debian #SmallBusiness #AIConsulting",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk: Debian's decision to not decide on AI code contributions is actually pretty smart. Kicking the can down the road beats making a bad rule now. Same energy as waiting to scale your rental business until you understand your unit economics. What's your take \u2014 AI contributions yay or nay?\n\n#AI #OpenSource #RealEstate #TechBusiness #Debian #SmallBusiness #AIConsulting",
+        "post_text": "Real talk: Debian's decision to not decide on AI code contributions is actually pretty smart. Kicking the can down the road beats making a bad rule now. Same energy as waiting to scale your rental business until you understand your unit economics. What's your take. AI contributions yay or nay? #AI #OpenSource #RealEstate #TechBusiness #Debian #SmallBusiness #AIConsulting",
         "published_at": "2026-03-10T14:53:13+00:00",
         "age_hours": 23.6,
         "scraped_from": "Hacker News",
         "batch": "afternoon",
-        "is_feature_release": false
+        "is_feature_release": false,
+        "is_thread": false,
+        "thread_post_1": null,
+        "thread_post_2": null,
+        "thread_post_3": null
       },
       {
         "id": 3,
@@ -217,12 +265,16 @@
         "voice_score": 91,
         "hashtags": "#AI #Politics #Claude #Tech #Future #President #AIConsulting",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk \u2014 an AI running for President is genuinely the most honest campaign we've seen in years. No special interests, no ego, just logic and data. Funny how that sounds appealing right now. Curious what policy positions an AI would actually prioritize.\n\n#AI #Politics #Claude #Tech #Future #President #AIConsulting",
+        "post_text": "Real talk, an AI running for President is genuinely the most honest campaign we've seen in years. No special interests, no ego, just logic and data. Funny how that sounds appealing right now. Curious what policy positions an AI would actually prioritize. #AI #Politics #Claude #Tech #Future #President #AIConsulting",
         "published_at": "2026-03-10T19:46:48+00:00",
         "age_hours": 18.8,
         "scraped_from": "r/singularity",
         "batch": "afternoon",
-        "is_feature_release": false
+        "is_feature_release": false,
+        "is_thread": false,
+        "thread_post_1": null,
+        "thread_post_2": null,
+        "thread_post_3": null
       },
       {
         "id": 4,
@@ -234,12 +286,16 @@
         "voice_score": 92,
         "hashtags": "#AIConsulting #MachineLearning #AITools #TechTrends #SmallBizAI #RealEstate #DaytonaBeach",
         "platforms": "Facebook + Instagram",
-        "post_text": "Genuinely curious what the AI community's meta-review scores look like this month. Real talk \u2014 watching how models perform on real-world tasks (not just benchmarks) is how we actually decide what tools work for our business. Legitimately matters more than the hype cycle.\n\n#AIConsulting #MachineLearning #AITools #TechTrends #SmallBizAI #RealEstate #DaytonaBeach",
+        "post_text": "Genuinely curious what the AI community's meta-review scores look like this month. Real talk, watching how models perform on real-world tasks (not just benchmarks) is how we actually decide what tools work for our business. Legitimately matters more than the hype cycle. #AIConsulting #MachineLearning #AITools #TechTrends #SmallBizAI #RealEstate #DaytonaBeach",
         "published_at": "2026-03-10T14:53:01+00:00",
         "age_hours": 23.6,
         "scraped_from": "r/MachineLearning",
         "batch": "afternoon",
-        "is_feature_release": false
+        "is_feature_release": false,
+        "is_thread": false,
+        "thread_post_1": null,
+        "thread_post_2": null,
+        "thread_post_3": null
       },
       {
         "id": 5,
@@ -251,12 +307,16 @@
         "voice_score": 93,
         "hashtags": "#AI #Meta #AIAgents #RealEstate #Hospitality #SmallBusiness #FutureOfWork",
         "platforms": "Facebook + Instagram",
-        "post_text": "Meta just grabbed Moltbook and genuinely, this is the move that matters. AI agents handling customer relationships at scale? That's not subtle positioning. Real talk \u2014 vacation rental owners and hospitality businesses need to watch this. Automating guest interactions just got a whole lot more serious. Who's already thinking about this for their operation?\n\n#AI #Meta #AIAgents #RealEstate #Hospitality #SmallBusiness #FutureOfWork",
+        "post_text": "Meta just grabbed Moltbook and genuinely, this is the move that matters. AI agents handling customer relationships at scale? That's not subtle positioning. Real talk, vacation rental owners and hospitality businesses need to watch this. Automating guest interactions just got a whole lot more serious. Who's already thinking about this for their operation? #AI #Meta #AIAgents #RealEstate #Hospitality #SmallBusiness #FutureOfWork",
         "published_at": "2026-03-10T17:15:52+00:00",
         "age_hours": 21.3,
         "scraped_from": "r/singularity",
         "batch": "afternoon",
-        "is_feature_release": false
+        "is_feature_release": false,
+        "is_thread": false,
+        "thread_post_1": null,
+        "thread_post_2": null,
+        "thread_post_3": null
       },
       {
         "id": 6,
@@ -268,12 +328,16 @@
         "voice_score": 94,
         "hashtags": "#AIConsulting #SmallBusiness #RealEstate #Leadership #AI #Daytona #FutureOfWork",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk \u2014 execs outsourcing their thinking to AI is like a quarterback letting the playbook call itself. Legitimately nervous about this one. The ones winning? They're using AI as a research assistant, not a replacement brain. Big difference between working smarter and just... checking out.\n\n#AIConsulting #SmallBusiness #RealEstate #Leadership #AI #Daytona #FutureOfWork",
+        "post_text": "Real talk, execs outsourcing their thinking to AI is like a quarterback letting the playbook call itself. Legitimately nervous about this one. The ones winning? They're using AI as a research assistant, not a replacement brain. Big difference between working smarter and just... checking out. #AIConsulting #SmallBusiness #RealEstate #Leadership #AI #Daytona #FutureOfWork",
         "published_at": "2026-03-10T21:24:33+00:00",
         "age_hours": 17.1,
         "scraped_from": "r/singularity",
         "batch": "afternoon",
-        "is_feature_release": false
+        "is_feature_release": false,
+        "is_thread": false,
+        "thread_post_1": null,
+        "thread_post_2": null,
+        "thread_post_3": null
       },
       {
         "id": 7,
@@ -285,12 +349,16 @@
         "voice_score": 88,
         "hashtags": "#AIConsulting #SmallBusiness #TechTrends #RealEstate #FutureOfWork #AIAdoption #DaytonaBeach",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk \u2014 watching AI predictions from Reddit feel less like sci-fi and more like next quarter's business reality. Whether roon hits those benchmarks or not, the teams already building with AI today are gonna be so far ahead. Not subtle how fast this is moving.\n\n#AIConsulting #SmallBusiness #TechTrends #RealEstate #FutureOfWork #AIAdoption #DaytonaBeach",
+        "post_text": "Real talk, watching AI predictions from Reddit feel less like sci-fi and more like next quarter's business reality. Whether roon hits those benchmarks or not, the teams already building with AI today are gonna be so far ahead. Not subtle how fast this is moving. #AIConsulting #SmallBusiness #TechTrends #RealEstate #FutureOfWork #AIAdoption #DaytonaBeach",
         "published_at": "2026-03-10T17:33:42+00:00",
         "age_hours": 21.0,
         "scraped_from": "r/singularity",
         "batch": "afternoon",
-        "is_feature_release": false
+        "is_feature_release": false,
+        "is_thread": false,
+        "thread_post_1": null,
+        "thread_post_2": null,
+        "thread_post_3": null
       },
       {
         "id": 8,
@@ -302,12 +370,16 @@
         "voice_score": 89,
         "hashtags": "#Geopolitics #BusinessStability #Ukraine #InternationalRelations #Leadership #RealTalk #EconomicImpact",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk \u2014 when a political campaign is built on hostility toward a neighbor country, that's genuinely bad business. It's like running your company on what you're against instead of what you're building. Never ends well. Stability matters, whether it's geopolitics or your local market.\n\n#Geopolitics #BusinessStability #Ukraine #InternationalRelations #Leadership #RealTalk #EconomicImpact",
+        "post_text": "Real talk, when a political campaign is built on hostility toward a neighbor country, that's genuinely bad business. It's like running your company on what you're against instead of what you're building. Never ends well. Stability matters, whether it's geopolitics or your local market. #Geopolitics #BusinessStability #Ukraine #InternationalRelations #Leadership #RealTalk #EconomicImpact",
         "published_at": "2026-03-11T09:15:44+00:00",
         "age_hours": 5.3,
         "scraped_from": "r/worldnews",
         "batch": "afternoon",
-        "is_feature_release": false
+        "is_feature_release": false,
+        "is_thread": false,
+        "thread_post_1": null,
+        "thread_post_2": null,
+        "thread_post_3": null
       },
       {
         "id": 9,
@@ -319,12 +391,16 @@
         "voice_score": 90,
         "hashtags": "#TechHistory #ComputerScience #Innovation #Legacy #Programming #SystemsThinking #RIP",
         "platforms": "Facebook + Instagram",
-        "post_text": "Tony Hoare just passed away at 90, and genuinely, this matters beyond tech circles. The guy invented null references and formal verification \u2014 basically built the foundation for systems that don't catastrophically fail. Real talk: every reliable business process you depend on traces back to his thinking.\n\n#TechHistory #ComputerScience #Innovation #Legacy #Programming #SystemsThinking #RIP",
+        "post_text": "Tony Hoare just passed away at 90, and genuinely, this matters beyond tech circles. The guy invented null references and formal verification, basically built the foundation for systems that don't catastrophically fail. Real talk: every reliable business process you depend on traces back to his thinking. #TechHistory #ComputerScience #Innovation #Legacy #Programming #SystemsThinking #RIP",
         "published_at": "2026-03-10T14:50:16+00:00",
         "age_hours": 23.7,
         "scraped_from": "Hacker News",
         "batch": "afternoon",
-        "is_feature_release": false
+        "is_feature_release": false,
+        "is_thread": false,
+        "thread_post_1": null,
+        "thread_post_2": null,
+        "thread_post_3": null
       },
       {
         "id": 10,
@@ -341,7 +417,11 @@
         "age_hours": 4.5,
         "scraped_from": "r/worldnews",
         "batch": "afternoon",
-        "is_feature_release": false
+        "is_feature_release": false,
+        "is_thread": false,
+        "thread_post_1": null,
+        "thread_post_2": null,
+        "thread_post_3": null
       }
     ],
     "morning": {
@@ -356,12 +436,16 @@
           "voice_score": 89,
           "hashtags": "#AI #ArtificialIntelligence #TechPolicy #SmallBusiness #RealEstate #Anthropic #FutureOfWork",
           "platforms": "Facebook + Instagram",
-          "post_text": "Anthropic launching an internal think tank while battling the Pentagon is genuinely interesting. Real talk \u2014 when AI companies start restructuring under pressure, it usually means they're playing long-term chess. For us in real estate and small business, watch how this plays out. Policy fights today shape what tools we can actually use tomorrow.\n\n#AI #ArtificialIntelligence #TechPolicy #SmallBusiness #RealEstate #Anthropic #FutureOfWork",
+          "post_text": "Anthropic launching an internal think tank while battling the Pentagon is genuinely interesting. Real talk, when AI companies start restructuring under pressure, it usually means they're playing long-term chess. For us in real estate and small business, watch how this plays out. Policy fights today shape what tools we can actually use tomorrow. #AI #ArtificialIntelligence #TechPolicy #SmallBusiness #RealEstate #Anthropic #FutureOfWork",
           "published_at": "2026-03-11T05:45:00-04:00",
           "age_hours": 4.8,
           "scraped_from": "The Verge AI",
           "batch": "morning",
-          "is_feature_release": false
+          "is_feature_release": false,
+          "is_thread": false,
+          "thread_post_1": null,
+          "thread_post_2": null,
+          "thread_post_3": null
         },
         {
           "id": 2,
@@ -373,12 +457,16 @@
           "voice_score": 90,
           "hashtags": "#AI #SmallBusiness #RealEstate #Hospitality #Chrome #India #AIConsulting",
           "platforms": "Facebook + Instagram",
-          "post_text": "Google just dropped Gemini in Chrome across India with support for 8 Indian languages. Real talk \u2014 this matters for anyone running hospitality or real estate in markets with diverse customer bases. Genuinely easier to automate customer service now without language being a barrier. How are you thinking about AI for your business?\n\n#AI #SmallBusiness #RealEstate #Hospitality #Chrome #India #AIConsulting",
+          "post_text": "Google just dropped Gemini in Chrome across India with support for 8 Indian languages. Real talk, this matters for anyone running hospitality or real estate in markets with diverse customer bases. Genuinely easier to automate customer service now without language being a barrier. How are you thinking about AI for your business? #AI #SmallBusiness #RealEstate #Hospitality #Chrome #India #AIConsulting",
           "published_at": "2026-03-11T02:30:00+00:00",
           "age_hours": 12.0,
           "scraped_from": "TechCrunch AI",
           "batch": "morning",
-          "is_feature_release": false
+          "is_feature_release": false,
+          "is_thread": false,
+          "thread_post_1": null,
+          "thread_post_2": null,
+          "thread_post_3": null
         },
         {
           "id": 3,
@@ -390,12 +478,16 @@
           "voice_score": 91,
           "hashtags": "#AI #ChatGPT #Education #SmallBusiness #TechNews #Learning #Innovation",
           "platforms": "Facebook + Instagram",
-          "post_text": "ChatGPT's interactive visuals for math and science genuinely changes how people learn complex stuff. Real talk \u2014 this is wild for training staff, explaining concepts to guests, or helping your kids with homework. Not subtle AI getting better at teaching.\n\n#AI #ChatGPT #Education #SmallBusiness #TechNews #Learning #Innovation",
+          "post_text": "ChatGPT's interactive visuals for math and science genuinely changes how people learn complex stuff. Real talk, this is wild for training staff, explaining concepts to guests, or helping your kids with homework. Not subtle AI getting better at teaching. #AI #ChatGPT #Education #SmallBusiness #TechNews #Learning #Innovation",
           "published_at": "2026-03-10T17:51:25+00:00",
           "age_hours": 20.6,
           "scraped_from": "TechCrunch AI",
           "batch": "morning",
-          "is_feature_release": false
+          "is_feature_release": false,
+          "is_thread": false,
+          "thread_post_1": null,
+          "thread_post_2": null,
+          "thread_post_3": null
         },
         {
           "id": 4,
@@ -407,12 +499,16 @@
           "voice_score": 92,
           "hashtags": "#AIAgents #Automation #RealEstate #SmallBusiness #ArtificialIntelligence #FutureOfWork #Tech",
           "platforms": "Facebook + Instagram",
-          "post_text": "Andrej Karpathy just got an autonomous swarm of AI agents that improve themselves. Real talk \u2014 this is the stuff that changes how we'll manage operations in real estate and hospitality. Self-improving systems handling your business while you sleep? That's genuinely wild.\n\n#AIAgents #Automation #RealEstate #SmallBusiness #ArtificialIntelligence #FutureOfWork #Tech",
+          "post_text": "Andrej Karpathy just got an autonomous swarm of AI agents that improve themselves. Real talk, this is the stuff that changes how we'll manage operations in real estate and hospitality. Self-improving systems handling your business while you sleep? That's genuinely wild. #AIAgents #Automation #RealEstate #SmallBusiness #ArtificialIntelligence #FutureOfWork #Tech",
           "published_at": "2026-03-10T18:58:18+00:00",
           "age_hours": 19.5,
           "scraped_from": "r/singularity",
           "batch": "morning",
-          "is_feature_release": false
+          "is_feature_release": false,
+          "is_thread": true,
+          "thread_post_1": "Andrej Karpathy just deployed an autonomous AI swarm that improves itself. Not a demo. Operational. This is the moment we look back on.",
+          "thread_post_2": "The swarm is multi-agent, each agent learning from the others. Self-improvement loops are the core. Think of it as a software team that gets better overnight without anyone managing it. Real estate, hospitality, small biz, this is where operations automation is heading.",
+          "thread_post_3": "The play right now: start small. One agent. One workflow. Learn how it behaves. Then expand. The businesses who figure this out in 2026 will have an actual moat. Where are you starting?\n\n#AIAgents #Automation #FutureOfWork #AIThatScales #SmallBusiness #RealEstate"
         },
         {
           "id": 5,
@@ -424,12 +520,16 @@
           "voice_score": 93,
           "hashtags": "#AITransparency #SmallBusiness #TechTruth #AlgorithmTrust #BusinessStrategy #RealEstate #Daytona",
           "platforms": "Facebook + Instagram",
-          "post_text": "Real talk \u2014 if the algorithm's being manipulated by any billionaire, that's genuinely a problem for everyone building businesses on these platforms. Not subtle moves either. Question for small business owners: how much are you actually trusting where your traffic comes from?\n\n#AITransparency #SmallBusiness #TechTruth #AlgorithmTrust #BusinessStrategy #RealEstate #Daytona",
+          "post_text": "Real talk, if the algorithm's being manipulated by any billionaire, that's genuinely a problem for everyone building businesses on these platforms. Not subtle moves either. Question for small business owners: how much are you actually trusting where your traffic comes from? #AITransparency #SmallBusiness #TechTruth #AlgorithmTrust #BusinessStrategy #RealEstate #Daytona",
           "published_at": "2026-03-11T03:18:24+00:00",
           "age_hours": 11.2,
           "scraped_from": "r/OpenAI",
           "batch": "morning",
-          "is_feature_release": false
+          "is_feature_release": false,
+          "is_thread": false,
+          "thread_post_1": null,
+          "thread_post_2": null,
+          "thread_post_3": null
         },
         {
           "id": 6,
@@ -441,12 +541,16 @@
           "voice_score": 94,
           "hashtags": "#AI #FutureOfWork #TechTrends #SmallBusiness #Innovation #ArtificialIntelligence #BusinessAutomation",
           "platforms": "Facebook + Instagram",
-          "post_text": "Real talk \u2014 we just digitally copied a fruit fly's entire brain and it functioned on its own. If AI can replicate biological neural patterns, what happens when we apply that to business automation? This isn't sci-fi anymore. It's a practical problem to solve.\n\n#AI #FutureOfWork #TechTrends #SmallBusiness #Innovation #ArtificialIntelligence #BusinessAutomation",
+          "post_text": "Real talk, we just digitally copied a fruit fly's entire brain and it functioned on its own. If AI can replicate biological neural patterns, what happens when we apply that to business automation? This isn't sci-fi anymore. It's a practical problem to solve. #AI #FutureOfWork #TechTrends #SmallBusiness #Innovation #ArtificialIntelligence #BusinessAutomation",
           "published_at": "2026-03-11T01:59:41+00:00",
           "age_hours": 12.5,
           "scraped_from": "r/singularity",
           "batch": "morning",
-          "is_feature_release": false
+          "is_feature_release": false,
+          "is_thread": true,
+          "thread_post_1": "Scientists digitally copied an entire fruit fly brain. Neuron by neuron. Then it started walking, grooming, and feeding on its own. This week changed something fundamental.",
+          "thread_post_2": "The implications for AI and business automation are real. We are now at the stage where biological neural patterns can be replicated in silicon. What happens when we scale this up? Not sci-fi. Active research with commercial applications in the next 5 years.",
+          "thread_post_3": "For entrepreneurs and operators: the businesses that understand how intelligence works, biological or artificial, will build better systems. Curiosity is a competitive advantage right now. What are you studying?\n\n#AI #FutureOfWork #Neuroscience #Innovation #AIThatScales"
         },
         {
           "id": 7,
@@ -458,12 +562,16 @@
           "voice_score": 88,
           "hashtags": "#AI #RealEstateTech #ArtificialIntelligence #Innovation #TechNews #SmallBusiness #FutureOfWork",
           "platforms": "Facebook + Instagram",
-          "post_text": "Yann LeCun just raised a billion to build AI that actually understands the physical world. Genuinely interesting because most AI today is basically pattern matching on data. Real talk \u2014 this matters for real estate tech, robotics, property management automation. The stuff that works in theory but breaks in messy reality is what needs solving next.\n\n#AI #RealEstateTech #ArtificialIntelligence #Innovation #TechNews #SmallBusiness #FutureOfWork",
+          "post_text": "Yann LeCun just raised a billion to build AI that actually understands the physical world. Genuinely interesting because most AI today is basically pattern matching on data. Real talk, this matters for real estate tech, robotics, property management automation. The stuff that works in theory but breaks in messy reality is what needs solving next. #AI #RealEstateTech #ArtificialIntelligence #Innovation #TechNews #SmallBusiness #FutureOfWork",
           "published_at": "2026-03-10T08:46:53+00:00",
           "age_hours": 29.7,
           "scraped_from": "Hacker News",
           "batch": "morning",
-          "is_feature_release": false
+          "is_feature_release": false,
+          "is_thread": false,
+          "thread_post_1": null,
+          "thread_post_2": null,
+          "thread_post_3": null
         },
         {
           "id": 8,
@@ -475,12 +583,16 @@
           "voice_score": 89,
           "hashtags": "#Economics #SmallBusiness #RealEstate #Inflation #BusinessOwner #FiscalPolicy #DaytonaBeach",
           "platforms": "Facebook + Instagram",
-          "post_text": "Real talk: The U.S. borrowing $50B weekly is genuinely wild. For small business owners and real estate folks like us, this means inflation pressure, higher interest rates, tighter lending. It's not subtle\u2014this affects your mortgage rates, your operating costs, everything. What's your move?\n\n#Economics #SmallBusiness #RealEstate #Inflation #BusinessOwner #FiscalPolicy #DaytonaBeach",
+          "post_text": "Real talk: The U.S. borrowing $50B weekly is genuinely wild. For small business owners and real estate folks like us, this means inflation pressure, higher interest rates, tighter lending. It's not subtle, this affects your mortgage rates, your operating costs, everything. What's your move? #Economics #SmallBusiness #RealEstate #Inflation #BusinessOwner #FiscalPolicy #DaytonaBeach",
           "published_at": "2026-03-10T17:46:56+00:00",
           "age_hours": 20.7,
           "scraped_from": "r/economics",
           "batch": "morning",
-          "is_feature_release": false
+          "is_feature_release": false,
+          "is_thread": false,
+          "thread_post_1": null,
+          "thread_post_2": null,
+          "thread_post_3": null
         },
         {
           "id": 9,
@@ -497,7 +609,11 @@
           "age_hours": 21.7,
           "scraped_from": "r/economics",
           "batch": "morning",
-          "is_feature_release": false
+          "is_feature_release": false,
+          "is_thread": false,
+          "thread_post_1": null,
+          "thread_post_2": null,
+          "thread_post_3": null
         },
         {
           "id": 10,
@@ -514,12 +630,13 @@
           "age_hours": 3.0,
           "scraped_from": "r/worldnews",
           "batch": "morning",
-          "is_feature_release": false
+          "is_feature_release": false,
+          "is_thread": false,
+          "thread_post_1": null,
+          "thread_post_2": null,
+          "thread_post_3": null
         }
-      ],
-      "generated_at": "2026-03-11T14:30:22.148603+00:00",
-      "label": "Morning Brief (6:30 AM)",
-      "count": 10
+      ]
     },
     "afternoon": {
       "posts": [
@@ -533,12 +650,16 @@
           "voice_score": 89,
           "hashtags": "#AI #ArtificialIntelligence #GPT5 #FrontierMath #TechTrends #SmallBusiness #Innovation",
           "platforms": "Facebook + Instagram",
-          "post_text": "Real talk \u2014 GPT5.4 just solved a math problem that's stumped researchers for years. Not subtle how fast AI's moving. The practical play? Businesses sitting on the sidelines while this happens are legitimately missing the boat. What's your move?\n\n#AI #ArtificialIntelligence #GPT5 #FrontierMath #TechTrends #SmallBusiness #Innovation",
+          "post_text": "Real talk. GPT5.4 just solved a math problem that's stumped researchers for years. Not subtle how fast AI's moving. The practical play? Businesses sitting on the sidelines while this happens are legitimately missing the boat. What's your move? #AI #ArtificialIntelligence #GPT5 #FrontierMath #TechTrends #SmallBusiness #Innovation",
           "published_at": "2026-03-10T16:16:56+00:00",
           "age_hours": 22.3,
           "scraped_from": "r/singularity",
           "batch": "afternoon",
-          "is_feature_release": false
+          "is_feature_release": false,
+          "is_thread": false,
+          "thread_post_1": null,
+          "thread_post_2": null,
+          "thread_post_3": null
         },
         {
           "id": 2,
@@ -550,12 +671,16 @@
           "voice_score": 90,
           "hashtags": "#AI #OpenSource #RealEstate #TechBusiness #Debian #SmallBusiness #AIConsulting",
           "platforms": "Facebook + Instagram",
-          "post_text": "Real talk: Debian's decision to not decide on AI code contributions is actually pretty smart. Kicking the can down the road beats making a bad rule now. Same energy as waiting to scale your rental business until you understand your unit economics. What's your take \u2014 AI contributions yay or nay?\n\n#AI #OpenSource #RealEstate #TechBusiness #Debian #SmallBusiness #AIConsulting",
+          "post_text": "Real talk: Debian's decision to not decide on AI code contributions is actually pretty smart. Kicking the can down the road beats making a bad rule now. Same energy as waiting to scale your rental business until you understand your unit economics. What's your take. AI contributions yay or nay? #AI #OpenSource #RealEstate #TechBusiness #Debian #SmallBusiness #AIConsulting",
           "published_at": "2026-03-10T14:53:13+00:00",
           "age_hours": 23.6,
           "scraped_from": "Hacker News",
           "batch": "afternoon",
-          "is_feature_release": false
+          "is_feature_release": false,
+          "is_thread": false,
+          "thread_post_1": null,
+          "thread_post_2": null,
+          "thread_post_3": null
         },
         {
           "id": 3,
@@ -567,12 +692,16 @@
           "voice_score": 91,
           "hashtags": "#AI #Politics #Claude #Tech #Future #President #AIConsulting",
           "platforms": "Facebook + Instagram",
-          "post_text": "Real talk \u2014 an AI running for President is genuinely the most honest campaign we've seen in years. No special interests, no ego, just logic and data. Funny how that sounds appealing right now. Curious what policy positions an AI would actually prioritize.\n\n#AI #Politics #Claude #Tech #Future #President #AIConsulting",
+          "post_text": "Real talk, an AI running for President is genuinely the most honest campaign we've seen in years. No special interests, no ego, just logic and data. Funny how that sounds appealing right now. Curious what policy positions an AI would actually prioritize. #AI #Politics #Claude #Tech #Future #President #AIConsulting",
           "published_at": "2026-03-10T19:46:48+00:00",
           "age_hours": 18.8,
           "scraped_from": "r/singularity",
           "batch": "afternoon",
-          "is_feature_release": false
+          "is_feature_release": false,
+          "is_thread": false,
+          "thread_post_1": null,
+          "thread_post_2": null,
+          "thread_post_3": null
         },
         {
           "id": 4,
@@ -584,12 +713,16 @@
           "voice_score": 92,
           "hashtags": "#AIConsulting #MachineLearning #AITools #TechTrends #SmallBizAI #RealEstate #DaytonaBeach",
           "platforms": "Facebook + Instagram",
-          "post_text": "Genuinely curious what the AI community's meta-review scores look like this month. Real talk \u2014 watching how models perform on real-world tasks (not just benchmarks) is how we actually decide what tools work for our business. Legitimately matters more than the hype cycle.\n\n#AIConsulting #MachineLearning #AITools #TechTrends #SmallBizAI #RealEstate #DaytonaBeach",
+          "post_text": "Genuinely curious what the AI community's meta-review scores look like this month. Real talk, watching how models perform on real-world tasks (not just benchmarks) is how we actually decide what tools work for our business. Legitimately matters more than the hype cycle. #AIConsulting #MachineLearning #AITools #TechTrends #SmallBizAI #RealEstate #DaytonaBeach",
           "published_at": "2026-03-10T14:53:01+00:00",
           "age_hours": 23.6,
           "scraped_from": "r/MachineLearning",
           "batch": "afternoon",
-          "is_feature_release": false
+          "is_feature_release": false,
+          "is_thread": false,
+          "thread_post_1": null,
+          "thread_post_2": null,
+          "thread_post_3": null
         },
         {
           "id": 5,
@@ -601,12 +734,16 @@
           "voice_score": 93,
           "hashtags": "#AI #Meta #AIAgents #RealEstate #Hospitality #SmallBusiness #FutureOfWork",
           "platforms": "Facebook + Instagram",
-          "post_text": "Meta just grabbed Moltbook and genuinely, this is the move that matters. AI agents handling customer relationships at scale? That's not subtle positioning. Real talk \u2014 vacation rental owners and hospitality businesses need to watch this. Automating guest interactions just got a whole lot more serious. Who's already thinking about this for their operation?\n\n#AI #Meta #AIAgents #RealEstate #Hospitality #SmallBusiness #FutureOfWork",
+          "post_text": "Meta just grabbed Moltbook and genuinely, this is the move that matters. AI agents handling customer relationships at scale? That's not subtle positioning. Real talk, vacation rental owners and hospitality businesses need to watch this. Automating guest interactions just got a whole lot more serious. Who's already thinking about this for their operation? #AI #Meta #AIAgents #RealEstate #Hospitality #SmallBusiness #FutureOfWork",
           "published_at": "2026-03-10T17:15:52+00:00",
           "age_hours": 21.3,
           "scraped_from": "r/singularity",
           "batch": "afternoon",
-          "is_feature_release": false
+          "is_feature_release": false,
+          "is_thread": false,
+          "thread_post_1": null,
+          "thread_post_2": null,
+          "thread_post_3": null
         },
         {
           "id": 6,
@@ -618,12 +755,16 @@
           "voice_score": 94,
           "hashtags": "#AIConsulting #SmallBusiness #RealEstate #Leadership #AI #Daytona #FutureOfWork",
           "platforms": "Facebook + Instagram",
-          "post_text": "Real talk \u2014 execs outsourcing their thinking to AI is like a quarterback letting the playbook call itself. Legitimately nervous about this one. The ones winning? They're using AI as a research assistant, not a replacement brain. Big difference between working smarter and just... checking out.\n\n#AIConsulting #SmallBusiness #RealEstate #Leadership #AI #Daytona #FutureOfWork",
+          "post_text": "Real talk, execs outsourcing their thinking to AI is like a quarterback letting the playbook call itself. Legitimately nervous about this one. The ones winning? They're using AI as a research assistant, not a replacement brain. Big difference between working smarter and just... checking out. #AIConsulting #SmallBusiness #RealEstate #Leadership #AI #Daytona #FutureOfWork",
           "published_at": "2026-03-10T21:24:33+00:00",
           "age_hours": 17.1,
           "scraped_from": "r/singularity",
           "batch": "afternoon",
-          "is_feature_release": false
+          "is_feature_release": false,
+          "is_thread": false,
+          "thread_post_1": null,
+          "thread_post_2": null,
+          "thread_post_3": null
         },
         {
           "id": 7,
@@ -635,12 +776,16 @@
           "voice_score": 88,
           "hashtags": "#AIConsulting #SmallBusiness #TechTrends #RealEstate #FutureOfWork #AIAdoption #DaytonaBeach",
           "platforms": "Facebook + Instagram",
-          "post_text": "Real talk \u2014 watching AI predictions from Reddit feel less like sci-fi and more like next quarter's business reality. Whether roon hits those benchmarks or not, the teams already building with AI today are gonna be so far ahead. Not subtle how fast this is moving.\n\n#AIConsulting #SmallBusiness #TechTrends #RealEstate #FutureOfWork #AIAdoption #DaytonaBeach",
+          "post_text": "Real talk, watching AI predictions from Reddit feel less like sci-fi and more like next quarter's business reality. Whether roon hits those benchmarks or not, the teams already building with AI today are gonna be so far ahead. Not subtle how fast this is moving. #AIConsulting #SmallBusiness #TechTrends #RealEstate #FutureOfWork #AIAdoption #DaytonaBeach",
           "published_at": "2026-03-10T17:33:42+00:00",
           "age_hours": 21.0,
           "scraped_from": "r/singularity",
           "batch": "afternoon",
-          "is_feature_release": false
+          "is_feature_release": false,
+          "is_thread": false,
+          "thread_post_1": null,
+          "thread_post_2": null,
+          "thread_post_3": null
         },
         {
           "id": 8,
@@ -652,12 +797,16 @@
           "voice_score": 89,
           "hashtags": "#Geopolitics #BusinessStability #Ukraine #InternationalRelations #Leadership #RealTalk #EconomicImpact",
           "platforms": "Facebook + Instagram",
-          "post_text": "Real talk \u2014 when a political campaign is built on hostility toward a neighbor country, that's genuinely bad business. It's like running your company on what you're against instead of what you're building. Never ends well. Stability matters, whether it's geopolitics or your local market.\n\n#Geopolitics #BusinessStability #Ukraine #InternationalRelations #Leadership #RealTalk #EconomicImpact",
+          "post_text": "Real talk, when a political campaign is built on hostility toward a neighbor country, that's genuinely bad business. It's like running your company on what you're against instead of what you're building. Never ends well. Stability matters, whether it's geopolitics or your local market. #Geopolitics #BusinessStability #Ukraine #InternationalRelations #Leadership #RealTalk #EconomicImpact",
           "published_at": "2026-03-11T09:15:44+00:00",
           "age_hours": 5.3,
           "scraped_from": "r/worldnews",
           "batch": "afternoon",
-          "is_feature_release": false
+          "is_feature_release": false,
+          "is_thread": false,
+          "thread_post_1": null,
+          "thread_post_2": null,
+          "thread_post_3": null
         },
         {
           "id": 9,
@@ -669,12 +818,16 @@
           "voice_score": 90,
           "hashtags": "#TechHistory #ComputerScience #Innovation #Legacy #Programming #SystemsThinking #RIP",
           "platforms": "Facebook + Instagram",
-          "post_text": "Tony Hoare just passed away at 90, and genuinely, this matters beyond tech circles. The guy invented null references and formal verification \u2014 basically built the foundation for systems that don't catastrophically fail. Real talk: every reliable business process you depend on traces back to his thinking.\n\n#TechHistory #ComputerScience #Innovation #Legacy #Programming #SystemsThinking #RIP",
+          "post_text": "Tony Hoare just passed away at 90, and genuinely, this matters beyond tech circles. The guy invented null references and formal verification, basically built the foundation for systems that don't catastrophically fail. Real talk: every reliable business process you depend on traces back to his thinking. #TechHistory #ComputerScience #Innovation #Legacy #Programming #SystemsThinking #RIP",
           "published_at": "2026-03-10T14:50:16+00:00",
           "age_hours": 23.7,
           "scraped_from": "Hacker News",
           "batch": "afternoon",
-          "is_feature_release": false
+          "is_feature_release": false,
+          "is_thread": false,
+          "thread_post_1": null,
+          "thread_post_2": null,
+          "thread_post_3": null
         },
         {
           "id": 10,
@@ -691,12 +844,13 @@
           "age_hours": 4.5,
           "scraped_from": "r/worldnews",
           "batch": "afternoon",
-          "is_feature_release": false
+          "is_feature_release": false,
+          "is_thread": false,
+          "thread_post_1": null,
+          "thread_post_2": null,
+          "thread_post_3": null
         }
-      ],
-      "generated_at": "2026-03-11T14:31:56.720403+00:00",
-      "label": "Afternoon Update (1 PM)",
-      "count": 10
+      ]
     },
     "scripts_thumbnails": [
       {
