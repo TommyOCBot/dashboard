@@ -1,132 +1,706 @@
 {
-  "generated_at": "2026-03-11T08:46:09.549424-04:00",
-  "date": "2026-03-11",
+  "generated_at": "2026-03-12T06:32:28.744148-04:00",
+  "date": "2026-03-12",
   "content": {
     "posts": [
       {
         "id": 1,
         "category": "AI",
-        "topic": "OpenAI Drops GPT-5 — Real-Time Reasoning Benchmark Shattered",
+        "topic": "How AI is helping improve heart health in rural Australia",
         "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
-        "source_url": "https://openai.com/blog",
-        "source_label": "OpenAI Blog",
-        "voice_score": 94,
-        "hashtags": "#AI #GPT5 #Automation #AIThatScales",
+        "source_url": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
+        "source_label": "Google AI Blog",
+        "voice_score": 89,
+        "hashtags": "#AI #Healthcare #RuralAustralia #HealthTech #Innovation #SmallBusiness #MedicalAI",
         "platforms": "Facebook + Instagram",
-        "post_text": "The game just changed — again.\n\nOpenAI dropped GPT-5 this morning and the reasoning capability leap is real. I've been testing it since 6 AM and the difference isn't subtle.\n\nFor business owners: this isn't theoretical anymore. The automation workflows that felt \"almost there\" last year? They're \"fully there\" now.\n\nWe're already updating 3 client systems this week. If you haven't started automating your operations, you're now 2 generations behind.\n\nDM me if you want to talk about what this means for your business.\n\n#AI #GPT5 #Automation #AIThatScales #BusinessAutomation #FutureOfWork"
+        "post_text": "Google's rolling out AI to catch heart issues early in remote Australia. Real talk \u2014 this is what tech should do. Rural healthcare has always been the harder play, but better diagnostics = fewer emergencies = lower costs. That's the business case for innovation that actually matters.\n\n#AI #Healthcare #RuralAustralia #HealthTech #Innovation #SmallBusiness #MedicalAI",
+        "published_at": "2026-03-12T15:00:00+00:00",
+        "age_hours": -4.5,
+        "scraped_from": "Google AI Blog",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/AvoidantBreakUps/comments/1rqhd4p/perspective_of_a_fearful_avoidant_who_was_dumped/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=How%20AI%20is%20helping%20improve&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 2,
         "category": "AI",
-        "topic": "AI Agents Now Handle 40% of Fortune 500 Customer Service",
-        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/artificial",
-        "source_label": "r/artificial",
-        "voice_score": 87,
-        "hashtags": "#CustomerService #AIAgents #Automation",
+        "topic": "Ford\u2019s new AI assistant will help fleet owners know if seatbelts are being used",
+        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+        "source_url": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
+        "source_label": "TechCrunch AI",
+        "voice_score": 90,
+        "hashtags": "#FleetManagement #AITech #SmallBusiness #FordPro #Telematics #BusinessTech #RealEstateOps",
         "platforms": "Facebook + Instagram",
-        "post_text": "New data out: AI agents handle 40% of customer service interactions at Fortune 500 companies.\n\nThat's not a pilot program. That's operational reality.\n\nThe companies winning aren't waiting for \"perfect\" AI — they're deploying 80% solutions and improving in real-time.\n\nYour competitors are already doing this. The question is whether you're building the system or getting left behind.\n\nWhat's your biggest customer service bottleneck right now?\n\n#CustomerService #AIAgents #Automation #SmallBusiness #AIThatScales"
+        "post_text": "Ford Pro just rolled out AI that monitors seatbelt usage across your fleet. Real talk, if you're managing vehicles for your business, this legitimately cuts liability and insurance headaches. Funny how a camera watching compliance becomes your best risk manager.\n\n#FleetManagement #AITech #SmallBusiness #FordPro #Telematics #BusinessTech #RealEstateOps",
+        "published_at": "2026-03-11T22:51:39+00:00",
+        "age_hours": 11.6,
+        "scraped_from": "TechCrunch AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/BestofRedditorUpdates/comments/1rn1303/i_saved_a_womans_life_on_an_airplane_and_lost_my/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Ford%E2%80%99s%20new%20AI%20assistant%20will&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://digitrendz.blog/newswire/artificial-intelligence/146153/fords-ai-assistant-monitors-fleet-seatbelt-use-for-safety/",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 3,
         "category": "AI",
-        "topic": "Claude 4 Sonnet Tops Every Major Coding Benchmark",
-        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
-        "source_url": "https://www.anthropic.com",
-        "source_label": "Anthropic",
+        "topic": "OpenAI\u2019s Sora video generator is reportedly coming to ChatGPT",
+        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration",
+        "source_label": "The Verge AI",
         "voice_score": 91,
-        "hashtags": "#Claude #Anthropic #AITools",
+        "hashtags": "#AItools #ChatGPT #Sora #RealEstateTech #SmallBusiness #ContentCreation #AIConsulting",
         "platforms": "Facebook + Instagram",
-        "post_text": "Anthropic published Claude 4 Sonnet benchmark results and the coding performance is legitimately impressive.\n\nWe use Claude for 80% of our automation builds at AI That Scales. The jump from 3.5 → 4 is the biggest single-version improvement I've seen.\n\nA workflow that used to take 3 iterations now lands first pass 70% of the time. That's not small.\n\nIf you're building automations and not using Claude, you're working harder than you need to.\n\n#Claude #Anthropic #AITools #Automation #AIThatScales #BuildSmarter"
+        "post_text": "Real talk \u2014 Sora's about to hit different once it's built into ChatGPT. Right now it's sitting on an island nobody visits. For our hospitality and real estate folks, this means video content gets genuinely easier. Funny how the best tools only win when they're actually convenient to use.\n\n#AItools #ChatGPT #Sora #RealEstateTech #SmallBusiness #ContentCreation #AIConsulting",
+        "published_at": "2026-03-11T12:50:45-04:00",
+        "age_hours": 17.7,
+        "scraped_from": "The Verge AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/ChatGPTcomplaints/comments/1rnrnlg/sora_has_a_racism_problem_and_im_tired_of/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=OpenAI%E2%80%99s%20Sora%20video%20generator%20is&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://openai.com/sora/",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 4,
         "category": "AI",
-        "topic": "Gemini 2.0 Just Shipped Inside Every Google Workspace App",
+        "topic": "Rakuten fixes issues twice as fast with Codex",
         "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
-        "source_url": "https://workspace.google.com",
-        "source_label": "Google Workspace",
-        "voice_score": 82,
-        "hashtags": "#Google #Gemini #Productivity",
+        "source_url": "https://openai.com/index/rakuten",
+        "source_label": "OpenAI Blog",
+        "voice_score": 92,
+        "hashtags": "#AI #SoftwareDevelopment #OpenAI #DevOps #TechNews #Automation #BusinessEfficiency",
         "platforms": "Facebook + Instagram",
-        "post_text": "Google pushed Gemini 2.0 into Workspace — Docs, Sheets, Gmail, Meet.\n\nThe practical impact for small business teams: your VA now has a co-pilot baked into every tool they already use.\n\nBeen playing with the Sheets integration this week. The ability to describe what you want and have it build formulas + summarize data is genuinely useful — not demo-ware.\n\nIf your team runs on Google, this upgrade happened automatically. Make sure you're actually using it.\n\n#Google #Gemini #Productivity #SmallBusiness #WorkSmarter #AIThatScales"
+        "post_text": "Rakuten just cut their bug-fix time in half using OpenAI's Codex. Real talk \u2014 automating code reviews and shipping full-stack builds in weeks instead of months? That's genuinely how you compete. If you're managing any tech ops, this is worth a 5-minute read.\n\n#AI #SoftwareDevelopment #OpenAI #DevOps #TechNews #Automation #BusinessEfficiency",
+        "published_at": "2026-03-11T13:00:00+00:00",
+        "age_hours": 21.5,
+        "scraped_from": "OpenAI Blog",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/awfuleverything/comments/1roazia/earth_is_now_heating_up_twice_as_fast_as_in/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Rakuten%20fixes%20issues%20twice%20as&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://openai.com/index/rakuten",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 5,
         "category": "AI",
-        "topic": "Make.com, Zapier, n8n — No-Code Platforms Hit 300% Growth",
+        "topic": "Designing AI agents to resist prompt injection",
         "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/ChatGPT",
-        "source_label": "r/ChatGPT",
-        "voice_score": 89,
-        "hashtags": "#NoCode #Workflow #Automation",
+        "source_url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+        "source_label": "OpenAI Blog",
+        "voice_score": 93,
+        "hashtags": "#AISecurityMatters #SmallBusinessAI #AIConsulting #DataProtection #ChatGPT #RealEstatetech #AIagents",
         "platforms": "Facebook + Instagram",
-        "post_text": "No-code automation platforms hit 300% user growth last quarter.\n\nTranslation: the barrier to automation is officially gone. You don't need a developer. You need someone who understands your process and 2-4 hours.\n\nI've been building no-code automations for clients for 18 months. The tools keep getting better. The window to get ahead of competitors is still open — but it's closing.\n\nStill doing manually what a bot could do? That's a choice. Make sure it's intentional.\n\n#NoCode #Workflow #Automation #Productivity #AIThatScales #BusinessGrowth"
+        "post_text": "Real talk: AI agents handling your business data need serious guardrails. OpenAI just dropped how they're building defenses against prompt injection\u2014basically hackers trying to trick AI into spilling secrets. If you're running operations with AI, this matters. Your guest data, pricing, inventory? Gotta be protected.\n\n#AISecurityMatters #SmallBusinessAI #AIConsulting #DataProtection #ChatGPT #RealEstatetech #AIagents",
+        "published_at": "2026-03-11T11:30:00+00:00",
+        "age_hours": 23.0,
+        "scraped_from": "OpenAI Blog",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/bugbounty/comments/1row41z/google_paid_me_15000_for_this_prompt_injection_bug/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Designing%20AI%20agents%20to%20resist&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 6,
         "category": "AI",
-        "topic": "AI Guest Comms Cut STR Response Time from 4 Hours to 8 Minutes",
-        "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/airbnb",
-        "source_label": "r/airbnb",
-        "voice_score": 96,
-        "hashtags": "#VacationRental #PropertyManagement #AI",
+        "topic": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+        "source_url": "https://openai.com/index/wayfair",
+        "source_label": "OpenAI Blog",
+        "voice_score": 94,
+        "hashtags": "#AIForBusiness #Ecommerce #SmallBizTech #OpenAI #CustomerSupport #ProductData #BusinessAutomation",
         "platforms": "Facebook + Instagram",
-        "post_text": "Case study: AI-powered guest comms cut response time from 4 hours to 8 minutes across a 40-property portfolio.\n\nNot theoretical — I've seen it firsthand with Stay Coastal's 30+ properties.\n\nGuests don't care if a bot answered. They care that someone answered. Fast responses = better reviews = more bookings.\n\nMath is simple. Setup takes a weekend. ROI is permanent.\n\nRunning STRs and still answering every message manually? Let's talk.\n\n#VacationRental #PropertyManagement #AI #Airbnb #ShortTermRental #AIThatScales"
+        "post_text": "Real talk \u2014 watching Wayfair automate customer support tickets and clean up millions of product listings with AI is genuinely what small businesses should be paying attention to. Not subtle how this saves time and money at scale. That's the actual competitive edge right now.\n\n#AIForBusiness #Ecommerce #SmallBizTech #OpenAI #CustomerSupport #ProductData #BusinessAutomation",
+        "published_at": "2026-03-11T11:00:00+00:00",
+        "age_hours": 23.5,
+        "scraped_from": "OpenAI Blog",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/Battlefield/comments/1rllc2b/battlefield_6_community_update_ongoing_quality_of/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Wayfair%20boosts%20catalog%20accuracy%20and&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://openai.com/index/wayfair",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 7,
         "category": "AI",
-        "topic": "2026 AI Adoption Report: SMBs Close the Gap on Enterprise",
-        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 85,
-        "hashtags": "#SMB #AIAdoption #Business2026",
+        "topic": "From model to agent: Equipping the Responses API with a computer environment",
+        "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
+        "source_url": "https://openai.com/index/equip-responses-api-computer-environment",
+        "source_label": "OpenAI Blog",
+        "voice_score": 88,
+        "hashtags": "#AI #OpenAI #AgentAI #RealEstateTech #SmallBusiness #Automation #AIConsulting",
         "platforms": "Facebook + Instagram",
-        "post_text": "2026 AI Adoption Report: the gap between enterprise and SMB AI usage closed by 40% last year.\n\nThe tools got cheaper. The interfaces got simpler. The use cases got clearer.\n\nBusinesses that adopted early are seeing it in their margins. The ones who waited are scrambling.\n\nWhere are you in this curve? Reply with where you are and where you want to be.\n\n#SMB #AIAdoption #Business2026 #Productivity #AIThatScales #Entrepreneur"
+        "post_text": "Real talk: OpenAI just showed how to build agents that actually *do* stuff\u2014file management, tool execution, secure containers. For anyone running operations (rentals, services, whatever), this is genuinely the infrastructure that'll handle your busywork at scale. Not subtle how fast this gets real.\n\n#AI #OpenAI #AgentAI #RealEstateTech #SmallBusiness #Automation #AIConsulting",
+        "published_at": "2026-03-11T11:00:00+00:00",
+        "age_hours": 23.5,
+        "scraped_from": "OpenAI Blog",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1rmdiu3/ai_agents_today_are_far_more_dangerous_that_you/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=From%20model%20to%20agent%3A%20Equipping&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://openai.com/index/equip-responses-api-computer-environment",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 8,
         "category": "WORLD",
-        "topic": "Fed Holds Rates — Here's What That Actually Means for Your Business",
+        "topic": "The $38.9 trillion national debt is costing you thousands of extra dollars per year on your mortgage. Here\u2019s how it adds up",
         "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/worldnews",
-        "source_label": "r/worldnews",
-        "voice_score": 78,
-        "hashtags": "#Economy #FederalReserve #SmallBusiness",
+        "source_url": "https://reddit.com/r/Economics/comments/1rqzqz7/the_389_trillion_national_debt_is_costing_you/",
+        "source_label": "r/economics on Reddit",
+        "voice_score": 89,
+        "hashtags": "#RealEstate #MortgageRates #Economics #SmallBusiness #FloridaBusiness #RealEstateTalk #DebtCrisis",
         "platforms": "Facebook + Instagram",
-        "post_text": "The Fed held rates again. Inflation still uncertain. Lending still tight.\n\nStraight talk: if you're waiting for rates to drop before making moves, you're tying your growth strategy to a variable you can't control.\n\nOperators winning right now are cutting costs through efficiency (automation), not waiting for cheap capital.\n\nFocus on what you can control: margins, team productivity, systems. The macro clears when it clears.\n\n#Economy #FederalReserve #SmallBusiness #Entrepreneur #BusinessStrategy #AIThatScales"
+        "post_text": "Real talk: That $38.9 trillion national debt? It's showing up in your mortgage payments right now. Higher interest rates aren't random\u2014they're tied directly to government spending. Funny how nobody talks about this when property prices are already brutal. If you're financing anything, this matters.\n\n#RealEstate #MortgageRates #Economics #SmallBusiness #FloridaBusiness #RealEstateTalk #DebtCrisis",
+        "published_at": "2026-03-11T17:11:14+00:00",
+        "age_hours": 17.3,
+        "scraped_from": "r/economics",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/Economics/comments/1rqzqz7/the_389_trillion_national_debt_is_costing_you/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=The%20%2438.9%20trillion%20national%20debt&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://fortune.com/2026/03/11/national-debt-costs-homeowners-trump-tax-cuts-mortgage-rates/",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 9,
         "category": "WORLD",
-        "topic": "Daytona Beach Q1 2026: Occupancy Strong, ADR Up 8% YoY",
-        "image_url": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/realestate",
-        "source_label": "r/realestate",
-        "voice_score": 92,
-        "hashtags": "#FloridaRealEstate #DaytonaBeach #ShortTermRental",
+        "topic": "Trump ditched plans to avoid civilian casualties before Iran strikes: report",
+        "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
+        "source_url": "https://reddit.com/r/worldnews/comments/1rrhi96/trump_ditched_plans_to_avoid_civilian_casualties/",
+        "source_label": "r/worldnews on Reddit",
+        "voice_score": 90,
+        "hashtags": "#GeopoliticalRisk #SmallBusiness #EconomicImpact #RealEstateTalk #BusinessConfidence #MarketAnalysis #CoastalBusiness",
         "platforms": "Facebook + Instagram",
-        "post_text": "Daytona Beach Q1 data is in: occupancy holding strong, ADRs up 8% YoY, inventory tight on the quality end.\n\nFor property owners: if your property isn't performing at market, the issue isn't the market.\n\nFor investors watching: the STR opportunity here is real. \"Set it and forget it\" is dead, but returns for well-managed properties are there.\n\nWant to see actual comps or talk through an acquisition? DM me.\n\n#FloridaRealEstate #DaytonaBeach #ShortTermRental #VacationRental #RealEstateInvesting #StayCoastal"
+        "post_text": "Real talk \u2014 when leaders abandon safeguards, it affects everything downstream. Markets get nervous, businesses pause decisions, travel/hospitality takes a hit. Geopolitical instability isn't abstract. It's literally why some vacation bookings dry up. What's your read on how this plays out for small business confidence?\n\n#GeopoliticalRisk #SmallBusiness #EconomicImpact #RealEstateTalk #BusinessConfidence #MarketAnalysis #CoastalBusiness",
+        "published_at": "2026-03-12T04:50:33+00:00",
+        "age_hours": 5.7,
+        "scraped_from": "r/worldnews",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/worldnews/comments/1rrhi96/trump_ditched_plans_to_avoid_civilian_casualties/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Trump%20ditched%20plans%20to%20avoid&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.salon.com/2026/03/11/the-us-had-a-blueprint-to-avoid-civilian-war-casualties-trump-officials-scrapped-it-partner/",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 10,
         "category": "WORLD",
-        "topic": "35% of US Workforce Permanently Remote — What That Means for STR Operators",
-        "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 83,
-        "hashtags": "#RemoteWork #VacationRental #WorkFromAnywhere",
+        "topic": "Tony Hoare has died",
+        "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+        "source_url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+        "source_label": "Hacker News",
+        "voice_score": 91,
+        "hashtags": "#ComputerScience #TechLegacy #Innovation #Programming #BusinessLessons #DaytonaBeach #AIConsulting",
         "platforms": "Facebook + Instagram",
-        "post_text": "New Gallup data: 35% of the US workforce is now permanently remote. That's not going back.\n\nFor vacation rental operators, this drives mid-week and extended-stay demand. Guests aren't just coming for the weekend — they're coming for 2-4 weeks.\n\nSeen it in our own portfolio. Longer stays, better reviews, less turnover.\n\nSTR not set up for extended stays? (workspace, faster WiFi, monthly discounts) You're leaving money on the table.\n\n#RemoteWork #VacationRental #WorkFromAnywhere #ShortTermRental #StayCoastal #AIThatScales"
+        "post_text": "Real talk \u2014 Tony Hoare just changed how we think about code and systems design. Null pointer inventor, computer science legend. Funny how the best minds solve problems that ripple through decades of business and tech. That's the kind of impact worth studying.\n\n#ComputerScience #TechLegacy #Innovation #Programming #BusinessLessons #DaytonaBeach #AIConsulting",
+        "published_at": "2026-03-10T14:50:16+00:00",
+        "age_hours": 43.7,
+        "scraped_from": "Hacker News",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/Fauxmoi/comments/1rm4rjp/republican_rep_tony_gonzales_rtx_announces_he/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Tony%20Hoare%20has%20died&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+            "label": "Official Source"
+          }
+        ]
       }
-    ]
+    ],
+    "morning": {
+      "posts": [
+        {
+          "id": 1,
+          "category": "AI",
+          "topic": "How AI is helping improve heart health in rural Australia",
+          "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
+          "source_url": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
+          "source_label": "Google AI Blog",
+          "voice_score": 89,
+          "hashtags": "#AI #Healthcare #RuralAustralia #HealthTech #Innovation #SmallBusiness #MedicalAI",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Google's rolling out AI to catch heart issues early in remote Australia. Real talk \u2014 this is what tech should do. Rural healthcare has always been the harder play, but better diagnostics = fewer emergencies = lower costs. That's the business case for innovation that actually matters.\n\n#AI #Healthcare #RuralAustralia #HealthTech #Innovation #SmallBusiness #MedicalAI",
+          "published_at": "2026-03-12T15:00:00+00:00",
+          "age_hours": -4.5,
+          "scraped_from": "Google AI Blog",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/AvoidantBreakUps/comments/1rqhd4p/perspective_of_a_fearful_avoidant_who_was_dumped/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=How%20AI%20is%20helping%20improve&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "category": "AI",
+          "topic": "Ford\u2019s new AI assistant will help fleet owners know if seatbelts are being used",
+          "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+          "source_url": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
+          "source_label": "TechCrunch AI",
+          "voice_score": 90,
+          "hashtags": "#FleetManagement #AITech #SmallBusiness #FordPro #Telematics #BusinessTech #RealEstateOps",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Ford Pro just rolled out AI that monitors seatbelt usage across your fleet. Real talk, if you're managing vehicles for your business, this legitimately cuts liability and insurance headaches. Funny how a camera watching compliance becomes your best risk manager.\n\n#FleetManagement #AITech #SmallBusiness #FordPro #Telematics #BusinessTech #RealEstateOps",
+          "published_at": "2026-03-11T22:51:39+00:00",
+          "age_hours": 11.6,
+          "scraped_from": "TechCrunch AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/BestofRedditorUpdates/comments/1rn1303/i_saved_a_womans_life_on_an_airplane_and_lost_my/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Ford%E2%80%99s%20new%20AI%20assistant%20will&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://digitrendz.blog/newswire/artificial-intelligence/146153/fords-ai-assistant-monitors-fleet-seatbelt-use-for-safety/",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "category": "AI",
+          "topic": "OpenAI\u2019s Sora video generator is reportedly coming to ChatGPT",
+          "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration",
+          "source_label": "The Verge AI",
+          "voice_score": 91,
+          "hashtags": "#AItools #ChatGPT #Sora #RealEstateTech #SmallBusiness #ContentCreation #AIConsulting",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 Sora's about to hit different once it's built into ChatGPT. Right now it's sitting on an island nobody visits. For our hospitality and real estate folks, this means video content gets genuinely easier. Funny how the best tools only win when they're actually convenient to use.\n\n#AItools #ChatGPT #Sora #RealEstateTech #SmallBusiness #ContentCreation #AIConsulting",
+          "published_at": "2026-03-11T12:50:45-04:00",
+          "age_hours": 17.7,
+          "scraped_from": "The Verge AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/ChatGPTcomplaints/comments/1rnrnlg/sora_has_a_racism_problem_and_im_tired_of/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=OpenAI%E2%80%99s%20Sora%20video%20generator%20is&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://openai.com/sora/",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "category": "AI",
+          "topic": "Rakuten fixes issues twice as fast with Codex",
+          "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
+          "source_url": "https://openai.com/index/rakuten",
+          "source_label": "OpenAI Blog",
+          "voice_score": 92,
+          "hashtags": "#AI #SoftwareDevelopment #OpenAI #DevOps #TechNews #Automation #BusinessEfficiency",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Rakuten just cut their bug-fix time in half using OpenAI's Codex. Real talk \u2014 automating code reviews and shipping full-stack builds in weeks instead of months? That's genuinely how you compete. If you're managing any tech ops, this is worth a 5-minute read.\n\n#AI #SoftwareDevelopment #OpenAI #DevOps #TechNews #Automation #BusinessEfficiency",
+          "published_at": "2026-03-11T13:00:00+00:00",
+          "age_hours": 21.5,
+          "scraped_from": "OpenAI Blog",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/awfuleverything/comments/1roazia/earth_is_now_heating_up_twice_as_fast_as_in/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Rakuten%20fixes%20issues%20twice%20as&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://openai.com/index/rakuten",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "category": "AI",
+          "topic": "Designing AI agents to resist prompt injection",
+          "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+          "source_url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+          "source_label": "OpenAI Blog",
+          "voice_score": 93,
+          "hashtags": "#AISecurityMatters #SmallBusinessAI #AIConsulting #DataProtection #ChatGPT #RealEstatetech #AIagents",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: AI agents handling your business data need serious guardrails. OpenAI just dropped how they're building defenses against prompt injection\u2014basically hackers trying to trick AI into spilling secrets. If you're running operations with AI, this matters. Your guest data, pricing, inventory? Gotta be protected.\n\n#AISecurityMatters #SmallBusinessAI #AIConsulting #DataProtection #ChatGPT #RealEstatetech #AIagents",
+          "published_at": "2026-03-11T11:30:00+00:00",
+          "age_hours": 23.0,
+          "scraped_from": "OpenAI Blog",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/bugbounty/comments/1row41z/google_paid_me_15000_for_this_prompt_injection_bug/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Designing%20AI%20agents%20to%20resist&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "category": "AI",
+          "topic": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+          "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+          "source_url": "https://openai.com/index/wayfair",
+          "source_label": "OpenAI Blog",
+          "voice_score": 94,
+          "hashtags": "#AIForBusiness #Ecommerce #SmallBizTech #OpenAI #CustomerSupport #ProductData #BusinessAutomation",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 watching Wayfair automate customer support tickets and clean up millions of product listings with AI is genuinely what small businesses should be paying attention to. Not subtle how this saves time and money at scale. That's the actual competitive edge right now.\n\n#AIForBusiness #Ecommerce #SmallBizTech #OpenAI #CustomerSupport #ProductData #BusinessAutomation",
+          "published_at": "2026-03-11T11:00:00+00:00",
+          "age_hours": 23.5,
+          "scraped_from": "OpenAI Blog",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/Battlefield/comments/1rllc2b/battlefield_6_community_update_ongoing_quality_of/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Wayfair%20boosts%20catalog%20accuracy%20and&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://openai.com/index/wayfair",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "category": "AI",
+          "topic": "From model to agent: Equipping the Responses API with a computer environment",
+          "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
+          "source_url": "https://openai.com/index/equip-responses-api-computer-environment",
+          "source_label": "OpenAI Blog",
+          "voice_score": 88,
+          "hashtags": "#AI #OpenAI #AgentAI #RealEstateTech #SmallBusiness #Automation #AIConsulting",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: OpenAI just showed how to build agents that actually *do* stuff\u2014file management, tool execution, secure containers. For anyone running operations (rentals, services, whatever), this is genuinely the infrastructure that'll handle your busywork at scale. Not subtle how fast this gets real.\n\n#AI #OpenAI #AgentAI #RealEstateTech #SmallBusiness #Automation #AIConsulting",
+          "published_at": "2026-03-11T11:00:00+00:00",
+          "age_hours": 23.5,
+          "scraped_from": "OpenAI Blog",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1rmdiu3/ai_agents_today_are_far_more_dangerous_that_you/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=From%20model%20to%20agent%3A%20Equipping&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://openai.com/index/equip-responses-api-computer-environment",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "category": "WORLD",
+          "topic": "The $38.9 trillion national debt is costing you thousands of extra dollars per year on your mortgage. Here\u2019s how it adds up",
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
+          "source_url": "https://reddit.com/r/Economics/comments/1rqzqz7/the_389_trillion_national_debt_is_costing_you/",
+          "source_label": "r/economics on Reddit",
+          "voice_score": 89,
+          "hashtags": "#RealEstate #MortgageRates #Economics #SmallBusiness #FloridaBusiness #RealEstateTalk #DebtCrisis",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: That $38.9 trillion national debt? It's showing up in your mortgage payments right now. Higher interest rates aren't random\u2014they're tied directly to government spending. Funny how nobody talks about this when property prices are already brutal. If you're financing anything, this matters.\n\n#RealEstate #MortgageRates #Economics #SmallBusiness #FloridaBusiness #RealEstateTalk #DebtCrisis",
+          "published_at": "2026-03-11T17:11:14+00:00",
+          "age_hours": 17.3,
+          "scraped_from": "r/economics",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/Economics/comments/1rqzqz7/the_389_trillion_national_debt_is_costing_you/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=The%20%2438.9%20trillion%20national%20debt&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://fortune.com/2026/03/11/national-debt-costs-homeowners-trump-tax-cuts-mortgage-rates/",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "category": "WORLD",
+          "topic": "Trump ditched plans to avoid civilian casualties before Iran strikes: report",
+          "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
+          "source_url": "https://reddit.com/r/worldnews/comments/1rrhi96/trump_ditched_plans_to_avoid_civilian_casualties/",
+          "source_label": "r/worldnews on Reddit",
+          "voice_score": 90,
+          "hashtags": "#GeopoliticalRisk #SmallBusiness #EconomicImpact #RealEstateTalk #BusinessConfidence #MarketAnalysis #CoastalBusiness",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 when leaders abandon safeguards, it affects everything downstream. Markets get nervous, businesses pause decisions, travel/hospitality takes a hit. Geopolitical instability isn't abstract. It's literally why some vacation bookings dry up. What's your read on how this plays out for small business confidence?\n\n#GeopoliticalRisk #SmallBusiness #EconomicImpact #RealEstateTalk #BusinessConfidence #MarketAnalysis #CoastalBusiness",
+          "published_at": "2026-03-12T04:50:33+00:00",
+          "age_hours": 5.7,
+          "scraped_from": "r/worldnews",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/worldnews/comments/1rrhi96/trump_ditched_plans_to_avoid_civilian_casualties/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Trump%20ditched%20plans%20to%20avoid&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.salon.com/2026/03/11/the-us-had-a-blueprint-to-avoid-civilian-war-casualties-trump-officials-scrapped-it-partner/",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "category": "WORLD",
+          "topic": "Tony Hoare has died",
+          "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+          "source_url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+          "source_label": "Hacker News",
+          "voice_score": 91,
+          "hashtags": "#ComputerScience #TechLegacy #Innovation #Programming #BusinessLessons #DaytonaBeach #AIConsulting",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 Tony Hoare just changed how we think about code and systems design. Null pointer inventor, computer science legend. Funny how the best minds solve problems that ripple through decades of business and tech. That's the kind of impact worth studying.\n\n#ComputerScience #TechLegacy #Innovation #Programming #BusinessLessons #DaytonaBeach #AIConsulting",
+          "published_at": "2026-03-10T14:50:16+00:00",
+          "age_hours": 43.7,
+          "scraped_from": "Hacker News",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/Fauxmoi/comments/1rm4rjp/republican_rep_tony_gonzales_rtx_announces_he/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Tony%20Hoare%20has%20died&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+              "label": "Official Source"
+            }
+          ]
+        }
+      ],
+      "generated_at": "2026-03-12T10:30:17.892909+00:00",
+      "label": "Morning Brief (6:30 AM)",
+      "count": 10
+    },
+    "afternoon": {
+      "posts": [],
+      "generated_at": "",
+      "label": "Afternoon Update (1 PM)",
+      "count": 0
+    },
+    "scripts_thumbnails": []
   },
   "payroll": {
-    "period": "Mar 10 – Mar 24, 2026",
+    "period": "Mar 10 \u2013 Mar 24, 2026",
     "period_type": "B",
     "pay_date": "Mar 27, 2026",
     "total_payout": 5150.0,
@@ -208,7 +782,7 @@
       {
         "level": "red",
         "property": "10 S Halifax Ave",
-        "issue": "AC unit reported not cooling — HVAC scheduled"
+        "issue": "AC unit reported not cooling \u2014 HVAC scheduled"
       },
       {
         "level": "yellow",
@@ -218,7 +792,7 @@
       {
         "level": "green",
         "property": "117 N Hollywood Ave",
-        "issue": "WiFi complaint resolved — confirmed by guest"
+        "issue": "WiFi complaint resolved \u2014 confirmed by guest"
       }
     ],
     "top_performers": [
@@ -238,5 +812,21 @@
         "rating": 4.8
       }
     ]
+  },
+  "scraper_meta": {
+    "scraped_at": "2026-03-12T10:30:17.892909+00:00",
+    "sources_used": [
+      "r/economics",
+      "Hacker News",
+      "TechCrunch AI",
+      "The Verge AI",
+      "OpenAI Blog",
+      "Google AI Blog",
+      "r/worldnews"
+    ],
+    "all_from_last_24h": true,
+    "post_count": 10,
+    "morning_count": 10,
+    "afternoon_count": 0
   }
 }
