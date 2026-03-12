@@ -1,0 +1,175 @@
+[
+  {
+    "post_id": "morning_1_2026-03-11",
+    "timestamp": "2026-03-11T09:15:00.000Z",
+    "post_id_raw": 1,
+    "batch": "morning",
+    "date": "2026-03-11",
+    "used": true,
+    "category": "AI",
+    "topic": "Anthropic is launching a new think tank amid Pentagon blacklist fight",
+    "authenticity_score_original": 89,
+    "shared_to_platform": "facebook",
+    "shares": [
+      { "platform": "facebook", "timestamp": "2026-03-11T09:15:00.000Z" }
+    ],
+    "engagement": {
+      "likes": 47,
+      "comments": 12,
+      "shares": 8,
+      "views": 340,
+      "total": 67,
+      "updated": "2026-03-11T14:30:00.000Z"
+    }
+  },
+  {
+    "post_id": "morning_3_2026-03-11",
+    "timestamp": "2026-03-11T09:20:00.000Z",
+    "post_id_raw": 3,
+    "batch": "morning",
+    "date": "2026-03-11",
+    "used": true,
+    "category": "AI",
+    "topic": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
+    "authenticity_score_original": 91,
+    "shared_to_platform": "instagram",
+    "shares": [
+      { "platform": "instagram", "timestamp": "2026-03-11T09:20:00.000Z" },
+      { "platform": "facebook", "timestamp": "2026-03-11T09:22:00.000Z" }
+    ],
+    "engagement": {
+      "likes": 89,
+      "comments": 23,
+      "shares": 15,
+      "views": 620,
+      "total": 127,
+      "updated": "2026-03-11T15:00:00.000Z"
+    }
+  },
+  {
+    "post_id": "morning_4_2026-03-11",
+    "timestamp": "2026-03-11T09:25:00.000Z",
+    "post_id_raw": 4,
+    "batch": "morning",
+    "date": "2026-03-11",
+    "used": true,
+    "category": "AI",
+    "topic": "Andrej Karpathy's Newest Development - Autonomously Improving Agentic Swarm",
+    "authenticity_score_original": 92,
+    "shared_to_platform": "linkedin",
+    "shares": [
+      { "platform": "linkedin", "timestamp": "2026-03-11T09:25:00.000Z" }
+    ],
+    "engagement": {
+      "likes": 134,
+      "comments": 41,
+      "shares": 28,
+      "views": 1200,
+      "total": 203,
+      "updated": "2026-03-11T16:00:00.000Z"
+    }
+  },
+  {
+    "post_id": "morning_5_2026-03-11",
+    "timestamp": "2026-03-11T09:30:00.000Z",
+    "post_id_raw": 5,
+    "batch": "morning",
+    "date": "2026-03-11",
+    "used": false,
+    "category": "AI",
+    "topic": "If elon manipulate the algorithm",
+    "authenticity_score_original": 93
+  },
+  {
+    "post_id": "morning_8_2026-03-11",
+    "timestamp": "2026-03-11T09:35:00.000Z",
+    "post_id_raw": 8,
+    "batch": "morning",
+    "date": "2026-03-11",
+    "used": true,
+    "category": "WORLD",
+    "topic": "The U.S. borrowed $50 billion a week for the past five months",
+    "authenticity_score_original": 89,
+    "shared_to_platform": "facebook",
+    "shares": [
+      { "platform": "facebook", "timestamp": "2026-03-11T09:35:00.000Z" }
+    ],
+    "engagement": {
+      "likes": 62,
+      "comments": 34,
+      "shares": 19,
+      "views": 480,
+      "total": 115,
+      "updated": "2026-03-11T14:45:00.000Z"
+    }
+  },
+  {
+    "post_id": "morning_9_2026-03-11",
+    "timestamp": "2026-03-11T09:40:00.000Z",
+    "post_id_raw": 9,
+    "batch": "morning",
+    "date": "2026-03-11",
+    "used": true,
+    "category": "WORLD",
+    "topic": "Pete Hegseth Blew Billions on Fruit Basket Stands",
+    "authenticity_score_original": 90,
+    "shared_to_platform": "twitter",
+    "shares": [
+      { "platform": "twitter", "timestamp": "2026-03-11T09:40:00.000Z" }
+    ],
+    "engagement": {
+      "likes": 78,
+      "comments": 29,
+      "shares": 22,
+      "views": 590,
+      "total": 129,
+      "updated": "2026-03-11T15:20:00.000Z"
+    }
+  },
+  {
+    "post_id": "afternoon_3_2026-03-11",
+    "timestamp": "2026-03-11T13:15:00.000Z",
+    "post_id_raw": 3,
+    "batch": "afternoon",
+    "date": "2026-03-11",
+    "used": true,
+    "category": "AI",
+    "topic": "Claude is running for President",
+    "authenticity_score_original": 91,
+    "shared_to_platform": "tiktok",
+    "shares": [
+      { "platform": "tiktok", "timestamp": "2026-03-11T13:15:00.000Z" }
+    ],
+    "engagement": {
+      "likes": 201,
+      "comments": 67,
+      "shares": 44,
+      "views": 2800,
+      "total": 312,
+      "updated": "2026-03-11T18:00:00.000Z"
+    }
+  },
+  {
+    "post_id": "afternoon_6_2026-03-11",
+    "timestamp": "2026-03-11T13:20:00.000Z",
+    "post_id_raw": 6,
+    "batch": "afternoon",
+    "date": "2026-03-11",
+    "used": true,
+    "category": "AI",
+    "topic": "Study Finds That Execs Are Already Outsourcing Their Thinking to AI",
+    "authenticity_score_original": 94,
+    "shared_to_platform": "linkedin",
+    "shares": [
+      { "platform": "linkedin", "timestamp": "2026-03-11T13:20:00.000Z" }
+    ],
+    "engagement": {
+      "likes": 156,
+      "comments": 52,
+      "shares": 31,
+      "views": 1450,
+      "total": 239,
+      "updated": "2026-03-11T17:30:00.000Z"
+    }
+  }
+]
