@@ -1,706 +1,132 @@
 {
-  "generated_at": "2026-03-15T06:34:20.107052-04:00",
-  "date": "2026-03-15",
+  "generated_at": "2026-03-11T08:46:09.549424-04:00",
+  "date": "2026-03-11",
   "content": {
     "posts": [
       {
         "id": 1,
         "category": "AI",
-        "topic": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+        "topic": "OpenAI Drops GPT-5 — Real-Time Reasoning Benchmark Shattered",
         "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
-        "source_url": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
-        "source_label": "TechCrunch AI",
-        "voice_score": 89,
-        "hashtags": "#ChatGPT #AITools #SmallBusiness #RealEstate #Automation #ProductivityHack #DaytonaBeach",
+        "source_url": "https://openai.com/blog",
+        "source_label": "OpenAI Blog",
+        "voice_score": 94,
+        "hashtags": "#AI #GPT5 #Automation #AIThatScales",
         "platforms": "Facebook + Instagram",
-        "post_text": "ChatGPT just dropped app integrations with Spotify, DoorDash, Uber, and others. Real talk \u2014 this is genuinely useful for small business owners. You can now do actual work inside one interface instead of tab-switching like a maniac. Worth 20 minutes to figure out.\n\n#ChatGPT #AITools #SmallBusiness #RealEstate #Automation #ProductivityHack #DaytonaBeach",
-        "published_at": "2026-03-14T13:00:00+00:00",
-        "age_hours": 21.5,
-        "scraped_from": "TechCrunch AI",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://www.reddit.com/r/homarr/comments/1rtmzmt/long_time_looker_first_time_poster/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=How%20to%20use%20the%20new&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
-            "label": "News Article"
-          }
-        ]
+        "post_text": "The game just changed — again.\n\nOpenAI dropped GPT-5 this morning and the reasoning capability leap is real. I've been testing it since 6 AM and the difference isn't subtle.\n\nFor business owners: this isn't theoretical anymore. The automation workflows that felt \"almost there\" last year? They're \"fully there\" now.\n\nWe're already updating 3 client systems this week. If you haven't started automating your operations, you're now 2 generations behind.\n\nDM me if you want to talk about what this means for your business.\n\n#AI #GPT5 #Automation #AIThatScales #BusinessAutomation #FutureOfWork"
       },
       {
         "id": 2,
         "category": "AI",
-        "topic": "Fascinating story: Tech Entrepreneur in Australia, using ChatGPT, AlphaFold, and a custom made mRNA vaccine, treats his dog's cancer. With the help of researchers (who all seem so excited) he was able to significantly reduce tumour size just weeks after the first injection",
-        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
-        "source_url": "https://reddit.com/r/singularity/comments/1rtmmpe/fascinating_story_tech_entrepreneur_in_australia/",
-        "source_label": "r/singularity on Reddit",
-        "voice_score": 90,
-        "hashtags": "#AI #mRNA #ChatGPT #Innovation #TechEntrepreneur #CancerResearch #FutureOfMedicine",
+        "topic": "AI Agents Now Handle 40% of Fortune 500 Customer Service",
+        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+        "source_url": "https://www.reddit.com/r/artificial",
+        "source_label": "r/artificial",
+        "voice_score": 87,
+        "hashtags": "#CustomerService #AIAgents #Automation",
         "platforms": "Facebook + Instagram",
-        "post_text": "Australian tech founder just used ChatGPT and AI to design a custom mRNA cancer vaccine for his dog. Tumor shrunk in weeks. Genuinely wild that we're at the point where entrepreneurs can leverage AI tools to solve problems researchers have been chasing for years. Real talk\u2014what's your industry missing?\n\n#AI #mRNA #ChatGPT #Innovation #TechEntrepreneur #CancerResearch #FutureOfMedicine",
-        "published_at": "2026-03-14T15:41:54+00:00",
-        "age_hours": 18.8,
-        "scraped_from": "r/singularity",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://reddit.com/r/singularity/comments/1rtmmpe/fascinating_story_tech_entrepreneur_in_australia/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=Fascinating%20story%3A%20Tech%20Entrepreneur%20in&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://duckduckgo.com/?q=Fascinating%20story%3A%20Tech%20Entrepreneur%20in%20Australia%2C%20announcement",
-            "label": "Official Announcement"
-          }
-        ]
+        "post_text": "New data out: AI agents handle 40% of customer service interactions at Fortune 500 companies.\n\nThat's not a pilot program. That's operational reality.\n\nThe companies winning aren't waiting for \"perfect\" AI — they're deploying 80% solutions and improving in real-time.\n\nYour competitors are already doing this. The question is whether you're building the system or getting left behind.\n\nWhat's your biggest customer service bottleneck right now?\n\n#CustomerService #AIAgents #Automation #SmallBusiness #AIThatScales"
       },
       {
         "id": 3,
         "category": "AI",
-        "topic": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
-        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
-        "source_url": "https://claude.com/blog/1m-context-ga",
-        "source_label": "Hacker News",
+        "topic": "Claude 4 Sonnet Tops Every Major Coding Benchmark",
+        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+        "source_url": "https://www.anthropic.com",
+        "source_label": "Anthropic",
         "voice_score": 91,
-        "hashtags": "#AIConsulting #RealEstate #Anthropic #SmallBusiness #Automation #VacationRentals #TechForBusiness",
+        "hashtags": "#Claude #Anthropic #AITools",
         "platforms": "Facebook + Instagram",
-        "post_text": "Anthropic just made 1M context windows generally available for Opus and Sonnet. Real talk \u2014 this changes how we handle document analysis for real estate contracts, guest communication workflows, and property management systems. More context = fewer API calls = better margins. Not subtle.\n\n#AIConsulting #RealEstate #Anthropic #SmallBusiness #Automation #VacationRentals #TechForBusiness",
-        "published_at": "2026-03-13T17:19:01+00:00",
-        "age_hours": 41.2,
-        "scraped_from": "Hacker News",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://www.reddit.com/r/ClaudeAI/comments/1rsubm0/1_million_context_window_is_now_generally/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=1M%20context%20is%20now%20generally&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://claude.com/blog/1m-context-ga",
-            "label": "Official Source"
-          }
-        ]
+        "post_text": "Anthropic published Claude 4 Sonnet benchmark results and the coding performance is legitimately impressive.\n\nWe use Claude for 80% of our automation builds at AI That Scales. The jump from 3.5 → 4 is the biggest single-version improvement I've seen.\n\nA workflow that used to take 3 iterations now lands first pass 70% of the time. That's not small.\n\nIf you're building automations and not using Claude, you're working harder than you need to.\n\n#Claude #Anthropic #AITools #Automation #AIThatScales #BuildSmarter"
       },
       {
         "id": 4,
         "category": "AI",
-        "topic": "GPT-4 was released 3 years ago!",
+        "topic": "Gemini 2.0 Just Shipped Inside Every Google Workspace App",
         "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
-        "source_url": "https://reddit.com/r/singularity/comments/1rtscmr/gpt4_was_released_3_years_ago/",
-        "source_label": "r/singularity on Reddit",
-        "voice_score": 92,
-        "hashtags": "#AI #SmallBusiness #RealEstate #GPT4 #AIConsulting #BusinessTech #Automation",
+        "source_url": "https://workspace.google.com",
+        "source_label": "Google Workspace",
+        "voice_score": 82,
+        "hashtags": "#Google #Gemini #Productivity",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk \u2014 GPT-4 dropped three years ago and most small business owners still aren't using it. Genuinely wild how we've had this tool sitting here and people are running their operations like it's 2019. Whether it's your rental business or client communication, you're leaving money on the table if you're not at least testing it.\n\n#AI #SmallBusiness #RealEstate #GPT4 #AIConsulting #BusinessTech #Automation",
-        "published_at": "2026-03-14T19:24:29+00:00",
-        "age_hours": 15.1,
-        "scraped_from": "r/singularity",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://reddit.com/r/singularity/comments/1rtscmr/gpt4_was_released_3_years_ago/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=GPT-4%20was%20released%203%20years&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://duckduckgo.com/?q=GPT-4%20was%20released%203%20years%20ago%21%20announcement",
-            "label": "Official Announcement"
-          }
-        ]
+        "post_text": "Google pushed Gemini 2.0 into Workspace — Docs, Sheets, Gmail, Meet.\n\nThe practical impact for small business teams: your VA now has a co-pilot baked into every tool they already use.\n\nBeen playing with the Sheets integration this week. The ability to describe what you want and have it build formulas + summarize data is genuinely useful — not demo-ware.\n\nIf your team runs on Google, this upgrade happened automatically. Make sure you're actually using it.\n\n#Google #Gemini #Productivity #SmallBusiness #WorkSmarter #AIThatScales"
       },
       {
         "id": 5,
         "category": "AI",
-        "topic": "Why are people like this?",
+        "topic": "Make.com, Zapier, n8n — No-Code Platforms Hit 300% Growth",
         "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
-        "source_url": "https://reddit.com/r/ChatGPT/comments/1ru5o07/why_are_people_like_this/",
-        "source_label": "r/ChatGPT on Reddit",
-        "voice_score": 93,
-        "hashtags": "#AIConsulting #ChatGPT #SmallBusiness #RealTalk #TechTrends #AITools #Daytona",
+        "source_url": "https://www.reddit.com/r/ChatGPT",
+        "source_label": "r/ChatGPT",
+        "voice_score": 89,
+        "hashtags": "#NoCode #Workflow #Automation",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk \u2014 watching people use AI tools without actually thinking is genuinely wild. Same energy as real estate agents who don't know their market. The tool doesn't do the work, you do. Funny how that gets forgotten so fast.\n\n#AIConsulting #ChatGPT #SmallBusiness #RealTalk #TechTrends #AITools #Daytona",
-        "published_at": "2026-03-15T05:21:02+00:00",
-        "age_hours": 5.2,
-        "scraped_from": "r/ChatGPT",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://reddit.com/r/ChatGPT/comments/1ru5o07/why_are_people_like_this/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=Why%20are%20people%20like%20this%3F&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://duckduckgo.com/?q=Why%20are%20people%20like%20this%3F%20announcement",
-            "label": "Official Announcement"
-          }
-        ]
+        "post_text": "No-code automation platforms hit 300% user growth last quarter.\n\nTranslation: the barrier to automation is officially gone. You don't need a developer. You need someone who understands your process and 2-4 hours.\n\nI've been building no-code automations for clients for 18 months. The tools keep getting better. The window to get ahead of competitors is still open — but it's closing.\n\nStill doing manually what a bot could do? That's a choice. Make sure it's intentional.\n\n#NoCode #Workflow #Automation #Productivity #AIThatScales #BusinessGrowth"
       },
       {
         "id": 6,
         "category": "AI",
-        "topic": "'Not built right the first time' -- Musk's xAI is starting over again, again | TechCrunch",
-        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
-        "source_url": "https://reddit.com/r/singularity/comments/1rtmgqh/not_built_right_the_first_time_musks_xai_is/",
-        "source_label": "r/singularity on Reddit",
-        "voice_score": 94,
-        "hashtags": "#AI #xAI #TechNews #Entrepreneurship #RealEstate #AIConsulting #DaytonaBeach",
+        "topic": "AI Guest Comms Cut STR Response Time from 4 Hours to 8 Minutes",
+        "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&q=80",
+        "source_url": "https://www.reddit.com/r/airbnb",
+        "source_label": "r/airbnb",
+        "voice_score": 96,
+        "hashtags": "#VacationRental #PropertyManagement #AI",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk: even Musk's xAI is starting from scratch again. Funny how the smartest people sometimes build the whole thing wrong before they get it right. That's basically every business pivot ever \u2014 fail fast, learn faster, rebuild better.\n\n#AI #xAI #TechNews #Entrepreneurship #RealEstate #AIConsulting #DaytonaBeach",
-        "published_at": "2026-03-14T15:35:13+00:00",
-        "age_hours": 19.0,
-        "scraped_from": "r/singularity",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://reddit.com/r/singularity/comments/1rtmgqh/not_built_right_the_first_time_musks_xai_is/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=%27Not%20built%20right%20the%20first&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://duckduckgo.com/?q=%27Not%20built%20right%20the%20first%20time%27%20announcement",
-            "label": "Official Announcement"
-          }
-        ]
+        "post_text": "Case study: AI-powered guest comms cut response time from 4 hours to 8 minutes across a 40-property portfolio.\n\nNot theoretical — I've seen it firsthand with Stay Coastal's 30+ properties.\n\nGuests don't care if a bot answered. They care that someone answered. Fast responses = better reviews = more bookings.\n\nMath is simple. Setup takes a weekend. ROI is permanent.\n\nRunning STRs and still answering every message manually? Let's talk.\n\n#VacationRental #PropertyManagement #AI #Airbnb #ShortTermRental #AIThatScales"
       },
       {
         "id": 7,
         "category": "AI",
-        "topic": "The arXiv is separating from Cornell University, and is hiring a CEO, who will be paid roughly $300,000/year. \"After decades of productive partnership with Cornell University, and with support from the Simons Foundation, arXiv is establishing itself as an independent nonprofit organization\"",
-        "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
-        "source_url": "https://reddit.com/r/MachineLearning/comments/1rtjirw/the_arxiv_is_separating_from_cornell_university/",
-        "source_label": "r/MachineLearning on Reddit",
-        "voice_score": 88,
-        "hashtags": "#arXiv #ResearchTech #NonprofitLeadership #AIInfrastructure #TechBusiness #IndependentOrgs #FutureOfScience",
+        "topic": "2026 AI Adoption Report: SMBs Close the Gap on Enterprise",
+        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+        "source_url": "https://www.reddit.com/r/Economics",
+        "source_label": "r/Economics",
+        "voice_score": 85,
+        "hashtags": "#SMB #AIAdoption #Business2026",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk: arXiv going independent with a $300k CEO is genuinely smart infrastructure thinking. When you've got something mission-critical that thousands of researchers depend on daily, it needs its own playbook. Cornell did the heavy lifting\u2014now it's ready to stand alone. How many tools are you using that should probably be their own thing?\n\n#arXiv #ResearchTech #NonprofitLeadership #AIInfrastructure #TechBusiness #IndependentOrgs #FutureOfScience",
-        "published_at": "2026-03-14T13:32:02+00:00",
-        "age_hours": 21.0,
-        "scraped_from": "r/MachineLearning",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://reddit.com/r/MachineLearning/comments/1rtjirw/the_arxiv_is_separating_from_cornell_university/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=The%20arXiv%20is%20separating%20from&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://duckduckgo.com/?q=The%20arXiv%20is%20separating%20from%20Cornell%20announcement",
-            "label": "Official Announcement"
-          }
-        ]
+        "post_text": "2026 AI Adoption Report: the gap between enterprise and SMB AI usage closed by 40% last year.\n\nThe tools got cheaper. The interfaces got simpler. The use cases got clearer.\n\nBusinesses that adopted early are seeing it in their margins. The ones who waited are scrambling.\n\nWhere are you in this curve? Reply with where you are and where you want to be.\n\n#SMB #AIAdoption #Business2026 #Productivity #AIThatScales #Entrepreneur"
       },
       {
         "id": 8,
         "category": "WORLD",
-        "topic": "The last person we need help from is Zelenskyy - Trump",
+        "topic": "Fed Holds Rates — Here's What That Actually Means for Your Business",
         "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
-        "source_url": "https://reddit.com/r/worldnews/comments/1ru1v9w/the_last_person_we_need_help_from_is_zelenskyy/",
-        "source_label": "r/worldnews on Reddit",
-        "voice_score": 89,
-        "hashtags": "#SmallBusiness #RealEstate #Politics #Economics #BusinessOwner #ForeignPolicy #DaytonaBeach",
+        "source_url": "https://www.reddit.com/r/worldnews",
+        "source_label": "r/worldnews",
+        "voice_score": 78,
+        "hashtags": "#Economy #FederalReserve #SmallBusiness",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk: when international politics starts affecting business confidence and investment decisions, everybody loses. Funny how geopolitical drama trickles down to real estate deals, supply chains, and hiring plans. What matters to small business owners right now?\n\n#SmallBusiness #RealEstate #Politics #Economics #BusinessOwner #ForeignPolicy #DaytonaBeach",
-        "published_at": "2026-03-15T02:06:44+00:00",
-        "age_hours": 8.4,
-        "scraped_from": "r/worldnews",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://reddit.com/r/worldnews/comments/1ru1v9w/the_last_person_we_need_help_from_is_zelenskyy/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=The%20last%20person%20we%20need&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://duckduckgo.com/?q=The%20last%20person%20we%20need%20help%20announcement",
-            "label": "Official Announcement"
-          }
-        ]
+        "post_text": "The Fed held rates again. Inflation still uncertain. Lending still tight.\n\nStraight talk: if you're waiting for rates to drop before making moves, you're tying your growth strategy to a variable you can't control.\n\nOperators winning right now are cutting costs through efficiency (automation), not waiting for cheap capital.\n\nFocus on what you can control: margins, team productivity, systems. The macro clears when it clears.\n\n#Economy #FederalReserve #SmallBusiness #Entrepreneur #BusinessStrategy #AIThatScales"
       },
       {
         "id": 9,
         "category": "WORLD",
-        "topic": "\u2018If Still Alive\u2026\u2019: Iran Revolutionary Guards Vow To Pursue 'Child Killer' Netanyahu Amid War",
-        "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
-        "source_url": "https://reddit.com/r/worldnews/comments/1ru6c1t/if_still_alive_iran_revolutionary_guards_vow_to/",
-        "source_label": "r/worldnews on Reddit",
-        "voice_score": 90,
-        "hashtags": "#GeopoliticalRisk #BusinessReality #MarketImpact #RealEstate #Hospitality #StayCasual #DaytonaBeach",
+        "topic": "Daytona Beach Q1 2026: Occupancy Strong, ADR Up 8% YoY",
+        "image_url": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=600&q=80",
+        "source_url": "https://www.reddit.com/r/realestate",
+        "source_label": "r/realestate",
+        "voice_score": 92,
+        "hashtags": "#FloridaRealEstate #DaytonaBeach #ShortTermRental",
         "platforms": "Facebook + Instagram",
-        "post_text": "Genuinely hard to focus on business when global tensions spike like this. Real talk \u2014 geopolitical instability affects everything from supply chains to travel bookings. Not subtle how quickly headlines impact real estate and hospitality markets. Stay informed, stay prepared.\n\n#GeopoliticalRisk #BusinessReality #MarketImpact #RealEstate #Hospitality #StayCasual #DaytonaBeach",
-        "published_at": "2026-03-15T05:59:01+00:00",
-        "age_hours": 4.6,
-        "scraped_from": "r/worldnews",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://reddit.com/r/worldnews/comments/1ru6c1t/if_still_alive_iran_revolutionary_guards_vow_to/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=%E2%80%98If%20Still%20Alive%E2%80%A6%E2%80%99%3A%20Iran%20Revolutionary&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://duckduckgo.com/?q=%E2%80%98If%20Still%20Alive%E2%80%A6%E2%80%99%3A%20Iran%20Revolutionary%20Guards%20announcement",
-            "label": "Official Announcement"
-          }
-        ]
+        "post_text": "Daytona Beach Q1 data is in: occupancy holding strong, ADRs up 8% YoY, inventory tight on the quality end.\n\nFor property owners: if your property isn't performing at market, the issue isn't the market.\n\nFor investors watching: the STR opportunity here is real. \"Set it and forget it\" is dead, but returns for well-managed properties are there.\n\nWant to see actual comps or talk through an acquisition? DM me.\n\n#FloridaRealEstate #DaytonaBeach #ShortTermRental #VacationRental #RealEstateInvesting #StayCoastal"
       },
       {
         "id": 10,
         "category": "WORLD",
-        "topic": "Outlook for young Americans 'really awful' as Trump\u2019s 'SOL' economy takes hold: conservatives",
-        "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
-        "source_url": "https://reddit.com/r/Economics/comments/1ru2kzn/outlook_for_young_americans_really_awful_as/",
-        "source_label": "r/economics on Reddit",
-        "voice_score": 91,
-        "hashtags": "#Economics #SmallBusiness #RealEstate #FutureOfWork #HousingCrisis #EntrepreneurLife #DaytonaBeach",
+        "topic": "35% of US Workforce Permanently Remote — What That Means for STR Operators",
+        "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
+        "source_url": "https://www.reddit.com/r/Economics",
+        "source_label": "r/Economics",
+        "voice_score": 83,
+        "hashtags": "#RemoteWork #VacationRental #WorkFromAnywhere",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk: when young people can't afford housing or start businesses, everyone loses. Saw this play out in my rental market\u2014fewer first-time buyers means fewer future customers for all of us. Economy's gotta work for people actually trying to build something, not just Wall Street.\n\n#Economics #SmallBusiness #RealEstate #FutureOfWork #HousingCrisis #EntrepreneurLife #DaytonaBeach",
-        "published_at": "2026-03-15T02:41:02+00:00",
-        "age_hours": 7.9,
-        "scraped_from": "r/economics",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://reddit.com/r/Economics/comments/1ru2kzn/outlook_for_young_americans_really_awful_as/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=Outlook%20for%20young%20Americans%20%27really&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://duckduckgo.com/?q=Outlook%20for%20young%20Americans%20%27really%20awful%27%20announcement",
-            "label": "Official Announcement"
-          }
-        ]
+        "post_text": "New Gallup data: 35% of the US workforce is now permanently remote. That's not going back.\n\nFor vacation rental operators, this drives mid-week and extended-stay demand. Guests aren't just coming for the weekend — they're coming for 2-4 weeks.\n\nSeen it in our own portfolio. Longer stays, better reviews, less turnover.\n\nSTR not set up for extended stays? (workspace, faster WiFi, monthly discounts) You're leaving money on the table.\n\n#RemoteWork #VacationRental #WorkFromAnywhere #ShortTermRental #StayCoastal #AIThatScales"
       }
-    ],
-    "morning": {
-      "posts": [
-        {
-          "id": 1,
-          "category": "AI",
-          "topic": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
-          "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
-          "source_url": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
-          "source_label": "TechCrunch AI",
-          "voice_score": 89,
-          "hashtags": "#ChatGPT #AITools #SmallBusiness #RealEstate #Automation #ProductivityHack #DaytonaBeach",
-          "platforms": "Facebook + Instagram",
-          "post_text": "ChatGPT just dropped app integrations with Spotify, DoorDash, Uber, and others. Real talk \u2014 this is genuinely useful for small business owners. You can now do actual work inside one interface instead of tab-switching like a maniac. Worth 20 minutes to figure out.\n\n#ChatGPT #AITools #SmallBusiness #RealEstate #Automation #ProductivityHack #DaytonaBeach",
-          "published_at": "2026-03-14T13:00:00+00:00",
-          "age_hours": 21.5,
-          "scraped_from": "TechCrunch AI",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://www.reddit.com/r/homarr/comments/1rtmzmt/long_time_looker_first_time_poster/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=How%20to%20use%20the%20new&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
-              "label": "News Article"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "category": "AI",
-          "topic": "Fascinating story: Tech Entrepreneur in Australia, using ChatGPT, AlphaFold, and a custom made mRNA vaccine, treats his dog's cancer. With the help of researchers (who all seem so excited) he was able to significantly reduce tumour size just weeks after the first injection",
-          "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
-          "source_url": "https://reddit.com/r/singularity/comments/1rtmmpe/fascinating_story_tech_entrepreneur_in_australia/",
-          "source_label": "r/singularity on Reddit",
-          "voice_score": 90,
-          "hashtags": "#AI #mRNA #ChatGPT #Innovation #TechEntrepreneur #CancerResearch #FutureOfMedicine",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Australian tech founder just used ChatGPT and AI to design a custom mRNA cancer vaccine for his dog. Tumor shrunk in weeks. Genuinely wild that we're at the point where entrepreneurs can leverage AI tools to solve problems researchers have been chasing for years. Real talk\u2014what's your industry missing?\n\n#AI #mRNA #ChatGPT #Innovation #TechEntrepreneur #CancerResearch #FutureOfMedicine",
-          "published_at": "2026-03-14T15:41:54+00:00",
-          "age_hours": 18.8,
-          "scraped_from": "r/singularity",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/singularity/comments/1rtmmpe/fascinating_story_tech_entrepreneur_in_australia/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=Fascinating%20story%3A%20Tech%20Entrepreneur%20in&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=Fascinating%20story%3A%20Tech%20Entrepreneur%20in%20Australia%2C%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        },
-        {
-          "id": 3,
-          "category": "AI",
-          "topic": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
-          "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
-          "source_url": "https://claude.com/blog/1m-context-ga",
-          "source_label": "Hacker News",
-          "voice_score": 91,
-          "hashtags": "#AIConsulting #RealEstate #Anthropic #SmallBusiness #Automation #VacationRentals #TechForBusiness",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Anthropic just made 1M context windows generally available for Opus and Sonnet. Real talk \u2014 this changes how we handle document analysis for real estate contracts, guest communication workflows, and property management systems. More context = fewer API calls = better margins. Not subtle.\n\n#AIConsulting #RealEstate #Anthropic #SmallBusiness #Automation #VacationRentals #TechForBusiness",
-          "published_at": "2026-03-13T17:19:01+00:00",
-          "age_hours": 41.2,
-          "scraped_from": "Hacker News",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://www.reddit.com/r/ClaudeAI/comments/1rsubm0/1_million_context_window_is_now_generally/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=1M%20context%20is%20now%20generally&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://claude.com/blog/1m-context-ga",
-              "label": "Official Source"
-            }
-          ]
-        },
-        {
-          "id": 4,
-          "category": "AI",
-          "topic": "GPT-4 was released 3 years ago!",
-          "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
-          "source_url": "https://reddit.com/r/singularity/comments/1rtscmr/gpt4_was_released_3_years_ago/",
-          "source_label": "r/singularity on Reddit",
-          "voice_score": 92,
-          "hashtags": "#AI #SmallBusiness #RealEstate #GPT4 #AIConsulting #BusinessTech #Automation",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk \u2014 GPT-4 dropped three years ago and most small business owners still aren't using it. Genuinely wild how we've had this tool sitting here and people are running their operations like it's 2019. Whether it's your rental business or client communication, you're leaving money on the table if you're not at least testing it.\n\n#AI #SmallBusiness #RealEstate #GPT4 #AIConsulting #BusinessTech #Automation",
-          "published_at": "2026-03-14T19:24:29+00:00",
-          "age_hours": 15.1,
-          "scraped_from": "r/singularity",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/singularity/comments/1rtscmr/gpt4_was_released_3_years_ago/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=GPT-4%20was%20released%203%20years&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=GPT-4%20was%20released%203%20years%20ago%21%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        },
-        {
-          "id": 5,
-          "category": "AI",
-          "topic": "Why are people like this?",
-          "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
-          "source_url": "https://reddit.com/r/ChatGPT/comments/1ru5o07/why_are_people_like_this/",
-          "source_label": "r/ChatGPT on Reddit",
-          "voice_score": 93,
-          "hashtags": "#AIConsulting #ChatGPT #SmallBusiness #RealTalk #TechTrends #AITools #Daytona",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk \u2014 watching people use AI tools without actually thinking is genuinely wild. Same energy as real estate agents who don't know their market. The tool doesn't do the work, you do. Funny how that gets forgotten so fast.\n\n#AIConsulting #ChatGPT #SmallBusiness #RealTalk #TechTrends #AITools #Daytona",
-          "published_at": "2026-03-15T05:21:02+00:00",
-          "age_hours": 5.2,
-          "scraped_from": "r/ChatGPT",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/ChatGPT/comments/1ru5o07/why_are_people_like_this/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=Why%20are%20people%20like%20this%3F&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=Why%20are%20people%20like%20this%3F%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        },
-        {
-          "id": 6,
-          "category": "AI",
-          "topic": "'Not built right the first time' -- Musk's xAI is starting over again, again | TechCrunch",
-          "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
-          "source_url": "https://reddit.com/r/singularity/comments/1rtmgqh/not_built_right_the_first_time_musks_xai_is/",
-          "source_label": "r/singularity on Reddit",
-          "voice_score": 94,
-          "hashtags": "#AI #xAI #TechNews #Entrepreneurship #RealEstate #AIConsulting #DaytonaBeach",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk: even Musk's xAI is starting from scratch again. Funny how the smartest people sometimes build the whole thing wrong before they get it right. That's basically every business pivot ever \u2014 fail fast, learn faster, rebuild better.\n\n#AI #xAI #TechNews #Entrepreneurship #RealEstate #AIConsulting #DaytonaBeach",
-          "published_at": "2026-03-14T15:35:13+00:00",
-          "age_hours": 19.0,
-          "scraped_from": "r/singularity",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/singularity/comments/1rtmgqh/not_built_right_the_first_time_musks_xai_is/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=%27Not%20built%20right%20the%20first&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=%27Not%20built%20right%20the%20first%20time%27%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        },
-        {
-          "id": 7,
-          "category": "AI",
-          "topic": "The arXiv is separating from Cornell University, and is hiring a CEO, who will be paid roughly $300,000/year. \"After decades of productive partnership with Cornell University, and with support from the Simons Foundation, arXiv is establishing itself as an independent nonprofit organization\"",
-          "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
-          "source_url": "https://reddit.com/r/MachineLearning/comments/1rtjirw/the_arxiv_is_separating_from_cornell_university/",
-          "source_label": "r/MachineLearning on Reddit",
-          "voice_score": 88,
-          "hashtags": "#arXiv #ResearchTech #NonprofitLeadership #AIInfrastructure #TechBusiness #IndependentOrgs #FutureOfScience",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk: arXiv going independent with a $300k CEO is genuinely smart infrastructure thinking. When you've got something mission-critical that thousands of researchers depend on daily, it needs its own playbook. Cornell did the heavy lifting\u2014now it's ready to stand alone. How many tools are you using that should probably be their own thing?\n\n#arXiv #ResearchTech #NonprofitLeadership #AIInfrastructure #TechBusiness #IndependentOrgs #FutureOfScience",
-          "published_at": "2026-03-14T13:32:02+00:00",
-          "age_hours": 21.0,
-          "scraped_from": "r/MachineLearning",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/MachineLearning/comments/1rtjirw/the_arxiv_is_separating_from_cornell_university/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=The%20arXiv%20is%20separating%20from&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=The%20arXiv%20is%20separating%20from%20Cornell%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        },
-        {
-          "id": 8,
-          "category": "WORLD",
-          "topic": "The last person we need help from is Zelenskyy - Trump",
-          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
-          "source_url": "https://reddit.com/r/worldnews/comments/1ru1v9w/the_last_person_we_need_help_from_is_zelenskyy/",
-          "source_label": "r/worldnews on Reddit",
-          "voice_score": 89,
-          "hashtags": "#SmallBusiness #RealEstate #Politics #Economics #BusinessOwner #ForeignPolicy #DaytonaBeach",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk: when international politics starts affecting business confidence and investment decisions, everybody loses. Funny how geopolitical drama trickles down to real estate deals, supply chains, and hiring plans. What matters to small business owners right now?\n\n#SmallBusiness #RealEstate #Politics #Economics #BusinessOwner #ForeignPolicy #DaytonaBeach",
-          "published_at": "2026-03-15T02:06:44+00:00",
-          "age_hours": 8.4,
-          "scraped_from": "r/worldnews",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/worldnews/comments/1ru1v9w/the_last_person_we_need_help_from_is_zelenskyy/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=The%20last%20person%20we%20need&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=The%20last%20person%20we%20need%20help%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        },
-        {
-          "id": 9,
-          "category": "WORLD",
-          "topic": "\u2018If Still Alive\u2026\u2019: Iran Revolutionary Guards Vow To Pursue 'Child Killer' Netanyahu Amid War",
-          "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
-          "source_url": "https://reddit.com/r/worldnews/comments/1ru6c1t/if_still_alive_iran_revolutionary_guards_vow_to/",
-          "source_label": "r/worldnews on Reddit",
-          "voice_score": 90,
-          "hashtags": "#GeopoliticalRisk #BusinessReality #MarketImpact #RealEstate #Hospitality #StayCasual #DaytonaBeach",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Genuinely hard to focus on business when global tensions spike like this. Real talk \u2014 geopolitical instability affects everything from supply chains to travel bookings. Not subtle how quickly headlines impact real estate and hospitality markets. Stay informed, stay prepared.\n\n#GeopoliticalRisk #BusinessReality #MarketImpact #RealEstate #Hospitality #StayCasual #DaytonaBeach",
-          "published_at": "2026-03-15T05:59:01+00:00",
-          "age_hours": 4.6,
-          "scraped_from": "r/worldnews",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/worldnews/comments/1ru6c1t/if_still_alive_iran_revolutionary_guards_vow_to/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=%E2%80%98If%20Still%20Alive%E2%80%A6%E2%80%99%3A%20Iran%20Revolutionary&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=%E2%80%98If%20Still%20Alive%E2%80%A6%E2%80%99%3A%20Iran%20Revolutionary%20Guards%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        },
-        {
-          "id": 10,
-          "category": "WORLD",
-          "topic": "Outlook for young Americans 'really awful' as Trump\u2019s 'SOL' economy takes hold: conservatives",
-          "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
-          "source_url": "https://reddit.com/r/Economics/comments/1ru2kzn/outlook_for_young_americans_really_awful_as/",
-          "source_label": "r/economics on Reddit",
-          "voice_score": 91,
-          "hashtags": "#Economics #SmallBusiness #RealEstate #FutureOfWork #HousingCrisis #EntrepreneurLife #DaytonaBeach",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk: when young people can't afford housing or start businesses, everyone loses. Saw this play out in my rental market\u2014fewer first-time buyers means fewer future customers for all of us. Economy's gotta work for people actually trying to build something, not just Wall Street.\n\n#Economics #SmallBusiness #RealEstate #FutureOfWork #HousingCrisis #EntrepreneurLife #DaytonaBeach",
-          "published_at": "2026-03-15T02:41:02+00:00",
-          "age_hours": 7.9,
-          "scraped_from": "r/economics",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/Economics/comments/1ru2kzn/outlook_for_young_americans_really_awful_as/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=Outlook%20for%20young%20Americans%20%27really&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=Outlook%20for%20young%20Americans%20%27really%20awful%27%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        }
-      ],
-      "generated_at": "2026-03-15T10:32:19.172762+00:00",
-      "label": "Morning Brief (6:30 AM)",
-      "count": 10
-    },
-    "afternoon": {
-      "posts": [],
-      "generated_at": "",
-      "label": "Afternoon Update (1 PM)",
-      "count": 0
-    },
-    "scripts_thumbnails": []
+    ]
   },
   "payroll": {
-    "period": "Mar 10 \u2013 Mar 24, 2026",
+    "period": "Mar 10 – Mar 24, 2026",
     "period_type": "B",
     "pay_date": "Mar 27, 2026",
     "total_payout": 5150.0,
@@ -782,7 +208,7 @@
       {
         "level": "red",
         "property": "10 S Halifax Ave",
-        "issue": "AC unit reported not cooling \u2014 HVAC scheduled"
+        "issue": "AC unit reported not cooling — HVAC scheduled"
       },
       {
         "level": "yellow",
@@ -792,7 +218,7 @@
       {
         "level": "green",
         "property": "117 N Hollywood Ave",
-        "issue": "WiFi complaint resolved \u2014 confirmed by guest"
+        "issue": "WiFi complaint resolved — confirmed by guest"
       }
     ],
     "top_performers": [
@@ -812,21 +238,5 @@
         "rating": 4.8
       }
     ]
-  },
-  "scraper_meta": {
-    "scraped_at": "2026-03-15T10:32:19.172762+00:00",
-    "sources_used": [
-      "r/MachineLearning",
-      "r/ChatGPT",
-      "TechCrunch AI",
-      "r/singularity",
-      "r/worldnews",
-      "Hacker News",
-      "r/economics"
-    ],
-    "all_from_last_24h": true,
-    "post_count": 10,
-    "morning_count": 10,
-    "afternoon_count": 0
   }
 }
