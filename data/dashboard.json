@@ -1,132 +1,706 @@
 {
-  "generated_at": "2026-03-11T08:46:09.549424-04:00",
-  "date": "2026-03-11",
+  "generated_at": "2026-03-17T06:32:27.119275-04:00",
+  "date": "2026-03-17",
   "content": {
     "posts": [
       {
         "id": 1,
         "category": "AI",
-        "topic": "OpenAI Drops GPT-5 — Real-Time Reasoning Benchmark Shattered",
+        "topic": "DLSS 5 looks like a real-time generative AI filter for video games",
         "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
-        "source_url": "https://openai.com/blog",
-        "source_label": "OpenAI Blog",
-        "voice_score": 94,
-        "hashtags": "#AI #GPT5 #Automation #AIThatScales",
+        "source_url": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
+        "source_label": "The Verge AI",
+        "voice_score": 89,
+        "hashtags": "#DLSS5 #NvidiaAI #AITech #GameDev #TechTrends #AI #Innovation",
         "platforms": "Facebook + Instagram",
-        "post_text": "The game just changed — again.\n\nOpenAI dropped GPT-5 this morning and the reasoning capability leap is real. I've been testing it since 6 AM and the difference isn't subtle.\n\nFor business owners: this isn't theoretical anymore. The automation workflows that felt \"almost there\" last year? They're \"fully there\" now.\n\nWe're already updating 3 client systems this week. If you haven't started automating your operations, you're now 2 generations behind.\n\nDM me if you want to talk about what this means for your business.\n\n#AI #GPT5 #Automation #AIThatScales #BusinessAutomation #FutureOfWork"
+        "post_text": "Nvidia just dropped DLSS 5 and genuinely, the reactions are all over the place. Some folks are calling it \"slop,\" others see it as the next big leap. Real talk \u2014 this is basically AI upscaling on steroids for gaming. Funny how the same tech conversation happening in enterprise is now hitting consumer products. What's your take?\n\n#DLSS5 #NvidiaAI #AITech #GameDev #TechTrends #AI #Innovation",
+        "published_at": "2026-03-16T17:56:05-04:00",
+        "age_hours": 12.6,
+        "scraped_from": "The Verge AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/radeon/comments/1rrkrn7/\u0442houghts_on_amd_shenanigans_with_fsr_diamond/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=DLSS%205%20looks%20like%20a&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.nvidia.com/en-us/geforce/news/dlss5-breakthrough-in-visual-fidelity-for-games/",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 2,
         "category": "AI",
-        "topic": "AI Agents Now Handle 40% of Fortune 500 Customer Service",
-        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/artificial",
-        "source_label": "r/artificial",
-        "voice_score": 87,
-        "hashtags": "#CustomerService #AIAgents #Automation",
+        "topic": "The dictionary sues OpenAI",
+        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+        "source_url": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/",
+        "source_label": "TechCrunch AI",
+        "voice_score": 90,
+        "hashtags": "#AIEthics #OpenAI #CopyrightsLaw #SmallBusiness #TechNews #ArtificialIntelligence #BusinessLaw",
         "platforms": "Facebook + Instagram",
-        "post_text": "New data out: AI agents handle 40% of customer service interactions at Fortune 500 companies.\n\nThat's not a pilot program. That's operational reality.\n\nThe companies winning aren't waiting for \"perfect\" AI — they're deploying 80% solutions and improving in real-time.\n\nYour competitors are already doing this. The question is whether you're building the system or getting left behind.\n\nWhat's your biggest customer service bottleneck right now?\n\n#CustomerService #AIAgents #Automation #SmallBusiness #AIThatScales"
+        "post_text": "Real talk \u2014 Merriam-Webster and Encyclopedia Britannica just sued OpenAI for using 100k articles without permission. Funny how AI companies built empires on free content, then act shocked when creators push back. Small business owners know this game: you don't get to use someone else's work for free. What's your take on AI training data?\n\n#AIEthics #OpenAI #CopyrightsLaw #SmallBusiness #TechNews #ArtificialIntelligence #BusinessLaw",
+        "published_at": "2026-03-16T17:38:34+00:00",
+        "age_hours": 16.9,
+        "scraped_from": "TechCrunch AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/UpliftingNews/comments/1rvyphv/the_dictionary_sues_openai_over_ai_training_data/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=The%20dictionary%20sues%20OpenAI&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://openai.com/new-york-times/",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 3,
         "category": "AI",
-        "topic": "Claude 4 Sonnet Tops Every Major Coding Benchmark",
-        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
-        "source_url": "https://www.anthropic.com",
-        "source_label": "Anthropic",
+        "topic": "Encyclopedia Britannica is suing OpenAI for allegedly \u2018memorizing\u2019 its content with ChatGPT",
+        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
+        "source_label": "The Verge AI",
         "voice_score": 91,
-        "hashtags": "#Claude #Anthropic #AITools",
+        "hashtags": "#AILawsuit #OpenAI #CopyrightLaw #SmallBusiness #AIConsulting #TechNews #EntrepreneurLife",
         "platforms": "Facebook + Instagram",
-        "post_text": "Anthropic published Claude 4 Sonnet benchmark results and the coding performance is legitimately impressive.\n\nWe use Claude for 80% of our automation builds at AI That Scales. The jump from 3.5 → 4 is the biggest single-version improvement I've seen.\n\nA workflow that used to take 3 iterations now lands first pass 70% of the time. That's not small.\n\nIf you're building automations and not using Claude, you're working harder than you need to.\n\n#Claude #Anthropic #AITools #Automation #AIThatScales #BuildSmarter"
+        "post_text": "Real talk: Encyclopedia Britannica just sued OpenAI for basically memorizing their content. Funny how we're all scrambling to protect IP while AI trains on everything. If you're building a business on AI tools, this matters\u2014genuinely. What's your play when the lawsuits start flying?\n\n#AILawsuit #OpenAI #CopyrightLaw #SmallBusiness #AIConsulting #TechNews #EntrepreneurLife",
+        "published_at": "2026-03-16T13:04:06-04:00",
+        "age_hours": 17.4,
+        "scraped_from": "The Verge AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/technology/comments/1rvpfl2/encyclopedia_britannica_is_suing_openai_for/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Encyclopedia%20Britannica%20is%20suing%20OpenAI&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
+            "label": "News Article"
+          }
+        ]
       },
       {
         "id": 4,
         "category": "AI",
-        "topic": "Gemini 2.0 Just Shipped Inside Every Google Workspace App",
+        "topic": "OpenAI&#8217;s adult mode will reportedly be smutty, not pornographic",
         "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
-        "source_url": "https://workspace.google.com",
-        "source_label": "Google Workspace",
-        "voice_score": 82,
-        "hashtags": "#Google #Gemini #Productivity",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica",
+        "source_label": "The Verge AI",
+        "voice_score": 92,
+        "hashtags": "#AI #ChatGPT #OpenAI #AIBusiness #TechNews #SmallBusiness #FutureOfAI",
         "platforms": "Facebook + Instagram",
-        "post_text": "Google pushed Gemini 2.0 into Workspace — Docs, Sheets, Gmail, Meet.\n\nThe practical impact for small business teams: your VA now has a co-pilot baked into every tool they already use.\n\nBeen playing with the Sheets integration this week. The ability to describe what you want and have it build formulas + summarize data is genuinely useful — not demo-ware.\n\nIf your team runs on Google, this upgrade happened automatically. Make sure you're actually using it.\n\n#Google #Gemini #Productivity #SmallBusiness #WorkSmarter #AIThatScales"
+        "post_text": "OpenAI's \"adult mode\" is coming for ChatGPT\u2014text only, no images or video. Real talk: this is genuinely smart positioning. They're testing boundaries without going full adult site. Funny how businesses learn to walk before they run. What happens when AI tools get too restrictive vs too loose?\n\n#AI #ChatGPT #OpenAI #AIBusiness #TechNews #SmallBusiness #FutureOfAI",
+        "published_at": "2026-03-16T07:18:20-04:00",
+        "age_hours": 23.2,
+        "scraped_from": "The Verge AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/BestofRedditorUpdates/comments/1rpmqz8/my_boss_wants_to_bring_me_back_into_the_religious/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=OpenAI%26%238217%3Bs%20adult%20mode%20will%20reportedly&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica",
+            "label": "News Article"
+          }
+        ]
       },
       {
         "id": 5,
         "category": "AI",
-        "topic": "Make.com, Zapier, n8n — No-Code Platforms Hit 300% Growth",
+        "topic": "Hydrogen Car: 1,500 km Range, 5-Second Fill-Up",
         "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/ChatGPT",
-        "source_label": "r/ChatGPT",
-        "voice_score": 89,
-        "hashtags": "#NoCode #Workflow #Automation",
+        "source_url": "https://reddit.com/r/singularity/comments/1rvixz9/hydrogen_car_1500_km_range_5second_fillup/",
+        "source_label": "r/singularity on Reddit",
+        "voice_score": 93,
+        "hashtags": "#HydrogenFuel #CleanTech #RealEstateTech #FleetManagement #FutureOfTransport #SmallBusiness #Innovation",
         "platforms": "Facebook + Instagram",
-        "post_text": "No-code automation platforms hit 300% user growth last quarter.\n\nTranslation: the barrier to automation is officially gone. You don't need a developer. You need someone who understands your process and 2-4 hours.\n\nI've been building no-code automations for clients for 18 months. The tools keep getting better. The window to get ahead of competitors is still open — but it's closing.\n\nStill doing manually what a bot could do? That's a choice. Make sure it's intentional.\n\n#NoCode #Workflow #Automation #Productivity #AIThatScales #BusinessGrowth"
+        "post_text": "Hydrogen cars doing 1,500 km on one tank with a 5-second fill-up? Real talk \u2014 this legitimately changes fleet logistics. Imagine cutting fuel stops for vacation rental shuttles or property management vehicles. Funny how the infrastructure question isn't \"if\" anymore, it's \"when.\" What's holding you back from going hydrogen in your operation?\n\n#HydrogenFuel #CleanTech #RealEstateTech #FleetManagement #FutureOfTransport #SmallBusiness #Innovation",
+        "published_at": "2026-03-16T19:09:01+00:00",
+        "age_hours": 15.4,
+        "scraped_from": "r/singularity",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/singularity/comments/1rvixz9/hydrogen_car_1500_km_range_5second_fillup/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Hydrogen%20Car%3A%201%2C500%20km%20Range%2C&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=Hydrogen%20Car%3A%201%2C500%20km%20Range%2C%205-Second%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 6,
         "category": "AI",
-        "topic": "AI Guest Comms Cut STR Response Time from 4 Hours to 8 Minutes",
-        "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/airbnb",
-        "source_label": "r/airbnb",
-        "voice_score": 96,
-        "hashtags": "#VacationRental #PropertyManagement #AI",
+        "topic": "Bill C-22, the Lawful Access Act: Dangerous backdoor surveillance risks remain",
+        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+        "source_url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+        "source_label": "Hacker News",
+        "voice_score": 94,
+        "hashtags": "#Privacy #Cybersecurity #SmallBusiness #DataProtection #TechPolicy #RealEstate #Canada",
         "platforms": "Facebook + Instagram",
-        "post_text": "Case study: AI-powered guest comms cut response time from 4 hours to 8 minutes across a 40-property portfolio.\n\nNot theoretical — I've seen it firsthand with Stay Coastal's 30+ properties.\n\nGuests don't care if a bot answered. They care that someone answered. Fast responses = better reviews = more bookings.\n\nMath is simple. Setup takes a weekend. ROI is permanent.\n\nRunning STRs and still answering every message manually? Let's talk.\n\n#VacationRental #PropertyManagement #AI #Airbnb #ShortTermRental #AIThatScales"
+        "post_text": "Real talk: Bill C-22's \"lawful access\" backdoors are legitimately bad news for anyone running online businesses. Governments getting encryption keys = your customer data, financial records, everything at risk. Not subtle. Small business owners should be paying attention to this one.\n\n#Privacy #Cybersecurity #SmallBusiness #DataProtection #TechPolicy #RealEstate #Canada",
+        "published_at": "2026-03-15T21:22:16+00:00",
+        "age_hours": 37.1,
+        "scraped_from": "Hacker News",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Bill%20C-22%2C%20the%20Lawful%20Access&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 7,
         "category": "AI",
-        "topic": "2026 AI Adoption Report: SMBs Close the Gap on Enterprise",
-        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 85,
-        "hashtags": "#SMB #AIAdoption #Business2026",
+        "topic": "NVIDIA DLSS 5 Delivers AI-Powered Breakthrough in Visual Fidelity for Games",
+        "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
+        "source_url": "https://reddit.com/r/singularity/comments/1rvi27k/nvidia_dlss_5_delivers_aipowered_breakthrough_in/",
+        "source_label": "r/singularity on Reddit",
+        "voice_score": 88,
+        "hashtags": "#AI #NVIDIA #Tech #RealEstate #AIConsulting #Innovation #FutureOfWork",
         "platforms": "Facebook + Instagram",
-        "post_text": "2026 AI Adoption Report: the gap between enterprise and SMB AI usage closed by 40% last year.\n\nThe tools got cheaper. The interfaces got simpler. The use cases got clearer.\n\nBusinesses that adopted early are seeing it in their margins. The ones who waited are scrambling.\n\nWhere are you in this curve? Reply with where you are and where you want to be.\n\n#SMB #AIAdoption #Business2026 #Productivity #AIThatScales #Entrepreneur"
+        "post_text": "Real talk: NVIDIA's DLSS 5 is genuinely wild. AI upscaling games to look better while running faster? That's the same logic we're using to optimize rental operations. Better output, less computational overhead. Funny how the same principles work across industries.\n\n#AI #NVIDIA #Tech #RealEstate #AIConsulting #Innovation #FutureOfWork",
+        "published_at": "2026-03-16T18:39:04+00:00",
+        "age_hours": 15.9,
+        "scraped_from": "r/singularity",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/singularity/comments/1rvi27k/nvidia_dlss_5_delivers_aipowered_breakthrough_in/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=NVIDIA%20DLSS%205%20Delivers%20AI-Powered&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=NVIDIA%20DLSS%205%20Delivers%20AI-Powered%20Breakthrough%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 8,
         "category": "WORLD",
-        "topic": "Fed Holds Rates — Here's What That Actually Means for Your Business",
+        "topic": "Trump's 'Art of the Deal' Can't Reopen the Strait of Hormuz \u2014 And it's Threatening a Recession",
         "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/worldnews",
-        "source_label": "r/worldnews",
-        "voice_score": 78,
-        "hashtags": "#Economy #FederalReserve #SmallBusiness",
+        "source_url": "https://reddit.com/r/Economics/comments/1rvq51c/trumps_art_of_the_deal_cant_reopen_the_strait_of/",
+        "source_label": "r/economics on Reddit",
+        "voice_score": 89,
+        "hashtags": "#SmallBusiness #Economics #RealEstate #SupplyChain #BusinessOwner #MarketAnalysis #Recession",
         "platforms": "Facebook + Instagram",
-        "post_text": "The Fed held rates again. Inflation still uncertain. Lending still tight.\n\nStraight talk: if you're waiting for rates to drop before making moves, you're tying your growth strategy to a variable you can't control.\n\nOperators winning right now are cutting costs through efficiency (automation), not waiting for cheap capital.\n\nFocus on what you can control: margins, team productivity, systems. The macro clears when it clears.\n\n#Economy #FederalReserve #SmallBusiness #Entrepreneur #BusinessStrategy #AIThatScales"
+        "post_text": "Real talk \u2014 geopolitical tensions at the Strait of Hormuz aren't something you negotiate like a real estate deal. Oil prices spike, supply chains break, and small businesses feel it immediately. This recession risk is genuinely worth watching if you're planning inventory or pricing strategies.\n\n#SmallBusiness #Economics #RealEstate #SupplyChain #BusinessOwner #MarketAnalysis #Recession",
+        "published_at": "2026-03-16T23:30:48+00:00",
+        "age_hours": 11.0,
+        "scraped_from": "r/economics",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/Economics/comments/1rvq51c/trumps_art_of_the_deal_cant_reopen_the_strait_of/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Trump%27s%20%27Art%20of%20the%20Deal%27&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=Trump%27s%20%27Art%20of%20the%20Deal%27%20Can%27t%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 9,
         "category": "WORLD",
-        "topic": "Daytona Beach Q1 2026: Occupancy Strong, ADR Up 8% YoY",
-        "image_url": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/realestate",
-        "source_label": "r/realestate",
-        "voice_score": 92,
-        "hashtags": "#FloridaRealEstate #DaytonaBeach #ShortTermRental",
+        "topic": "A 'Debt Spiral,' Before a Fiscal Crisis: Interest on the National Debt Will be Growing Faster Than GDP in Just 5 Years, Warns Nonpartisan Committee for a Responsible Federal Budget",
+        "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
+        "source_url": "https://reddit.com/r/Economics/comments/1rvi7jm/a_debt_spiral_before_a_fiscal_crisis_interest_on/",
+        "source_label": "r/economics on Reddit",
+        "voice_score": 90,
+        "hashtags": "#Economy #SmallBusiness #NationalDebt #FiscalPolicy #RealEstate #Economics #BusinessOwner",
         "platforms": "Facebook + Instagram",
-        "post_text": "Daytona Beach Q1 data is in: occupancy holding strong, ADRs up 8% YoY, inventory tight on the quality end.\n\nFor property owners: if your property isn't performing at market, the issue isn't the market.\n\nFor investors watching: the STR opportunity here is real. \"Set it and forget it\" is dead, but returns for well-managed properties are there.\n\nWant to see actual comps or talk through an acquisition? DM me.\n\n#FloridaRealEstate #DaytonaBeach #ShortTermRental #VacationRental #RealEstateInvesting #StayCoastal"
+        "post_text": "Real talk: when interest payments grow faster than GDP, that's like your mortgage payments outpacing your income. Businesses can't sustain that, governments can't either. This debt spiral hits small business confidence hard. Kind of wild nobody's talking about the actual fix.\n\n#Economy #SmallBusiness #NationalDebt #FiscalPolicy #RealEstate #Economics #BusinessOwner",
+        "published_at": "2026-03-16T18:44:13+00:00",
+        "age_hours": 15.8,
+        "scraped_from": "r/economics",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/Economics/comments/1rvi7jm/a_debt_spiral_before_a_fiscal_crisis_interest_on/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=A%20%27Debt%20Spiral%2C%27%20Before%20a&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=A%20%27Debt%20Spiral%2C%27%20Before%20a%20Fiscal%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 10,
         "category": "WORLD",
-        "topic": "35% of US Workforce Permanently Remote — What That Means for STR Operators",
-        "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 83,
-        "hashtags": "#RemoteWork #VacationRental #WorkFromAnywhere",
+        "topic": "Polymarket gamblers threaten to kill me over Iran missile story",
+        "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+        "source_url": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
+        "source_label": "Hacker News",
+        "voice_score": 91,
+        "hashtags": "#PredictionMarkets #Journalism #RiskManagement #CyberSecurity #BusinessEthics #Polymarket #MediaTrends",
         "platforms": "Facebook + Instagram",
-        "post_text": "New Gallup data: 35% of the US workforce is now permanently remote. That's not going back.\n\nFor vacation rental operators, this drives mid-week and extended-stay demand. Guests aren't just coming for the weekend — they're coming for 2-4 weeks.\n\nSeen it in our own portfolio. Longer stays, better reviews, less turnover.\n\nSTR not set up for extended stays? (workspace, faster WiFi, monthly discounts) You're leaving money on the table.\n\n#RemoteWork #VacationRental #WorkFromAnywhere #ShortTermRental #StayCoastal #AIThatScales"
+        "post_text": "Real talk \u2014 when prediction markets get this heated that journalists are getting death threats over Iran missile coverage, we're watching financial incentives completely detach from reality. Funny how betting apps can turn geopolitical news into something genuinely dangerous. Reminds me why transparency matters in any business model.\n\n#PredictionMarkets #Journalism #RiskManagement #CyberSecurity #BusinessEthics #Polymarket #MediaTrends",
+        "published_at": "2026-03-16T12:00:06+00:00",
+        "age_hours": 22.5,
+        "scraped_from": "Hacker News",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/hackernews/comments/1rv8xke/polymarket_gamblers_threaten_to_kill_me_over_iran/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Polymarket%20gamblers%20threaten%20to%20kill&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
+            "label": "Official Source"
+          }
+        ]
       }
-    ]
+    ],
+    "morning": {
+      "posts": [
+        {
+          "id": 1,
+          "category": "AI",
+          "topic": "DLSS 5 looks like a real-time generative AI filter for video games",
+          "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
+          "source_url": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
+          "source_label": "The Verge AI",
+          "voice_score": 89,
+          "hashtags": "#DLSS5 #NvidiaAI #AITech #GameDev #TechTrends #AI #Innovation",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Nvidia just dropped DLSS 5 and genuinely, the reactions are all over the place. Some folks are calling it \"slop,\" others see it as the next big leap. Real talk \u2014 this is basically AI upscaling on steroids for gaming. Funny how the same tech conversation happening in enterprise is now hitting consumer products. What's your take?\n\n#DLSS5 #NvidiaAI #AITech #GameDev #TechTrends #AI #Innovation",
+          "published_at": "2026-03-16T17:56:05-04:00",
+          "age_hours": 12.6,
+          "scraped_from": "The Verge AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/radeon/comments/1rrkrn7/\u0442houghts_on_amd_shenanigans_with_fsr_diamond/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=DLSS%205%20looks%20like%20a&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.nvidia.com/en-us/geforce/news/dlss5-breakthrough-in-visual-fidelity-for-games/",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "category": "AI",
+          "topic": "The dictionary sues OpenAI",
+          "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+          "source_url": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/",
+          "source_label": "TechCrunch AI",
+          "voice_score": 90,
+          "hashtags": "#AIEthics #OpenAI #CopyrightsLaw #SmallBusiness #TechNews #ArtificialIntelligence #BusinessLaw",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 Merriam-Webster and Encyclopedia Britannica just sued OpenAI for using 100k articles without permission. Funny how AI companies built empires on free content, then act shocked when creators push back. Small business owners know this game: you don't get to use someone else's work for free. What's your take on AI training data?\n\n#AIEthics #OpenAI #CopyrightsLaw #SmallBusiness #TechNews #ArtificialIntelligence #BusinessLaw",
+          "published_at": "2026-03-16T17:38:34+00:00",
+          "age_hours": 16.9,
+          "scraped_from": "TechCrunch AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/UpliftingNews/comments/1rvyphv/the_dictionary_sues_openai_over_ai_training_data/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=The%20dictionary%20sues%20OpenAI&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://openai.com/new-york-times/",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "category": "AI",
+          "topic": "Encyclopedia Britannica is suing OpenAI for allegedly \u2018memorizing\u2019 its content with ChatGPT",
+          "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
+          "source_label": "The Verge AI",
+          "voice_score": 91,
+          "hashtags": "#AILawsuit #OpenAI #CopyrightLaw #SmallBusiness #AIConsulting #TechNews #EntrepreneurLife",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: Encyclopedia Britannica just sued OpenAI for basically memorizing their content. Funny how we're all scrambling to protect IP while AI trains on everything. If you're building a business on AI tools, this matters\u2014genuinely. What's your play when the lawsuits start flying?\n\n#AILawsuit #OpenAI #CopyrightLaw #SmallBusiness #AIConsulting #TechNews #EntrepreneurLife",
+          "published_at": "2026-03-16T13:04:06-04:00",
+          "age_hours": 17.4,
+          "scraped_from": "The Verge AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/technology/comments/1rvpfl2/encyclopedia_britannica_is_suing_openai_for/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Encyclopedia%20Britannica%20is%20suing%20OpenAI&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
+              "label": "News Article"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "category": "AI",
+          "topic": "OpenAI&#8217;s adult mode will reportedly be smutty, not pornographic",
+          "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica",
+          "source_label": "The Verge AI",
+          "voice_score": 92,
+          "hashtags": "#AI #ChatGPT #OpenAI #AIBusiness #TechNews #SmallBusiness #FutureOfAI",
+          "platforms": "Facebook + Instagram",
+          "post_text": "OpenAI's \"adult mode\" is coming for ChatGPT\u2014text only, no images or video. Real talk: this is genuinely smart positioning. They're testing boundaries without going full adult site. Funny how businesses learn to walk before they run. What happens when AI tools get too restrictive vs too loose?\n\n#AI #ChatGPT #OpenAI #AIBusiness #TechNews #SmallBusiness #FutureOfAI",
+          "published_at": "2026-03-16T07:18:20-04:00",
+          "age_hours": 23.2,
+          "scraped_from": "The Verge AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/BestofRedditorUpdates/comments/1rpmqz8/my_boss_wants_to_bring_me_back_into_the_religious/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=OpenAI%26%238217%3Bs%20adult%20mode%20will%20reportedly&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica",
+              "label": "News Article"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "category": "AI",
+          "topic": "Hydrogen Car: 1,500 km Range, 5-Second Fill-Up",
+          "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+          "source_url": "https://reddit.com/r/singularity/comments/1rvixz9/hydrogen_car_1500_km_range_5second_fillup/",
+          "source_label": "r/singularity on Reddit",
+          "voice_score": 93,
+          "hashtags": "#HydrogenFuel #CleanTech #RealEstateTech #FleetManagement #FutureOfTransport #SmallBusiness #Innovation",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Hydrogen cars doing 1,500 km on one tank with a 5-second fill-up? Real talk \u2014 this legitimately changes fleet logistics. Imagine cutting fuel stops for vacation rental shuttles or property management vehicles. Funny how the infrastructure question isn't \"if\" anymore, it's \"when.\" What's holding you back from going hydrogen in your operation?\n\n#HydrogenFuel #CleanTech #RealEstateTech #FleetManagement #FutureOfTransport #SmallBusiness #Innovation",
+          "published_at": "2026-03-16T19:09:01+00:00",
+          "age_hours": 15.4,
+          "scraped_from": "r/singularity",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/singularity/comments/1rvixz9/hydrogen_car_1500_km_range_5second_fillup/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Hydrogen%20Car%3A%201%2C500%20km%20Range%2C&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Hydrogen%20Car%3A%201%2C500%20km%20Range%2C%205-Second%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "category": "AI",
+          "topic": "Bill C-22, the Lawful Access Act: Dangerous backdoor surveillance risks remain",
+          "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+          "source_url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+          "source_label": "Hacker News",
+          "voice_score": 94,
+          "hashtags": "#Privacy #Cybersecurity #SmallBusiness #DataProtection #TechPolicy #RealEstate #Canada",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: Bill C-22's \"lawful access\" backdoors are legitimately bad news for anyone running online businesses. Governments getting encryption keys = your customer data, financial records, everything at risk. Not subtle. Small business owners should be paying attention to this one.\n\n#Privacy #Cybersecurity #SmallBusiness #DataProtection #TechPolicy #RealEstate #Canada",
+          "published_at": "2026-03-15T21:22:16+00:00",
+          "age_hours": 37.1,
+          "scraped_from": "Hacker News",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Bill%20C-22%2C%20the%20Lawful%20Access&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "category": "AI",
+          "topic": "NVIDIA DLSS 5 Delivers AI-Powered Breakthrough in Visual Fidelity for Games",
+          "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
+          "source_url": "https://reddit.com/r/singularity/comments/1rvi27k/nvidia_dlss_5_delivers_aipowered_breakthrough_in/",
+          "source_label": "r/singularity on Reddit",
+          "voice_score": 88,
+          "hashtags": "#AI #NVIDIA #Tech #RealEstate #AIConsulting #Innovation #FutureOfWork",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: NVIDIA's DLSS 5 is genuinely wild. AI upscaling games to look better while running faster? That's the same logic we're using to optimize rental operations. Better output, less computational overhead. Funny how the same principles work across industries.\n\n#AI #NVIDIA #Tech #RealEstate #AIConsulting #Innovation #FutureOfWork",
+          "published_at": "2026-03-16T18:39:04+00:00",
+          "age_hours": 15.9,
+          "scraped_from": "r/singularity",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/singularity/comments/1rvi27k/nvidia_dlss_5_delivers_aipowered_breakthrough_in/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=NVIDIA%20DLSS%205%20Delivers%20AI-Powered&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=NVIDIA%20DLSS%205%20Delivers%20AI-Powered%20Breakthrough%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "category": "WORLD",
+          "topic": "Trump's 'Art of the Deal' Can't Reopen the Strait of Hormuz \u2014 And it's Threatening a Recession",
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
+          "source_url": "https://reddit.com/r/Economics/comments/1rvq51c/trumps_art_of_the_deal_cant_reopen_the_strait_of/",
+          "source_label": "r/economics on Reddit",
+          "voice_score": 89,
+          "hashtags": "#SmallBusiness #Economics #RealEstate #SupplyChain #BusinessOwner #MarketAnalysis #Recession",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 geopolitical tensions at the Strait of Hormuz aren't something you negotiate like a real estate deal. Oil prices spike, supply chains break, and small businesses feel it immediately. This recession risk is genuinely worth watching if you're planning inventory or pricing strategies.\n\n#SmallBusiness #Economics #RealEstate #SupplyChain #BusinessOwner #MarketAnalysis #Recession",
+          "published_at": "2026-03-16T23:30:48+00:00",
+          "age_hours": 11.0,
+          "scraped_from": "r/economics",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/Economics/comments/1rvq51c/trumps_art_of_the_deal_cant_reopen_the_strait_of/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Trump%27s%20%27Art%20of%20the%20Deal%27&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Trump%27s%20%27Art%20of%20the%20Deal%27%20Can%27t%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "category": "WORLD",
+          "topic": "A 'Debt Spiral,' Before a Fiscal Crisis: Interest on the National Debt Will be Growing Faster Than GDP in Just 5 Years, Warns Nonpartisan Committee for a Responsible Federal Budget",
+          "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
+          "source_url": "https://reddit.com/r/Economics/comments/1rvi7jm/a_debt_spiral_before_a_fiscal_crisis_interest_on/",
+          "source_label": "r/economics on Reddit",
+          "voice_score": 90,
+          "hashtags": "#Economy #SmallBusiness #NationalDebt #FiscalPolicy #RealEstate #Economics #BusinessOwner",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: when interest payments grow faster than GDP, that's like your mortgage payments outpacing your income. Businesses can't sustain that, governments can't either. This debt spiral hits small business confidence hard. Kind of wild nobody's talking about the actual fix.\n\n#Economy #SmallBusiness #NationalDebt #FiscalPolicy #RealEstate #Economics #BusinessOwner",
+          "published_at": "2026-03-16T18:44:13+00:00",
+          "age_hours": 15.8,
+          "scraped_from": "r/economics",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/Economics/comments/1rvi7jm/a_debt_spiral_before_a_fiscal_crisis_interest_on/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=A%20%27Debt%20Spiral%2C%27%20Before%20a&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=A%20%27Debt%20Spiral%2C%27%20Before%20a%20Fiscal%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "category": "WORLD",
+          "topic": "Polymarket gamblers threaten to kill me over Iran missile story",
+          "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+          "source_url": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
+          "source_label": "Hacker News",
+          "voice_score": 91,
+          "hashtags": "#PredictionMarkets #Journalism #RiskManagement #CyberSecurity #BusinessEthics #Polymarket #MediaTrends",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 when prediction markets get this heated that journalists are getting death threats over Iran missile coverage, we're watching financial incentives completely detach from reality. Funny how betting apps can turn geopolitical news into something genuinely dangerous. Reminds me why transparency matters in any business model.\n\n#PredictionMarkets #Journalism #RiskManagement #CyberSecurity #BusinessEthics #Polymarket #MediaTrends",
+          "published_at": "2026-03-16T12:00:06+00:00",
+          "age_hours": 22.5,
+          "scraped_from": "Hacker News",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/hackernews/comments/1rv8xke/polymarket_gamblers_threaten_to_kill_me_over_iran/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Polymarket%20gamblers%20threaten%20to%20kill&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
+              "label": "Official Source"
+            }
+          ]
+        }
+      ],
+      "generated_at": "2026-03-17T10:30:11.149184+00:00",
+      "label": "Morning Brief (6:30 AM)",
+      "count": 10
+    },
+    "afternoon": {
+      "posts": [],
+      "generated_at": "",
+      "label": "Afternoon Update (1 PM)",
+      "count": 0
+    },
+    "scripts_thumbnails": []
   },
   "payroll": {
-    "period": "Mar 10 – Mar 24, 2026",
+    "period": "Mar 10 \u2013 Mar 24, 2026",
     "period_type": "B",
     "pay_date": "Mar 27, 2026",
     "total_payout": 5150.0,
@@ -208,7 +782,7 @@
       {
         "level": "red",
         "property": "10 S Halifax Ave",
-        "issue": "AC unit reported not cooling — HVAC scheduled"
+        "issue": "AC unit reported not cooling \u2014 HVAC scheduled"
       },
       {
         "level": "yellow",
@@ -218,7 +792,7 @@
       {
         "level": "green",
         "property": "117 N Hollywood Ave",
-        "issue": "WiFi complaint resolved — confirmed by guest"
+        "issue": "WiFi complaint resolved \u2014 confirmed by guest"
       }
     ],
     "top_performers": [
@@ -238,5 +812,19 @@
         "rating": 4.8
       }
     ]
+  },
+  "scraper_meta": {
+    "scraped_at": "2026-03-17T10:30:11.149184+00:00",
+    "sources_used": [
+      "The Verge AI",
+      "r/singularity",
+      "r/economics",
+      "Hacker News",
+      "TechCrunch AI"
+    ],
+    "all_from_last_24h": true,
+    "post_count": 10,
+    "morning_count": 10,
+    "afternoon_count": 0
   }
 }
