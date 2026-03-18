@@ -1,132 +1,706 @@
 {
-  "generated_at": "2026-03-11T08:46:09.549424-04:00",
-  "date": "2026-03-11",
+  "generated_at": "2026-03-18T06:34:22.277543-04:00",
+  "date": "2026-03-18",
   "content": {
     "posts": [
       {
         "id": 1,
         "category": "AI",
-        "topic": "OpenAI Drops GPT-5 — Real-Time Reasoning Benchmark Shattered",
+        "topic": "Mistral bets on \u2018build-your-own AI\u2019 as it takes on OpenAI, Anthropic in the enterprise",
         "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
-        "source_url": "https://openai.com/blog",
-        "source_label": "OpenAI Blog",
-        "voice_score": 94,
-        "hashtags": "#AI #GPT5 #Automation #AIThatScales",
+        "source_url": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+        "source_label": "TechCrunch AI",
+        "voice_score": 89,
+        "hashtags": "#AI #RealEstate #MistralAI #SmallBusiness #Hospitality #EnterpriseTech #DataOwnership",
         "platforms": "Facebook + Instagram",
-        "post_text": "The game just changed — again.\n\nOpenAI dropped GPT-5 this morning and the reasoning capability leap is real. I've been testing it since 6 AM and the difference isn't subtle.\n\nFor business owners: this isn't theoretical anymore. The automation workflows that felt \"almost there\" last year? They're \"fully there\" now.\n\nWe're already updating 3 client systems this week. If you haven't started automating your operations, you're now 2 generations behind.\n\nDM me if you want to talk about what this means for your business.\n\n#AI #GPT5 #Automation #AIThatScales #BusinessAutomation #FutureOfWork"
+        "post_text": "Real talk: Mistral just flipped the script with custom AI training on your own data. No more relying on somebody else's model. For property managers and hospitality ops, this means genuinely proprietary insights from your guest data. That's the difference between guessing and knowing.\n\n#AI #RealEstate #MistralAI #SmallBusiness #Hospitality #EnterpriseTech #DataOwnership",
+        "published_at": "2026-03-17T21:00:00+00:00",
+        "age_hours": 13.5,
+        "scraped_from": "TechCrunch AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/Battlefield/comments/1rsraae/battlefield_6_game_update_1220/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Mistral%20bets%20on%20%E2%80%98build-your-own%20AI%E2%80%99&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.anthropic.com/research/shade-arena-sabotage-monitoring",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 2,
         "category": "AI",
-        "topic": "AI Agents Now Handle 40% of Fortune 500 Customer Service",
-        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/artificial",
-        "source_label": "r/artificial",
-        "voice_score": 87,
-        "hashtags": "#CustomerService #AIAgents #Automation",
+        "topic": "Why Garry Tan\u2019s Claude Code setup has gotten so much love, and hate",
+        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+        "source_url": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+        "source_label": "TechCrunch AI",
+        "voice_score": 90,
+        "hashtags": "#AITools #Claude #Coding #SmallBusiness #TechStack #BuildersLife #RealEstate",
         "platforms": "Facebook + Instagram",
-        "post_text": "New data out: AI agents handle 40% of customer service interactions at Fortune 500 companies.\n\nThat's not a pilot program. That's operational reality.\n\nThe companies winning aren't waiting for \"perfect\" AI — they're deploying 80% solutions and improving in real-time.\n\nYour competitors are already doing this. The question is whether you're building the system or getting left behind.\n\nWhat's your biggest customer service bottleneck right now?\n\n#CustomerService #AIAgents #Automation #SmallBusiness #AIThatScales"
+        "post_text": "Real talk \u2014 Garry Tan's Claude Code setup is blowing up because it actually works for building stuff faster. But here's the thing: the AI tools themselves are debating whether it's genius or overkill. Funny how the real test isn't what Claude thinks, it's whether it saves you time on actual projects. That's legitimately what matters for small teams.\n\n#AITools #Claude #Coding #SmallBusiness #TechStack #BuildersLife #RealEstate",
+        "published_at": "2026-03-17T20:50:04+00:00",
+        "age_hours": 13.7,
+        "scraped_from": "TechCrunch AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/machinelearningnews/comments/1rteeig/garry_tan_releases_gstack_an_opensource_claude/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Why%20Garry%20Tan%E2%80%99s%20Claude%20Code&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+            "label": "News Article"
+          }
+        ]
       },
       {
         "id": 3,
         "category": "AI",
-        "topic": "Claude 4 Sonnet Tops Every Major Coding Benchmark",
-        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
-        "source_url": "https://www.anthropic.com",
-        "source_label": "Anthropic",
+        "topic": "The Pentagon is developing alternatives to Anthropic, report says",
+        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+        "source_url": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
+        "source_label": "TechCrunch AI",
         "voice_score": 91,
-        "hashtags": "#Claude #Anthropic #AITools",
+        "hashtags": "#AI #Business #VendorRelationships #TechNews #SmallBusiness #Leadership #RealEstate",
         "platforms": "Facebook + Instagram",
-        "post_text": "Anthropic published Claude 4 Sonnet benchmark results and the coding performance is legitimately impressive.\n\nWe use Claude for 80% of our automation builds at AI That Scales. The jump from 3.5 → 4 is the biggest single-version improvement I've seen.\n\nA workflow that used to take 3 iterations now lands first pass 70% of the time. That's not small.\n\nIf you're building automations and not using Claude, you're working harder than you need to.\n\n#Claude #Anthropic #AITools #Automation #AIThatScales #BuildSmarter"
+        "post_text": "Real talk \u2014 when major clients bail on vendors, it's usually because trust got broken somewhere. Pentagon shopping for AI alternatives to Anthropic tells you everything about how fast those relationships can flip. Applies to your business too: relationships > contracts, always.\n\n#AI #Business #VendorRelationships #TechNews #SmallBusiness #Leadership #RealEstate",
+        "published_at": "2026-03-17T18:20:15+00:00",
+        "age_hours": 16.2,
+        "scraped_from": "TechCrunch AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/ecommerce/comments/1rvlogr/ecommerce_industry_news_recap_week_of_mar_16th/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=The%20Pentagon%20is%20developing%20alternatives&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
+            "label": "News Article"
+          }
+        ]
       },
       {
         "id": 4,
         "category": "AI",
-        "topic": "Gemini 2.0 Just Shipped Inside Every Google Workspace App",
+        "topic": "Bringing the power of Personal Intelligence to more people",
         "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
-        "source_url": "https://workspace.google.com",
-        "source_label": "Google Workspace",
-        "voice_score": 82,
-        "hashtags": "#Google #Gemini #Productivity",
+        "source_url": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
+        "source_label": "Google AI Blog",
+        "voice_score": 92,
+        "hashtags": "#AI #SmallBusiness #GoogleGemini #RealEstateLife #AIConsulting #ProductivityHacks #TechNews",
         "platforms": "Facebook + Instagram",
-        "post_text": "Google pushed Gemini 2.0 into Workspace — Docs, Sheets, Gmail, Meet.\n\nThe practical impact for small business teams: your VA now has a co-pilot baked into every tool they already use.\n\nBeen playing with the Sheets integration this week. The ability to describe what you want and have it build formulas + summarize data is genuinely useful — not demo-ware.\n\nIf your team runs on Google, this upgrade happened automatically. Make sure you're actually using it.\n\n#Google #Gemini #Productivity #SmallBusiness #WorkSmarter #AIThatScales"
+        "post_text": "Google's rolling out Personal Intelligence across Search, Gemini app, and Chrome. Real talk \u2014 this is genuinely useful for small business owners who need quick insights without digging through ten tabs. Funny how the best AI tools are the ones that actually save you time running operations.\n\n#AI #SmallBusiness #GoogleGemini #RealEstateLife #AIConsulting #ProductivityHacks #TechNews",
+        "published_at": "2026-03-17T16:00:00+00:00",
+        "age_hours": 18.5,
+        "scraped_from": "Google AI Blog",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/Bard/comments/1rwb4ea/bringing_the_power_of_personal_intelligence_to/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Bringing%20the%20power%20of%20Personal&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 5,
         "category": "AI",
-        "topic": "Make.com, Zapier, n8n — No-Code Platforms Hit 300% Growth",
+        "topic": "OpenAI expands government footprint with AWS deal, report says",
         "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/ChatGPT",
-        "source_label": "r/ChatGPT",
-        "voice_score": 89,
-        "hashtags": "#NoCode #Workflow #Automation",
+        "source_url": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
+        "source_label": "TechCrunch AI",
+        "voice_score": 93,
+        "hashtags": "#AIBusiness #GovernmentTech #OpenAI #AWS #TechTrends #SmallBizAI #FutureOfWork",
         "platforms": "Facebook + Instagram",
-        "post_text": "No-code automation platforms hit 300% user growth last quarter.\n\nTranslation: the barrier to automation is officially gone. You don't need a developer. You need someone who understands your process and 2-4 hours.\n\nI've been building no-code automations for clients for 18 months. The tools keep getting better. The window to get ahead of competitors is still open — but it's closing.\n\nStill doing manually what a bot could do? That's a choice. Make sure it's intentional.\n\n#NoCode #Workflow #Automation #Productivity #AIThatScales #BusinessGrowth"
+        "post_text": "OpenAI + AWS + U.S. government contracts. Real talk, this is genuinely how AI infrastructure gets built at scale. Funny how the biggest plays happen quietly through partnerships nobody talks about at dinner. If you're running a business, watch where the government money flows \u2014 that's usually where the tech gets reliable first.\n\n#AIBusiness #GovernmentTech #OpenAI #AWS #TechTrends #SmallBizAI #FutureOfWork",
+        "published_at": "2026-03-17T15:37:03+00:00",
+        "age_hours": 18.9,
+        "scraped_from": "TechCrunch AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/smallstreetbets/comments/1rtycfd/planet_labs_dd_142m_bet/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=OpenAI%20expands%20government%20footprint%20with&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
+            "label": "News Article"
+          }
+        ]
       },
       {
         "id": 6,
         "category": "AI",
-        "topic": "AI Guest Comms Cut STR Response Time from 4 Hours to 8 Minutes",
-        "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/airbnb",
-        "source_label": "r/airbnb",
-        "voice_score": 96,
-        "hashtags": "#VacationRental #PropertyManagement #AI",
+        "topic": "Now everyone in the US is getting Google&#8217;s personalized Gemini AI",
+        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence",
+        "source_label": "The Verge AI",
+        "voice_score": 94,
+        "hashtags": "#AI #SmallBusiness #Google #Gemini #RealEstate #Hospitality #TechNews",
         "platforms": "Facebook + Instagram",
-        "post_text": "Case study: AI-powered guest comms cut response time from 4 hours to 8 minutes across a 40-property portfolio.\n\nNot theoretical — I've seen it firsthand with Stay Coastal's 30+ properties.\n\nGuests don't care if a bot answered. They care that someone answered. Fast responses = better reviews = more bookings.\n\nMath is simple. Setup takes a weekend. ROI is permanent.\n\nRunning STRs and still answering every message manually? Let's talk.\n\n#VacationRental #PropertyManagement #AI #Airbnb #ShortTermRental #AIThatScales"
+        "post_text": "Google just dropped Personal Intelligence for everyone in the US. Real talk \u2014 connecting your Gmail, Calendar, and docs to Gemini means AI that actually knows your business context. For property managers and hospitality ops, this is genuinely useful. No more feeding it info manually.\n\n#AI #SmallBusiness #Google #Gemini #RealEstate #Hospitality #TechNews",
+        "published_at": "2026-03-17T12:33:41-04:00",
+        "age_hours": 18.0,
+        "scraped_from": "The Verge AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/LeopardsAteMyFace/comments/1run6im/tucker_just_use_your_previous_legal_argument_to/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Now%20everyone%20in%20the%20US&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence",
+            "label": "News Article"
+          }
+        ]
       },
       {
         "id": 7,
         "category": "AI",
-        "topic": "2026 AI Adoption Report: SMBs Close the Gap on Enterprise",
-        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 85,
-        "hashtags": "#SMB #AIAdoption #Business2026",
+        "topic": "The future of code is exciting and terrifying",
+        "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
+        "source_url": "https://www.theverge.com/podcast/895910/claude-code-future-developers-vergecast",
+        "source_label": "The Verge AI",
+        "voice_score": 88,
+        "hashtags": "#AIConsulting #FutureOfWork #SoftwareDevelopment #SmallBusiness #RealEstate #TechTrends #DaytonaBeach",
         "platforms": "Facebook + Instagram",
-        "post_text": "2026 AI Adoption Report: the gap between enterprise and SMB AI usage closed by 40% last year.\n\nThe tools got cheaper. The interfaces got simpler. The use cases got clearer.\n\nBusinesses that adopted early are seeing it in their margins. The ones who waited are scrambling.\n\nWhere are you in this curve? Reply with where you are and where you want to be.\n\n#SMB #AIAdoption #Business2026 #Productivity #AIThatScales #Entrepreneur"
+        "post_text": "Real talk: developers aren't disappearing, they're just evolving. Instead of writing every line, you're now orchestrating AI agents and managing projects. Same shift happening in real estate ops and hospitality management. The future belongs to people who can think strategically about what needs building, not just who can code it fastest.\n\n#AIConsulting #FutureOfWork #SoftwareDevelopment #SmallBusiness #RealEstate #TechTrends #DaytonaBeach",
+        "published_at": "2026-03-17T11:16:47-04:00",
+        "age_hours": 19.3,
+        "scraped_from": "The Verge AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/NatureofPredators/comments/1rw5un6/the_finest_little_honky_tonk_on_skalga_16/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=The%20future%20of%20code%20is&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.theverge.com/podcast/895910/claude-code-future-developers-vergecast",
+            "label": "News Article"
+          }
+        ]
       },
       {
         "id": 8,
         "category": "WORLD",
-        "topic": "Fed Holds Rates — Here's What That Actually Means for Your Business",
+        "topic": "Canada could join EU, French foreign minister says",
         "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/worldnews",
-        "source_label": "r/worldnews",
-        "voice_score": 78,
-        "hashtags": "#Economy #FederalReserve #SmallBusiness",
+        "source_url": "https://reddit.com/r/worldnews/comments/1rwx2s2/canada_could_join_eu_french_foreign_minister_says/",
+        "source_label": "r/worldnews on Reddit",
+        "voice_score": 89,
+        "hashtags": "#SmallBusiness #TradePolicy #BusinessStrategy #Geopolitics #Entrepreneurship #RealEstate #HospitalityBusiness",
         "platforms": "Facebook + Instagram",
-        "post_text": "The Fed held rates again. Inflation still uncertain. Lending still tight.\n\nStraight talk: if you're waiting for rates to drop before making moves, you're tying your growth strategy to a variable you can't control.\n\nOperators winning right now are cutting costs through efficiency (automation), not waiting for cheap capital.\n\nFocus on what you can control: margins, team productivity, systems. The macro clears when it clears.\n\n#Economy #FederalReserve #SmallBusiness #Entrepreneur #BusinessStrategy #AIThatScales"
+        "post_text": "Real talk \u2014 France floating Canada joining the EU is wild geopolitically, but here's what matters for business owners: trade agreements and tariffs directly hit your margins. Whether it's tourism, hospitality, or imports, cross-border policy shifts genuinely affect your bottom line. Funny how these \"big picture\" moves filter down to small operations.\n\n#SmallBusiness #TradePolicy #BusinessStrategy #Geopolitics #Entrepreneurship #RealEstate #HospitalityBusiness",
+        "published_at": "2026-03-18T07:18:47+00:00",
+        "age_hours": 3.2,
+        "scraped_from": "r/worldnews",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/worldnews/comments/1rwx2s2/canada_could_join_eu_french_foreign_minister_says/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Canada%20could%20join%20EU%2C%20French&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=Canada%20could%20join%20EU%2C%20French%20foreign%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 9,
         "category": "WORLD",
-        "topic": "Daytona Beach Q1 2026: Occupancy Strong, ADR Up 8% YoY",
-        "image_url": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/realestate",
-        "source_label": "r/realestate",
-        "voice_score": 92,
-        "hashtags": "#FloridaRealEstate #DaytonaBeach #ShortTermRental",
+        "topic": "China ignores Trump\u2019s Hormuz request as the Iran war deepens and his Beijing trip slips",
+        "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
+        "source_url": "https://reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
+        "source_label": "r/worldnews on Reddit",
+        "voice_score": 90,
+        "hashtags": "#GlobalTrade #BusinessNews #SupplyChain #Geopolitics #SmallBusiness #RealEstate #Economics",
         "platforms": "Facebook + Instagram",
-        "post_text": "Daytona Beach Q1 data is in: occupancy holding strong, ADRs up 8% YoY, inventory tight on the quality end.\n\nFor property owners: if your property isn't performing at market, the issue isn't the market.\n\nFor investors watching: the STR opportunity here is real. \"Set it and forget it\" is dead, but returns for well-managed properties are there.\n\nWant to see actual comps or talk through an acquisition? DM me.\n\n#FloridaRealEstate #DaytonaBeach #ShortTermRental #VacationRental #RealEstateInvesting #StayCoastal"
+        "post_text": "Real talk \u2014 when major powers start ignoring each other's requests, supply chains get weird fast. Anyone running a business dependent on global trade or shipping routes should genuinely be paying attention to what's happening in the Middle East right now. This stuff affects your bottom line.\n\n#GlobalTrade #BusinessNews #SupplyChain #Geopolitics #SmallBusiness #RealEstate #Economics",
+        "published_at": "2026-03-18T06:01:31+00:00",
+        "age_hours": 4.5,
+        "scraped_from": "r/worldnews",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=China%20ignores%20Trump%E2%80%99s%20Hormuz%20request&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=China%20ignores%20Trump%E2%80%99s%20Hormuz%20request%20as%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 10,
         "category": "WORLD",
-        "topic": "35% of US Workforce Permanently Remote — What That Means for STR Operators",
-        "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 83,
-        "hashtags": "#RemoteWork #VacationRental #WorkFromAnywhere",
+        "topic": "World Trade Without the US | As the US embraces tariffs, the rest of the world lowers trade barriers, signs new agreements, and reroutes around American protectionism.",
+        "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+        "source_url": "https://reddit.com/r/Economics/comments/1rwk18v/world_trade_without_the_us_as_the_us_embraces/",
+        "source_label": "r/economics on Reddit",
+        "voice_score": 91,
+        "hashtags": "#SmallBusiness #TradePolicy #ImportExport #Economics #BusinessStrategy #RealEstate #GlobalTrade",
         "platforms": "Facebook + Instagram",
-        "post_text": "New Gallup data: 35% of the US workforce is now permanently remote. That's not going back.\n\nFor vacation rental operators, this drives mid-week and extended-stay demand. Guests aren't just coming for the weekend — they're coming for 2-4 weeks.\n\nSeen it in our own portfolio. Longer stays, better reviews, less turnover.\n\nSTR not set up for extended stays? (workspace, faster WiFi, monthly discounts) You're leaving money on the table.\n\n#RemoteWork #VacationRental #WorkFromAnywhere #ShortTermRental #StayCoastal #AIThatScales"
+        "post_text": "Real talk: while the US doubles down on tariffs, the rest of the world is literally building trade routes around us. For small business owners importing or exporting, this matters big time. Supply chains are shifting faster than a defensive line adjustment. Genuinely worth watching where your products source from.\n\n#SmallBusiness #TradePolicy #ImportExport #Economics #BusinessStrategy #RealEstate #GlobalTrade",
+        "published_at": "2026-03-17T21:28:12+00:00",
+        "age_hours": 13.1,
+        "scraped_from": "r/economics",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/Economics/comments/1rwk18v/world_trade_without_the_us_as_the_us_embraces/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=World%20Trade%20Without%20the%20US&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=World%20Trade%20Without%20the%20US%20%7C%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       }
-    ]
+    ],
+    "morning": {
+      "posts": [
+        {
+          "id": 1,
+          "category": "AI",
+          "topic": "Mistral bets on \u2018build-your-own AI\u2019 as it takes on OpenAI, Anthropic in the enterprise",
+          "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
+          "source_url": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+          "source_label": "TechCrunch AI",
+          "voice_score": 89,
+          "hashtags": "#AI #RealEstate #MistralAI #SmallBusiness #Hospitality #EnterpriseTech #DataOwnership",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: Mistral just flipped the script with custom AI training on your own data. No more relying on somebody else's model. For property managers and hospitality ops, this means genuinely proprietary insights from your guest data. That's the difference between guessing and knowing.\n\n#AI #RealEstate #MistralAI #SmallBusiness #Hospitality #EnterpriseTech #DataOwnership",
+          "published_at": "2026-03-17T21:00:00+00:00",
+          "age_hours": 13.5,
+          "scraped_from": "TechCrunch AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/Battlefield/comments/1rsraae/battlefield_6_game_update_1220/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Mistral%20bets%20on%20%E2%80%98build-your-own%20AI%E2%80%99&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.anthropic.com/research/shade-arena-sabotage-monitoring",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "category": "AI",
+          "topic": "Why Garry Tan\u2019s Claude Code setup has gotten so much love, and hate",
+          "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+          "source_url": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+          "source_label": "TechCrunch AI",
+          "voice_score": 90,
+          "hashtags": "#AITools #Claude #Coding #SmallBusiness #TechStack #BuildersLife #RealEstate",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 Garry Tan's Claude Code setup is blowing up because it actually works for building stuff faster. But here's the thing: the AI tools themselves are debating whether it's genius or overkill. Funny how the real test isn't what Claude thinks, it's whether it saves you time on actual projects. That's legitimately what matters for small teams.\n\n#AITools #Claude #Coding #SmallBusiness #TechStack #BuildersLife #RealEstate",
+          "published_at": "2026-03-17T20:50:04+00:00",
+          "age_hours": 13.7,
+          "scraped_from": "TechCrunch AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/machinelearningnews/comments/1rteeig/garry_tan_releases_gstack_an_opensource_claude/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Why%20Garry%20Tan%E2%80%99s%20Claude%20Code&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+              "label": "News Article"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "category": "AI",
+          "topic": "The Pentagon is developing alternatives to Anthropic, report says",
+          "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+          "source_url": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
+          "source_label": "TechCrunch AI",
+          "voice_score": 91,
+          "hashtags": "#AI #Business #VendorRelationships #TechNews #SmallBusiness #Leadership #RealEstate",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 when major clients bail on vendors, it's usually because trust got broken somewhere. Pentagon shopping for AI alternatives to Anthropic tells you everything about how fast those relationships can flip. Applies to your business too: relationships > contracts, always.\n\n#AI #Business #VendorRelationships #TechNews #SmallBusiness #Leadership #RealEstate",
+          "published_at": "2026-03-17T18:20:15+00:00",
+          "age_hours": 16.2,
+          "scraped_from": "TechCrunch AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/ecommerce/comments/1rvlogr/ecommerce_industry_news_recap_week_of_mar_16th/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=The%20Pentagon%20is%20developing%20alternatives&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
+              "label": "News Article"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "category": "AI",
+          "topic": "Bringing the power of Personal Intelligence to more people",
+          "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
+          "source_url": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
+          "source_label": "Google AI Blog",
+          "voice_score": 92,
+          "hashtags": "#AI #SmallBusiness #GoogleGemini #RealEstateLife #AIConsulting #ProductivityHacks #TechNews",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Google's rolling out Personal Intelligence across Search, Gemini app, and Chrome. Real talk \u2014 this is genuinely useful for small business owners who need quick insights without digging through ten tabs. Funny how the best AI tools are the ones that actually save you time running operations.\n\n#AI #SmallBusiness #GoogleGemini #RealEstateLife #AIConsulting #ProductivityHacks #TechNews",
+          "published_at": "2026-03-17T16:00:00+00:00",
+          "age_hours": 18.5,
+          "scraped_from": "Google AI Blog",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/Bard/comments/1rwb4ea/bringing_the_power_of_personal_intelligence_to/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Bringing%20the%20power%20of%20Personal&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "category": "AI",
+          "topic": "OpenAI expands government footprint with AWS deal, report says",
+          "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+          "source_url": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
+          "source_label": "TechCrunch AI",
+          "voice_score": 93,
+          "hashtags": "#AIBusiness #GovernmentTech #OpenAI #AWS #TechTrends #SmallBizAI #FutureOfWork",
+          "platforms": "Facebook + Instagram",
+          "post_text": "OpenAI + AWS + U.S. government contracts. Real talk, this is genuinely how AI infrastructure gets built at scale. Funny how the biggest plays happen quietly through partnerships nobody talks about at dinner. If you're running a business, watch where the government money flows \u2014 that's usually where the tech gets reliable first.\n\n#AIBusiness #GovernmentTech #OpenAI #AWS #TechTrends #SmallBizAI #FutureOfWork",
+          "published_at": "2026-03-17T15:37:03+00:00",
+          "age_hours": 18.9,
+          "scraped_from": "TechCrunch AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/smallstreetbets/comments/1rtycfd/planet_labs_dd_142m_bet/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=OpenAI%20expands%20government%20footprint%20with&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
+              "label": "News Article"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "category": "AI",
+          "topic": "Now everyone in the US is getting Google&#8217;s personalized Gemini AI",
+          "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence",
+          "source_label": "The Verge AI",
+          "voice_score": 94,
+          "hashtags": "#AI #SmallBusiness #Google #Gemini #RealEstate #Hospitality #TechNews",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Google just dropped Personal Intelligence for everyone in the US. Real talk \u2014 connecting your Gmail, Calendar, and docs to Gemini means AI that actually knows your business context. For property managers and hospitality ops, this is genuinely useful. No more feeding it info manually.\n\n#AI #SmallBusiness #Google #Gemini #RealEstate #Hospitality #TechNews",
+          "published_at": "2026-03-17T12:33:41-04:00",
+          "age_hours": 18.0,
+          "scraped_from": "The Verge AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/LeopardsAteMyFace/comments/1run6im/tucker_just_use_your_previous_legal_argument_to/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Now%20everyone%20in%20the%20US&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence",
+              "label": "News Article"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "category": "AI",
+          "topic": "The future of code is exciting and terrifying",
+          "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
+          "source_url": "https://www.theverge.com/podcast/895910/claude-code-future-developers-vergecast",
+          "source_label": "The Verge AI",
+          "voice_score": 88,
+          "hashtags": "#AIConsulting #FutureOfWork #SoftwareDevelopment #SmallBusiness #RealEstate #TechTrends #DaytonaBeach",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: developers aren't disappearing, they're just evolving. Instead of writing every line, you're now orchestrating AI agents and managing projects. Same shift happening in real estate ops and hospitality management. The future belongs to people who can think strategically about what needs building, not just who can code it fastest.\n\n#AIConsulting #FutureOfWork #SoftwareDevelopment #SmallBusiness #RealEstate #TechTrends #DaytonaBeach",
+          "published_at": "2026-03-17T11:16:47-04:00",
+          "age_hours": 19.3,
+          "scraped_from": "The Verge AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/NatureofPredators/comments/1rw5un6/the_finest_little_honky_tonk_on_skalga_16/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=The%20future%20of%20code%20is&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.theverge.com/podcast/895910/claude-code-future-developers-vergecast",
+              "label": "News Article"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "category": "WORLD",
+          "topic": "Canada could join EU, French foreign minister says",
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
+          "source_url": "https://reddit.com/r/worldnews/comments/1rwx2s2/canada_could_join_eu_french_foreign_minister_says/",
+          "source_label": "r/worldnews on Reddit",
+          "voice_score": 89,
+          "hashtags": "#SmallBusiness #TradePolicy #BusinessStrategy #Geopolitics #Entrepreneurship #RealEstate #HospitalityBusiness",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 France floating Canada joining the EU is wild geopolitically, but here's what matters for business owners: trade agreements and tariffs directly hit your margins. Whether it's tourism, hospitality, or imports, cross-border policy shifts genuinely affect your bottom line. Funny how these \"big picture\" moves filter down to small operations.\n\n#SmallBusiness #TradePolicy #BusinessStrategy #Geopolitics #Entrepreneurship #RealEstate #HospitalityBusiness",
+          "published_at": "2026-03-18T07:18:47+00:00",
+          "age_hours": 3.2,
+          "scraped_from": "r/worldnews",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/worldnews/comments/1rwx2s2/canada_could_join_eu_french_foreign_minister_says/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Canada%20could%20join%20EU%2C%20French&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Canada%20could%20join%20EU%2C%20French%20foreign%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "category": "WORLD",
+          "topic": "China ignores Trump\u2019s Hormuz request as the Iran war deepens and his Beijing trip slips",
+          "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
+          "source_url": "https://reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
+          "source_label": "r/worldnews on Reddit",
+          "voice_score": 90,
+          "hashtags": "#GlobalTrade #BusinessNews #SupplyChain #Geopolitics #SmallBusiness #RealEstate #Economics",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 when major powers start ignoring each other's requests, supply chains get weird fast. Anyone running a business dependent on global trade or shipping routes should genuinely be paying attention to what's happening in the Middle East right now. This stuff affects your bottom line.\n\n#GlobalTrade #BusinessNews #SupplyChain #Geopolitics #SmallBusiness #RealEstate #Economics",
+          "published_at": "2026-03-18T06:01:31+00:00",
+          "age_hours": 4.5,
+          "scraped_from": "r/worldnews",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/worldnews/comments/1rwvsft/china_ignores_trumps_hormuz_request_as_the_iran/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=China%20ignores%20Trump%E2%80%99s%20Hormuz%20request&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=China%20ignores%20Trump%E2%80%99s%20Hormuz%20request%20as%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "category": "WORLD",
+          "topic": "World Trade Without the US | As the US embraces tariffs, the rest of the world lowers trade barriers, signs new agreements, and reroutes around American protectionism.",
+          "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+          "source_url": "https://reddit.com/r/Economics/comments/1rwk18v/world_trade_without_the_us_as_the_us_embraces/",
+          "source_label": "r/economics on Reddit",
+          "voice_score": 91,
+          "hashtags": "#SmallBusiness #TradePolicy #ImportExport #Economics #BusinessStrategy #RealEstate #GlobalTrade",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: while the US doubles down on tariffs, the rest of the world is literally building trade routes around us. For small business owners importing or exporting, this matters big time. Supply chains are shifting faster than a defensive line adjustment. Genuinely worth watching where your products source from.\n\n#SmallBusiness #TradePolicy #ImportExport #Economics #BusinessStrategy #RealEstate #GlobalTrade",
+          "published_at": "2026-03-17T21:28:12+00:00",
+          "age_hours": 13.1,
+          "scraped_from": "r/economics",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/Economics/comments/1rwk18v/world_trade_without_the_us_as_the_us_embraces/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=World%20Trade%20Without%20the%20US&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=World%20Trade%20Without%20the%20US%20%7C%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        }
+      ],
+      "generated_at": "2026-03-18T10:32:23.188698+00:00",
+      "label": "Morning Brief (6:30 AM)",
+      "count": 10
+    },
+    "afternoon": {
+      "posts": [],
+      "generated_at": "",
+      "label": "Afternoon Update (1 PM)",
+      "count": 0
+    },
+    "scripts_thumbnails": []
   },
   "payroll": {
-    "period": "Mar 10 – Mar 24, 2026",
+    "period": "Mar 10 \u2013 Mar 24, 2026",
     "period_type": "B",
     "pay_date": "Mar 27, 2026",
     "total_payout": 5150.0,
@@ -208,7 +782,7 @@
       {
         "level": "red",
         "property": "10 S Halifax Ave",
-        "issue": "AC unit reported not cooling — HVAC scheduled"
+        "issue": "AC unit reported not cooling \u2014 HVAC scheduled"
       },
       {
         "level": "yellow",
@@ -218,7 +792,7 @@
       {
         "level": "green",
         "property": "117 N Hollywood Ave",
-        "issue": "WiFi complaint resolved — confirmed by guest"
+        "issue": "WiFi complaint resolved \u2014 confirmed by guest"
       }
     ],
     "top_performers": [
@@ -238,5 +812,19 @@
         "rating": 4.8
       }
     ]
+  },
+  "scraper_meta": {
+    "scraped_at": "2026-03-18T10:32:23.188698+00:00",
+    "sources_used": [
+      "Google AI Blog",
+      "r/economics",
+      "TechCrunch AI",
+      "r/worldnews",
+      "The Verge AI"
+    ],
+    "all_from_last_24h": true,
+    "post_count": 10,
+    "morning_count": 10,
+    "afternoon_count": 0
   }
 }
