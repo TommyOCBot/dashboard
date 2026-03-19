@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mission Control - Operations Dashboard</title>
+  <style>
+    :root {
+      --bg: #0f1117;
+      --card: #1a1d27;
+      --border: #2a2d3a;
+      --text: #e4e4e7;
+      --muted: #8b8d97;
+      --accent: #6366f1;
+      --green: #22c55e;
+      --yellow: #eab308;
+      --red: #ef4444;
+      --blue: #3b82f6;
+      --orange: #f97316;
+    }
+    
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      padding: 20px;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+    
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 24px;
+      padding-bottom: 16px;
+      border-bottom: 1px solid var(--border);
+    }
+    
+    header h1 {
+      font-size: 24px;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    
+    header h1 .icon {
+      font-size: 28px;
+    }
+    
+    .status-indicator {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 13px;
+      color: var(--muted);
+    }
+    
+    .status-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--green);
+      animation: pulse 2s infinite;
+    }
+    
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.5; }
+    }
+    
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+      gap: 16px;
+      margin-bottom: 20px;
+    }
+    
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px;
+    }
+    
+    .card h2 {
+      font-size: 15px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin-bottom: 16px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      color: var(--accent);
+    }
+    
+    .card h2 .icon {
+      font-size: 18px;
+    }
+    
+    .stat {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 12px 0;
+      border-bottom: 1px solid var(--border);
+    }
+    
+    .stat:last-child {
+      border-bottom: none;
+    }
+    
+    .stat-label {
+      font-size: 14px;
+      color: var(--muted);
+    }
+    
+    .stat-value {
+      font-size: 18px;
+      font-weight: 600;
+      color: var(--text);
+    }
+    
+    .stat-value.accent {
+      color: var(--accent);
+    }
+    
+    .stat-value.green {
+      color: var(--green);
+    }
+    
+    .stat-value.red {
+      color: var(--red);
+    }
+    
+    .badge {
+      display: inline-block;
+      font-size: 11px;
+      font-weight: 600;
+      padding: 4px 8px;
+      border-radius: 6px;
+      margin-top: 8px;
+    }
+    
+    .badge-active {
+      background: rgba(34, 197, 94, 0.15);
+      color: var(--green);
+    }
+    
+    .badge-pending {
+      background: rgba(234, 179, 8, 0.15);
+      color: var(--yellow);
+    }
+    
+    .badge-high {
+      background: rgba(239, 68, 68, 0.15);
+      color: var(--red);
+    }
+    
+    .property-item {
+      padding: 12px;
+      margin: 8px 0;
+      background: rgba(99, 102, 241, 0.05);
+      border-left: 3px solid var(--accent);
+      border-radius: 6px;
+    }
+    
+    .property-item h4 {
+      font-size: 13px;
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+    
+    .property-item p {
+      font-size: 12px;
+      color: var(--muted);
+    }
+    
+    .alert-item {
+      padding: 12px;
+      margin: 8px 0;
+      border-radius: 6px;
+      border-left: 4px solid;
+    }
+    
+    .alert-item.high {
+      background: rgba(239, 68, 68, 0.1);
+      border-left-color: var(--red);
+    }
+    
+    .alert-item.medium {
+      background: rgba(234, 179, 8, 0.1);
+      border-left-color: var(--yellow);
+    }
+    
+    .alert-item.low {
+      background: rgba(34, 197, 94, 0.1);
+      border-left-color: var(--green);
+    }
+    
+    .alert-item h4 {
+      font-size: 13px;
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+    
+    .alert-item p {
+      font-size: 12px;
+      color: var(--muted);
+    }
+    
+    .loading {
+      text-align: center;
+      padding: 40px;
+      color: var(--muted);
+    }
+    
+    .error {
+      background: rgba(239, 68, 68, 0.1);
+      border: 1px solid var(--red);
+      color: var(--red);
+      padding: 16px;
+      border-radius: 8px;
+      margin: 20px 0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>
+      <span class="icon">🎛️</span>
+      Mission Control
+    </h1>
+    <div class="status-indicator">
+      <span class="status-dot"></span>
+      <span id="status">Loading...</span>
+    </div>
+  </header>
+
+  <div id="error-container"></div>
+  <div id="dashboard-container">
+    <div class="loading">Loading dashboard...</div>
+  </div>
+
+  <script>
+    const API_URL = '/api/dashboard';
+    const REFRESH_INTERVAL = 5000; // 5 seconds
+    
+    async function fetchDashboard() {
+      try {
+        const response = await fetch(API_URL);
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        
+        const data = await response.json();
+        renderDashboard(data);
+        updateStatus('Live');
+      } catch (e) {
+        updateStatus('Error: ' + e.message);
+        showError('Failed to load dashboard: ' + e.message);
+      }
+    }
+    
+    function updateStatus(text) {
+      const el = document.getElementById('status');
+      if (el) el.textContent = text;
+    }
+    
+    function showError(message) {
+      const container = document.getElementById('error-container');
+      container.innerHTML = `<div class="error">${message}</div>`;
+    }
+    
+    function renderDashboard(data) {
+      const container = document.getElementById('dashboard-container');
+      const html = buildDashboardHTML(data);
+      container.innerHTML = html;
+    }
+    
+    function buildDashboardHTML(data) {
+      let html = '<div class="grid">';
+      
+      // Hostfully Section
+      if (data.hostfully) {
+        const h = data.hostfully;
+        html += `
+          <div class="card">
+            <h2><span class="icon">🏠</span> Hostfully Properties</h2>
+            <div class="stat">
+              <span class="stat-label">Total Properties</span>
+              <span class="stat-value">${h.properties?.total || 0}</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">Occupied (Next 30d)</span>
+              <span class="stat-value accent">${h.properties?.occupied_next_30_days || 0}</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">Pending Inquiries</span>
+              <span class="stat-value">${h.properties?.pending_inquiries || 0}</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">Conversion Rate</span>
+              <span class="stat-value green">${h.properties?.conversion_rate || 0}%</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">Channels</span>
+              <div style="font-size: 12px; color: var(--muted); margin-top: 4px;">
+                ${h.bookings?.by_channel ? Object.entries(h.bookings.by_channel)
+                  .map(([ch, cnt]) => `${ch}: ${cnt}`).join(' • ') : 'N/A'}
+              </div>
+            </div>
+          </div>
+        `;
+      }
+      
+      // Operations Section
+      if (data.operations) {
+        const ops = data.operations;
+        html += `
+          <div class="card">
+            <h2><span class="icon">📊</span> Operations</h2>
+            <div class="stat">
+              <span class="stat-label">Properties Occupied</span>
+              <span class="stat-value">${ops.properties?.occupied_today || 0} / ${ops.properties?.total || 0}</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">Occupancy Rate</span>
+              <span class="stat-value accent">${ops.properties?.occupancy_rate || 0}%</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">MTD Revenue</span>
+              <span class="stat-value green">$${ops.revenue?.mtd?.toLocaleString() || 0}</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">Target Progress</span>
+              <span class="stat-value">${ops.revenue?.mtd_pct || 0}%</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">Guest Messages</span>
+              <span class="stat-value">${ops.guest_comms?.open_messages || 0} open</span>
+            </div>
+          </div>
+        `;
+      }
+      
+      // Payroll Section
+      if (data.payroll) {
+        const pay = data.payroll;
+        html += `
+          <div class="card">
+            <h2><span class="icon">💰</span> Payroll</h2>
+            <div class="stat">
+              <span class="stat-label">Period</span>
+              <span class="stat-value" style="font-size: 13px;">${pay.period}</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">Total Payout</span>
+              <span class="stat-value green">$${pay.total_payout?.toLocaleString() || 0}</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">Team Members</span>
+              <span class="stat-value">${pay.team_summary?.total_members || 0}</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">Pay Date</span>
+              <span class="stat-value" style="font-size: 13px;">${pay.pay_date}</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">Status</span>
+              <span class="stat-value"><span class="badge badge-active">Ready</span></span>
+            </div>
+          </div>
+        `;
+      }
+      
+      html += '</div>';
+      
+      // Alerts Section
+      if (data.operations?.alerts && data.operations.alerts.length > 0) {
+        html += '<div class="card"><h2><span class="icon">🚨</span> Active Alerts</h2>';
+        data.operations.alerts.forEach(alert => {
+          html += `
+            <div class="alert-item ${alert.level}">
+              <h4>${alert.property}</h4>
+              <p>${alert.issue}</p>
+            </div>
+          `;
+        });
+        html += '</div>';
+      }
+      
+      // Top Performers
+      if (data.operations?.top_performers && data.operations.top_performers.length > 0) {
+        html += '<div class="card"><h2><span class="icon">⭐</span> Top Performers</h2>';
+        data.operations.top_performers.forEach(prop => {
+          html += `
+            <div class="property-item">
+              <h4>${prop.property}</h4>
+              <p>Occupancy: ${prop.occupancy}% • Rating: ${prop.rating}/5</p>
+            </div>
+          `;
+        });
+        html += '</div>';
+      }
+      
+      // Hostfully Property Breakdown
+      if (data.hostfully?.property_breakdown && data.hostfully.property_breakdown.length > 0) {
+        html += '<div class="card"><h2><span class="icon">📍</span> Top Hostfully Properties</h2>';
+        data.hostfully.property_breakdown.forEach(prop => {
+          const status = prop.upcoming_bookings > 0 ? 'Booked' : 'Inquiry';
+          html += `
+            <div class="property-item">
+              <h4>${prop.name}</h4>
+              <p>${prop.bedrooms}br • ${prop.bathrooms}ba • ${prop.type}</p>
+              <p>Upcoming: ${prop.upcoming_bookings} | Inquiries: ${prop.pending_inquiries}</p>
+            </div>
+          `;
+        });
+        html += '</div>';
+      }
+      
+      return html;
+    }
+    
+    // Initial load
+    fetchDashboard();
+    
+    // Auto-refresh
+    setInterval(fetchDashboard, REFRESH_INTERVAL);
+  </script>
+</body>
+</html>
