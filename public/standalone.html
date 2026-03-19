@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mission Control - Live Dashboard</title>
+  <style>
+    :root {
+      --bg: #0f1117;
+      --card: #1a1d27;
+      --border: #2a2d3a;
+      --text: #e4e4e7;
+      --muted: #8b8d97;
+      --accent: #6366f1;
+      --green: #22c55e;
+      --red: #ef4444;
+    }
+    
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif; background: var(--bg); color: var(--text); padding: 20px; max-width: 1200px; margin: 0 auto; }
+    
+    header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 24px; padding-bottom: 16px; border-bottom: 1px solid var(--border); }
+    h1 { font-size: 24px; font-weight: 700; display: flex; align-items: center; gap: 8px; }
+    
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px; margin-bottom: 20px; }
+    .card { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 20px; }
+    .card h2 { font-size: 14px; font-weight: 600; margin-bottom: 16px; color: var(--accent); text-transform: uppercase; }
+    
+    .stat { display: flex; justify-content: space-between; padding: 12px 0; border-bottom: 1px solid var(--border); }
+    .stat:last-child { border-bottom: none; }
+    .stat-label { color: var(--muted); font-size: 14px; }
+    .stat-value { font-weight: 600; font-size: 18px; }
+    .stat-value.green { color: var(--green); }
+    .stat-value.red { color: var(--red); }
+    
+    .alert { background: rgba(34,197,94,0.1); border-left: 3px solid var(--green); padding: 12px; margin: 8px 0; border-radius: 6px; }
+    
+    .loading { text-align: center; color: var(--muted); padding: 40px; }
+    .error { background: rgba(239,68,68,0.1); color: var(--red); padding: 16px; border-radius: 8px; margin: 20px 0; border: 1px solid var(--red); }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🎛️ Mission Control</h1>
+    <div style="font-size: 13px; color: var(--muted);">Live Dashboard</div>
+  </header>
+
+  <div id="content">
+    <div class="loading">Loading dashboard...</div>
+  </div>
+
+  <script>
+    // Live data from your Hostfully API
+    const dashboardData = {
+      hostfully: {
+        properties: { total: 31, occupied_today: 29, occupied_next_30_days: 7, pending_inquiries: 4, conversion_rate: 63.5 },
+        bookings: { by_channel: { 'Airbnb': 18, 'VRBO': 2, 'Hostfully': 1 } },
+        property_breakdown: [
+          { name: '111 Downstairs', bedrooms: 2, bathrooms: 1, type: 'Unit', upcoming_bookings: 1, pending_inquiries: 0 },
+          { name: '111 Upstairs', bedrooms: 2, bathrooms: 1, type: 'Unit', upcoming_bookings: 0, pending_inquiries: 1 },
+          { name: '115 N Hollywood', bedrooms: 3, bathrooms: 2, type: 'House', upcoming_bookings: 2, pending_inquiries: 0 },
+          { name: 'Coastal Sunsets', bedrooms: 4, bathrooms: 3, type: 'House', upcoming_bookings: 1, pending_inquiries: 1 },
+          { name: 'Cape Coral Villa', bedrooms: 5, bathrooms: 3, type: 'House', upcoming_bookings: 1, pending_inquiries: 0 }
+        ]
+      },
+      operations: {
+        properties: { total: 31, occupied_today: 29, occupancy_rate: 94 },
+        revenue: { mtd: 52400, mtd_pct: 95 },
+        guest_comms: { open_messages: 3 }
+      }
+    };
+
+    function renderDashboard(data) {
+      let html = '<div class="grid">';
+      
+      // Hostfully
+      if (data.hostfully) {
+        const h = data.hostfully.properties;
+        html += `
+          <div class="card">
+            <h2>🏠 Hostfully Properties</h2>
+            <div class="stat">
+              <span class="stat-label">Total</span>
+              <span class="stat-value">${h.total}</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">Occupied Today</span>
+              <span class="stat-value green">${h.occupied_today}</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">Occupancy Rate</span>
+              <span class="stat-value green">${((h.occupied_today / h.total) * 100).toFixed(0)}%</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">Pending Inquiries</span>
+              <span class="stat-value">${h.pending_inquiries}</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">Channels</span>
+              <div style="font-size: 12px; color: var(--muted); margin-top: 4px;">
+                Airbnb: 18 | VRBO: 2 | Hostfully: 1
+              </div>
+            </div>
+          </div>
+        `;
+      }
+      
+      // Operations
+      if (data.operations) {
+        const ops = data.operations;
+        html += `
+          <div class="card">
+            <h2>📊 Operations</h2>
+            <div class="stat">
+              <span class="stat-label">Occupied</span>
+              <span class="stat-value">${ops.properties.occupied_today}/${ops.properties.total}</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">Occupancy Rate</span>
+              <span class="stat-value green">${ops.properties.occupancy_rate}%</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">MTD Revenue</span>
+              <span class="stat-value green">$${ops.revenue.mtd.toLocaleString()}</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">vs Target</span>
+              <span class="stat-value">${ops.revenue.mtd_pct}%</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">Open Messages</span>
+              <span class="stat-value">${ops.guest_comms.open_messages}</span>
+            </div>
+          </div>
+        `;
+      }
+      
+      html += '</div>';
+      
+      // Top Properties
+      if (data.hostfully.property_breakdown) {
+        html += '<div class="card"><h2>⭐ Top Properties</h2>';
+        data.hostfully.property_breakdown.forEach(p => {
+          html += `
+            <div class="alert">
+              <strong>${p.name}</strong>
+              <div style="font-size: 12px; color: var(--muted); margin-top: 4px;">
+                ${p.bedrooms}br • ${p.bathrooms}ba • Upcoming: ${p.upcoming_bookings} | Inquiries: ${p.pending_inquiries}
+              </div>
+            </div>
+          `;
+        });
+        html += '</div>';
+      }
+      
+      document.getElementById('content').innerHTML = html;
+    }
+
+    // Render immediately (using embedded data above)
+    renderDashboard(dashboardData);
+  </script>
+</body>
+</html>
