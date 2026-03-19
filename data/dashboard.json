@@ -1,132 +1,706 @@
 {
-  "generated_at": "2026-03-11T08:46:09.549424-04:00",
-  "date": "2026-03-11",
+  "generated_at": "2026-03-19T06:32:31.695883-04:00",
+  "date": "2026-03-19",
   "content": {
     "posts": [
       {
         "id": 1,
         "category": "AI",
-        "topic": "OpenAI Drops GPT-5 — Real-Time Reasoning Benchmark Shattered",
+        "topic": "Multiverse Computing pushes its compressed AI models into the mainstream",
         "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
-        "source_url": "https://openai.com/blog",
-        "source_label": "OpenAI Blog",
-        "voice_score": 94,
-        "hashtags": "#AI #GPT5 #Automation #AIThatScales",
+        "source_url": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
+        "source_label": "TechCrunch AI",
+        "voice_score": 89,
+        "hashtags": "#AIForSmallBusiness #TechNews #RealEstateAI #HospitalityTech #CompressedAI #DaytonaBeach #AIConsulting",
         "platforms": "Facebook + Instagram",
-        "post_text": "The game just changed — again.\n\nOpenAI dropped GPT-5 this morning and the reasoning capability leap is real. I've been testing it since 6 AM and the difference isn't subtle.\n\nFor business owners: this isn't theoretical anymore. The automation workflows that felt \"almost there\" last year? They're \"fully there\" now.\n\nWe're already updating 3 client systems this week. If you haven't started automating your operations, you're now 2 generations behind.\n\nDM me if you want to talk about what this means for your business.\n\n#AI #GPT5 #Automation #AIThatScales #BusinessAutomation #FutureOfWork"
+        "post_text": "Real talk \u2014 Multiverse Computing just made compressed AI models actually accessible. They've squeezed down models from OpenAI, Meta, DeepLeek and others into something small business owners can genuinely afford to run. That's legitimately the move. Cheaper AI that actually works changes the game for hospitality ops and real estate teams.\n\n#AIForSmallBusiness #TechNews #RealEstateAI #HospitalityTech #CompressedAI #DaytonaBeach #AIConsulting",
+        "published_at": "2026-03-19T08:00:00+00:00",
+        "age_hours": 2.5,
+        "scraped_from": "TechCrunch AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Multiverse%20Computing%20pushes%20its%20compressed&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://multiversecomputing.com/resources/multiverse-computing-compresses-llama-3-1-8b-and-llama-3-3-70b-by-80-with-almost-no-precision",
+            "label": "Press Release"
+          }
+        ]
       },
       {
         "id": 2,
         "category": "AI",
-        "topic": "AI Agents Now Handle 40% of Fortune 500 Customer Service",
-        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/artificial",
-        "source_label": "r/artificial",
-        "voice_score": 87,
-        "hashtags": "#CustomerService #AIAgents #Automation",
+        "topic": "The leaderboard \u201cyou can\u2019t game,\u201d funded by the companies it ranks",
+        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+        "source_url": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/",
+        "source_label": "TechCrunch AI",
+        "voice_score": 90,
+        "hashtags": "#AI #ArtificialIntelligence #LLM #TechNews #SmallBusiness #AItools #Transparency",
         "platforms": "Facebook + Instagram",
-        "post_text": "New data out: AI agents handle 40% of customer service interactions at Fortune 500 companies.\n\nThat's not a pilot program. That's operational reality.\n\nThe companies winning aren't waiting for \"perfect\" AI — they're deploying 80% solutions and improving in real-time.\n\nYour competitors are already doing this. The question is whether you're building the system or getting left behind.\n\nWhat's your biggest customer service bottleneck right now?\n\n#CustomerService #AIAgents #Automation #SmallBusiness #AIThatScales"
+        "post_text": "Real talk: Arena's become the de facto AI leaderboard, and it's literally funded by the companies trying to rank highest on it. Funny how that works. Same energy as being the referee AND playing in the game. Small business owners should genuinely care who's deciding which AI tools are actually best.\n\n#AI #ArtificialIntelligence #LLM #TechNews #SmallBusiness #AItools #Transparency",
+        "published_at": "2026-03-18T16:30:00+00:00",
+        "age_hours": 18.0,
+        "scraped_from": "TechCrunch AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/nba/comments/1rs6qv1/erik_spoelstra_theres_nothing_wrong_with_what_the/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=The%20leaderboard%20%E2%80%9Cyou%20can%E2%80%99t%20game%2C%E2%80%9D&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/",
+            "label": "News Article"
+          }
+        ]
       },
       {
         "id": 3,
         "category": "AI",
-        "topic": "Claude 4 Sonnet Tops Every Major Coding Benchmark",
-        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
-        "source_url": "https://www.anthropic.com",
-        "source_label": "Anthropic",
+        "topic": "The PhD students who became the judges of the AI industry",
+        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+        "source_url": "https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/",
+        "source_label": "TechCrunch AI",
         "voice_score": 91,
-        "hashtags": "#Claude #Anthropic #AITools",
+        "hashtags": "#AI #LLMs #Startups #TechInnovation #ArtificialIntelligence #Entrepreneurship #AIConsulting",
         "platforms": "Facebook + Instagram",
-        "post_text": "Anthropic published Claude 4 Sonnet benchmark results and the coding performance is legitimately impressive.\n\nWe use Claude for 80% of our automation builds at AI That Scales. The jump from 3.5 → 4 is the biggest single-version improvement I've seen.\n\nA workflow that used to take 3 iterations now lands first pass 70% of the time. That's not small.\n\nIf you're building automations and not using Claude, you're working harder than you need to.\n\n#Claude #Anthropic #AITools #Automation #AIThatScales #BuildSmarter"
+        "post_text": "Real talk: a couple PhD students basically became the referees of the entire LLM space with their leaderboard. Funny how the best ideas don't need a massive team or funding. This is genuinely how small players can punch way above their weight in AI.\n\n#AI #LLMs #Startups #TechInnovation #ArtificialIntelligence #Entrepreneurship #AIConsulting",
+        "published_at": "2026-03-18T15:00:00+00:00",
+        "age_hours": 19.5,
+        "scraped_from": "TechCrunch AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/tornado/comments/1rx2xhc/101_years_ago_today/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=The%20PhD%20students%20who%20became&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.uscourts.gov/data-news/judiciary-news/2025/04/10/students-get-firsthand-look-court-careers",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 4,
         "category": "AI",
-        "topic": "Gemini 2.0 Just Shipped Inside Every Google Workspace App",
+        "topic": "ChatGPT did not cure a dog\u2019s cancer",
         "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
-        "source_url": "https://workspace.google.com",
-        "source_label": "Google Workspace",
-        "voice_score": 82,
-        "hashtags": "#Google #Gemini #Productivity",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
+        "source_label": "The Verge AI",
+        "voice_score": 92,
+        "hashtags": "#AIReality #TechHype #SmallBusiness #ArtificialIntelligence #BusinessTruth #CriticalThinking #AIConsulting",
         "platforms": "Facebook + Instagram",
-        "post_text": "Google pushed Gemini 2.0 into Workspace — Docs, Sheets, Gmail, Meet.\n\nThe practical impact for small business teams: your VA now has a co-pilot baked into every tool they already use.\n\nBeen playing with the Sheets integration this week. The ability to describe what you want and have it build formulas + summarize data is genuinely useful — not demo-ware.\n\nIf your team runs on Google, this upgrade happened automatically. Make sure you're actually using it.\n\n#Google #Gemini #Productivity #SmallBusiness #WorkSmarter #AIThatScales"
+        "post_text": "Real talk: ChatGPT didn't cure that Australian dog's cancer. A tech guy with zero medical background got viral credit for something AI legitimately can't do. Funny how the hype machine works. This matters for your business too \u2014 don't let AI promises outrun reality.\n\n#AIReality #TechHype #SmallBusiness #ArtificialIntelligence #BusinessTruth #CriticalThinking #AIConsulting",
+        "published_at": "2026-03-18T14:14:39-04:00",
+        "age_hours": 16.3,
+        "scraped_from": "The Verge AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/BetterOffline/comments/1rv00it/regarding_that_bs_story_about_the_australian_tech/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=ChatGPT%20did%20not%20cure%20a&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://academy.openai.com/public/blogs/when-answers-ran-out-she-asked-chatgpt-cancer-thyroid-2026-02-26",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 5,
         "category": "AI",
-        "topic": "Make.com, Zapier, n8n — No-Code Platforms Hit 300% Growth",
+        "topic": "The Gemini-powered features in Google Workspace that are worth using",
         "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/ChatGPT",
-        "source_label": "r/ChatGPT",
-        "voice_score": 89,
-        "hashtags": "#NoCode #Workflow #Automation",
+        "source_url": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/",
+        "source_label": "TechCrunch AI",
+        "voice_score": 93,
+        "hashtags": "#AITools #GoogleWorkspace #SmallBusiness #RealEstate #ProductivityHacks #AIConsulting #DaytonaBeach",
         "platforms": "Facebook + Instagram",
-        "post_text": "No-code automation platforms hit 300% user growth last quarter.\n\nTranslation: the barrier to automation is officially gone. You don't need a developer. You need someone who understands your process and 2-4 hours.\n\nI've been building no-code automations for clients for 18 months. The tools keep getting better. The window to get ahead of competitors is still open — but it's closing.\n\nStill doing manually what a bot could do? That's a choice. Make sure it's intentional.\n\n#NoCode #Workflow #Automation #Productivity #AIThatScales #BusinessGrowth"
+        "post_text": "Real talk: Gemini in Google Workspace is genuinely saving us hours on email summaries and meeting notes across our rental properties. Not subtle how much faster your team moves when AI handles the organizing. Worth testing if you're still doing this manually.\n\n#AITools #GoogleWorkspace #SmallBusiness #RealEstate #ProductivityHacks #AIConsulting #DaytonaBeach",
+        "published_at": "2026-03-18T16:43:18+00:00",
+        "age_hours": 17.8,
+        "scraped_from": "TechCrunch AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/Warframe/comments/1rx84ko/i_spent_3_years_building_an_app_that_sends_you/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=The%20Gemini-powered%20features%20in%20Google&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/",
+            "label": "News Article"
+          }
+        ]
       },
       {
         "id": 6,
         "category": "AI",
-        "topic": "AI Guest Comms Cut STR Response Time from 4 Hours to 8 Minutes",
-        "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/airbnb",
-        "source_label": "r/airbnb",
-        "voice_score": 96,
-        "hashtags": "#VacationRental #PropertyManagement #AI",
+        "topic": "DOD says Anthropic\u2019s \u2018red lines\u2019 make it an \u2018unacceptable risk to national security\u2019",
+        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+        "source_url": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/",
+        "source_label": "TechCrunch AI",
+        "voice_score": 94,
+        "hashtags": "#AI #NationalSecurity #TechPolicy #ArtificialIntelligence #DefenseTech #BusinessEthics #Innovation",
         "platforms": "Facebook + Instagram",
-        "post_text": "Case study: AI-powered guest comms cut response time from 4 hours to 8 minutes across a 40-property portfolio.\n\nNot theoretical — I've seen it firsthand with Stay Coastal's 30+ properties.\n\nGuests don't care if a bot answered. They care that someone answered. Fast responses = better reviews = more bookings.\n\nMath is simple. Setup takes a weekend. ROI is permanent.\n\nRunning STRs and still answering every message manually? Let's talk.\n\n#VacationRental #PropertyManagement #AI #Airbnb #ShortTermRental #AIThatScales"
+        "post_text": "Real talk \u2014 watching the DOD flag Anthropic over \"safety guardrails\" is genuinely wild. An AI company built ethical boundaries and got labeled a national security risk for it. Funny how the same caution we want in business gets weaponized in government. What does responsible AI even look like anymore?\n\n#AI #NationalSecurity #TechPolicy #ArtificialIntelligence #DefenseTech #BusinessEthics #Innovation",
+        "published_at": "2026-03-18T13:40:43+00:00",
+        "age_hours": 20.8,
+        "scraped_from": "TechCrunch AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/Defeat_Project_2025/comments/1rruibr/microsoft_and_retired_military_chiefs_back_ai/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=DOD%20says%20Anthropic%E2%80%99s%20%E2%80%98red%20lines%E2%80%99&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/",
+            "label": "News Article"
+          }
+        ]
       },
       {
         "id": 7,
         "category": "AI",
-        "topic": "2026 AI Adoption Report: SMBs Close the Gap on Enterprise",
-        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 85,
-        "hashtags": "#SMB #AIAdoption #Business2026",
+        "topic": "After $80B, the Metaverse is dead. Horizon World is shutting down",
+        "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
+        "source_url": "https://reddit.com/r/singularity/comments/1rx6lhj/after_80b_the_metaverse_is_dead_horizon_world_is/",
+        "source_label": "r/singularity on Reddit",
+        "voice_score": 88,
+        "hashtags": "#MetaverseFail #TechReality #AIConsulting #SmallBusiness #RealEstateLife #BusinessLessons #Innovation",
         "platforms": "Facebook + Instagram",
-        "post_text": "2026 AI Adoption Report: the gap between enterprise and SMB AI usage closed by 40% last year.\n\nThe tools got cheaper. The interfaces got simpler. The use cases got clearer.\n\nBusinesses that adopted early are seeing it in their margins. The ones who waited are scrambling.\n\nWhere are you in this curve? Reply with where you are and where you want to be.\n\n#SMB #AIAdoption #Business2026 #Productivity #AIThatScales #Entrepreneur"
+        "post_text": "Real talk: $80B on Horizon World and Meta's shutting it down. Funny how the metaverse was supposed to replace reality, but businesses still need actual ROI. This is genuinely a masterclass in what happens when you chase hype instead of solving real problems. What did your customers actually want?\n\n#MetaverseFail #TechReality #AIConsulting #SmallBusiness #RealEstateLife #BusinessLessons #Innovation",
+        "published_at": "2026-03-18T15:13:23+00:00",
+        "age_hours": 19.3,
+        "scraped_from": "r/singularity",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/singularity/comments/1rx6lhj/after_80b_the_metaverse_is_dead_horizon_world_is/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=After%20%2480B%2C%20the%20Metaverse%20is&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=After%20%2480B%2C%20the%20Metaverse%20is%20dead.%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 8,
         "category": "WORLD",
-        "topic": "Fed Holds Rates — Here's What That Actually Means for Your Business",
+        "topic": "Russian tip-off led to arrest of alleged CIA asset Vandyke and six Ukrainians by India.",
         "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/worldnews",
-        "source_label": "r/worldnews",
-        "voice_score": 78,
-        "hashtags": "#Economy #FederalReserve #SmallBusiness",
+        "source_url": "https://reddit.com/r/worldnews/comments/1rxr0vp/russian_tipoff_led_to_arrest_of_alleged_cia_asset/",
+        "source_label": "r/worldnews on Reddit",
+        "voice_score": 89,
+        "hashtags": "#Geopolitics #InternationalBusiness #RiskManagement #GlobalEconomy #BusinessStrategy #SmallBusiness #TradePolicy",
         "platforms": "Facebook + Instagram",
-        "post_text": "The Fed held rates again. Inflation still uncertain. Lending still tight.\n\nStraight talk: if you're waiting for rates to drop before making moves, you're tying your growth strategy to a variable you can't control.\n\nOperators winning right now are cutting costs through efficiency (automation), not waiting for cheap capital.\n\nFocus on what you can control: margins, team productivity, systems. The macro clears when it clears.\n\n#Economy #FederalReserve #SmallBusiness #Entrepreneur #BusinessStrategy #AIThatScales"
+        "post_text": "Genuinely wild how geopolitics keeps shifting the ground under international business. When governments start playing intelligence chess, it affects trade, investment flows, everything down to smaller operators trying to scale globally. Real talk\u2014this is why diversification matters more than ever.\n\n#Geopolitics #InternationalBusiness #RiskManagement #GlobalEconomy #BusinessStrategy #SmallBusiness #TradePolicy",
+        "published_at": "2026-03-19T04:41:20+00:00",
+        "age_hours": 5.8,
+        "scraped_from": "r/worldnews",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/worldnews/comments/1rxr0vp/russian_tipoff_led_to_arrest_of_alleged_cia_asset/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Russian%20tip-off%20led%20to%20arrest&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=Russian%20tip-off%20led%20to%20arrest%20of%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 9,
         "category": "WORLD",
-        "topic": "Daytona Beach Q1 2026: Occupancy Strong, ADR Up 8% YoY",
-        "image_url": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/realestate",
-        "source_label": "r/realestate",
-        "voice_score": 92,
-        "hashtags": "#FloridaRealEstate #DaytonaBeach #ShortTermRental",
+        "topic": "Dow falls 700 points to new 2026 low as inflation fears rise, Fed keeps rates steady",
+        "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
+        "source_url": "https://reddit.com/r/Economics/comments/1rxe1k4/dow_falls_700_points_to_new_2026_low_as_inflation/",
+        "source_label": "r/economics on Reddit",
+        "voice_score": 90,
+        "hashtags": "#SmallBusiness #RealEstate #Economy #Inflation #FloridaBusiness #Entrepreneurship #MarketUpdate",
         "platforms": "Facebook + Instagram",
-        "post_text": "Daytona Beach Q1 data is in: occupancy holding strong, ADRs up 8% YoY, inventory tight on the quality end.\n\nFor property owners: if your property isn't performing at market, the issue isn't the market.\n\nFor investors watching: the STR opportunity here is real. \"Set it and forget it\" is dead, but returns for well-managed properties are there.\n\nWant to see actual comps or talk through an acquisition? DM me.\n\n#FloridaRealEstate #DaytonaBeach #ShortTermRental #VacationRental #RealEstateInvesting #StayCoastal"
+        "post_text": "Real talk \u2014 when the Fed holds rates steady but inflation fears spike, it's genuinely the worst of both worlds for small business owners. Your costs stay high, borrowing doesn't get cheaper, and consumer spending gets nervous. Funny how this hits harder than the headlines suggest. What's your move right now?\n\n#SmallBusiness #RealEstate #Economy #Inflation #FloridaBusiness #Entrepreneurship #MarketUpdate",
+        "published_at": "2026-03-18T19:43:12+00:00",
+        "age_hours": 14.8,
+        "scraped_from": "r/economics",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/Economics/comments/1rxe1k4/dow_falls_700_points_to_new_2026_low_as_inflation/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Dow%20falls%20700%20points%20to&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=Dow%20falls%20700%20points%20to%20new%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 10,
         "category": "WORLD",
-        "topic": "35% of US Workforce Permanently Remote — What That Means for STR Operators",
-        "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 83,
-        "hashtags": "#RemoteWork #VacationRental #WorkFromAnywhere",
+        "topic": "World\u2019s Largest LNG Plant Suffers Extensive Damage, Qatar Says",
+        "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+        "source_url": "https://reddit.com/r/worldnews/comments/1rxsbxf/worlds_largest_lng_plant_suffers_extensive_damage/",
+        "source_label": "r/worldnews on Reddit",
+        "voice_score": 91,
+        "hashtags": "#EnergyMarkets #SupplyChain #SmallBusiness #GlobalEconomy #RealEstate #BusinessImpact #EconomicNews",
         "platforms": "Facebook + Instagram",
-        "post_text": "New Gallup data: 35% of the US workforce is now permanently remote. That's not going back.\n\nFor vacation rental operators, this drives mid-week and extended-stay demand. Guests aren't just coming for the weekend — they're coming for 2-4 weeks.\n\nSeen it in our own portfolio. Longer stays, better reviews, less turnover.\n\nSTR not set up for extended stays? (workspace, faster WiFi, monthly discounts) You're leaving money on the table.\n\n#RemoteWork #VacationRental #WorkFromAnywhere #ShortTermRental #StayCoastal #AIThatScales"
+        "post_text": "Qatar's LNG plant getting hit hard is genuinely a big deal for global energy markets. Real talk \u2014 when supply chain disruptions happen at scale, it ripples down to everything from shipping costs to hospitality operations. Funny how energy volatility affects small business bottom lines more than people realize.\n\n#EnergyMarkets #SupplyChain #SmallBusiness #GlobalEconomy #RealEstate #BusinessImpact #EconomicNews",
+        "published_at": "2026-03-19T05:53:42+00:00",
+        "age_hours": 4.6,
+        "scraped_from": "r/worldnews",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/worldnews/comments/1rxsbxf/worlds_largest_lng_plant_suffers_extensive_damage/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=World%E2%80%99s%20Largest%20LNG%20Plant%20Suffers&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=World%E2%80%99s%20Largest%20LNG%20Plant%20Suffers%20Extensive%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       }
-    ]
+    ],
+    "morning": {
+      "posts": [
+        {
+          "id": 1,
+          "category": "AI",
+          "topic": "Multiverse Computing pushes its compressed AI models into the mainstream",
+          "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
+          "source_url": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
+          "source_label": "TechCrunch AI",
+          "voice_score": 89,
+          "hashtags": "#AIForSmallBusiness #TechNews #RealEstateAI #HospitalityTech #CompressedAI #DaytonaBeach #AIConsulting",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 Multiverse Computing just made compressed AI models actually accessible. They've squeezed down models from OpenAI, Meta, DeepLeek and others into something small business owners can genuinely afford to run. That's legitimately the move. Cheaper AI that actually works changes the game for hospitality ops and real estate teams.\n\n#AIForSmallBusiness #TechNews #RealEstateAI #HospitalityTech #CompressedAI #DaytonaBeach #AIConsulting",
+          "published_at": "2026-03-19T08:00:00+00:00",
+          "age_hours": 2.5,
+          "scraped_from": "TechCrunch AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Multiverse%20Computing%20pushes%20its%20compressed&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://multiversecomputing.com/resources/multiverse-computing-compresses-llama-3-1-8b-and-llama-3-3-70b-by-80-with-almost-no-precision",
+              "label": "Press Release"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "category": "AI",
+          "topic": "The leaderboard \u201cyou can\u2019t game,\u201d funded by the companies it ranks",
+          "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+          "source_url": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/",
+          "source_label": "TechCrunch AI",
+          "voice_score": 90,
+          "hashtags": "#AI #ArtificialIntelligence #LLM #TechNews #SmallBusiness #AItools #Transparency",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: Arena's become the de facto AI leaderboard, and it's literally funded by the companies trying to rank highest on it. Funny how that works. Same energy as being the referee AND playing in the game. Small business owners should genuinely care who's deciding which AI tools are actually best.\n\n#AI #ArtificialIntelligence #LLM #TechNews #SmallBusiness #AItools #Transparency",
+          "published_at": "2026-03-18T16:30:00+00:00",
+          "age_hours": 18.0,
+          "scraped_from": "TechCrunch AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/nba/comments/1rs6qv1/erik_spoelstra_theres_nothing_wrong_with_what_the/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=The%20leaderboard%20%E2%80%9Cyou%20can%E2%80%99t%20game%2C%E2%80%9D&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/",
+              "label": "News Article"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "category": "AI",
+          "topic": "The PhD students who became the judges of the AI industry",
+          "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+          "source_url": "https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/",
+          "source_label": "TechCrunch AI",
+          "voice_score": 91,
+          "hashtags": "#AI #LLMs #Startups #TechInnovation #ArtificialIntelligence #Entrepreneurship #AIConsulting",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: a couple PhD students basically became the referees of the entire LLM space with their leaderboard. Funny how the best ideas don't need a massive team or funding. This is genuinely how small players can punch way above their weight in AI.\n\n#AI #LLMs #Startups #TechInnovation #ArtificialIntelligence #Entrepreneurship #AIConsulting",
+          "published_at": "2026-03-18T15:00:00+00:00",
+          "age_hours": 19.5,
+          "scraped_from": "TechCrunch AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/tornado/comments/1rx2xhc/101_years_ago_today/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=The%20PhD%20students%20who%20became&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.uscourts.gov/data-news/judiciary-news/2025/04/10/students-get-firsthand-look-court-careers",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "category": "AI",
+          "topic": "ChatGPT did not cure a dog\u2019s cancer",
+          "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
+          "source_label": "The Verge AI",
+          "voice_score": 92,
+          "hashtags": "#AIReality #TechHype #SmallBusiness #ArtificialIntelligence #BusinessTruth #CriticalThinking #AIConsulting",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: ChatGPT didn't cure that Australian dog's cancer. A tech guy with zero medical background got viral credit for something AI legitimately can't do. Funny how the hype machine works. This matters for your business too \u2014 don't let AI promises outrun reality.\n\n#AIReality #TechHype #SmallBusiness #ArtificialIntelligence #BusinessTruth #CriticalThinking #AIConsulting",
+          "published_at": "2026-03-18T14:14:39-04:00",
+          "age_hours": 16.3,
+          "scraped_from": "The Verge AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/BetterOffline/comments/1rv00it/regarding_that_bs_story_about_the_australian_tech/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=ChatGPT%20did%20not%20cure%20a&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://academy.openai.com/public/blogs/when-answers-ran-out-she-asked-chatgpt-cancer-thyroid-2026-02-26",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "category": "AI",
+          "topic": "The Gemini-powered features in Google Workspace that are worth using",
+          "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+          "source_url": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/",
+          "source_label": "TechCrunch AI",
+          "voice_score": 93,
+          "hashtags": "#AITools #GoogleWorkspace #SmallBusiness #RealEstate #ProductivityHacks #AIConsulting #DaytonaBeach",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: Gemini in Google Workspace is genuinely saving us hours on email summaries and meeting notes across our rental properties. Not subtle how much faster your team moves when AI handles the organizing. Worth testing if you're still doing this manually.\n\n#AITools #GoogleWorkspace #SmallBusiness #RealEstate #ProductivityHacks #AIConsulting #DaytonaBeach",
+          "published_at": "2026-03-18T16:43:18+00:00",
+          "age_hours": 17.8,
+          "scraped_from": "TechCrunch AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/Warframe/comments/1rx84ko/i_spent_3_years_building_an_app_that_sends_you/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=The%20Gemini-powered%20features%20in%20Google&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/",
+              "label": "News Article"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "category": "AI",
+          "topic": "DOD says Anthropic\u2019s \u2018red lines\u2019 make it an \u2018unacceptable risk to national security\u2019",
+          "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+          "source_url": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/",
+          "source_label": "TechCrunch AI",
+          "voice_score": 94,
+          "hashtags": "#AI #NationalSecurity #TechPolicy #ArtificialIntelligence #DefenseTech #BusinessEthics #Innovation",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 watching the DOD flag Anthropic over \"safety guardrails\" is genuinely wild. An AI company built ethical boundaries and got labeled a national security risk for it. Funny how the same caution we want in business gets weaponized in government. What does responsible AI even look like anymore?\n\n#AI #NationalSecurity #TechPolicy #ArtificialIntelligence #DefenseTech #BusinessEthics #Innovation",
+          "published_at": "2026-03-18T13:40:43+00:00",
+          "age_hours": 20.8,
+          "scraped_from": "TechCrunch AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/Defeat_Project_2025/comments/1rruibr/microsoft_and_retired_military_chiefs_back_ai/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=DOD%20says%20Anthropic%E2%80%99s%20%E2%80%98red%20lines%E2%80%99&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/",
+              "label": "News Article"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "category": "AI",
+          "topic": "After $80B, the Metaverse is dead. Horizon World is shutting down",
+          "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
+          "source_url": "https://reddit.com/r/singularity/comments/1rx6lhj/after_80b_the_metaverse_is_dead_horizon_world_is/",
+          "source_label": "r/singularity on Reddit",
+          "voice_score": 88,
+          "hashtags": "#MetaverseFail #TechReality #AIConsulting #SmallBusiness #RealEstateLife #BusinessLessons #Innovation",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: $80B on Horizon World and Meta's shutting it down. Funny how the metaverse was supposed to replace reality, but businesses still need actual ROI. This is genuinely a masterclass in what happens when you chase hype instead of solving real problems. What did your customers actually want?\n\n#MetaverseFail #TechReality #AIConsulting #SmallBusiness #RealEstateLife #BusinessLessons #Innovation",
+          "published_at": "2026-03-18T15:13:23+00:00",
+          "age_hours": 19.3,
+          "scraped_from": "r/singularity",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/singularity/comments/1rx6lhj/after_80b_the_metaverse_is_dead_horizon_world_is/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=After%20%2480B%2C%20the%20Metaverse%20is&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=After%20%2480B%2C%20the%20Metaverse%20is%20dead.%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "category": "WORLD",
+          "topic": "Russian tip-off led to arrest of alleged CIA asset Vandyke and six Ukrainians by India.",
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
+          "source_url": "https://reddit.com/r/worldnews/comments/1rxr0vp/russian_tipoff_led_to_arrest_of_alleged_cia_asset/",
+          "source_label": "r/worldnews on Reddit",
+          "voice_score": 89,
+          "hashtags": "#Geopolitics #InternationalBusiness #RiskManagement #GlobalEconomy #BusinessStrategy #SmallBusiness #TradePolicy",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Genuinely wild how geopolitics keeps shifting the ground under international business. When governments start playing intelligence chess, it affects trade, investment flows, everything down to smaller operators trying to scale globally. Real talk\u2014this is why diversification matters more than ever.\n\n#Geopolitics #InternationalBusiness #RiskManagement #GlobalEconomy #BusinessStrategy #SmallBusiness #TradePolicy",
+          "published_at": "2026-03-19T04:41:20+00:00",
+          "age_hours": 5.8,
+          "scraped_from": "r/worldnews",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/worldnews/comments/1rxr0vp/russian_tipoff_led_to_arrest_of_alleged_cia_asset/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Russian%20tip-off%20led%20to%20arrest&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Russian%20tip-off%20led%20to%20arrest%20of%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "category": "WORLD",
+          "topic": "Dow falls 700 points to new 2026 low as inflation fears rise, Fed keeps rates steady",
+          "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
+          "source_url": "https://reddit.com/r/Economics/comments/1rxe1k4/dow_falls_700_points_to_new_2026_low_as_inflation/",
+          "source_label": "r/economics on Reddit",
+          "voice_score": 90,
+          "hashtags": "#SmallBusiness #RealEstate #Economy #Inflation #FloridaBusiness #Entrepreneurship #MarketUpdate",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 when the Fed holds rates steady but inflation fears spike, it's genuinely the worst of both worlds for small business owners. Your costs stay high, borrowing doesn't get cheaper, and consumer spending gets nervous. Funny how this hits harder than the headlines suggest. What's your move right now?\n\n#SmallBusiness #RealEstate #Economy #Inflation #FloridaBusiness #Entrepreneurship #MarketUpdate",
+          "published_at": "2026-03-18T19:43:12+00:00",
+          "age_hours": 14.8,
+          "scraped_from": "r/economics",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/Economics/comments/1rxe1k4/dow_falls_700_points_to_new_2026_low_as_inflation/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Dow%20falls%20700%20points%20to&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Dow%20falls%20700%20points%20to%20new%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "category": "WORLD",
+          "topic": "World\u2019s Largest LNG Plant Suffers Extensive Damage, Qatar Says",
+          "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+          "source_url": "https://reddit.com/r/worldnews/comments/1rxsbxf/worlds_largest_lng_plant_suffers_extensive_damage/",
+          "source_label": "r/worldnews on Reddit",
+          "voice_score": 91,
+          "hashtags": "#EnergyMarkets #SupplyChain #SmallBusiness #GlobalEconomy #RealEstate #BusinessImpact #EconomicNews",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Qatar's LNG plant getting hit hard is genuinely a big deal for global energy markets. Real talk \u2014 when supply chain disruptions happen at scale, it ripples down to everything from shipping costs to hospitality operations. Funny how energy volatility affects small business bottom lines more than people realize.\n\n#EnergyMarkets #SupplyChain #SmallBusiness #GlobalEconomy #RealEstate #BusinessImpact #EconomicNews",
+          "published_at": "2026-03-19T05:53:42+00:00",
+          "age_hours": 4.6,
+          "scraped_from": "r/worldnews",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/worldnews/comments/1rxsbxf/worlds_largest_lng_plant_suffers_extensive_damage/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=World%E2%80%99s%20Largest%20LNG%20Plant%20Suffers&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=World%E2%80%99s%20Largest%20LNG%20Plant%20Suffers%20Extensive%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        }
+      ],
+      "generated_at": "2026-03-19T10:30:09.871472+00:00",
+      "label": "Morning Brief (6:30 AM)",
+      "count": 10
+    },
+    "afternoon": {
+      "posts": [],
+      "generated_at": "",
+      "label": "Afternoon Update (1 PM)",
+      "count": 0
+    },
+    "scripts_thumbnails": []
   },
   "payroll": {
-    "period": "Mar 10 – Mar 24, 2026",
+    "period": "Mar 10 \u2013 Mar 24, 2026",
     "period_type": "B",
     "pay_date": "Mar 27, 2026",
     "total_payout": 5150.0,
@@ -208,7 +782,7 @@
       {
         "level": "red",
         "property": "10 S Halifax Ave",
-        "issue": "AC unit reported not cooling — HVAC scheduled"
+        "issue": "AC unit reported not cooling \u2014 HVAC scheduled"
       },
       {
         "level": "yellow",
@@ -218,7 +792,7 @@
       {
         "level": "green",
         "property": "117 N Hollywood Ave",
-        "issue": "WiFi complaint resolved — confirmed by guest"
+        "issue": "WiFi complaint resolved \u2014 confirmed by guest"
       }
     ],
     "top_performers": [
@@ -238,5 +812,19 @@
         "rating": 4.8
       }
     ]
+  },
+  "scraper_meta": {
+    "scraped_at": "2026-03-19T10:30:09.871472+00:00",
+    "sources_used": [
+      "The Verge AI",
+      "r/worldnews",
+      "r/economics",
+      "TechCrunch AI",
+      "r/singularity"
+    ],
+    "all_from_last_24h": true,
+    "post_count": 10,
+    "morning_count": 10,
+    "afternoon_count": 0
   }
 }
