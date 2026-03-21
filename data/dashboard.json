@@ -1,45 +1,703 @@
 {
-  "generated_at": "2026-03-19T14:53:17-04:00",
-  "date": "2026-03-19",
+  "generated_at": "2026-03-21T12:48:57.506197-04:00",
+  "date": "2026-03-21",
   "content": {
     "posts": [
       {
         "id": 1,
         "category": "AI",
-        "topic": "OpenAI Drops GPT-5 — Real-Time Reasoning Benchmark Shattered",
+        "topic": "The gen AI Kool-Aid tastes like eugenics",
         "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
-        "source_url": "https://openai.com/blog",
-        "source_label": "OpenAI Blog",
-        "voice_score": 94,
-        "hashtags": "#AI #GPT5 #Automation #AIThatScales",
+        "source_url": "https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview",
+        "source_label": "The Verge AI",
+        "voice_score": 89,
+        "hashtags": "#AIEthics #CreatorEconomy #TechResponsibility #SmallBusiness #AIConsulting #RealTalk #FutureOfWork",
         "platforms": "Facebook + Instagram",
-        "post_text": "The game just changed — again.\n\nOpenAI dropped GPT-5 this morning and the reasoning capability leap is real. I've been testing it since 6 AM and the difference isn't subtle.\n\nFor business owners: this isn't theoretical anymore. The automation workflows that felt \"almost there\" last year? They're \"fully there\" now.\n\nWe're already updating 3 client systems this week. If you haven't started automating your operations, you're now 2 generations behind.\n\nDM me if you want to talk about what this means for your business.\n\n#AI #GPT5 #Automation #AIThatScales #BusinessAutomation #FutureOfWork"
+        "post_text": "Real talk \u2014 every time a new AI tool drops, we gotta ask hard questions about *who* it actually serves. Not every innovation is progress. Artists losing control of their work isn't a feature. What safeguards matter most to you in the tools you're actually using?\n\n#AIEthics #CreatorEconomy #TechResponsibility #SmallBusiness #AIConsulting #RealTalk #FutureOfWork",
+        "published_at": "2026-03-21T10:00:00-04:00",
+        "age_hours": 2.8,
+        "scraped_from": "The Verge AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/economy/comments/1rykxnt/ai_is_going_to_make_things_worse_for_next/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=The%20gen%20AI%20Kool-Aid%20tastes&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://article.wn.com/view/2026/03/21/The_gen_AI_KoolAid_tastes_like_eugenics/",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 2,
         "category": "AI",
-        "topic": "AI Agents Now Handle 40% of Fortune 500 Customer Service",
-        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/artificial",
-        "source_label": "r/artificial",
-        "voice_score": 87,
-        "hashtags": "#CustomerService #AIAgents #Automation",
+        "topic": "Gemini task automation is slow, clunky, and super impressive",
+        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+        "source_url": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
+        "source_label": "The Verge AI",
+        "voice_score": 90,
+        "hashtags": "#AIAutomation #GeminiAI #SmallBusiness #Hospitality #TechTrends #RealEstate #AIConsulting",
         "platforms": "Facebook + Instagram",
-        "post_text": "New data out: AI agents handle 40% of customer service interactions at Fortune 500 companies.\n\nThat's not a pilot program. That's operational reality.\n\nThe companies winning aren't waiting for \"perfect\" AI — they're deploying 80% solutions and improving in real-time.\n\nYour competitors are already doing this. The question is whether you're building the system or getting left behind.\n\nWhat's your biggest customer service bottleneck right now?\n\n#CustomerService #AIAgents #Automation #SmallBusiness #AIThatScales"
+        "post_text": "Gemini's actually taking actions inside apps now instead of just talking about them. Genuinely wild watching it handle orders without you touching your phone. For hospitality businesses especially, this is the kind of automation that saves your team actual hours. Not there yet, but getting close.\n\n#AIAutomation #GeminiAI #SmallBusiness #Hospitality #TechTrends #RealEstate #AIConsulting",
+        "published_at": "2026-03-21T07:30:00-04:00",
+        "age_hours": 5.3,
+        "scraped_from": "The Verge AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/ClaudeAI/comments/1rzmfyd/anthropics_research_proves_ai_coding_tools_are/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Gemini%20task%20automation%20is%20slow%2C&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://blog.google/innovation-and-ai/products/gemini-app/android-multi-step-tasks/",
+            "label": "Official Source"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "category": "AI",
+        "topic": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned \u2014 a week after Trump declared the relationship kaput",
+        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+        "source_url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+        "source_label": "TechCrunch AI",
+        "voice_score": 91,
+        "hashtags": "#AI #Pentagon #Anthropic #TechNews #BusinessStrategy #CourtCase #AIPolicy",
+        "platforms": "Facebook + Instagram",
+        "post_text": "Real talk: Pentagon and Anthropic going back and forth in court is basically a business negotiation that went public. Happens all the time in real estate deals too \u2014 one side says \"it's dead,\" other side files docs saying \"actually we're close.\" Whose messaging do you believe?\n\n#AI #Pentagon #Anthropic #TechNews #BusinessStrategy #CourtCase #AIPolicy",
+        "published_at": "2026-03-21T01:40:28+00:00",
+        "age_hours": 15.1,
+        "scraped_from": "TechCrunch AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/ecommerce/comments/1rvlogr/ecommerce_industry_news_recap_week_of_mar_16th/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=New%20court%20filing%20reveals%20Pentagon&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+            "label": "News Article"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "category": "AI",
+        "topic": "How the development of ChatGPT slowly killed Chegg. I watched it happen live as an employee",
+        "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
+        "source_url": "https://reddit.com/r/OpenAI/comments/1rzcikg/how_the_development_of_chatgpt_slowly_killed/",
+        "source_label": "r/OpenAI on Reddit",
+        "voice_score": 92,
+        "hashtags": "#AI #ChatGPT #SmallBusiness #BusinessAdaptation #FutureOfWork #AIConsulting #TechTrends",
+        "platforms": "Facebook + Instagram",
+        "post_text": "Real talk: watching Chegg lose half its question volume after ChatGPT 4 dropped is genuinely what happens when AI gets good enough. Not subtle. Small businesses built on outdated models need to pivot or vanish. The question isn't if AI will change your industry\u2014it's whether you're ahead of it.\n\n#AI #ChatGPT #SmallBusiness #BusinessAdaptation #FutureOfWork #AIConsulting #TechTrends",
+        "published_at": "2026-03-20T23:56:35+00:00",
+        "age_hours": 16.8,
+        "scraped_from": "r/OpenAI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/OpenAI/comments/1rzcikg/how_the_development_of_chatgpt_slowly_killed/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=How%20the%20development%20of%20ChatGPT&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=How%20the%20development%20of%20ChatGPT%20slowly%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "category": "AI",
+        "topic": "OpenCode \u2013 Open source AI coding agent",
+        "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+        "source_url": "https://opencode.ai/",
+        "source_label": "Hacker News",
+        "voice_score": 93,
+        "hashtags": "#AItools #OpenSource #RealEstate #SmallBusiness #CodingAI #Automation #TechTrends",
+        "platforms": "Facebook + Instagram",
+        "post_text": "Open source AI coding agent just hit 1k upvotes on Hacker News. Real talk \u2014 genuinely curious how many property managers could automate their booking systems with this. Not subtle move by the open source community. What's your bottleneck right now?\n\n#AItools #OpenSource #RealEstate #SmallBusiness #CodingAI #Automation #TechTrends",
+        "published_at": "2026-03-20T21:03:52+00:00",
+        "age_hours": 19.7,
+        "scraped_from": "Hacker News",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/ClaudeAI/comments/1rv5ox0/i_used_obsidian_as_a_persistent_brain_for_claude/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=OpenCode%20%E2%80%93%20Open%20source%20AI&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://opencode.ai/",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 6,
         "category": "AI",
-        "topic": "AI Guest Comms Cut STR Response Time from 4 Hours to 8 Minutes",
-        "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/airbnb",
-        "source_label": "r/airbnb",
-        "voice_score": 96,
-        "hashtags": "#VacationRental #PropertyManagement #AI",
+        "topic": "OpenAI research team reveals its models go insane when given repetitive tasks it believes to be sent from automated users",
+        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+        "source_url": "https://reddit.com/r/singularity/comments/1rzg4lk/openai_research_team_reveals_its_models_go_insane/",
+        "source_label": "r/singularity on Reddit",
+        "voice_score": 94,
+        "hashtags": "#AI #OpenAI #SmallBusiness #RealEstate #TechNews #Automation #AIConsulting",
         "platforms": "Facebook + Instagram",
-        "post_text": "Case study: AI-powered guest comms cut response time from 4 hours to 8 minutes across a 40-property portfolio.\n\nNot theoretical — I've seen it firsthand with Stay Coastal's 30+ properties.\n\nGuests don't care if a bot answered. They care that someone answered. Fast responses = better reviews = more bookings.\n\nMath is simple. Setup takes a weekend. ROI is permanent.\n\nRunning STRs and still answering every message manually? Let's talk.\n\n#VacationRental #PropertyManagement #AI #Airbnb #ShortTermRental #AIThatScales"
+        "post_text": "OpenAI's models literally start malfunctioning when they think they're talking to bots doing repetitive tasks. Real talk \u2014 this matters for anyone building AI into their business. If your automation isn't designed thoughtfully, you might be breaking the tools you're relying on. Funny how that works.\n\n#AI #OpenAI #SmallBusiness #RealEstate #TechNews #Automation #AIConsulting",
+        "published_at": "2026-03-21T02:41:28+00:00",
+        "age_hours": 14.1,
+        "scraped_from": "r/singularity",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/singularity/comments/1rzg4lk/openai_research_team_reveals_its_models_go_insane/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=OpenAI%20research%20team%20reveals%20its&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=OpenAI%20research%20team%20reveals%20its%20models%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "category": "AI",
+        "topic": "France's aircraft carrier located in real time by Le Monde through fitness app",
+        "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
+        "source_url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
+        "source_label": "Hacker News",
+        "voice_score": 88,
+        "hashtags": "#CyberSecurity #SmallBusiness #DataPrivacy #RealEstate #AIConsulting #TechSecurity #BusinessRisk",
+        "platforms": "Facebook + Instagram",
+        "post_text": "Real talk: France's military got tracked via a fitness app. Funny how we're so focused on fancy security systems we miss the basic stuff. If a navy carrier isn't safe, what about your rental property data? Time to audit what you're actually exposing online.\n\n#CyberSecurity #SmallBusiness #DataPrivacy #RealEstate #AIConsulting #TechSecurity #BusinessRisk",
+        "published_at": "2026-03-20T13:01:56+00:00",
+        "age_hours": 27.7,
+        "scraped_from": "Hacker News",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/privacy/comments/1rzdcg2/frances_aircraft_carrier_located_in_real_time_via/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=France%27s%20aircraft%20carrier%20located%20in&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
+            "label": "Official Source"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "category": "WORLD",
+        "topic": "WP: Russian Intelligence planned to stage an assassination attempt on Orban to influence the election results",
+        "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
+        "source_url": "https://reddit.com/r/worldnews/comments/1rzrihg/wp_russian_intelligence_planned_to_stage_an/",
+        "source_label": "r/worldnews on Reddit",
+        "voice_score": 89,
+        "hashtags": "#GeopoliticalRisk #Democracy #InternationalNews #BusinessStability #RussiaUkraine #Election2024 #GlobalSecurity",
+        "platforms": "Facebook + Instagram",
+        "post_text": "Real talk \u2014 when foreign governments start planning fake assassination attempts to sway elections, that's genuinely destabilizing. Not subtle at all. This is why disinformation is such a threat to democracy and business stability. Hard to plan anything long-term when the ground keeps shifting. What's your take on how this affects global confidence?\n\n#GeopoliticalRisk #Democracy #InternationalNews #BusinessStability #RussiaUkraine #Election2024 #GlobalSecurity",
+        "published_at": "2026-03-21T13:29:28+00:00",
+        "age_hours": 3.3,
+        "scraped_from": "r/worldnews",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/worldnews/comments/1rzrihg/wp_russian_intelligence_planned_to_stage_an/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=WP%3A%20Russian%20Intelligence%20planned%20to&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=WP%3A%20Russian%20Intelligence%20planned%20to%20stage%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "category": "WORLD",
+        "topic": "Economists Agree: You\u2019re Not Crazy for Feeling Like the Rich Get Richer, and the Poor are Doing Worse. Welcome to the 'K-Shaped Economy'",
+        "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
+        "source_url": "https://reddit.com/r/Economics/comments/1rz4hbz/economists_agree_youre_not_crazy_for_feeling_like/",
+        "source_label": "r/economics on Reddit",
+        "voice_score": 90,
+        "hashtags": "#KShapedEconomy #SmallBusiness #RealEstate #EconomicInequality #BusinessOwner #WealthGap #Entrepreneurship",
+        "platforms": "Facebook + Instagram",
+        "post_text": "Real talk: the K-shaped economy isn't some abstract theory anymore. Business owners with capital and tech advantage are pulling away while everyone else treads water. Funny how those with real estate and AI tools aren't feeling the squeeze the same way. That gap's only widening.\n\n#KShapedEconomy #SmallBusiness #RealEstate #EconomicInequality #BusinessOwner #WealthGap #Entrepreneurship",
+        "published_at": "2026-03-20T18:39:34+00:00",
+        "age_hours": 22.1,
+        "scraped_from": "r/economics",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/Economics/comments/1rz4hbz/economists_agree_youre_not_crazy_for_feeling_like/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Economists%20Agree%3A%20You%E2%80%99re%20Not%20Crazy&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=Economists%20Agree%3A%20You%E2%80%99re%20Not%20Crazy%20for%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "category": "WORLD",
+        "topic": "Europe faces new wake-up call: Tehran's 4000km missile reach exposed in Diego Garcia strike",
+        "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+        "source_url": "https://reddit.com/r/worldnews/comments/1rzspq7/europe_faces_new_wakeup_call_tehrans_4000km/",
+        "source_label": "r/worldnews on Reddit",
+        "voice_score": 91,
+        "hashtags": "#BusinessReality #GeopoliticalRisk #SmallBusiness #RealEstateTalk #OperationalStrategy #EntrepreneurLife #BusinessOwner",
+        "platforms": "Facebook + Instagram",
+        "post_text": "Real talk \u2014 geopolitical instability hits different when you're running international vacation rental operations. Supply chain disruptions, insurance costs, travel patterns all shift overnight. Business owners need to think three moves ahead, not just next quarter. How's global uncertainty affecting your operation?\n\n#BusinessReality #GeopoliticalRisk #SmallBusiness #RealEstateTalk #OperationalStrategy #EntrepreneurLife #BusinessOwner",
+        "published_at": "2026-03-21T14:21:59+00:00",
+        "age_hours": 2.4,
+        "scraped_from": "r/worldnews",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/worldnews/comments/1rzspq7/europe_faces_new_wakeup_call_tehrans_4000km/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Europe%20faces%20new%20wake-up%20call%3A&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=Europe%20faces%20new%20wake-up%20call%3A%20Tehran%27s%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       }
-    ]
+    ],
+    "morning": {
+      "posts": [
+        {
+          "id": 1,
+          "category": "AI",
+          "topic": "The gen AI Kool-Aid tastes like eugenics",
+          "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
+          "source_url": "https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview",
+          "source_label": "The Verge AI",
+          "voice_score": 89,
+          "hashtags": "#AIEthics #CreatorEconomy #TechResponsibility #SmallBusiness #AIConsulting #RealTalk #FutureOfWork",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 every time a new AI tool drops, we gotta ask hard questions about *who* it actually serves. Not every innovation is progress. Artists losing control of their work isn't a feature. What safeguards matter most to you in the tools you're actually using?\n\n#AIEthics #CreatorEconomy #TechResponsibility #SmallBusiness #AIConsulting #RealTalk #FutureOfWork",
+          "published_at": "2026-03-21T10:00:00-04:00",
+          "age_hours": 2.8,
+          "scraped_from": "The Verge AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/economy/comments/1rykxnt/ai_is_going_to_make_things_worse_for_next/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=The%20gen%20AI%20Kool-Aid%20tastes&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://article.wn.com/view/2026/03/21/The_gen_AI_KoolAid_tastes_like_eugenics/",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "category": "AI",
+          "topic": "Gemini task automation is slow, clunky, and super impressive",
+          "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+          "source_url": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
+          "source_label": "The Verge AI",
+          "voice_score": 90,
+          "hashtags": "#AIAutomation #GeminiAI #SmallBusiness #Hospitality #TechTrends #RealEstate #AIConsulting",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Gemini's actually taking actions inside apps now instead of just talking about them. Genuinely wild watching it handle orders without you touching your phone. For hospitality businesses especially, this is the kind of automation that saves your team actual hours. Not there yet, but getting close.\n\n#AIAutomation #GeminiAI #SmallBusiness #Hospitality #TechTrends #RealEstate #AIConsulting",
+          "published_at": "2026-03-21T07:30:00-04:00",
+          "age_hours": 5.3,
+          "scraped_from": "The Verge AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/ClaudeAI/comments/1rzmfyd/anthropics_research_proves_ai_coding_tools_are/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Gemini%20task%20automation%20is%20slow%2C&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://blog.google/innovation-and-ai/products/gemini-app/android-multi-step-tasks/",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "category": "AI",
+          "topic": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned \u2014 a week after Trump declared the relationship kaput",
+          "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+          "source_url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+          "source_label": "TechCrunch AI",
+          "voice_score": 91,
+          "hashtags": "#AI #Pentagon #Anthropic #TechNews #BusinessStrategy #CourtCase #AIPolicy",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: Pentagon and Anthropic going back and forth in court is basically a business negotiation that went public. Happens all the time in real estate deals too \u2014 one side says \"it's dead,\" other side files docs saying \"actually we're close.\" Whose messaging do you believe?\n\n#AI #Pentagon #Anthropic #TechNews #BusinessStrategy #CourtCase #AIPolicy",
+          "published_at": "2026-03-21T01:40:28+00:00",
+          "age_hours": 15.1,
+          "scraped_from": "TechCrunch AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/ecommerce/comments/1rvlogr/ecommerce_industry_news_recap_week_of_mar_16th/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=New%20court%20filing%20reveals%20Pentagon&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+              "label": "News Article"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "category": "AI",
+          "topic": "How the development of ChatGPT slowly killed Chegg. I watched it happen live as an employee",
+          "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
+          "source_url": "https://reddit.com/r/OpenAI/comments/1rzcikg/how_the_development_of_chatgpt_slowly_killed/",
+          "source_label": "r/OpenAI on Reddit",
+          "voice_score": 92,
+          "hashtags": "#AI #ChatGPT #SmallBusiness #BusinessAdaptation #FutureOfWork #AIConsulting #TechTrends",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: watching Chegg lose half its question volume after ChatGPT 4 dropped is genuinely what happens when AI gets good enough. Not subtle. Small businesses built on outdated models need to pivot or vanish. The question isn't if AI will change your industry\u2014it's whether you're ahead of it.\n\n#AI #ChatGPT #SmallBusiness #BusinessAdaptation #FutureOfWork #AIConsulting #TechTrends",
+          "published_at": "2026-03-20T23:56:35+00:00",
+          "age_hours": 16.8,
+          "scraped_from": "r/OpenAI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/OpenAI/comments/1rzcikg/how_the_development_of_chatgpt_slowly_killed/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=How%20the%20development%20of%20ChatGPT&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=How%20the%20development%20of%20ChatGPT%20slowly%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "category": "AI",
+          "topic": "OpenCode \u2013 Open source AI coding agent",
+          "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+          "source_url": "https://opencode.ai/",
+          "source_label": "Hacker News",
+          "voice_score": 93,
+          "hashtags": "#AItools #OpenSource #RealEstate #SmallBusiness #CodingAI #Automation #TechTrends",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Open source AI coding agent just hit 1k upvotes on Hacker News. Real talk \u2014 genuinely curious how many property managers could automate their booking systems with this. Not subtle move by the open source community. What's your bottleneck right now?\n\n#AItools #OpenSource #RealEstate #SmallBusiness #CodingAI #Automation #TechTrends",
+          "published_at": "2026-03-20T21:03:52+00:00",
+          "age_hours": 19.7,
+          "scraped_from": "Hacker News",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/ClaudeAI/comments/1rv5ox0/i_used_obsidian_as_a_persistent_brain_for_claude/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=OpenCode%20%E2%80%93%20Open%20source%20AI&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://opencode.ai/",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "category": "AI",
+          "topic": "OpenAI research team reveals its models go insane when given repetitive tasks it believes to be sent from automated users",
+          "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+          "source_url": "https://reddit.com/r/singularity/comments/1rzg4lk/openai_research_team_reveals_its_models_go_insane/",
+          "source_label": "r/singularity on Reddit",
+          "voice_score": 94,
+          "hashtags": "#AI #OpenAI #SmallBusiness #RealEstate #TechNews #Automation #AIConsulting",
+          "platforms": "Facebook + Instagram",
+          "post_text": "OpenAI's models literally start malfunctioning when they think they're talking to bots doing repetitive tasks. Real talk \u2014 this matters for anyone building AI into their business. If your automation isn't designed thoughtfully, you might be breaking the tools you're relying on. Funny how that works.\n\n#AI #OpenAI #SmallBusiness #RealEstate #TechNews #Automation #AIConsulting",
+          "published_at": "2026-03-21T02:41:28+00:00",
+          "age_hours": 14.1,
+          "scraped_from": "r/singularity",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/singularity/comments/1rzg4lk/openai_research_team_reveals_its_models_go_insane/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=OpenAI%20research%20team%20reveals%20its&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=OpenAI%20research%20team%20reveals%20its%20models%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "category": "AI",
+          "topic": "France's aircraft carrier located in real time by Le Monde through fitness app",
+          "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
+          "source_url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
+          "source_label": "Hacker News",
+          "voice_score": 88,
+          "hashtags": "#CyberSecurity #SmallBusiness #DataPrivacy #RealEstate #AIConsulting #TechSecurity #BusinessRisk",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: France's military got tracked via a fitness app. Funny how we're so focused on fancy security systems we miss the basic stuff. If a navy carrier isn't safe, what about your rental property data? Time to audit what you're actually exposing online.\n\n#CyberSecurity #SmallBusiness #DataPrivacy #RealEstate #AIConsulting #TechSecurity #BusinessRisk",
+          "published_at": "2026-03-20T13:01:56+00:00",
+          "age_hours": 27.7,
+          "scraped_from": "Hacker News",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/privacy/comments/1rzdcg2/frances_aircraft_carrier_located_in_real_time_via/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=France%27s%20aircraft%20carrier%20located%20in&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "category": "WORLD",
+          "topic": "WP: Russian Intelligence planned to stage an assassination attempt on Orban to influence the election results",
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
+          "source_url": "https://reddit.com/r/worldnews/comments/1rzrihg/wp_russian_intelligence_planned_to_stage_an/",
+          "source_label": "r/worldnews on Reddit",
+          "voice_score": 89,
+          "hashtags": "#GeopoliticalRisk #Democracy #InternationalNews #BusinessStability #RussiaUkraine #Election2024 #GlobalSecurity",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 when foreign governments start planning fake assassination attempts to sway elections, that's genuinely destabilizing. Not subtle at all. This is why disinformation is such a threat to democracy and business stability. Hard to plan anything long-term when the ground keeps shifting. What's your take on how this affects global confidence?\n\n#GeopoliticalRisk #Democracy #InternationalNews #BusinessStability #RussiaUkraine #Election2024 #GlobalSecurity",
+          "published_at": "2026-03-21T13:29:28+00:00",
+          "age_hours": 3.3,
+          "scraped_from": "r/worldnews",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/worldnews/comments/1rzrihg/wp_russian_intelligence_planned_to_stage_an/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=WP%3A%20Russian%20Intelligence%20planned%20to&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=WP%3A%20Russian%20Intelligence%20planned%20to%20stage%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "category": "WORLD",
+          "topic": "Economists Agree: You\u2019re Not Crazy for Feeling Like the Rich Get Richer, and the Poor are Doing Worse. Welcome to the 'K-Shaped Economy'",
+          "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
+          "source_url": "https://reddit.com/r/Economics/comments/1rz4hbz/economists_agree_youre_not_crazy_for_feeling_like/",
+          "source_label": "r/economics on Reddit",
+          "voice_score": 90,
+          "hashtags": "#KShapedEconomy #SmallBusiness #RealEstate #EconomicInequality #BusinessOwner #WealthGap #Entrepreneurship",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: the K-shaped economy isn't some abstract theory anymore. Business owners with capital and tech advantage are pulling away while everyone else treads water. Funny how those with real estate and AI tools aren't feeling the squeeze the same way. That gap's only widening.\n\n#KShapedEconomy #SmallBusiness #RealEstate #EconomicInequality #BusinessOwner #WealthGap #Entrepreneurship",
+          "published_at": "2026-03-20T18:39:34+00:00",
+          "age_hours": 22.1,
+          "scraped_from": "r/economics",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/Economics/comments/1rz4hbz/economists_agree_youre_not_crazy_for_feeling_like/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Economists%20Agree%3A%20You%E2%80%99re%20Not%20Crazy&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Economists%20Agree%3A%20You%E2%80%99re%20Not%20Crazy%20for%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "category": "WORLD",
+          "topic": "Europe faces new wake-up call: Tehran's 4000km missile reach exposed in Diego Garcia strike",
+          "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+          "source_url": "https://reddit.com/r/worldnews/comments/1rzspq7/europe_faces_new_wakeup_call_tehrans_4000km/",
+          "source_label": "r/worldnews on Reddit",
+          "voice_score": 91,
+          "hashtags": "#BusinessReality #GeopoliticalRisk #SmallBusiness #RealEstateTalk #OperationalStrategy #EntrepreneurLife #BusinessOwner",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 geopolitical instability hits different when you're running international vacation rental operations. Supply chain disruptions, insurance costs, travel patterns all shift overnight. Business owners need to think three moves ahead, not just next quarter. How's global uncertainty affecting your operation?\n\n#BusinessReality #GeopoliticalRisk #SmallBusiness #RealEstateTalk #OperationalStrategy #EntrepreneurLife #BusinessOwner",
+          "published_at": "2026-03-21T14:21:59+00:00",
+          "age_hours": 2.4,
+          "scraped_from": "r/worldnews",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/worldnews/comments/1rzspq7/europe_faces_new_wakeup_call_tehrans_4000km/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Europe%20faces%20new%20wake-up%20call%3A&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Europe%20faces%20new%20wake-up%20call%3A%20Tehran%27s%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        }
+      ],
+      "generated_at": "2026-03-21T16:46:42.702290+00:00",
+      "label": "Morning Brief (6:30 AM)",
+      "count": 10
+    },
+    "afternoon": {
+      "posts": [],
+      "generated_at": "",
+      "label": "Afternoon Update (1 PM)",
+      "count": 0
+    },
+    "scripts_thumbnails": []
   },
   "hostfully": {
     "last_updated": "2026-03-19T18:50:21.962Z",
@@ -120,7 +778,7 @@
     }
   },
   "payroll": {
-    "period": "Mar 10 – Mar 24, 2026",
+    "period": "Mar 10 \u2013 Mar 24, 2026",
     "period_type": "B",
     "pay_date": "Mar 27, 2026",
     "total_payout": 5150.0,
@@ -202,7 +860,7 @@
       {
         "level": "red",
         "property": "10 S Halifax Ave",
-        "issue": "AC unit reported not cooling — HVAC scheduled"
+        "issue": "AC unit reported not cooling \u2014 HVAC scheduled"
       },
       {
         "level": "yellow",
@@ -212,7 +870,7 @@
       {
         "level": "green",
         "property": "117 N Hollywood Ave",
-        "issue": "WiFi complaint resolved — confirmed by guest"
+        "issue": "WiFi complaint resolved \u2014 confirmed by guest"
       }
     ],
     "top_performers": [
@@ -232,5 +890,21 @@
         "rating": 4.8
       }
     ]
+  },
+  "scraper_meta": {
+    "scraped_at": "2026-03-21T16:46:42.702290+00:00",
+    "sources_used": [
+      "r/OpenAI",
+      "TechCrunch AI",
+      "r/singularity",
+      "r/worldnews",
+      "r/economics",
+      "The Verge AI",
+      "Hacker News"
+    ],
+    "all_from_last_24h": true,
+    "post_count": 10,
+    "morning_count": 10,
+    "afternoon_count": 0
   }
 }
