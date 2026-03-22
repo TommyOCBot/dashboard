@@ -1,132 +1,706 @@
 {
-  "generated_at": "2026-03-11T08:46:09.549424-04:00",
-  "date": "2026-03-11",
+  "generated_at": "2026-03-22T06:32:17.619885-04:00",
+  "date": "2026-03-22",
   "content": {
     "posts": [
       {
         "id": 1,
         "category": "AI",
-        "topic": "OpenAI Drops GPT-5 — Real-Time Reasoning Benchmark Shattered",
+        "topic": "The gen AI Kool-Aid tastes like eugenics",
         "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
-        "source_url": "https://openai.com/blog",
-        "source_label": "OpenAI Blog",
-        "voice_score": 94,
-        "hashtags": "#AI #GPT5 #Automation #AIThatScales",
+        "source_url": "https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview",
+        "source_label": "The Verge AI",
+        "voice_score": 89,
+        "hashtags": "#AIEthics #CreativeAI #TechTruth #SmallBizAI #ArtistsAndAI #GenerativeAI #DaytonaBeach",
         "platforms": "Facebook + Instagram",
-        "post_text": "The game just changed — again.\n\nOpenAI dropped GPT-5 this morning and the reasoning capability leap is real. I've been testing it since 6 AM and the difference isn't subtle.\n\nFor business owners: this isn't theoretical anymore. The automation workflows that felt \"almost there\" last year? They're \"fully there\" now.\n\nWe're already updating 3 client systems this week. If you haven't started automating your operations, you're now 2 generations behind.\n\nDM me if you want to talk about what this means for your business.\n\n#AI #GPT5 #Automation #AIThatScales #BusinessAutomation #FutureOfWork"
+        "post_text": "Real talk: watching people get hyped on AI without understanding what it actually does reminds me of early crypto. The Sora hype is real, but artists need to ask hard questions about ownership and ethics before jumping in. What's your red line with generative tools?\n\n#AIEthics #CreativeAI #TechTruth #SmallBizAI #ArtistsAndAI #GenerativeAI #DaytonaBeach",
+        "published_at": "2026-03-21T10:00:00-04:00",
+        "age_hours": 20.5,
+        "scraped_from": "The Verge AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/technology/comments/1rzwazw/the_gen_ai_koolaid_tastes_like_eugenics/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=The%20gen%20AI%20Kool-Aid%20tastes&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.aivanet.com/2026/03/the-gen-ai-kool-aid-tastes-like-eugenics/",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 2,
         "category": "AI",
-        "topic": "AI Agents Now Handle 40% of Fortune 500 Customer Service",
-        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/artificial",
-        "source_label": "r/artificial",
-        "voice_score": 87,
-        "hashtags": "#CustomerService #AIAgents #Automation",
+        "topic": "Gemini task automation is slow, clunky, and super impressive",
+        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+        "source_url": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
+        "source_label": "The Verge AI",
+        "voice_score": 90,
+        "hashtags": "#AIAutomation #GeminiAI #TechTrends #SmallBizTech #Hospitality #RealEstate #FutureOfWork",
         "platforms": "Facebook + Instagram",
-        "post_text": "New data out: AI agents handle 40% of customer service interactions at Fortune 500 companies.\n\nThat's not a pilot program. That's operational reality.\n\nThe companies winning aren't waiting for \"perfect\" AI — they're deploying 80% solutions and improving in real-time.\n\nYour competitors are already doing this. The question is whether you're building the system or getting left behind.\n\nWhat's your biggest customer service bottleneck right now?\n\n#CustomerService #AIAgents #Automation #SmallBusiness #AIThatScales"
+        "post_text": "Gemini's new task automation is legitimately wild \u2014 watching an AI actually book your food delivery or handle app stuff without you touching your phone feels like the future showed up early. Still clunky, but this is where hospitality and real estate ops get interesting. Real talk: who's automating their guest communication next?\n\n#AIAutomation #GeminiAI #TechTrends #SmallBizTech #Hospitality #RealEstate #FutureOfWork",
+        "published_at": "2026-03-21T07:30:00-04:00",
+        "age_hours": 23.0,
+        "scraped_from": "The Verge AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/ClaudeAI/comments/1rzmfyd/anthropics_research_proves_ai_coding_tools_are/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Gemini%20task%20automation%20is%20slow%2C&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://blog.google/innovation-and-ai/products/gemini-app/android-multi-step-tasks/",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 3,
         "category": "AI",
-        "topic": "Claude 4 Sonnet Tops Every Major Coding Benchmark",
-        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
-        "source_url": "https://www.anthropic.com",
-        "source_label": "Anthropic",
+        "topic": "OpenCode \u2013 Open source AI coding agent",
+        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+        "source_url": "https://opencode.ai/",
+        "source_label": "Hacker News",
         "voice_score": 91,
-        "hashtags": "#Claude #Anthropic #AITools",
+        "hashtags": "#OpenSourceAI #AITools #SmallBusiness #RealEstateTech #CodingAgents #Automation #IndieHackers",
         "platforms": "Facebook + Instagram",
-        "post_text": "Anthropic published Claude 4 Sonnet benchmark results and the coding performance is legitimately impressive.\n\nWe use Claude for 80% of our automation builds at AI That Scales. The jump from 3.5 → 4 is the biggest single-version improvement I've seen.\n\nA workflow that used to take 3 iterations now lands first pass 70% of the time. That's not small.\n\nIf you're building automations and not using Claude, you're working harder than you need to.\n\n#Claude #Anthropic #AITools #Automation #AIThatScales #BuildSmarter"
+        "post_text": "OpenCode just dropped as open source, and genuinely? This changes how small teams automate coding tasks without vendor lock-in. Real talk \u2014 for real estate tech or any business building custom tools, this is the move. Self-hosted AI agents beat paying monthly SaaS fees every time.\n\n#OpenSourceAI #AITools #SmallBusiness #RealEstateTech #CodingAgents #Automation #IndieHackers",
+        "published_at": "2026-03-20T21:03:52+00:00",
+        "age_hours": 37.4,
+        "scraped_from": "Hacker News",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/ClaudeAI/comments/1rv5ox0/i_used_obsidian_as_a_persistent_brain_for_claude/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=OpenCode%20%E2%80%93%20Open%20source%20AI&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://opencode.ai/",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 4,
         "category": "AI",
-        "topic": "Gemini 2.0 Just Shipped Inside Every Google Workspace App",
+        "topic": "Agents before AI was a thing",
         "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
-        "source_url": "https://workspace.google.com",
-        "source_label": "Google Workspace",
-        "voice_score": 82,
-        "hashtags": "#Google #Gemini #Productivity",
+        "source_url": "https://reddit.com/r/OpenAI/comments/1rzxcw5/agents_before_ai_was_a_thing/",
+        "source_label": "r/OpenAI on Reddit",
+        "voice_score": 92,
+        "hashtags": "#AIConsulting #RealEstate #SmallBusiness #AIAgents #Automation #DaytonaBeach #RealEstateAgent",
         "platforms": "Facebook + Instagram",
-        "post_text": "Google pushed Gemini 2.0 into Workspace — Docs, Sheets, Gmail, Meet.\n\nThe practical impact for small business teams: your VA now has a co-pilot baked into every tool they already use.\n\nBeen playing with the Sheets integration this week. The ability to describe what you want and have it build formulas + summarize data is genuinely useful — not demo-ware.\n\nIf your team runs on Google, this upgrade happened automatically. Make sure you're actually using it.\n\n#Google #Gemini #Productivity #SmallBusiness #WorkSmarter #AIThatScales"
+        "post_text": "Real talk \u2014 real estate agents have been operating like AI agents forever. They prospect, qualify leads, handle objections, close deals. We're just finally building software that does what good agents already figured out. Funny how we call it revolutionary when it's actually just automation catching up to human hustle.\n\n#AIConsulting #RealEstate #SmallBusiness #AIAgents #Automation #DaytonaBeach #RealEstateAgent",
+        "published_at": "2026-03-21T17:29:14+00:00",
+        "age_hours": 17.0,
+        "scraped_from": "r/OpenAI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/OpenAI/comments/1rzxcw5/agents_before_ai_was_a_thing/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Agents%20before%20AI%20was%20a&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=Agents%20before%20AI%20was%20a%20thing%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 5,
         "category": "AI",
-        "topic": "Make.com, Zapier, n8n — No-Code Platforms Hit 300% Growth",
+        "topic": "The drastic difference in attitude toward AI video in China compared to the west",
         "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/ChatGPT",
-        "source_label": "r/ChatGPT",
-        "voice_score": 89,
-        "hashtags": "#NoCode #Workflow #Automation",
+        "source_url": "https://reddit.com/r/singularity/comments/1s00wvj/the_drastic_difference_in_attitude_toward_ai/",
+        "source_label": "r/singularity on Reddit",
+        "voice_score": 93,
+        "hashtags": "#AIVideo #SmallBusiness #ContentCreation #China #Technology #RealEstate #AIConsulting",
         "platforms": "Facebook + Instagram",
-        "post_text": "No-code automation platforms hit 300% user growth last quarter.\n\nTranslation: the barrier to automation is officially gone. You don't need a developer. You need someone who understands your process and 2-4 hours.\n\nI've been building no-code automations for clients for 18 months. The tools keep getting better. The window to get ahead of competitors is still open — but it's closing.\n\nStill doing manually what a bot could do? That's a choice. Make sure it's intentional.\n\n#NoCode #Workflow #Automation #Productivity #AIThatScales #BusinessGrowth"
+        "post_text": "Real talk: Western social media hammers AI creators while China's embracing it on Bilibili. That's a competitive advantage nobody's talking about. Quality matters way more than the tool. Small businesses choosing to ignore AI because of the stigma are literally leaving money on the table.\n\n#AIVideo #SmallBusiness #ContentCreation #China #Technology #RealEstate #AIConsulting",
+        "published_at": "2026-03-21T19:50:03+00:00",
+        "age_hours": 14.7,
+        "scraped_from": "r/singularity",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/singularity/comments/1s00wvj/the_drastic_difference_in_attitude_toward_ai/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=The%20drastic%20difference%20in%20attitude&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=The%20drastic%20difference%20in%20attitude%20toward%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 6,
         "category": "AI",
-        "topic": "AI Guest Comms Cut STR Response Time from 4 Hours to 8 Minutes",
-        "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/airbnb",
-        "source_label": "r/airbnb",
-        "voice_score": 96,
-        "hashtags": "#VacationRental #PropertyManagement #AI",
+        "topic": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
+        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+        "source_url": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
+        "source_label": "Hacker News",
+        "voice_score": 94,
+        "hashtags": "#AI #InternetArchive #SmallBusiness #Tech #DataPrivacy #RealEstate #FutureOfWeb",
         "platforms": "Facebook + Instagram",
-        "post_text": "Case study: AI-powered guest comms cut response time from 4 hours to 8 minutes across a 40-property portfolio.\n\nNot theoretical — I've seen it firsthand with Stay Coastal's 30+ properties.\n\nGuests don't care if a bot answered. They care that someone answered. Fast responses = better reviews = more bookings.\n\nMath is simple. Setup takes a weekend. ROI is permanent.\n\nRunning STRs and still answering every message manually? Let's talk.\n\n#VacationRental #PropertyManagement #AI #Airbnb #ShortTermRental #AIThatScales"
+        "post_text": "Real talk: blocking the Internet Archive won't slow down AI training, but it'll torch our ability to verify what actually happened online. Funny how the solution everyone's pushing hurts small businesses and creators more than it helps. We need smarter answers.\n\n#AI #InternetArchive #SmallBusiness #Tech #DataPrivacy #RealEstate #FutureOfWeb",
+        "published_at": "2026-03-21T07:30:16+00:00",
+        "age_hours": 27.0,
+        "scraped_from": "Hacker News",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/hackernews/comments/1rzqjja/blocking_internet_archive_wont_stop_ai_but_will/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Blocking%20Internet%20Archive%20Won%27t%20Stop&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 7,
         "category": "AI",
-        "topic": "2026 AI Adoption Report: SMBs Close the Gap on Enterprise",
-        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 85,
-        "hashtags": "#SMB #AIAdoption #Business2026",
+        "topic": "man used chatgpt to sell home (rising: ChatGPT)",
+        "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
+        "source_url": "https://trends.google.com/trends/explore?q=man+used+chatgpt+to+sell+home&geo=US",
+        "source_label": "Google Trends \u2014 Rising",
+        "voice_score": 88,
+        "hashtags": "#RealEstate #AIConsulting #ChatGPT #RealEstateMarketing #DaytonaBeach #SmallBusiness #AITools",
         "platforms": "Facebook + Instagram",
-        "post_text": "2026 AI Adoption Report: the gap between enterprise and SMB AI usage closed by 40% last year.\n\nThe tools got cheaper. The interfaces got simpler. The use cases got clearer.\n\nBusinesses that adopted early are seeing it in their margins. The ones who waited are scrambling.\n\nWhere are you in this curve? Reply with where you are and where you want to be.\n\n#SMB #AIAdoption #Business2026 #Productivity #AIThatScales #Entrepreneur"
+        "post_text": "Real talk \u2014 ChatGPT just helped someone sell their home faster. Funny how most real estate folks still aren't using AI for listings, emails, or follow-ups. Not subtle advantage if you start now. Your competition definitely isn't there yet.\n\n#RealEstate #AIConsulting #ChatGPT #RealEstateMarketing #DaytonaBeach #SmallBusiness #AITools",
+        "published_at": "2026-03-22T10:30:12.219340+00:00",
+        "age_hours": 0,
+        "scraped_from": "Google Trends (rising)",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/emulation/comments/1rzlq2o/a_scam_preservation_report_raiders_of_the_lost/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=man%20used%20chatgpt%20to%20sell&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://trends.google.com/trends/explore?q=man+used+chatgpt+to+sell+home&geo=US",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 8,
         "category": "WORLD",
-        "topic": "Fed Holds Rates — Here's What That Actually Means for Your Business",
+        "topic": "Trump Gives Iran 48 Hours to Open Strait, Threatens Power Plants",
         "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/worldnews",
-        "source_label": "r/worldnews",
-        "voice_score": 78,
-        "hashtags": "#Economy #FederalReserve #SmallBusiness",
+        "source_url": "https://reddit.com/r/worldnews/comments/1s07deb/trump_gives_iran_48_hours_to_open_strait/",
+        "source_label": "r/worldnews on Reddit",
+        "voice_score": 89,
+        "hashtags": "#SmallBusiness #RealEstate #EconomyMatters #BusinessOwner #SupplyChain #Hospitality #CoastalBusiness",
         "platforms": "Facebook + Instagram",
-        "post_text": "The Fed held rates again. Inflation still uncertain. Lending still tight.\n\nStraight talk: if you're waiting for rates to drop before making moves, you're tying your growth strategy to a variable you can't control.\n\nOperators winning right now are cutting costs through efficiency (automation), not waiting for cheap capital.\n\nFocus on what you can control: margins, team productivity, systems. The macro clears when it clears.\n\n#Economy #FederalReserve #SmallBusiness #Entrepreneur #BusinessStrategy #AIThatScales"
+        "post_text": "Real talk \u2014 geopolitical tension like this ripples fast through supply chains and energy costs. If you're in hospitality or retail, watch your margins closely. Not subtle how quickly global drama hits local business. What's your biggest concern right now?\n\n#SmallBusiness #RealEstate #EconomyMatters #BusinessOwner #SupplyChain #Hospitality #CoastalBusiness",
+        "published_at": "2026-03-22T00:25:41+00:00",
+        "age_hours": 10.1,
+        "scraped_from": "r/worldnews",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/worldnews/comments/1s07deb/trump_gives_iran_48_hours_to_open_strait/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Trump%20Gives%20Iran%2048%20Hours&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=Trump%20Gives%20Iran%2048%20Hours%20to%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 9,
         "category": "WORLD",
-        "topic": "Daytona Beach Q1 2026: Occupancy Strong, ADR Up 8% YoY",
-        "image_url": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/realestate",
-        "source_label": "r/realestate",
-        "voice_score": 92,
-        "hashtags": "#FloridaRealEstate #DaytonaBeach #ShortTermRental",
+        "topic": "Trump issues 48-hour ultimatum to Iran - as Israel claims Tehran can hit London",
+        "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
+        "source_url": "https://reddit.com/r/worldnews/comments/1s0ba2m/trump_issues_48hour_ultimatum_to_iran_as_israel/",
+        "source_label": "r/worldnews on Reddit",
+        "voice_score": 90,
+        "hashtags": "#SmallBusiness #RealEstate #Risk #BusinessStrategy #Economics #Resilience #DaytonaBeach",
         "platforms": "Facebook + Instagram",
-        "post_text": "Daytona Beach Q1 data is in: occupancy holding strong, ADRs up 8% YoY, inventory tight on the quality end.\n\nFor property owners: if your property isn't performing at market, the issue isn't the market.\n\nFor investors watching: the STR opportunity here is real. \"Set it and forget it\" is dead, but returns for well-managed properties are there.\n\nWant to see actual comps or talk through an acquisition? DM me.\n\n#FloridaRealEstate #DaytonaBeach #ShortTermRental #VacationRental #RealEstateInvesting #StayCoastal"
+        "post_text": "Real talk \u2014 geopolitical tensions like this remind small business owners why diversification matters. Can't put all your chips on one market or one scenario. Whether it's real estate portfolios or supply chains, uncertainty is genuinely the only constant. Stay positioned to pivot.\n\n#SmallBusiness #RealEstate #Risk #BusinessStrategy #Economics #Resilience #DaytonaBeach",
+        "published_at": "2026-03-22T03:33:40+00:00",
+        "age_hours": 6.9,
+        "scraped_from": "r/worldnews",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/worldnews/comments/1s0ba2m/trump_issues_48hour_ultimatum_to_iran_as_israel/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Trump%20issues%2048-hour%20ultimatum%20to&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=Trump%20issues%2048-hour%20ultimatum%20to%20Iran%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 10,
         "category": "WORLD",
-        "topic": "35% of US Workforce Permanently Remote — What That Means for STR Operators",
-        "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 83,
-        "hashtags": "#RemoteWork #VacationRental #WorkFromAnywhere",
+        "topic": "After Trump\u2019s Ultimatum, Iran Threatens To Target \u2018Enemy\u2019s\u2019 Desalination Plants",
+        "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+        "source_url": "https://reddit.com/r/worldnews/comments/1s0ddab/after_trumps_ultimatum_iran_threatens_to_target/",
+        "source_label": "r/worldnews on Reddit",
+        "voice_score": 91,
+        "hashtags": "#Geopolitics #SupplyChain #BusinessNews #RealEstate #Hospitality #EconomicImpact #SmallBusiness",
         "platforms": "Facebook + Instagram",
-        "post_text": "New Gallup data: 35% of the US workforce is now permanently remote. That's not going back.\n\nFor vacation rental operators, this drives mid-week and extended-stay demand. Guests aren't just coming for the weekend — they're coming for 2-4 weeks.\n\nSeen it in our own portfolio. Longer stays, better reviews, less turnover.\n\nSTR not set up for extended stays? (workspace, faster WiFi, monthly discounts) You're leaving money on the table.\n\n#RemoteWork #VacationRental #WorkFromAnywhere #ShortTermRental #StayCoastal #AIThatScales"
+        "post_text": "Real talk \u2014 when geopolitical tensions spike, supply chains get weird fast. Water infrastructure threats hit different because desalination plants run hospitality, agriculture, real estate development. Funny how global instability eventually shows up in local business costs. Genuinely watching this one closely.\n\n#Geopolitics #SupplyChain #BusinessNews #RealEstate #Hospitality #EconomicImpact #SmallBusiness",
+        "published_at": "2026-03-22T05:26:18+00:00",
+        "age_hours": 5.1,
+        "scraped_from": "r/worldnews",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/worldnews/comments/1s0ddab/after_trumps_ultimatum_iran_threatens_to_target/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=After%20Trump%E2%80%99s%20Ultimatum%2C%20Iran%20Threatens&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=After%20Trump%E2%80%99s%20Ultimatum%2C%20Iran%20Threatens%20To%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       }
-    ]
+    ],
+    "morning": {
+      "posts": [
+        {
+          "id": 1,
+          "category": "AI",
+          "topic": "The gen AI Kool-Aid tastes like eugenics",
+          "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
+          "source_url": "https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview",
+          "source_label": "The Verge AI",
+          "voice_score": 89,
+          "hashtags": "#AIEthics #CreativeAI #TechTruth #SmallBizAI #ArtistsAndAI #GenerativeAI #DaytonaBeach",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: watching people get hyped on AI without understanding what it actually does reminds me of early crypto. The Sora hype is real, but artists need to ask hard questions about ownership and ethics before jumping in. What's your red line with generative tools?\n\n#AIEthics #CreativeAI #TechTruth #SmallBizAI #ArtistsAndAI #GenerativeAI #DaytonaBeach",
+          "published_at": "2026-03-21T10:00:00-04:00",
+          "age_hours": 20.5,
+          "scraped_from": "The Verge AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/technology/comments/1rzwazw/the_gen_ai_koolaid_tastes_like_eugenics/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=The%20gen%20AI%20Kool-Aid%20tastes&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.aivanet.com/2026/03/the-gen-ai-kool-aid-tastes-like-eugenics/",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "category": "AI",
+          "topic": "Gemini task automation is slow, clunky, and super impressive",
+          "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+          "source_url": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
+          "source_label": "The Verge AI",
+          "voice_score": 90,
+          "hashtags": "#AIAutomation #GeminiAI #TechTrends #SmallBizTech #Hospitality #RealEstate #FutureOfWork",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Gemini's new task automation is legitimately wild \u2014 watching an AI actually book your food delivery or handle app stuff without you touching your phone feels like the future showed up early. Still clunky, but this is where hospitality and real estate ops get interesting. Real talk: who's automating their guest communication next?\n\n#AIAutomation #GeminiAI #TechTrends #SmallBizTech #Hospitality #RealEstate #FutureOfWork",
+          "published_at": "2026-03-21T07:30:00-04:00",
+          "age_hours": 23.0,
+          "scraped_from": "The Verge AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/ClaudeAI/comments/1rzmfyd/anthropics_research_proves_ai_coding_tools_are/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Gemini%20task%20automation%20is%20slow%2C&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://blog.google/innovation-and-ai/products/gemini-app/android-multi-step-tasks/",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "category": "AI",
+          "topic": "OpenCode \u2013 Open source AI coding agent",
+          "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+          "source_url": "https://opencode.ai/",
+          "source_label": "Hacker News",
+          "voice_score": 91,
+          "hashtags": "#OpenSourceAI #AITools #SmallBusiness #RealEstateTech #CodingAgents #Automation #IndieHackers",
+          "platforms": "Facebook + Instagram",
+          "post_text": "OpenCode just dropped as open source, and genuinely? This changes how small teams automate coding tasks without vendor lock-in. Real talk \u2014 for real estate tech or any business building custom tools, this is the move. Self-hosted AI agents beat paying monthly SaaS fees every time.\n\n#OpenSourceAI #AITools #SmallBusiness #RealEstateTech #CodingAgents #Automation #IndieHackers",
+          "published_at": "2026-03-20T21:03:52+00:00",
+          "age_hours": 37.4,
+          "scraped_from": "Hacker News",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/ClaudeAI/comments/1rv5ox0/i_used_obsidian_as_a_persistent_brain_for_claude/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=OpenCode%20%E2%80%93%20Open%20source%20AI&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://opencode.ai/",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "category": "AI",
+          "topic": "Agents before AI was a thing",
+          "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
+          "source_url": "https://reddit.com/r/OpenAI/comments/1rzxcw5/agents_before_ai_was_a_thing/",
+          "source_label": "r/OpenAI on Reddit",
+          "voice_score": 92,
+          "hashtags": "#AIConsulting #RealEstate #SmallBusiness #AIAgents #Automation #DaytonaBeach #RealEstateAgent",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 real estate agents have been operating like AI agents forever. They prospect, qualify leads, handle objections, close deals. We're just finally building software that does what good agents already figured out. Funny how we call it revolutionary when it's actually just automation catching up to human hustle.\n\n#AIConsulting #RealEstate #SmallBusiness #AIAgents #Automation #DaytonaBeach #RealEstateAgent",
+          "published_at": "2026-03-21T17:29:14+00:00",
+          "age_hours": 17.0,
+          "scraped_from": "r/OpenAI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/OpenAI/comments/1rzxcw5/agents_before_ai_was_a_thing/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Agents%20before%20AI%20was%20a&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Agents%20before%20AI%20was%20a%20thing%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "category": "AI",
+          "topic": "The drastic difference in attitude toward AI video in China compared to the west",
+          "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+          "source_url": "https://reddit.com/r/singularity/comments/1s00wvj/the_drastic_difference_in_attitude_toward_ai/",
+          "source_label": "r/singularity on Reddit",
+          "voice_score": 93,
+          "hashtags": "#AIVideo #SmallBusiness #ContentCreation #China #Technology #RealEstate #AIConsulting",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: Western social media hammers AI creators while China's embracing it on Bilibili. That's a competitive advantage nobody's talking about. Quality matters way more than the tool. Small businesses choosing to ignore AI because of the stigma are literally leaving money on the table.\n\n#AIVideo #SmallBusiness #ContentCreation #China #Technology #RealEstate #AIConsulting",
+          "published_at": "2026-03-21T19:50:03+00:00",
+          "age_hours": 14.7,
+          "scraped_from": "r/singularity",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/singularity/comments/1s00wvj/the_drastic_difference_in_attitude_toward_ai/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=The%20drastic%20difference%20in%20attitude&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=The%20drastic%20difference%20in%20attitude%20toward%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "category": "AI",
+          "topic": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
+          "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+          "source_url": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
+          "source_label": "Hacker News",
+          "voice_score": 94,
+          "hashtags": "#AI #InternetArchive #SmallBusiness #Tech #DataPrivacy #RealEstate #FutureOfWeb",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: blocking the Internet Archive won't slow down AI training, but it'll torch our ability to verify what actually happened online. Funny how the solution everyone's pushing hurts small businesses and creators more than it helps. We need smarter answers.\n\n#AI #InternetArchive #SmallBusiness #Tech #DataPrivacy #RealEstate #FutureOfWeb",
+          "published_at": "2026-03-21T07:30:16+00:00",
+          "age_hours": 27.0,
+          "scraped_from": "Hacker News",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/hackernews/comments/1rzqjja/blocking_internet_archive_wont_stop_ai_but_will/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Blocking%20Internet%20Archive%20Won%27t%20Stop&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "category": "AI",
+          "topic": "man used chatgpt to sell home (rising: ChatGPT)",
+          "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
+          "source_url": "https://trends.google.com/trends/explore?q=man+used+chatgpt+to+sell+home&geo=US",
+          "source_label": "Google Trends \u2014 Rising",
+          "voice_score": 88,
+          "hashtags": "#RealEstate #AIConsulting #ChatGPT #RealEstateMarketing #DaytonaBeach #SmallBusiness #AITools",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 ChatGPT just helped someone sell their home faster. Funny how most real estate folks still aren't using AI for listings, emails, or follow-ups. Not subtle advantage if you start now. Your competition definitely isn't there yet.\n\n#RealEstate #AIConsulting #ChatGPT #RealEstateMarketing #DaytonaBeach #SmallBusiness #AITools",
+          "published_at": "2026-03-22T10:30:12.219340+00:00",
+          "age_hours": 0,
+          "scraped_from": "Google Trends (rising)",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/emulation/comments/1rzlq2o/a_scam_preservation_report_raiders_of_the_lost/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=man%20used%20chatgpt%20to%20sell&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://trends.google.com/trends/explore?q=man+used+chatgpt+to+sell+home&geo=US",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "category": "WORLD",
+          "topic": "Trump Gives Iran 48 Hours to Open Strait, Threatens Power Plants",
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
+          "source_url": "https://reddit.com/r/worldnews/comments/1s07deb/trump_gives_iran_48_hours_to_open_strait/",
+          "source_label": "r/worldnews on Reddit",
+          "voice_score": 89,
+          "hashtags": "#SmallBusiness #RealEstate #EconomyMatters #BusinessOwner #SupplyChain #Hospitality #CoastalBusiness",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 geopolitical tension like this ripples fast through supply chains and energy costs. If you're in hospitality or retail, watch your margins closely. Not subtle how quickly global drama hits local business. What's your biggest concern right now?\n\n#SmallBusiness #RealEstate #EconomyMatters #BusinessOwner #SupplyChain #Hospitality #CoastalBusiness",
+          "published_at": "2026-03-22T00:25:41+00:00",
+          "age_hours": 10.1,
+          "scraped_from": "r/worldnews",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/worldnews/comments/1s07deb/trump_gives_iran_48_hours_to_open_strait/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Trump%20Gives%20Iran%2048%20Hours&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Trump%20Gives%20Iran%2048%20Hours%20to%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "category": "WORLD",
+          "topic": "Trump issues 48-hour ultimatum to Iran - as Israel claims Tehran can hit London",
+          "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
+          "source_url": "https://reddit.com/r/worldnews/comments/1s0ba2m/trump_issues_48hour_ultimatum_to_iran_as_israel/",
+          "source_label": "r/worldnews on Reddit",
+          "voice_score": 90,
+          "hashtags": "#SmallBusiness #RealEstate #Risk #BusinessStrategy #Economics #Resilience #DaytonaBeach",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 geopolitical tensions like this remind small business owners why diversification matters. Can't put all your chips on one market or one scenario. Whether it's real estate portfolios or supply chains, uncertainty is genuinely the only constant. Stay positioned to pivot.\n\n#SmallBusiness #RealEstate #Risk #BusinessStrategy #Economics #Resilience #DaytonaBeach",
+          "published_at": "2026-03-22T03:33:40+00:00",
+          "age_hours": 6.9,
+          "scraped_from": "r/worldnews",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/worldnews/comments/1s0ba2m/trump_issues_48hour_ultimatum_to_iran_as_israel/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Trump%20issues%2048-hour%20ultimatum%20to&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Trump%20issues%2048-hour%20ultimatum%20to%20Iran%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "category": "WORLD",
+          "topic": "After Trump\u2019s Ultimatum, Iran Threatens To Target \u2018Enemy\u2019s\u2019 Desalination Plants",
+          "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+          "source_url": "https://reddit.com/r/worldnews/comments/1s0ddab/after_trumps_ultimatum_iran_threatens_to_target/",
+          "source_label": "r/worldnews on Reddit",
+          "voice_score": 91,
+          "hashtags": "#Geopolitics #SupplyChain #BusinessNews #RealEstate #Hospitality #EconomicImpact #SmallBusiness",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 when geopolitical tensions spike, supply chains get weird fast. Water infrastructure threats hit different because desalination plants run hospitality, agriculture, real estate development. Funny how global instability eventually shows up in local business costs. Genuinely watching this one closely.\n\n#Geopolitics #SupplyChain #BusinessNews #RealEstate #Hospitality #EconomicImpact #SmallBusiness",
+          "published_at": "2026-03-22T05:26:18+00:00",
+          "age_hours": 5.1,
+          "scraped_from": "r/worldnews",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/worldnews/comments/1s0ddab/after_trumps_ultimatum_iran_threatens_to_target/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=After%20Trump%E2%80%99s%20Ultimatum%2C%20Iran%20Threatens&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=After%20Trump%E2%80%99s%20Ultimatum%2C%20Iran%20Threatens%20To%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        }
+      ],
+      "generated_at": "2026-03-22T10:30:12.219340+00:00",
+      "label": "Morning Brief (6:30 AM)",
+      "count": 10
+    },
+    "afternoon": {
+      "posts": [],
+      "generated_at": "",
+      "label": "Afternoon Update (1 PM)",
+      "count": 0
+    },
+    "scripts_thumbnails": []
   },
   "payroll": {
-    "period": "Mar 10 – Mar 24, 2026",
+    "period": "Mar 10 \u2013 Mar 24, 2026",
     "period_type": "B",
     "pay_date": "Mar 27, 2026",
     "total_payout": 5150.0,
@@ -208,7 +782,7 @@
       {
         "level": "red",
         "property": "10 S Halifax Ave",
-        "issue": "AC unit reported not cooling — HVAC scheduled"
+        "issue": "AC unit reported not cooling \u2014 HVAC scheduled"
       },
       {
         "level": "yellow",
@@ -218,7 +792,7 @@
       {
         "level": "green",
         "property": "117 N Hollywood Ave",
-        "issue": "WiFi complaint resolved — confirmed by guest"
+        "issue": "WiFi complaint resolved \u2014 confirmed by guest"
       }
     ],
     "top_performers": [
@@ -238,5 +812,20 @@
         "rating": 4.8
       }
     ]
+  },
+  "scraper_meta": {
+    "scraped_at": "2026-03-22T10:30:12.219340+00:00",
+    "sources_used": [
+      "r/OpenAI",
+      "r/singularity",
+      "Hacker News",
+      "Google Trends (rising)",
+      "The Verge AI",
+      "r/worldnews"
+    ],
+    "all_from_last_24h": true,
+    "post_count": 10,
+    "morning_count": 10,
+    "afternoon_count": 0
   }
 }
