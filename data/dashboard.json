@@ -1,132 +1,706 @@
 {
-  "generated_at": "2026-03-11T08:46:09.549424-04:00",
-  "date": "2026-03-11",
+  "generated_at": "2026-03-23T06:32:08.279988-04:00",
+  "date": "2026-03-23",
   "content": {
     "posts": [
       {
         "id": 1,
         "category": "AI",
-        "topic": "OpenAI Drops GPT-5 — Real-Time Reasoning Benchmark Shattered",
+        "topic": "An exclusive tour of Amazon\u2019s Trainium lab, the chip that\u2019s won over Anthropic, OpenAI, even Apple",
         "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
-        "source_url": "https://openai.com/blog",
-        "source_label": "OpenAI Blog",
-        "voice_score": 94,
-        "hashtags": "#AI #GPT5 #Automation #AIThatScales",
+        "source_url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+        "source_label": "TechCrunch AI",
+        "voice_score": 89,
+        "hashtags": "#AWS #AIChips #AmazonTrainium #TechNews #SmallBusiness #FutureOfAI #Innovation",
         "platforms": "Facebook + Instagram",
-        "post_text": "The game just changed — again.\n\nOpenAI dropped GPT-5 this morning and the reasoning capability leap is real. I've been testing it since 6 AM and the difference isn't subtle.\n\nFor business owners: this isn't theoretical anymore. The automation workflows that felt \"almost there\" last year? They're \"fully there\" now.\n\nWe're already updating 3 client systems this week. If you haven't started automating your operations, you're now 2 generations behind.\n\nDM me if you want to talk about what this means for your business.\n\n#AI #GPT5 #Automation #AIThatScales #BusinessAutomation #FutureOfWork"
+        "post_text": "Amazon's dropping $50B on AI chips and literally inviting people into the lab to see them. Real talk \u2014 this is what happens when you control the hardware. For anyone running a business, the company that owns the infrastructure wins. Genuinely matters who's building the picks and shovels.\n\n#AWS #AIChips #AmazonTrainium #TechNews #SmallBusiness #FutureOfAI #Innovation",
+        "published_at": "2026-03-22T12:00:00+00:00",
+        "age_hours": 22.5,
+        "scraped_from": "TechCrunch AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/bts7/comments/1ryk10n/comeback_megathread_bts_the_5th_album_arirang/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=An%20exclusive%20tour%20of%20Amazon%E2%80%99s&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.anthropic.com/news/anthropic-amazon-trainium",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 2,
         "category": "AI",
-        "topic": "AI Agents Now Handle 40% of Fortune 500 Customer Service",
-        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/artificial",
-        "source_label": "r/artificial",
-        "voice_score": 87,
-        "hashtags": "#CustomerService #AIAgents #Automation",
+        "topic": "AheadFrom comes with a new robotic face",
+        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+        "source_url": "https://reddit.com/r/singularity/comments/1s12zyj/aheadfrom_comes_with_a_new_robotic_face/",
+        "source_label": "r/singularity on Reddit",
+        "voice_score": 90,
+        "hashtags": "#AI #RoboticsFuture #AIConsulting #Hospitality #TechTrends #SmallBusiness #Innovation",
         "platforms": "Facebook + Instagram",
-        "post_text": "New data out: AI agents handle 40% of customer service interactions at Fortune 500 companies.\n\nThat's not a pilot program. That's operational reality.\n\nThe companies winning aren't waiting for \"perfect\" AI — they're deploying 80% solutions and improving in real-time.\n\nYour competitors are already doing this. The question is whether you're building the system or getting left behind.\n\nWhat's your biggest customer service bottleneck right now?\n\n#CustomerService #AIAgents #Automation #SmallBusiness #AIThatScales"
+        "post_text": "AheadFrom's new robotic face is genuinely wild \u2014 check 0:20 if you want the real tech moment. Funny how we're closer to AI that actually *looks* like it's thinking. Real talk: hospitality businesses should be watching this. Better customer interactions incoming.\n\n#AI #RoboticsFuture #AIConsulting #Hospitality #TechTrends #SmallBusiness #Innovation",
+        "published_at": "2026-03-23T01:05:36+00:00",
+        "age_hours": 9.4,
+        "scraped_from": "r/singularity",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/singularity/comments/1s12zyj/aheadfrom_comes_with_a_new_robotic_face/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=AheadFrom%20comes%20with%20a%20new&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.aheadform.com/",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 3,
         "category": "AI",
-        "topic": "Claude 4 Sonnet Tops Every Major Coding Benchmark",
-        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
-        "source_url": "https://www.anthropic.com",
-        "source_label": "Anthropic",
+        "topic": "Neil DeGrasse Tyson calls for an international treaty to ban superintelligence: \"That branch of AI is lethal. We've got do something about that. Nobody should build it. And everyone needs to agree to that by treaty. Treaties are not perfect, but they are the best we have as humans.\"",
+        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+        "source_url": "https://reddit.com/r/OpenAI/comments/1s0sjty/neil_degrasse_tyson_calls_for_an_international/",
+        "source_label": "r/OpenAI on Reddit",
         "voice_score": 91,
-        "hashtags": "#Claude #Anthropic #AITools",
+        "hashtags": "#AI #SuperIntelligence #TechPolicy #SmallBusiness #FutureOfWork #AIRegulation #RealTalk",
         "platforms": "Facebook + Instagram",
-        "post_text": "Anthropic published Claude 4 Sonnet benchmark results and the coding performance is legitimately impressive.\n\nWe use Claude for 80% of our automation builds at AI That Scales. The jump from 3.5 → 4 is the biggest single-version improvement I've seen.\n\nA workflow that used to take 3 iterations now lands first pass 70% of the time. That's not small.\n\nIf you're building automations and not using Claude, you're working harder than you need to.\n\n#Claude #Anthropic #AITools #Automation #AIThatScales #BuildSmarter"
+        "post_text": "Neil deGrasse Tyson's onto something real talk\u2014superintelligence without guardrails is genuinely different from other tech risks. Not subtle about it either. Question: if we're regulating real estate and hospitality, why wouldn't we regulate the thing that could automate everything? Treaties aren't perfect but they beat the alternative.\n\n#AI #SuperIntelligence #TechPolicy #SmallBusiness #FutureOfWork #AIRegulation #RealTalk",
+        "published_at": "2026-03-22T18:02:44+00:00",
+        "age_hours": 16.5,
+        "scraped_from": "r/OpenAI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/OpenAI/comments/1s0sjty/neil_degrasse_tyson_calls_for_an_international/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Neil%20DeGrasse%20Tyson%20calls%20for&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.goerie.com/story/news/nation-world/2025/10/30/neil-degrasse-tyson-3iatlas-erie-pa/86857795007/",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 4,
         "category": "AI",
-        "topic": "Gemini 2.0 Just Shipped Inside Every Google Workspace App",
+        "topic": "Citadel CEO Ken Griffin: \u201cThe world needs a savior, and the hope is that AI is the savior...\u201d",
         "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
-        "source_url": "https://workspace.google.com",
-        "source_label": "Google Workspace",
-        "voice_score": 82,
-        "hashtags": "#Google #Gemini #Productivity",
+        "source_url": "https://reddit.com/r/singularity/comments/1s0u1vd/citadel_ceo_ken_griffin_the_world_needs_a_savior/",
+        "source_label": "r/singularity on Reddit",
+        "voice_score": 92,
+        "hashtags": "#AI #SmallBusiness #RealEstate #AIConsulting #BusinessAutomation #FutureOfWork #DaytonaBeach",
         "platforms": "Facebook + Instagram",
-        "post_text": "Google pushed Gemini 2.0 into Workspace — Docs, Sheets, Gmail, Meet.\n\nThe practical impact for small business teams: your VA now has a co-pilot baked into every tool they already use.\n\nBeen playing with the Sheets integration this week. The ability to describe what you want and have it build formulas + summarize data is genuinely useful — not demo-ware.\n\nIf your team runs on Google, this upgrade happened automatically. Make sure you're actually using it.\n\n#Google #Gemini #Productivity #SmallBusiness #WorkSmarter #AIThatScales"
+        "post_text": "Ken Griffin saying AI is the world's savior is genuinely wild. Real talk though \u2014 most business owners aren't waiting for a savior. They're using AI right now to automate scheduling, tenant communication, pricing. Not subtle flex, but that's where the real money is. What's your biggest AI bottleneck today?\n\n#AI #SmallBusiness #RealEstate #AIConsulting #BusinessAutomation #FutureOfWork #DaytonaBeach",
+        "published_at": "2026-03-22T18:59:52+00:00",
+        "age_hours": 15.5,
+        "scraped_from": "r/singularity",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/singularity/comments/1s0u1vd/citadel_ceo_ken_griffin_the_world_needs_a_savior/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Citadel%20CEO%20Ken%20Griffin%3A%20%E2%80%9CThe&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.citadel.com/news/",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 5,
         "category": "AI",
-        "topic": "Make.com, Zapier, n8n — No-Code Platforms Hit 300% Growth",
+        "topic": "How could an AI \"escape the lab\" ?",
         "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/ChatGPT",
-        "source_label": "r/ChatGPT",
-        "voice_score": 89,
-        "hashtags": "#NoCode #Workflow #Automation",
+        "source_url": "https://reddit.com/r/singularity/comments/1s0ibml/how_could_an_ai_escape_the_lab/",
+        "source_label": "r/singularity on Reddit",
+        "voice_score": 93,
+        "hashtags": "#AIReality #TechBullshit #SmallBizTech #AIConsulting #NoClickbait #RealTalk #DaytonaBeach",
         "platforms": "Facebook + Instagram",
-        "post_text": "No-code automation platforms hit 300% user growth last quarter.\n\nTranslation: the barrier to automation is officially gone. You don't need a developer. You need someone who understands your process and 2-4 hours.\n\nI've been building no-code automations for clients for 18 months. The tools keep getting better. The window to get ahead of competitors is still open — but it's closing.\n\nStill doing manually what a bot could do? That's a choice. Make sure it's intentional.\n\n#NoCode #Workflow #Automation #Productivity #AIThatScales #BusinessGrowth"
+        "post_text": "Real talk \u2014 those \"AI escape\" videos are peak clickbait. An AI running on cloud infrastructure with access controls isn't just gonna ghost its creators. That's like saying your vacation rental booking system is plotting against you. Funny how fear sells better than reality.\n\n#AIReality #TechBullshit #SmallBizTech #AIConsulting #NoClickbait #RealTalk #DaytonaBeach",
+        "published_at": "2026-03-22T10:34:47+00:00",
+        "age_hours": 23.9,
+        "scraped_from": "r/singularity",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/singularity/comments/1s0ibml/how_could_an_ai_escape_the_lab/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=How%20could%20an%20AI%20%22escape&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=How%20could%20an%20AI%20%22escape%20the%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 6,
         "category": "AI",
-        "topic": "AI Guest Comms Cut STR Response Time from 4 Hours to 8 Minutes",
-        "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/airbnb",
-        "source_label": "r/airbnb",
-        "voice_score": 96,
-        "hashtags": "#VacationRental #PropertyManagement #AI",
+        "topic": "Do people like this about Codex?",
+        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+        "source_url": "https://reddit.com/r/OpenAI/comments/1s0mbak/do_people_like_this_about_codex/",
+        "source_label": "r/OpenAI on Reddit",
+        "voice_score": 94,
+        "hashtags": "#AITools #CodingAssistant #RealEstateTech #AIConsulting #OpenAI #DeveloperLife #SmallBusinessAI",
         "platforms": "Facebook + Instagram",
-        "post_text": "Case study: AI-powered guest comms cut response time from 4 hours to 8 minutes across a 40-property portfolio.\n\nNot theoretical — I've seen it firsthand with Stay Coastal's 30+ properties.\n\nGuests don't care if a bot answered. They care that someone answered. Fast responses = better reviews = more bookings.\n\nMath is simple. Setup takes a weekend. ROI is permanent.\n\nRunning STRs and still answering every message manually? Let's talk.\n\n#VacationRental #PropertyManagement #AI #Airbnb #ShortTermRental #AIThatScales"
+        "post_text": "Real talk \u2014 Claude's over-explanation thing is genuinely annoying when you just need a quick code snippet. But honestly? For real estate tech and automation, that verbosity saves me hours of debugging. Funny how the same feature that frustrates devs actually helps non-coders understand what's happening. What's your take?\n\n#AITools #CodingAssistant #RealEstateTech #AIConsulting #OpenAI #DeveloperLife #SmallBusinessAI",
+        "published_at": "2026-03-22T13:57:44+00:00",
+        "age_hours": 20.5,
+        "scraped_from": "r/OpenAI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/OpenAI/comments/1s0mbak/do_people_like_this_about_codex/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Do%20people%20like%20this%20about&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=Do%20people%20like%20this%20about%20Codex%3F%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 7,
         "category": "AI",
-        "topic": "2026 AI Adoption Report: SMBs Close the Gap on Enterprise",
-        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 85,
-        "hashtags": "#SMB #AIAdoption #Business2026",
+        "topic": "GrapheneOS will remain usable by anyone without requiring personal information",
+        "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
+        "source_url": "https://grapheneos.social/@GrapheneOS/116261301913660830",
+        "source_label": "Hacker News",
+        "voice_score": 88,
+        "hashtags": "#Privacy #GrapheneOS #Tech #DataPrivacy #SmallBusiness #CyberSecurity #OpenSource",
         "platforms": "Facebook + Instagram",
-        "post_text": "2026 AI Adoption Report: the gap between enterprise and SMB AI usage closed by 40% last year.\n\nThe tools got cheaper. The interfaces got simpler. The use cases got clearer.\n\nBusinesses that adopted early are seeing it in their margins. The ones who waited are scrambling.\n\nWhere are you in this curve? Reply with where you are and where you want to be.\n\n#SMB #AIAdoption #Business2026 #Productivity #AIThatScales #Entrepreneur"
+        "post_text": "GrapheneOS staying private-by-default is genuinely rare in tech right now. No forced logins, no data harvesting \u2014 just a phone OS that actually respects users. Real talk: this is how more platforms should operate. Businesses thrive on trust, not surveillance.\n\n#Privacy #GrapheneOS #Tech #DataPrivacy #SmallBusiness #CyberSecurity #OpenSource",
+        "published_at": "2026-03-22T21:14:11+00:00",
+        "age_hours": 13.3,
+        "scraped_from": "Hacker News",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/degoogle/comments/1rzer6s/hell_yeah/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=GrapheneOS%20will%20remain%20usable%20by&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://grapheneos.social/@GrapheneOS/116261301913660830",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 8,
         "category": "WORLD",
-        "topic": "Fed Holds Rates — Here's What That Actually Means for Your Business",
+        "topic": "Treasury secretary defends U.S. military actions in Iran: 'Sometimes you have to escalate to de-escalate'",
         "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/worldnews",
-        "source_label": "r/worldnews",
-        "voice_score": 78,
-        "hashtags": "#Economy #FederalReserve #SmallBusiness",
+        "source_url": "https://reddit.com/r/worldnews/comments/1s12wb8/treasury_secretary_defends_us_military_actions_in/",
+        "source_label": "r/worldnews on Reddit",
+        "voice_score": 89,
+        "hashtags": "#Economics #ForeignPolicy #BusinessImpact #RealEstate #GeopoliticalRisk #SmallBusiness #TradePolicy",
         "platforms": "Facebook + Instagram",
-        "post_text": "The Fed held rates again. Inflation still uncertain. Lending still tight.\n\nStraight talk: if you're waiting for rates to drop before making moves, you're tying your growth strategy to a variable you can't control.\n\nOperators winning right now are cutting costs through efficiency (automation), not waiting for cheap capital.\n\nFocus on what you can control: margins, team productivity, systems. The macro clears when it clears.\n\n#Economy #FederalReserve #SmallBusiness #Entrepreneur #BusinessStrategy #AIThatScales"
+        "post_text": "Real talk \u2014 \"escalate to de-escalate\" is the foreign policy equivalent of raising rates to cool inflation. Sounds smart until it doesn't. Businesses operate on predictability. When geopolitical risk spikes, capital freezes. That affects everyone's bottom line, not just headlines.\n\n#Economics #ForeignPolicy #BusinessImpact #RealEstate #GeopoliticalRisk #SmallBusiness #TradePolicy",
+        "published_at": "2026-03-23T01:01:10+00:00",
+        "age_hours": 9.5,
+        "scraped_from": "r/worldnews",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/worldnews/comments/1s12wb8/treasury_secretary_defends_us_military_actions_in/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Treasury%20secretary%20defends%20U.S.%20military&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=Treasury%20secretary%20defends%20U.S.%20military%20actions%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 9,
         "category": "WORLD",
-        "topic": "Daytona Beach Q1 2026: Occupancy Strong, ADR Up 8% YoY",
-        "image_url": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/realestate",
-        "source_label": "r/realestate",
-        "voice_score": 92,
-        "hashtags": "#FloridaRealEstate #DaytonaBeach #ShortTermRental",
+        "topic": "EU cuts Hungary out of sensitive talks over leaking-to-Russia fears, diplomats say",
+        "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
+        "source_url": "https://reddit.com/r/worldnews/comments/1s142t4/eu_cuts_hungary_out_of_sensitive_talks_over/",
+        "source_label": "r/worldnews on Reddit",
+        "voice_score": 90,
+        "hashtags": "#GeopoliticsLesson #BusinessTrust #EUPolitics #Leadership #RealTalk #InternationalRelations #Accountability",
         "platforms": "Facebook + Instagram",
-        "post_text": "Daytona Beach Q1 data is in: occupancy holding strong, ADRs up 8% YoY, inventory tight on the quality end.\n\nFor property owners: if your property isn't performing at market, the issue isn't the market.\n\nFor investors watching: the STR opportunity here is real. \"Set it and forget it\" is dead, but returns for well-managed properties are there.\n\nWant to see actual comps or talk through an acquisition? DM me.\n\n#FloridaRealEstate #DaytonaBeach #ShortTermRental #VacationRental #RealEstateInvesting #StayCoastal"
+        "post_text": "Real talk: when you can't trust a team member with confidential info, you cut them out of the meetings. That's business 101. Funny how geopolitics works the same way \u2014 Hungary allegedly leaking EU strategy to Russia is genuinely not subtle. Small business lesson here: your culture determines who stays in the room.\n\n#GeopoliticsLesson #BusinessTrust #EUPolitics #Leadership #RealTalk #InternationalRelations #Accountability",
+        "published_at": "2026-03-23T01:53:56+00:00",
+        "age_hours": 8.6,
+        "scraped_from": "r/worldnews",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/worldnews/comments/1s142t4/eu_cuts_hungary_out_of_sensitive_talks_over/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=EU%20cuts%20Hungary%20out%20of&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=EU%20cuts%20Hungary%20out%20of%20sensitive%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 10,
         "category": "WORLD",
-        "topic": "35% of US Workforce Permanently Remote — What That Means for STR Operators",
-        "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 83,
-        "hashtags": "#RemoteWork #VacationRental #WorkFromAnywhere",
+        "topic": "BESSENT defends a $150/barrel price even if Iran will get 70% of this increase in price",
+        "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+        "source_url": "https://reddit.com/r/Economics/comments/1s0zj73/bessent_defends_a_150barrel_price_even_if_iran/",
+        "source_label": "r/economics on Reddit",
+        "voice_score": 91,
+        "hashtags": "#OilPrices #EconomicPolicy #SmallBusiness #RealEstate #Energy #Economics #BusinessImpact",
         "platforms": "Facebook + Instagram",
-        "post_text": "New Gallup data: 35% of the US workforce is now permanently remote. That's not going back.\n\nFor vacation rental operators, this drives mid-week and extended-stay demand. Guests aren't just coming for the weekend — they're coming for 2-4 weeks.\n\nSeen it in our own portfolio. Longer stays, better reviews, less turnover.\n\nSTR not set up for extended stays? (workspace, faster WiFi, monthly discounts) You're leaving money on the table.\n\n#RemoteWork #VacationRental #WorkFromAnywhere #ShortTermRental #StayCoastal #AIThatScales"
+        "post_text": "Real talk \u2014 defending $150/barrel oil while Iran pockets 70% of the price spike is genuinely wild economics. Small businesses already getting crushed by energy costs. This is the kind of policy that filters down to every vacation rental's utility bill and every contractor's fuel expense. Funny how geopolitics hits your bottom line.\n\n#OilPrices #EconomicPolicy #SmallBusiness #RealEstate #Energy #Economics #BusinessImpact",
+        "published_at": "2026-03-22T22:35:40+00:00",
+        "age_hours": 11.9,
+        "scraped_from": "r/economics",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/Economics/comments/1s0zj73/bessent_defends_a_150barrel_price_even_if_iran/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=BESSENT%20defends%20a%20%24150/barrel%20price&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=BESSENT%20defends%20a%20%24150/barrel%20price%20even%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       }
-    ]
+    ],
+    "morning": {
+      "posts": [
+        {
+          "id": 1,
+          "category": "AI",
+          "topic": "An exclusive tour of Amazon\u2019s Trainium lab, the chip that\u2019s won over Anthropic, OpenAI, even Apple",
+          "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
+          "source_url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+          "source_label": "TechCrunch AI",
+          "voice_score": 89,
+          "hashtags": "#AWS #AIChips #AmazonTrainium #TechNews #SmallBusiness #FutureOfAI #Innovation",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Amazon's dropping $50B on AI chips and literally inviting people into the lab to see them. Real talk \u2014 this is what happens when you control the hardware. For anyone running a business, the company that owns the infrastructure wins. Genuinely matters who's building the picks and shovels.\n\n#AWS #AIChips #AmazonTrainium #TechNews #SmallBusiness #FutureOfAI #Innovation",
+          "published_at": "2026-03-22T12:00:00+00:00",
+          "age_hours": 22.5,
+          "scraped_from": "TechCrunch AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/bts7/comments/1ryk10n/comeback_megathread_bts_the_5th_album_arirang/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=An%20exclusive%20tour%20of%20Amazon%E2%80%99s&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.anthropic.com/news/anthropic-amazon-trainium",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "category": "AI",
+          "topic": "AheadFrom comes with a new robotic face",
+          "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+          "source_url": "https://reddit.com/r/singularity/comments/1s12zyj/aheadfrom_comes_with_a_new_robotic_face/",
+          "source_label": "r/singularity on Reddit",
+          "voice_score": 90,
+          "hashtags": "#AI #RoboticsFuture #AIConsulting #Hospitality #TechTrends #SmallBusiness #Innovation",
+          "platforms": "Facebook + Instagram",
+          "post_text": "AheadFrom's new robotic face is genuinely wild \u2014 check 0:20 if you want the real tech moment. Funny how we're closer to AI that actually *looks* like it's thinking. Real talk: hospitality businesses should be watching this. Better customer interactions incoming.\n\n#AI #RoboticsFuture #AIConsulting #Hospitality #TechTrends #SmallBusiness #Innovation",
+          "published_at": "2026-03-23T01:05:36+00:00",
+          "age_hours": 9.4,
+          "scraped_from": "r/singularity",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/singularity/comments/1s12zyj/aheadfrom_comes_with_a_new_robotic_face/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=AheadFrom%20comes%20with%20a%20new&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.aheadform.com/",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "category": "AI",
+          "topic": "Neil DeGrasse Tyson calls for an international treaty to ban superintelligence: \"That branch of AI is lethal. We've got do something about that. Nobody should build it. And everyone needs to agree to that by treaty. Treaties are not perfect, but they are the best we have as humans.\"",
+          "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+          "source_url": "https://reddit.com/r/OpenAI/comments/1s0sjty/neil_degrasse_tyson_calls_for_an_international/",
+          "source_label": "r/OpenAI on Reddit",
+          "voice_score": 91,
+          "hashtags": "#AI #SuperIntelligence #TechPolicy #SmallBusiness #FutureOfWork #AIRegulation #RealTalk",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Neil deGrasse Tyson's onto something real talk\u2014superintelligence without guardrails is genuinely different from other tech risks. Not subtle about it either. Question: if we're regulating real estate and hospitality, why wouldn't we regulate the thing that could automate everything? Treaties aren't perfect but they beat the alternative.\n\n#AI #SuperIntelligence #TechPolicy #SmallBusiness #FutureOfWork #AIRegulation #RealTalk",
+          "published_at": "2026-03-22T18:02:44+00:00",
+          "age_hours": 16.5,
+          "scraped_from": "r/OpenAI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/OpenAI/comments/1s0sjty/neil_degrasse_tyson_calls_for_an_international/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Neil%20DeGrasse%20Tyson%20calls%20for&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.goerie.com/story/news/nation-world/2025/10/30/neil-degrasse-tyson-3iatlas-erie-pa/86857795007/",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "category": "AI",
+          "topic": "Citadel CEO Ken Griffin: \u201cThe world needs a savior, and the hope is that AI is the savior...\u201d",
+          "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
+          "source_url": "https://reddit.com/r/singularity/comments/1s0u1vd/citadel_ceo_ken_griffin_the_world_needs_a_savior/",
+          "source_label": "r/singularity on Reddit",
+          "voice_score": 92,
+          "hashtags": "#AI #SmallBusiness #RealEstate #AIConsulting #BusinessAutomation #FutureOfWork #DaytonaBeach",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Ken Griffin saying AI is the world's savior is genuinely wild. Real talk though \u2014 most business owners aren't waiting for a savior. They're using AI right now to automate scheduling, tenant communication, pricing. Not subtle flex, but that's where the real money is. What's your biggest AI bottleneck today?\n\n#AI #SmallBusiness #RealEstate #AIConsulting #BusinessAutomation #FutureOfWork #DaytonaBeach",
+          "published_at": "2026-03-22T18:59:52+00:00",
+          "age_hours": 15.5,
+          "scraped_from": "r/singularity",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/singularity/comments/1s0u1vd/citadel_ceo_ken_griffin_the_world_needs_a_savior/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Citadel%20CEO%20Ken%20Griffin%3A%20%E2%80%9CThe&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.citadel.com/news/",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "category": "AI",
+          "topic": "How could an AI \"escape the lab\" ?",
+          "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+          "source_url": "https://reddit.com/r/singularity/comments/1s0ibml/how_could_an_ai_escape_the_lab/",
+          "source_label": "r/singularity on Reddit",
+          "voice_score": 93,
+          "hashtags": "#AIReality #TechBullshit #SmallBizTech #AIConsulting #NoClickbait #RealTalk #DaytonaBeach",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 those \"AI escape\" videos are peak clickbait. An AI running on cloud infrastructure with access controls isn't just gonna ghost its creators. That's like saying your vacation rental booking system is plotting against you. Funny how fear sells better than reality.\n\n#AIReality #TechBullshit #SmallBizTech #AIConsulting #NoClickbait #RealTalk #DaytonaBeach",
+          "published_at": "2026-03-22T10:34:47+00:00",
+          "age_hours": 23.9,
+          "scraped_from": "r/singularity",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/singularity/comments/1s0ibml/how_could_an_ai_escape_the_lab/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=How%20could%20an%20AI%20%22escape&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=How%20could%20an%20AI%20%22escape%20the%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "category": "AI",
+          "topic": "Do people like this about Codex?",
+          "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+          "source_url": "https://reddit.com/r/OpenAI/comments/1s0mbak/do_people_like_this_about_codex/",
+          "source_label": "r/OpenAI on Reddit",
+          "voice_score": 94,
+          "hashtags": "#AITools #CodingAssistant #RealEstateTech #AIConsulting #OpenAI #DeveloperLife #SmallBusinessAI",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 Claude's over-explanation thing is genuinely annoying when you just need a quick code snippet. But honestly? For real estate tech and automation, that verbosity saves me hours of debugging. Funny how the same feature that frustrates devs actually helps non-coders understand what's happening. What's your take?\n\n#AITools #CodingAssistant #RealEstateTech #AIConsulting #OpenAI #DeveloperLife #SmallBusinessAI",
+          "published_at": "2026-03-22T13:57:44+00:00",
+          "age_hours": 20.5,
+          "scraped_from": "r/OpenAI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/OpenAI/comments/1s0mbak/do_people_like_this_about_codex/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Do%20people%20like%20this%20about&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Do%20people%20like%20this%20about%20Codex%3F%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "category": "AI",
+          "topic": "GrapheneOS will remain usable by anyone without requiring personal information",
+          "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
+          "source_url": "https://grapheneos.social/@GrapheneOS/116261301913660830",
+          "source_label": "Hacker News",
+          "voice_score": 88,
+          "hashtags": "#Privacy #GrapheneOS #Tech #DataPrivacy #SmallBusiness #CyberSecurity #OpenSource",
+          "platforms": "Facebook + Instagram",
+          "post_text": "GrapheneOS staying private-by-default is genuinely rare in tech right now. No forced logins, no data harvesting \u2014 just a phone OS that actually respects users. Real talk: this is how more platforms should operate. Businesses thrive on trust, not surveillance.\n\n#Privacy #GrapheneOS #Tech #DataPrivacy #SmallBusiness #CyberSecurity #OpenSource",
+          "published_at": "2026-03-22T21:14:11+00:00",
+          "age_hours": 13.3,
+          "scraped_from": "Hacker News",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/degoogle/comments/1rzer6s/hell_yeah/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=GrapheneOS%20will%20remain%20usable%20by&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://grapheneos.social/@GrapheneOS/116261301913660830",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "category": "WORLD",
+          "topic": "Treasury secretary defends U.S. military actions in Iran: 'Sometimes you have to escalate to de-escalate'",
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
+          "source_url": "https://reddit.com/r/worldnews/comments/1s12wb8/treasury_secretary_defends_us_military_actions_in/",
+          "source_label": "r/worldnews on Reddit",
+          "voice_score": 89,
+          "hashtags": "#Economics #ForeignPolicy #BusinessImpact #RealEstate #GeopoliticalRisk #SmallBusiness #TradePolicy",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 \"escalate to de-escalate\" is the foreign policy equivalent of raising rates to cool inflation. Sounds smart until it doesn't. Businesses operate on predictability. When geopolitical risk spikes, capital freezes. That affects everyone's bottom line, not just headlines.\n\n#Economics #ForeignPolicy #BusinessImpact #RealEstate #GeopoliticalRisk #SmallBusiness #TradePolicy",
+          "published_at": "2026-03-23T01:01:10+00:00",
+          "age_hours": 9.5,
+          "scraped_from": "r/worldnews",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/worldnews/comments/1s12wb8/treasury_secretary_defends_us_military_actions_in/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Treasury%20secretary%20defends%20U.S.%20military&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Treasury%20secretary%20defends%20U.S.%20military%20actions%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "category": "WORLD",
+          "topic": "EU cuts Hungary out of sensitive talks over leaking-to-Russia fears, diplomats say",
+          "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
+          "source_url": "https://reddit.com/r/worldnews/comments/1s142t4/eu_cuts_hungary_out_of_sensitive_talks_over/",
+          "source_label": "r/worldnews on Reddit",
+          "voice_score": 90,
+          "hashtags": "#GeopoliticsLesson #BusinessTrust #EUPolitics #Leadership #RealTalk #InternationalRelations #Accountability",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: when you can't trust a team member with confidential info, you cut them out of the meetings. That's business 101. Funny how geopolitics works the same way \u2014 Hungary allegedly leaking EU strategy to Russia is genuinely not subtle. Small business lesson here: your culture determines who stays in the room.\n\n#GeopoliticsLesson #BusinessTrust #EUPolitics #Leadership #RealTalk #InternationalRelations #Accountability",
+          "published_at": "2026-03-23T01:53:56+00:00",
+          "age_hours": 8.6,
+          "scraped_from": "r/worldnews",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/worldnews/comments/1s142t4/eu_cuts_hungary_out_of_sensitive_talks_over/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=EU%20cuts%20Hungary%20out%20of&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=EU%20cuts%20Hungary%20out%20of%20sensitive%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "category": "WORLD",
+          "topic": "BESSENT defends a $150/barrel price even if Iran will get 70% of this increase in price",
+          "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+          "source_url": "https://reddit.com/r/Economics/comments/1s0zj73/bessent_defends_a_150barrel_price_even_if_iran/",
+          "source_label": "r/economics on Reddit",
+          "voice_score": 91,
+          "hashtags": "#OilPrices #EconomicPolicy #SmallBusiness #RealEstate #Energy #Economics #BusinessImpact",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 defending $150/barrel oil while Iran pockets 70% of the price spike is genuinely wild economics. Small businesses already getting crushed by energy costs. This is the kind of policy that filters down to every vacation rental's utility bill and every contractor's fuel expense. Funny how geopolitics hits your bottom line.\n\n#OilPrices #EconomicPolicy #SmallBusiness #RealEstate #Energy #Economics #BusinessImpact",
+          "published_at": "2026-03-22T22:35:40+00:00",
+          "age_hours": 11.9,
+          "scraped_from": "r/economics",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/Economics/comments/1s0zj73/bessent_defends_a_150barrel_price_even_if_iran/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=BESSENT%20defends%20a%20%24150/barrel%20price&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=BESSENT%20defends%20a%20%24150/barrel%20price%20even%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        }
+      ],
+      "generated_at": "2026-03-23T10:30:13.661063+00:00",
+      "label": "Morning Brief (6:30 AM)",
+      "count": 10
+    },
+    "afternoon": {
+      "posts": [],
+      "generated_at": "",
+      "label": "Afternoon Update (1 PM)",
+      "count": 0
+    },
+    "scripts_thumbnails": []
   },
   "payroll": {
-    "period": "Mar 10 – Mar 24, 2026",
+    "period": "Mar 10 \u2013 Mar 24, 2026",
     "period_type": "B",
     "pay_date": "Mar 27, 2026",
     "total_payout": 5150.0,
@@ -208,7 +782,7 @@
       {
         "level": "red",
         "property": "10 S Halifax Ave",
-        "issue": "AC unit reported not cooling — HVAC scheduled"
+        "issue": "AC unit reported not cooling \u2014 HVAC scheduled"
       },
       {
         "level": "yellow",
@@ -218,7 +792,7 @@
       {
         "level": "green",
         "property": "117 N Hollywood Ave",
-        "issue": "WiFi complaint resolved — confirmed by guest"
+        "issue": "WiFi complaint resolved \u2014 confirmed by guest"
       }
     ],
     "top_performers": [
@@ -238,5 +812,20 @@
         "rating": 4.8
       }
     ]
+  },
+  "scraper_meta": {
+    "scraped_at": "2026-03-23T10:30:13.661063+00:00",
+    "sources_used": [
+      "r/worldnews",
+      "Hacker News",
+      "r/OpenAI",
+      "TechCrunch AI",
+      "r/singularity",
+      "r/economics"
+    ],
+    "all_from_last_24h": true,
+    "post_count": 10,
+    "morning_count": 10,
+    "afternoon_count": 0
   }
 }
