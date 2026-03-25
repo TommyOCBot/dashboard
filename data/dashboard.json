@@ -1,132 +1,706 @@
 {
-  "generated_at": "2026-03-11T08:46:09.549424-04:00",
-  "date": "2026-03-11",
+  "generated_at": "2026-03-25T15:29:30.893942-04:00",
+  "date": "2026-03-25",
   "content": {
     "posts": [
       {
         "id": 1,
         "category": "AI",
-        "topic": "OpenAI Drops GPT-5 — Real-Time Reasoning Benchmark Shattered",
+        "topic": "Build with Lyria 3, our newest music generation model",
         "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
-        "source_url": "https://openai.com/blog",
-        "source_label": "OpenAI Blog",
-        "voice_score": 94,
-        "hashtags": "#AI #GPT5 #Automation #AIThatScales",
+        "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
+        "source_label": "Google AI Blog",
+        "voice_score": 89,
+        "hashtags": "#AITools #MusicGeneration #SmallBusiness #Hospitality #ContentCreation #GoogleAI #DaytonaBeach",
         "platforms": "Facebook + Instagram",
-        "post_text": "The game just changed — again.\n\nOpenAI dropped GPT-5 this morning and the reasoning capability leap is real. I've been testing it since 6 AM and the difference isn't subtle.\n\nFor business owners: this isn't theoretical anymore. The automation workflows that felt \"almost there\" last year? They're \"fully there\" now.\n\nWe're already updating 3 client systems this week. If you haven't started automating your operations, you're now 2 generations behind.\n\nDM me if you want to talk about what this means for your business.\n\n#AI #GPT5 #Automation #AIThatScales #BusinessAutomation #FutureOfWork"
+        "post_text": "Google just dropped Lyria 3 for music generation through the Gemini API. Real talk \u2014 if you're running a hospitality business, imagine custom background music for your property videos or branded audio content without licensing headaches. Worth testing if you're scaling content operations.\n\n#AITools #MusicGeneration #SmallBusiness #Hospitality #ContentCreation #GoogleAI #DaytonaBeach",
+        "published_at": "2026-03-25T16:00:00+00:00",
+        "age_hours": 3.5,
+        "scraped_from": "Google AI Blog",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/BestofRedditorUpdates/comments/1rxq7u7/my_bf_asked_for_the_banana_now_ive_got_the_ick_2/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Build%20with%20Lyria%203%2C%20our&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 2,
         "category": "AI",
-        "topic": "AI Agents Now Handle 40% of Fortune 500 Customer Service",
-        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/artificial",
-        "source_label": "r/artificial",
-        "voice_score": 87,
-        "hashtags": "#CustomerService #AIAgents #Automation",
+        "topic": "Google launches Lyria 3 Pro music generation model",
+        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+        "source_url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
+        "source_label": "TechCrunch AI",
+        "voice_score": 90,
+        "hashtags": "#AIMusic #SmallBusiness #HospitalityTech #GoogleAI #RealEstate #AIConsulting #FutureOfWork",
         "platforms": "Facebook + Instagram",
-        "post_text": "New data out: AI agents handle 40% of customer service interactions at Fortune 500 companies.\n\nThat's not a pilot program. That's operational reality.\n\nThe companies winning aren't waiting for \"perfect\" AI — they're deploying 80% solutions and improving in real-time.\n\nYour competitors are already doing this. The question is whether you're building the system or getting left behind.\n\nWhat's your biggest customer service bottleneck right now?\n\n#CustomerService #AIAgents #Automation #SmallBusiness #AIThatScales"
+        "post_text": "Google just dropped Lyria 3 Pro and honestly, the customization angle is what caught my attention. Longer tracks, more control \u2014 that's literally what we needed for hospitality. Imagine AI-generated ambient music tailored to each property's vibe. Not subtle how fast this is moving.\n\n#AIMusic #SmallBusiness #HospitalityTech #GoogleAI #RealEstate #AIConsulting #FutureOfWork",
+        "published_at": "2026-03-25T16:37:43+00:00",
+        "age_hours": 2.8,
+        "scraped_from": "TechCrunch AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/Games/comments/1rxhr7t/crimson_desert_review_thread/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Google%20launches%20Lyria%203%20Pro&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 3,
         "category": "AI",
-        "topic": "Claude 4 Sonnet Tops Every Major Coding Benchmark",
-        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
-        "source_url": "https://www.anthropic.com",
-        "source_label": "Anthropic",
+        "topic": "Introducing the OpenAI Safety Bug Bounty program",
+        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+        "source_url": "https://openai.com/index/safety-bug-bounty",
+        "source_label": "OpenAI Blog",
         "voice_score": 91,
-        "hashtags": "#Claude #Anthropic #AITools",
+        "hashtags": "#AI #Cybersecurity #SmallBusiness #RealEstate #OpenAI #TechNews #BugBounty",
         "platforms": "Facebook + Instagram",
-        "post_text": "Anthropic published Claude 4 Sonnet benchmark results and the coding performance is legitimately impressive.\n\nWe use Claude for 80% of our automation builds at AI That Scales. The jump from 3.5 → 4 is the biggest single-version improvement I've seen.\n\nA workflow that used to take 3 iterations now lands first pass 70% of the time. That's not small.\n\nIf you're building automations and not using Claude, you're working harder than you need to.\n\n#Claude #Anthropic #AITools #Automation #AIThatScales #BuildSmarter"
+        "post_text": "OpenAI just launched a bug bounty program for AI safety issues. Real talk \u2014 if you're using AI in your business (rental management, customer service, whatever), this matters. They're hunting for prompt injection, data leaks, abuse vectors. Basically paying people to break things before bad actors do it for free. Smart move.\n\n#AI #Cybersecurity #SmallBusiness #RealEstate #OpenAI #TechNews #BugBounty",
+        "published_at": "2026-03-25T00:00:00+00:00",
+        "age_hours": 19.5,
+        "scraped_from": "OpenAI Blog",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/HFY/comments/1s0vevg/wearing_power_armor_to_a_magic_school_164/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Introducing%20the%20OpenAI%20Safety%20Bug&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://openai.com/index/safety-bug-bounty",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 4,
         "category": "AI",
-        "topic": "Gemini 2.0 Just Shipped Inside Every Google Workspace App",
+        "topic": "Senate Democrats are trying to \u2018codify\u2019 Anthropic&#8217;s red lines on autonomous weapons and mass surveillance",
         "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
-        "source_url": "https://workspace.google.com",
-        "source_label": "Google Workspace",
-        "voice_score": 82,
-        "hashtags": "#Google #Gemini #Productivity",
+        "source_url": "https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance",
+        "source_label": "The Verge AI",
+        "voice_score": 92,
+        "hashtags": "#AI #Tech #Ethics #Congress #SmallBusiness #AIPolicy #RealEstate",
         "platforms": "Facebook + Instagram",
-        "post_text": "Google pushed Gemini 2.0 into Workspace — Docs, Sheets, Gmail, Meet.\n\nThe practical impact for small business teams: your VA now has a co-pilot baked into every tool they already use.\n\nBeen playing with the Sheets integration this week. The ability to describe what you want and have it build formulas + summarize data is genuinely useful — not demo-ware.\n\nIf your team runs on Google, this upgrade happened automatically. Make sure you're actually using it.\n\n#Google #Gemini #Productivity #SmallBusiness #WorkSmarter #AIThatScales"
+        "post_text": "Real talk: Congress actually trying to put guardrails on AI weapons and mass surveillance. Funny how it takes senators to do what tech companies should've done from the start. This matters for every business trying to operate with actual ethics. What's your take?\n\n#AI #Tech #Ethics #Congress #SmallBusiness #AIPolicy #RealEstate",
+        "published_at": "2026-03-25T11:05:46-04:00",
+        "age_hours": 4.4,
+        "scraped_from": "The Verge AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/thenextgenbusiness/comments/1ry79z9/sen_mazie_hirono_seven_times_democrats_tried_to/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Senate%20Democrats%20are%20trying%20to&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.anthropic.com/news/statement-comments-secretary-war?subjects=interpretability",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 5,
         "category": "AI",
-        "topic": "Make.com, Zapier, n8n — No-Code Platforms Hit 300% Growth",
+        "topic": "Anthropic\u2019s Claude Code gets \u2018safer\u2019 auto mode",
         "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/ChatGPT",
-        "source_label": "r/ChatGPT",
-        "voice_score": 89,
-        "hashtags": "#NoCode #Workflow #Automation",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode",
+        "source_label": "The Verge AI",
+        "voice_score": 93,
+        "hashtags": "#AI #SmallBusiness #RealEstate #AITools #Automation #VacationRental #Tech",
         "platforms": "Facebook + Instagram",
-        "post_text": "No-code automation platforms hit 300% user growth last quarter.\n\nTranslation: the barrier to automation is officially gone. You don't need a developer. You need someone who understands your process and 2-4 hours.\n\nI've been building no-code automations for clients for 18 months. The tools keep getting better. The window to get ahead of competitors is still open — but it's closing.\n\nStill doing manually what a bot could do? That's a choice. Make sure it's intentional.\n\n#NoCode #Workflow #Automation #Productivity #AIThatScales #BusinessGrowth"
+        "post_text": "Claude's new auto mode is genuinely interesting for small ops like ours. Basically gives AI some decision-making power without going full skynet. Real talk though\u2014for vacation rental management or real estate workflows, this could cut out a lot of back-and-forth approval loops. Not subtle progress.\n\n#AI #SmallBusiness #RealEstate #AITools #Automation #VacationRental #Tech",
+        "published_at": "2026-03-25T07:39:46-04:00",
+        "age_hours": 7.8,
+        "scraped_from": "The Verge AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/ClaudeAI/comments/1s1a14v/the_gotobed_problem/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Anthropic%E2%80%99s%20Claude%20Code%20gets%20%E2%80%98safer%E2%80%99&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode",
+            "label": "News Article"
+          }
+        ]
       },
       {
         "id": 6,
         "category": "AI",
-        "topic": "AI Guest Comms Cut STR Response Time from 4 Hours to 8 Minutes",
-        "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/airbnb",
-        "source_label": "r/airbnb",
-        "voice_score": 96,
-        "hashtags": "#VacationRental #PropertyManagement #AI",
+        "topic": "Inside our approach to the Model Spec",
+        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+        "source_url": "https://openai.com/index/our-approach-to-the-model-spec",
+        "source_label": "OpenAI Blog",
+        "voice_score": 94,
+        "hashtags": "#AITransparency #OpenAI #TechPolicy #SmallBusiness #AIConsulting #FutureOfWork #ModelSpec",
         "platforms": "Facebook + Instagram",
-        "post_text": "Case study: AI-powered guest comms cut response time from 4 hours to 8 minutes across a 40-property portfolio.\n\nNot theoretical — I've seen it firsthand with Stay Coastal's 30+ properties.\n\nGuests don't care if a bot answered. They care that someone answered. Fast responses = better reviews = more bookings.\n\nMath is simple. Setup takes a weekend. ROI is permanent.\n\nRunning STRs and still answering every message manually? Let's talk.\n\n#VacationRental #PropertyManagement #AI #Airbnb #ShortTermRental #AIThatScales"
+        "post_text": "OpenAI just dropped their Model Spec framework and genuinely, this matters for anyone building AI into their business. Real talk: it's basically a public playbook for how their models should behave. Balancing safety with user freedom isn't subtle work. Curious how this shapes what you're actually able to do with AI tools you're already using.\n\n#AITransparency #OpenAI #TechPolicy #SmallBusiness #AIConsulting #FutureOfWork #ModelSpec",
+        "published_at": "2026-03-25T10:00:00+00:00",
+        "age_hours": 9.5,
+        "scraped_from": "OpenAI Blog",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/pennystocks/comments/1s1jws4/qsi_biggest_catalyst_in_its_entire_history_is/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Inside%20our%20approach%20to%20the&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://openai.com/index/our-approach-to-the-model-spec",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 7,
         "category": "AI",
-        "topic": "2026 AI Adoption Report: SMBs Close the Gap on Enterprise",
-        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 85,
-        "hashtags": "#SMB #AIAdoption #Business2026",
+        "topic": "OpenAI\u2019s Sora was the creepiest app on your phone \u2014 now it\u2019s shutting down",
+        "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
+        "source_url": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
+        "source_label": "TechCrunch AI",
+        "voice_score": 88,
+        "hashtags": "#AItrends #SmallBusiness #TechReality #RealEstate #AIConsulting #HospitalityTech #DaytonaBeach",
         "platforms": "Facebook + Instagram",
-        "post_text": "2026 AI Adoption Report: the gap between enterprise and SMB AI usage closed by 40% last year.\n\nThe tools got cheaper. The interfaces got simpler. The use cases got clearer.\n\nBusinesses that adopted early are seeing it in their margins. The ones who waited are scrambling.\n\nWhere are you in this curve? Reply with where you are and where you want to be.\n\n#SMB #AIAdoption #Business2026 #Productivity #AIThatScales #Entrepreneur"
+        "post_text": "Real talk \u2014 Sora shutting down is genuinely interesting. The tech was legitimately impressive, but an AI-only feed with zero human connection? Not subtle that people want actual community. Same reason our rental guests book experiences, not just algorithms. What keeps people coming back is real relationships.\n\n#AItrends #SmallBusiness #TechReality #RealEstate #AIConsulting #HospitalityTech #DaytonaBeach",
+        "published_at": "2026-03-24T23:57:55+00:00",
+        "age_hours": 19.5,
+        "scraped_from": "TechCrunch AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/technology/comments/1s35f7k/openais_sora_was_the_creepiest_app_on_your_phone/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=OpenAI%E2%80%99s%20Sora%20was%20the%20creepiest&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
+            "label": "News Article"
+          }
+        ]
       },
       {
         "id": 8,
         "category": "WORLD",
-        "topic": "Fed Holds Rates — Here's What That Actually Means for Your Business",
+        "topic": "Mass text in Iran promotes Trump assassination campaign, $25m pledged",
         "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/worldnews",
-        "source_label": "r/worldnews",
-        "voice_score": 78,
-        "hashtags": "#Economy #FederalReserve #SmallBusiness",
+        "source_url": "https://reddit.com/r/worldnews/comments/1s3i51j/mass_text_in_iran_promotes_trump_assassination/",
+        "source_label": "r/worldnews on Reddit",
+        "voice_score": 89,
+        "hashtags": "#BusinessNews #RealEstate #SmallBusiness #GeopoliticalRisk #Entrepreneur #StayCostal #AIConsulting",
         "platforms": "Facebook + Instagram",
-        "post_text": "The Fed held rates again. Inflation still uncertain. Lending still tight.\n\nStraight talk: if you're waiting for rates to drop before making moves, you're tying your growth strategy to a variable you can't control.\n\nOperators winning right now are cutting costs through efficiency (automation), not waiting for cheap capital.\n\nFocus on what you can control: margins, team productivity, systems. The macro clears when it clears.\n\n#Economy #FederalReserve #SmallBusiness #Entrepreneur #BusinessStrategy #AIThatScales"
+        "post_text": "Real talk \u2014 when geopolitical tension spikes like this, it affects everything from travel bookings to supply chains. Business owners need to stay sharp on what's happening globally, not for politics but for actual operational planning. Stay informed.\n\n#BusinessNews #RealEstate #SmallBusiness #GeopoliticalRisk #Entrepreneur #StayCostal #AIConsulting",
+        "published_at": "2026-03-25T17:58:33+00:00",
+        "age_hours": 1.5,
+        "scraped_from": "r/worldnews",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/worldnews/comments/1s3i51j/mass_text_in_iran_promotes_trump_assassination/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Mass%20text%20in%20Iran%20promotes&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=Mass%20text%20in%20Iran%20promotes%20Trump%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 9,
         "category": "WORLD",
-        "topic": "Daytona Beach Q1 2026: Occupancy Strong, ADR Up 8% YoY",
-        "image_url": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/realestate",
-        "source_label": "r/realestate",
-        "voice_score": 92,
-        "hashtags": "#FloridaRealEstate #DaytonaBeach #ShortTermRental",
+        "topic": "Goodbye to Sora",
+        "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
+        "source_url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+        "source_label": "Hacker News",
+        "voice_score": 90,
+        "hashtags": "#AIReality #SmallBusiness #RealEstate #TechTrends #Entrepreneurship #DaytonaBeach #BusinessStrategy",
         "platforms": "Facebook + Instagram",
-        "post_text": "Daytona Beach Q1 data is in: occupancy holding strong, ADRs up 8% YoY, inventory tight on the quality end.\n\nFor property owners: if your property isn't performing at market, the issue isn't the market.\n\nFor investors watching: the STR opportunity here is real. \"Set it and forget it\" is dead, but returns for well-managed properties are there.\n\nWant to see actual comps or talk through an acquisition? DM me.\n\n#FloridaRealEstate #DaytonaBeach #ShortTermRental #VacationRental #RealEstateInvesting #StayCoastal"
+        "post_text": "Real talk \u2014 watching AI tools come and go is genuinely wild. Sora's exit is a reminder that tech hype doesn't always equal staying power. For business owners, the lesson is obvious: don't bet the farm on unproven platforms. Stick with what's working while you test the edges.\n\n#AIReality #SmallBusiness #RealEstate #TechTrends #Entrepreneurship #DaytonaBeach #BusinessStrategy",
+        "published_at": "2026-03-24T20:01:05+00:00",
+        "age_hours": 23.4,
+        "scraped_from": "Hacker News",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/pcmasterrace/comments/1s2xvwo/could_this_be_the_light/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Goodbye%20to%20Sora&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+            "label": "News Article"
+          }
+        ]
       },
       {
         "id": 10,
         "category": "WORLD",
-        "topic": "35% of US Workforce Permanently Remote — What That Means for STR Operators",
-        "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 83,
-        "hashtags": "#RemoteWork #VacationRental #WorkFromAnywhere",
+        "topic": "Iran Denies \u2018Productive\u2019 Talks Hyped By Trump\u2014Accuses Him Of Manipulating Markets",
+        "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+        "source_url": "https://reddit.com/r/Economics/comments/1s3fstb/iran_denies_productive_talks_hyped_by/",
+        "source_label": "r/economics on Reddit",
+        "voice_score": 91,
+        "hashtags": "#BusinessStrategy #MarketDynamics #RealEstate #Economics #Leadership #SmallBusiness #TruthInMarketing",
         "platforms": "Facebook + Instagram",
-        "post_text": "New Gallup data: 35% of the US workforce is now permanently remote. That's not going back.\n\nFor vacation rental operators, this drives mid-week and extended-stay demand. Guests aren't just coming for the weekend — they're coming for 2-4 weeks.\n\nSeen it in our own portfolio. Longer stays, better reviews, less turnover.\n\nSTR not set up for extended stays? (workspace, faster WiFi, monthly discounts) You're leaving money on the table.\n\n#RemoteWork #VacationRental #WorkFromAnywhere #ShortTermRental #StayCoastal #AIThatScales"
+        "post_text": "Real talk: When world leaders start hyping \"productive talks\" publicly, markets move. Iran calling BS on Trump's framing is genuinely interesting\u2014shows how messaging becomes currency. Small business owners deal with this daily. What narrative are you controlling in your market?\n\n#BusinessStrategy #MarketDynamics #RealEstate #Economics #Leadership #SmallBusiness #TruthInMarketing",
+        "published_at": "2026-03-25T16:35:28+00:00",
+        "age_hours": 2.9,
+        "scraped_from": "r/economics",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/Economics/comments/1s3fstb/iran_denies_productive_talks_hyped_by/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Iran%20Denies%20%E2%80%98Productive%E2%80%99%20Talks%20Hyped&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=Iran%20Denies%20%E2%80%98Productive%E2%80%99%20Talks%20Hyped%20By%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       }
-    ]
+    ],
+    "morning": {
+      "posts": [
+        {
+          "id": 1,
+          "category": "AI",
+          "topic": "Build with Lyria 3, our newest music generation model",
+          "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
+          "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
+          "source_label": "Google AI Blog",
+          "voice_score": 89,
+          "hashtags": "#AITools #MusicGeneration #SmallBusiness #Hospitality #ContentCreation #GoogleAI #DaytonaBeach",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Google just dropped Lyria 3 for music generation through the Gemini API. Real talk \u2014 if you're running a hospitality business, imagine custom background music for your property videos or branded audio content without licensing headaches. Worth testing if you're scaling content operations.\n\n#AITools #MusicGeneration #SmallBusiness #Hospitality #ContentCreation #GoogleAI #DaytonaBeach",
+          "published_at": "2026-03-25T16:00:00+00:00",
+          "age_hours": 3.5,
+          "scraped_from": "Google AI Blog",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/BestofRedditorUpdates/comments/1rxq7u7/my_bf_asked_for_the_banana_now_ive_got_the_ick_2/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Build%20with%20Lyria%203%2C%20our&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "category": "AI",
+          "topic": "Google launches Lyria 3 Pro music generation model",
+          "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+          "source_url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
+          "source_label": "TechCrunch AI",
+          "voice_score": 90,
+          "hashtags": "#AIMusic #SmallBusiness #HospitalityTech #GoogleAI #RealEstate #AIConsulting #FutureOfWork",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Google just dropped Lyria 3 Pro and honestly, the customization angle is what caught my attention. Longer tracks, more control \u2014 that's literally what we needed for hospitality. Imagine AI-generated ambient music tailored to each property's vibe. Not subtle how fast this is moving.\n\n#AIMusic #SmallBusiness #HospitalityTech #GoogleAI #RealEstate #AIConsulting #FutureOfWork",
+          "published_at": "2026-03-25T16:37:43+00:00",
+          "age_hours": 2.8,
+          "scraped_from": "TechCrunch AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/Games/comments/1rxhr7t/crimson_desert_review_thread/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Google%20launches%20Lyria%203%20Pro&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "category": "AI",
+          "topic": "Introducing the OpenAI Safety Bug Bounty program",
+          "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+          "source_url": "https://openai.com/index/safety-bug-bounty",
+          "source_label": "OpenAI Blog",
+          "voice_score": 91,
+          "hashtags": "#AI #Cybersecurity #SmallBusiness #RealEstate #OpenAI #TechNews #BugBounty",
+          "platforms": "Facebook + Instagram",
+          "post_text": "OpenAI just launched a bug bounty program for AI safety issues. Real talk \u2014 if you're using AI in your business (rental management, customer service, whatever), this matters. They're hunting for prompt injection, data leaks, abuse vectors. Basically paying people to break things before bad actors do it for free. Smart move.\n\n#AI #Cybersecurity #SmallBusiness #RealEstate #OpenAI #TechNews #BugBounty",
+          "published_at": "2026-03-25T00:00:00+00:00",
+          "age_hours": 19.5,
+          "scraped_from": "OpenAI Blog",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/HFY/comments/1s0vevg/wearing_power_armor_to_a_magic_school_164/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Introducing%20the%20OpenAI%20Safety%20Bug&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://openai.com/index/safety-bug-bounty",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "category": "AI",
+          "topic": "Senate Democrats are trying to \u2018codify\u2019 Anthropic&#8217;s red lines on autonomous weapons and mass surveillance",
+          "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
+          "source_url": "https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance",
+          "source_label": "The Verge AI",
+          "voice_score": 92,
+          "hashtags": "#AI #Tech #Ethics #Congress #SmallBusiness #AIPolicy #RealEstate",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: Congress actually trying to put guardrails on AI weapons and mass surveillance. Funny how it takes senators to do what tech companies should've done from the start. This matters for every business trying to operate with actual ethics. What's your take?\n\n#AI #Tech #Ethics #Congress #SmallBusiness #AIPolicy #RealEstate",
+          "published_at": "2026-03-25T11:05:46-04:00",
+          "age_hours": 4.4,
+          "scraped_from": "The Verge AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/thenextgenbusiness/comments/1ry79z9/sen_mazie_hirono_seven_times_democrats_tried_to/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Senate%20Democrats%20are%20trying%20to&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.anthropic.com/news/statement-comments-secretary-war?subjects=interpretability",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "category": "AI",
+          "topic": "Anthropic\u2019s Claude Code gets \u2018safer\u2019 auto mode",
+          "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode",
+          "source_label": "The Verge AI",
+          "voice_score": 93,
+          "hashtags": "#AI #SmallBusiness #RealEstate #AITools #Automation #VacationRental #Tech",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Claude's new auto mode is genuinely interesting for small ops like ours. Basically gives AI some decision-making power without going full skynet. Real talk though\u2014for vacation rental management or real estate workflows, this could cut out a lot of back-and-forth approval loops. Not subtle progress.\n\n#AI #SmallBusiness #RealEstate #AITools #Automation #VacationRental #Tech",
+          "published_at": "2026-03-25T07:39:46-04:00",
+          "age_hours": 7.8,
+          "scraped_from": "The Verge AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/ClaudeAI/comments/1s1a14v/the_gotobed_problem/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Anthropic%E2%80%99s%20Claude%20Code%20gets%20%E2%80%98safer%E2%80%99&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode",
+              "label": "News Article"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "category": "AI",
+          "topic": "Inside our approach to the Model Spec",
+          "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+          "source_url": "https://openai.com/index/our-approach-to-the-model-spec",
+          "source_label": "OpenAI Blog",
+          "voice_score": 94,
+          "hashtags": "#AITransparency #OpenAI #TechPolicy #SmallBusiness #AIConsulting #FutureOfWork #ModelSpec",
+          "platforms": "Facebook + Instagram",
+          "post_text": "OpenAI just dropped their Model Spec framework and genuinely, this matters for anyone building AI into their business. Real talk: it's basically a public playbook for how their models should behave. Balancing safety with user freedom isn't subtle work. Curious how this shapes what you're actually able to do with AI tools you're already using.\n\n#AITransparency #OpenAI #TechPolicy #SmallBusiness #AIConsulting #FutureOfWork #ModelSpec",
+          "published_at": "2026-03-25T10:00:00+00:00",
+          "age_hours": 9.5,
+          "scraped_from": "OpenAI Blog",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/pennystocks/comments/1s1jws4/qsi_biggest_catalyst_in_its_entire_history_is/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Inside%20our%20approach%20to%20the&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://openai.com/index/our-approach-to-the-model-spec",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "category": "AI",
+          "topic": "OpenAI\u2019s Sora was the creepiest app on your phone \u2014 now it\u2019s shutting down",
+          "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
+          "source_url": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
+          "source_label": "TechCrunch AI",
+          "voice_score": 88,
+          "hashtags": "#AItrends #SmallBusiness #TechReality #RealEstate #AIConsulting #HospitalityTech #DaytonaBeach",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 Sora shutting down is genuinely interesting. The tech was legitimately impressive, but an AI-only feed with zero human connection? Not subtle that people want actual community. Same reason our rental guests book experiences, not just algorithms. What keeps people coming back is real relationships.\n\n#AItrends #SmallBusiness #TechReality #RealEstate #AIConsulting #HospitalityTech #DaytonaBeach",
+          "published_at": "2026-03-24T23:57:55+00:00",
+          "age_hours": 19.5,
+          "scraped_from": "TechCrunch AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/technology/comments/1s35f7k/openais_sora_was_the_creepiest_app_on_your_phone/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=OpenAI%E2%80%99s%20Sora%20was%20the%20creepiest&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
+              "label": "News Article"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "category": "WORLD",
+          "topic": "Mass text in Iran promotes Trump assassination campaign, $25m pledged",
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
+          "source_url": "https://reddit.com/r/worldnews/comments/1s3i51j/mass_text_in_iran_promotes_trump_assassination/",
+          "source_label": "r/worldnews on Reddit",
+          "voice_score": 89,
+          "hashtags": "#BusinessNews #RealEstate #SmallBusiness #GeopoliticalRisk #Entrepreneur #StayCostal #AIConsulting",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 when geopolitical tension spikes like this, it affects everything from travel bookings to supply chains. Business owners need to stay sharp on what's happening globally, not for politics but for actual operational planning. Stay informed.\n\n#BusinessNews #RealEstate #SmallBusiness #GeopoliticalRisk #Entrepreneur #StayCostal #AIConsulting",
+          "published_at": "2026-03-25T17:58:33+00:00",
+          "age_hours": 1.5,
+          "scraped_from": "r/worldnews",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/worldnews/comments/1s3i51j/mass_text_in_iran_promotes_trump_assassination/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Mass%20text%20in%20Iran%20promotes&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Mass%20text%20in%20Iran%20promotes%20Trump%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "category": "WORLD",
+          "topic": "Goodbye to Sora",
+          "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
+          "source_url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+          "source_label": "Hacker News",
+          "voice_score": 90,
+          "hashtags": "#AIReality #SmallBusiness #RealEstate #TechTrends #Entrepreneurship #DaytonaBeach #BusinessStrategy",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 watching AI tools come and go is genuinely wild. Sora's exit is a reminder that tech hype doesn't always equal staying power. For business owners, the lesson is obvious: don't bet the farm on unproven platforms. Stick with what's working while you test the edges.\n\n#AIReality #SmallBusiness #RealEstate #TechTrends #Entrepreneurship #DaytonaBeach #BusinessStrategy",
+          "published_at": "2026-03-24T20:01:05+00:00",
+          "age_hours": 23.4,
+          "scraped_from": "Hacker News",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/pcmasterrace/comments/1s2xvwo/could_this_be_the_light/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Goodbye%20to%20Sora&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+              "label": "News Article"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "category": "WORLD",
+          "topic": "Iran Denies \u2018Productive\u2019 Talks Hyped By Trump\u2014Accuses Him Of Manipulating Markets",
+          "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+          "source_url": "https://reddit.com/r/Economics/comments/1s3fstb/iran_denies_productive_talks_hyped_by/",
+          "source_label": "r/economics on Reddit",
+          "voice_score": 91,
+          "hashtags": "#BusinessStrategy #MarketDynamics #RealEstate #Economics #Leadership #SmallBusiness #TruthInMarketing",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: When world leaders start hyping \"productive talks\" publicly, markets move. Iran calling BS on Trump's framing is genuinely interesting\u2014shows how messaging becomes currency. Small business owners deal with this daily. What narrative are you controlling in your market?\n\n#BusinessStrategy #MarketDynamics #RealEstate #Economics #Leadership #SmallBusiness #TruthInMarketing",
+          "published_at": "2026-03-25T16:35:28+00:00",
+          "age_hours": 2.9,
+          "scraped_from": "r/economics",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/Economics/comments/1s3fstb/iran_denies_productive_talks_hyped_by/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Iran%20Denies%20%E2%80%98Productive%E2%80%99%20Talks%20Hyped&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Iran%20Denies%20%E2%80%98Productive%E2%80%99%20Talks%20Hyped%20By%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        }
+      ],
+      "generated_at": "2026-03-25T19:27:11.052950+00:00",
+      "label": "Morning Brief (6:30 AM)",
+      "count": 10
+    },
+    "afternoon": {
+      "posts": [],
+      "generated_at": "",
+      "label": "Afternoon Update (1 PM)",
+      "count": 0
+    },
+    "scripts_thumbnails": []
   },
   "payroll": {
-    "period": "Mar 10 – Mar 24, 2026",
+    "period": "Mar 10 \u2013 Mar 24, 2026",
     "period_type": "B",
     "pay_date": "Mar 27, 2026",
     "total_payout": 5150.0,
@@ -208,7 +782,7 @@
       {
         "level": "red",
         "property": "10 S Halifax Ave",
-        "issue": "AC unit reported not cooling — HVAC scheduled"
+        "issue": "AC unit reported not cooling \u2014 HVAC scheduled"
       },
       {
         "level": "yellow",
@@ -218,7 +792,7 @@
       {
         "level": "green",
         "property": "117 N Hollywood Ave",
-        "issue": "WiFi complaint resolved — confirmed by guest"
+        "issue": "WiFi complaint resolved \u2014 confirmed by guest"
       }
     ],
     "top_performers": [
@@ -238,5 +812,21 @@
         "rating": 4.8
       }
     ]
+  },
+  "scraper_meta": {
+    "scraped_at": "2026-03-25T19:27:11.052950+00:00",
+    "sources_used": [
+      "r/worldnews",
+      "Google AI Blog",
+      "r/economics",
+      "TechCrunch AI",
+      "OpenAI Blog",
+      "The Verge AI",
+      "Hacker News"
+    ],
+    "all_from_last_24h": true,
+    "post_count": 10,
+    "morning_count": 10,
+    "afternoon_count": 0
   }
 }
