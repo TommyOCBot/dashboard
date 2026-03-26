@@ -1,242 +1,105 @@
 {
-  "generated_at": "2026-03-11T08:46:09.549424-04:00",
-  "date": "2026-03-11",
-  "content": {
-    "posts": [
+  "scraper_meta": {
+    "morning_count": 7,
+    "world_count": 3,
+    "features_count": 6,
+    "generated_at": "2026-03-26T06:37:31.909936",
+    "sources": {
+      "trends_v2": 50,
+      "youtube_videos": 9,
+      "reddit_ai": 131,
+      "reddit_world": 91,
+      "hackernews": 30,
+      "standard_feeds": 20
+    }
+  },
+  "feature_releases": [
+    {
+      "source": "Google AI Blog",
+      "title": "Lyria 3 Music Generation Model",
+      "priority": "high"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Episode 15 - Inside the Model Spec",
+      "priority": "medium"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Claude Code - Safer Auto Mode",
+      "priority": "high"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Firebase AI Logic KSP (Android)",
+      "priority": "medium"
+    },
+    {
+      "source": "NVIDIA",
+      "title": "GTC 2026 Open Models Panel",
+      "priority": "medium"
+    },
+    {
+      "source": "Figure AI",
+      "title": "Humanoid Robot White House Demo",
+      "priority": "high"
+    }
+  ],
+  "posts": {
+    "morning": [
       {
         "id": 1,
-        "category": "AI",
-        "topic": "OpenAI Drops GPT-5 — Real-Time Reasoning Benchmark Shattered",
-        "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
-        "source_url": "https://openai.com/blog",
-        "source_label": "OpenAI Blog",
-        "voice_score": 94,
-        "hashtags": "#AI #GPT5 #Automation #AIThatScales",
-        "platforms": "Facebook + Instagram",
-        "post_text": "The game just changed — again.\n\nOpenAI dropped GPT-5 this morning and the reasoning capability leap is real. I've been testing it since 6 AM and the difference isn't subtle.\n\nFor business owners: this isn't theoretical anymore. The automation workflows that felt \"almost there\" last year? They're \"fully there\" now.\n\nWe're already updating 3 client systems this week. If you haven't started automating your operations, you're now 2 generations behind.\n\nDM me if you want to talk about what this means for your business.\n\n#AI #GPT5 #Automation #AIThatScales #BusinessAutomation #FutureOfWork"
+        "title": "Build with Lyria 3, our newest music generation model",
+        "topic": "AI"
       },
       {
         "id": 2,
-        "category": "AI",
-        "topic": "AI Agents Now Handle 40% of Fortune 500 Customer Service",
-        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/artificial",
-        "source_label": "r/artificial",
-        "voice_score": 87,
-        "hashtags": "#CustomerService #AIAgents #Automation",
-        "platforms": "Facebook + Instagram",
-        "post_text": "New data out: AI agents handle 40% of customer service interactions at Fortune 500 companies.\n\nThat's not a pilot program. That's operational reality.\n\nThe companies winning aren't waiting for \"perfect\" AI — they're deploying 80% solutions and improving in real-time.\n\nYour competitors are already doing this. The question is whether you're building the system or getting left behind.\n\nWhat's your biggest customer service bottleneck right now?\n\n#CustomerService #AIAgents #Automation #SmallBusiness #AIThatScales"
+        "title": "Google launches Lyria 3 Pro music generation model",
+        "topic": "AI"
       },
       {
         "id": 3,
-        "category": "AI",
-        "topic": "Claude 4 Sonnet Tops Every Major Coding Benchmark",
-        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
-        "source_url": "https://www.anthropic.com",
-        "source_label": "Anthropic",
-        "voice_score": 91,
-        "hashtags": "#Claude #Anthropic #AITools",
-        "platforms": "Facebook + Instagram",
-        "post_text": "Anthropic published Claude 4 Sonnet benchmark results and the coding performance is legitimately impressive.\n\nWe use Claude for 80% of our automation builds at AI That Scales. The jump from 3.5 → 4 is the biggest single-version improvement I've seen.\n\nA workflow that used to take 3 iterations now lands first pass 70% of the time. That's not small.\n\nIf you're building automations and not using Claude, you're working harder than you need to.\n\n#Claude #Anthropic #AITools #Automation #AIThatScales #BuildSmarter"
+        "title": "The AI skills gap is here, says AI company",
+        "topic": "AI"
       },
       {
         "id": 4,
-        "category": "AI",
-        "topic": "Gemini 2.0 Just Shipped Inside Every Google Workspace App",
-        "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
-        "source_url": "https://workspace.google.com",
-        "source_label": "Google Workspace",
-        "voice_score": 82,
-        "hashtags": "#Google #Gemini #Productivity",
-        "platforms": "Facebook + Instagram",
-        "post_text": "Google pushed Gemini 2.0 into Workspace — Docs, Sheets, Gmail, Meet.\n\nThe practical impact for small business teams: your VA now has a co-pilot baked into every tool they already use.\n\nBeen playing with the Sheets integration this week. The ability to describe what you want and have it build formulas + summarize data is genuinely useful — not demo-ware.\n\nIf your team runs on Google, this upgrade happened automatically. Make sure you're actually using it.\n\n#Google #Gemini #Productivity #SmallBusiness #WorkSmarter #AIThatScales"
+        "title": "Disney's big bets on the metaverse and AI slop",
+        "topic": "AI"
       },
       {
         "id": 5,
-        "category": "AI",
-        "topic": "Make.com, Zapier, n8n — No-Code Platforms Hit 300% Growth",
-        "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/ChatGPT",
-        "source_label": "r/ChatGPT",
-        "voice_score": 89,
-        "hashtags": "#NoCode #Workflow #Automation",
-        "platforms": "Facebook + Instagram",
-        "post_text": "No-code automation platforms hit 300% user growth last quarter.\n\nTranslation: the barrier to automation is officially gone. You don't need a developer. You need someone who understands your process and 2-4 hours.\n\nI've been building no-code automations for clients for 18 months. The tools keep getting better. The window to get ahead of competitors is still open — but it's closing.\n\nStill doing manually what a bot could do? That's a choice. Make sure it's intentional.\n\n#NoCode #Workflow #Automation #Productivity #AIThatScales #BusinessGrowth"
+        "title": "Senate Democrats codify Anthropic's red lines",
+        "topic": "AI"
       },
       {
         "id": 6,
-        "category": "AI",
-        "topic": "AI Guest Comms Cut STR Response Time from 4 Hours to 8 Minutes",
-        "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/airbnb",
-        "source_label": "r/airbnb",
-        "voice_score": 96,
-        "hashtags": "#VacationRental #PropertyManagement #AI",
-        "platforms": "Facebook + Instagram",
-        "post_text": "Case study: AI-powered guest comms cut response time from 4 hours to 8 minutes across a 40-property portfolio.\n\nNot theoretical — I've seen it firsthand with Stay Coastal's 30+ properties.\n\nGuests don't care if a bot answered. They care that someone answered. Fast responses = better reviews = more bookings.\n\nMath is simple. Setup takes a weekend. ROI is permanent.\n\nRunning STRs and still answering every message manually? Let's talk.\n\n#VacationRental #PropertyManagement #AI #Airbnb #ShortTermRental #AIThatScales"
+        "title": "Anthropic's Claude Code gets safer auto mode",
+        "topic": "AI"
       },
       {
         "id": 7,
-        "category": "AI",
-        "topic": "2026 AI Adoption Report: SMBs Close the Gap on Enterprise",
-        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 85,
-        "hashtags": "#SMB #AIAdoption #Business2026",
-        "platforms": "Facebook + Instagram",
-        "post_text": "2026 AI Adoption Report: the gap between enterprise and SMB AI usage closed by 40% last year.\n\nThe tools got cheaper. The interfaces got simpler. The use cases got clearer.\n\nBusinesses that adopted early are seeing it in their margins. The ones who waited are scrambling.\n\nWhere are you in this curve? Reply with where you are and where you want to be.\n\n#SMB #AIAdoption #Business2026 #Productivity #AIThatScales #Entrepreneur"
-      },
+        "title": "Bernie Sanders pauses AI data centre construction",
+        "topic": "AI"
+      }
+    ],
+    "world": [
       {
         "id": 8,
-        "category": "WORLD",
-        "topic": "Fed Holds Rates — Here's What That Actually Means for Your Business",
-        "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/worldnews",
-        "source_label": "r/worldnews",
-        "voice_score": 78,
-        "hashtags": "#Economy #FederalReserve #SmallBusiness",
-        "platforms": "Facebook + Instagram",
-        "post_text": "The Fed held rates again. Inflation still uncertain. Lending still tight.\n\nStraight talk: if you're waiting for rates to drop before making moves, you're tying your growth strategy to a variable you can't control.\n\nOperators winning right now are cutting costs through efficiency (automation), not waiting for cheap capital.\n\nFocus on what you can control: margins, team productivity, systems. The macro clears when it clears.\n\n#Economy #FederalReserve #SmallBusiness #Entrepreneur #BusinessStrategy #AIThatScales"
+        "title": "Iran Denies Productive Talks with Trump",
+        "topic": "World"
       },
       {
         "id": 9,
-        "category": "WORLD",
-        "topic": "Daytona Beach Q1 2026: Occupancy Strong, ADR Up 8% YoY",
-        "image_url": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/realestate",
-        "source_label": "r/realestate",
-        "voice_score": 92,
-        "hashtags": "#FloridaRealEstate #DaytonaBeach #ShortTermRental",
-        "platforms": "Facebook + Instagram",
-        "post_text": "Daytona Beach Q1 data is in: occupancy holding strong, ADRs up 8% YoY, inventory tight on the quality end.\n\nFor property owners: if your property isn't performing at market, the issue isn't the market.\n\nFor investors watching: the STR opportunity here is real. \"Set it and forget it\" is dead, but returns for well-managed properties are there.\n\nWant to see actual comps or talk through an acquisition? DM me.\n\n#FloridaRealEstate #DaytonaBeach #ShortTermRental #VacationRental #RealEstateInvesting #StayCoastal"
+        "title": "Iran rejects US peace plan, sets conditions",
+        "topic": "World"
       },
       {
         "id": 10,
-        "category": "WORLD",
-        "topic": "35% of US Workforce Permanently Remote — What That Means for STR Operators",
-        "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 83,
-        "hashtags": "#RemoteWork #VacationRental #WorkFromAnywhere",
-        "platforms": "Facebook + Instagram",
-        "post_text": "New Gallup data: 35% of the US workforce is now permanently remote. That's not going back.\n\nFor vacation rental operators, this drives mid-week and extended-stay demand. Guests aren't just coming for the weekend — they're coming for 2-4 weeks.\n\nSeen it in our own portfolio. Longer stays, better reviews, less turnover.\n\nSTR not set up for extended stays? (workspace, faster WiFi, monthly discounts) You're leaving money on the table.\n\n#RemoteWork #VacationRental #WorkFromAnywhere #ShortTermRental #StayCoastal #AIThatScales"
+        "title": "EU wants to scan private messages and photos",
+        "topic": "World"
       }
     ]
   },
-  "payroll": {
-    "period": "Mar 10 – Mar 24, 2026",
-    "period_type": "B",
-    "pay_date": "Mar 27, 2026",
-    "total_payout": 5150.0,
-    "batches": [
-      {
-        "processor": "Chase",
-        "total": 3100.0,
-        "members": [
-          {
-            "name": "Maria Rodriguez",
-            "location": "Colombia",
-            "amount": 1200.0,
-            "status": "ready"
-          },
-          {
-            "name": "Carlos Mendoza",
-            "location": "Venezuela",
-            "amount": 1000.0,
-            "status": "ready"
-          },
-          {
-            "name": "Sofia Gutierrez",
-            "location": "Dominican Republic",
-            "amount": 900.0,
-            "status": "ready"
-          }
-        ]
-      },
-      {
-        "processor": "Remitly",
-        "total": 2050.0,
-        "members": [
-          {
-            "name": "Ana Santos",
-            "location": "Philippines",
-            "amount": 1100.0,
-            "status": "ready"
-          },
-          {
-            "name": "Jose Reyes",
-            "location": "Philippines",
-            "amount": 950.0,
-            "status": "ready"
-          }
-        ]
-      }
-    ],
-    "team_summary": {
-      "total_members": 5,
-      "active": 5,
-      "chase_count": 3,
-      "remitly_count": 2
-    }
-  },
-  "operations": {
-    "last_updated": "2026-03-11T08:46:09.560054-04:00",
-    "properties": {
-      "total": 30,
-      "occupied_today": 22,
-      "checking_in": 4,
-      "checking_out": 3,
-      "maintenance": 1,
-      "occupancy_rate": 73
-    },
-    "revenue": {
-      "mtd": 48200,
-      "mtd_target": 55000,
-      "mtd_pct": 88,
-      "last_30_days": 112400,
-      "last_30_days_change": 6
-    },
-    "guest_comms": {
-      "open_messages": 7,
-      "urgent": 1,
-      "avg_response_min": 12,
-      "satisfaction_trend": "stable"
-    },
-    "alerts": [
-      {
-        "level": "red",
-        "property": "10 S Halifax Ave",
-        "issue": "AC unit reported not cooling — HVAC scheduled"
-      },
-      {
-        "level": "yellow",
-        "property": "3332 S Peninsula Dr",
-        "issue": "Owner follow-up pending (checkout report)"
-      },
-      {
-        "level": "green",
-        "property": "117 N Hollywood Ave",
-        "issue": "WiFi complaint resolved — confirmed by guest"
-      }
-    ],
-    "top_performers": [
-      {
-        "property": "14 Fleming Ct",
-        "occupancy": 95,
-        "rating": 4.9
-      },
-      {
-        "property": "207 Seabreeze Blvd",
-        "occupancy": 91,
-        "rating": 4.8
-      },
-      {
-        "property": "88 Grandview Ave",
-        "occupancy": 89,
-        "rating": 4.8
-      }
-    ]
-  }
+  "deploy_status": "ready"
 }
