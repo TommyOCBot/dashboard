@@ -1,132 +1,706 @@
 {
-  "generated_at": "2026-03-11T08:46:09.549424-04:00",
-  "date": "2026-03-11",
+  "generated_at": "2026-03-27T06:32:34.617981-04:00",
+  "date": "2026-03-27",
   "content": {
     "posts": [
       {
         "id": 1,
         "category": "AI",
-        "topic": "OpenAI Drops GPT-5 — Real-Time Reasoning Benchmark Shattered",
+        "topic": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
         "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
-        "source_url": "https://openai.com/blog",
-        "source_label": "OpenAI Blog",
-        "voice_score": 94,
-        "hashtags": "#AI #GPT5 #Automation #AIThatScales",
+        "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+        "source_label": "Google AI Blog",
+        "voice_score": 89,
+        "hashtags": "#AI #VoiceAI #SmallBusiness #Hospitality #RealEstate #AIConsulting #GoogleAI",
         "platforms": "Facebook + Instagram",
-        "post_text": "The game just changed — again.\n\nOpenAI dropped GPT-5 this morning and the reasoning capability leap is real. I've been testing it since 6 AM and the difference isn't subtle.\n\nFor business owners: this isn't theoretical anymore. The automation workflows that felt \"almost there\" last year? They're \"fully there\" now.\n\nWe're already updating 3 client systems this week. If you haven't started automating your operations, you're now 2 generations behind.\n\nDM me if you want to talk about what this means for your business.\n\n#AI #GPT5 #Automation #AIThatScales #BusinessAutomation #FutureOfWork"
+        "post_text": "Google just dropped Gemini 3.1 Flash Live and it's genuinely wild \u2014 audio AI that actually sounds natural instead of robotic. Real talk, this changes how we can automate customer service in hospitality. Already thinking about voice bots for guest check-ins. What's your first move with this?\n\n#AI #VoiceAI #SmallBusiness #Hospitality #RealEstate #AIConsulting #GoogleAI",
+        "published_at": "2026-03-26T15:21:00+00:00",
+        "age_hours": 19.2,
+        "scraped_from": "Google AI Blog",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/Bard/comments/1s4ao0h/gemini_31_flash_live_making_audio_ai_more_natural/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Gemini%203.1%20Flash%20Live%3A%20Making&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 2,
         "category": "AI",
-        "topic": "AI Agents Now Handle 40% of Fortune 500 Customer Service",
-        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/artificial",
-        "source_label": "r/artificial",
-        "voice_score": 87,
-        "hashtags": "#CustomerService #AIAgents #Automation",
+        "topic": "Google is making it easier to import another AI\u2019s memory into Gemini",
+        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+        "source_label": "The Verge AI",
+        "voice_score": 90,
+        "hashtags": "#AI #Gemini #SmallBusiness #RealEstate #AITools #Tech #DigitalTransformation",
         "platforms": "Facebook + Instagram",
-        "post_text": "New data out: AI agents handle 40% of customer service interactions at Fortune 500 companies.\n\nThat's not a pilot program. That's operational reality.\n\nThe companies winning aren't waiting for \"perfect\" AI — they're deploying 80% solutions and improving in real-time.\n\nYour competitors are already doing this. The question is whether you're building the system or getting left behind.\n\nWhat's your biggest customer service bottleneck right now?\n\n#CustomerService #AIAgents #Automation #SmallBusiness #AIThatScales"
+        "post_text": "Real talk: Google just made it way easier to switch your AI without losing all the stuff you've already taught it. Import your memory straight into Gemini. Funny how we're treating AI like we treat switching banks\u2014but genuinely useful if you're actually using multiple assistants for your business. What's your current AI setup looking like?\n\n#AI #Gemini #SmallBusiness #RealEstate #AITools #Tech #DigitalTransformation",
+        "published_at": "2026-03-26T17:44:37-04:00",
+        "age_hours": 12.8,
+        "scraped_from": "The Verge AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/BestofRedditorUpdates/comments/1s23ie6/my_24f_husband_23m_faked_fainting_after_i_gave/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Google%20is%20making%20it%20easier&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://blog.google/innovation-and-ai/products/gemini-app/switch-to-gemini-app/",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 3,
         "category": "AI",
-        "topic": "Claude 4 Sonnet Tops Every Major Coding Benchmark",
-        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
-        "source_url": "https://www.anthropic.com",
-        "source_label": "Anthropic",
+        "topic": "ByteDance\u2019s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+        "source_url": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+        "source_label": "TechCrunch AI",
         "voice_score": 91,
-        "hashtags": "#Claude #Anthropic #AITools",
+        "hashtags": "#AITools #CapCut #ContentCreation #SmallBusiness #VideoMarketing #RealEstate #AIConsulting",
         "platforms": "Facebook + Instagram",
-        "post_text": "Anthropic published Claude 4 Sonnet benchmark results and the coding performance is legitimately impressive.\n\nWe use Claude for 80% of our automation builds at AI That Scales. The jump from 3.5 → 4 is the biggest single-version improvement I've seen.\n\nA workflow that used to take 3 iterations now lands first pass 70% of the time. That's not small.\n\nIf you're building automations and not using Claude, you're working harder than you need to.\n\n#Claude #Anthropic #AITools #Automation #AIThatScales #BuildSmarter"
+        "post_text": "CapCut just added ByteDance's Dreamina 2.0 with built-in IP protections. Real talk\u2014this matters for anyone creating content without getting sued. Whether you're marketing rental properties or building a brand, having safeguards baked in genuinely changes how you approach video production. The bar just got higher.\n\n#AITools #CapCut #ContentCreation #SmallBusiness #VideoMarketing #RealEstate #AIConsulting",
+        "published_at": "2026-03-26T15:25:13+00:00",
+        "age_hours": 19.1,
+        "scraped_from": "TechCrunch AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/AITAH/comments/1s0pmxd/aitah_for_telling_my_daughter_that_she_is_not/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=ByteDance%E2%80%99s%20new%20AI%20video%20generation&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.capcut.com/newsroom/dreamina-seedance-2",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 4,
         "category": "AI",
-        "topic": "Gemini 2.0 Just Shipped Inside Every Google Workspace App",
+        "topic": "Google&#8217;s &#8216;live&#8217; AI search assistant can handle conversations in dozens more languages",
         "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
-        "source_url": "https://workspace.google.com",
-        "source_label": "Google Workspace",
-        "voice_score": 82,
-        "hashtags": "#Google #Gemini #Productivity",
+        "source_url": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
+        "source_label": "The Verge AI",
+        "voice_score": 92,
+        "hashtags": "#AITools #SmallBusiness #RealEstate #VacationRentals #GoogleAI #VoiceSearch #TechTrends",
         "platforms": "Facebook + Instagram",
-        "post_text": "Google pushed Gemini 2.0 into Workspace — Docs, Sheets, Gmail, Meet.\n\nThe practical impact for small business teams: your VA now has a co-pilot baked into every tool they already use.\n\nBeen playing with the Sheets integration this week. The ability to describe what you want and have it build formulas + summarize data is genuinely useful — not demo-ware.\n\nIf your team runs on Google, this upgrade happened automatically. Make sure you're actually using it.\n\n#Google #Gemini #Productivity #SmallBusiness #WorkSmarter #AIThatScales"
+        "post_text": "Google just dropped Search Live in 200+ countries and dozens of languages. Real talk \u2014 this matters for anyone running a business with international clients or vacation rental guests. Voice search in their native language? That's genuinely useful. How many of your customers are searching in languages you didn't expect?\n\n#AITools #SmallBusiness #RealEstate #VacationRentals #GoogleAI #VoiceSearch #TechTrends",
+        "published_at": "2026-03-26T14:47:51-04:00",
+        "age_hours": 15.7,
+        "scraped_from": "The Verge AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/OneOrangeBraincell/comments/1s2onza/my_personal_assistant_cheeto_is_currently/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Google%26%238217%3Bs%20%26%238216%3Blive%26%238217%3B%20AI%20search%20assistant&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://blog.google/products-and-platforms/products/search/search-live-tips/",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 5,
         "category": "AI",
-        "topic": "Make.com, Zapier, n8n — No-Code Platforms Hit 300% Growth",
+        "topic": "Apple will reportedly allow other AI chatbots to plug into Siri",
         "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/ChatGPT",
-        "source_label": "r/ChatGPT",
-        "voice_score": 89,
-        "hashtags": "#NoCode #Workflow #Automation",
+        "source_url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+        "source_label": "The Verge AI",
+        "voice_score": 93,
+        "hashtags": "#AI #SmallBusiness #RealEstate #AppleNews #AIConsulting #BusinessTech #Hospitality",
         "platforms": "Facebook + Instagram",
-        "post_text": "No-code automation platforms hit 300% user growth last quarter.\n\nTranslation: the barrier to automation is officially gone. You don't need a developer. You need someone who understands your process and 2-4 hours.\n\nI've been building no-code automations for clients for 18 months. The tools keep getting better. The window to get ahead of competitors is still open — but it's closing.\n\nStill doing manually what a bot could do? That's a choice. Make sure it's intentional.\n\n#NoCode #Workflow #Automation #Productivity #AIThatScales #BusinessGrowth"
+        "post_text": "Real talk \u2014 Apple letting you pick your AI chatbot for Siri is genuinely smart. Hospitality businesses and real estate teams need different tools. One AI doesn't fit every operation. Funny how giving users actual choice gets overlooked until now. What chatbot would your business actually use daily?\n\n#AI #SmallBusiness #RealEstate #AppleNews #AIConsulting #BusinessTech #Hospitality",
+        "published_at": "2026-03-26T17:31:27-04:00",
+        "age_hours": 13.0,
+        "scraped_from": "The Verge AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/u_spez/comments/1s3ezrc/humans_welcome_bots_must_wear_name_tags/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Apple%20will%20reportedly%20allow%20other&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.msn.com/en-us/news/technology/beyond-chatgpt-ios-27-extensions-will-reportedly-allow-siri-to-use-google-gemini-and-claude/ar-AA1ZumwF",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 6,
         "category": "AI",
-        "topic": "AI Guest Comms Cut STR Response Time from 4 Hours to 8 Minutes",
-        "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/airbnb",
-        "source_label": "r/airbnb",
-        "voice_score": 96,
-        "hashtags": "#VacationRental #PropertyManagement #AI",
+        "topic": "Anthropic wins injunction against Trump administration over Defense Department saga",
+        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+        "source_url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+        "source_label": "TechCrunch AI",
+        "voice_score": 94,
+        "hashtags": "#AI #TechPolicy #SmallBusiness #DefenseTech #Anthropic #BusinessLaw #FLTech",
         "platforms": "Facebook + Instagram",
-        "post_text": "Case study: AI-powered guest comms cut response time from 4 hours to 8 minutes across a 40-property portfolio.\n\nNot theoretical — I've seen it firsthand with Stay Coastal's 30+ properties.\n\nGuests don't care if a bot answered. They care that someone answered. Fast responses = better reviews = more bookings.\n\nMath is simple. Setup takes a weekend. ROI is permanent.\n\nRunning STRs and still answering every message manually? Let's talk.\n\n#VacationRental #PropertyManagement #AI #Airbnb #ShortTermRental #AIThatScales"
+        "post_text": "Real talk \u2014 watching Anthropic fight back against government overreach is genuinely wild. Federal judge just sided with them on those Defense Department restrictions. Not subtle how policy moves can mess with AI companies trying to scale. Small businesses need clarity on what's actually legal, not surprise rule changes.\n\n#AI #TechPolicy #SmallBusiness #DefenseTech #Anthropic #BusinessLaw #FLTech",
+        "published_at": "2026-03-27T01:18:38+00:00",
+        "age_hours": 9.2,
+        "scraped_from": "TechCrunch AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/ecommerce/comments/1s1qu9v/ecommerce_industry_news_recap_week_of_mar_23rd/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Anthropic%20wins%20injunction%20against%20Trump&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://assets.anthropic.com/m/ec212e6566a0d47/original/Disrupting-the-first-reported-AI-orchestrated-cyber-espionage-campaign.pdf",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 7,
         "category": "AI",
-        "topic": "2026 AI Adoption Report: SMBs Close the Gap on Enterprise",
-        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 85,
-        "hashtags": "#SMB #AIAdoption #Business2026",
+        "topic": "Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban",
+        "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+        "source_label": "The Verge AI",
+        "voice_score": 88,
+        "hashtags": "#AI #ArtificialIntelligence #Tech #SmallBusiness #Anthropic #Pentagon #TechPolicy",
         "platforms": "Facebook + Instagram",
-        "post_text": "2026 AI Adoption Report: the gap between enterprise and SMB AI usage closed by 40% last year.\n\nThe tools got cheaper. The interfaces got simpler. The use cases got clearer.\n\nBusinesses that adopted early are seeing it in their margins. The ones who waited are scrambling.\n\nWhere are you in this curve? Reply with where you are and where you want to be.\n\n#SMB #AIAdoption #Business2026 #Productivity #AIThatScales #Entrepreneur"
+        "post_text": "Real talk: A judge just blocked the Pentagon's ban on Anthropic while the lawsuit plays out. Funny how government moves slow even when they're trying to move fast. For small business owners using AI tools, this matters\u2014regulatory chaos kills innovation. What's your read on government AI policy?\n\n#AI #ArtificialIntelligence #Tech #SmallBusiness #Anthropic #Pentagon #TechPolicy",
+        "published_at": "2026-03-26T20:33:44-04:00",
+        "age_hours": 9.9,
+        "scraped_from": "The Verge AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/MyBoyfriendIsAI/comments/1s4ptyz/judge_sides_with_anthropic_to_temporarily_block/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Judge%20sides%20with%20Anthropic%20to&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.anthropic.com/research/bloom?lang=us",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 8,
         "category": "WORLD",
-        "topic": "Fed Holds Rates — Here's What That Actually Means for Your Business",
+        "topic": "Iran oil revenue soars as it's the only exporter out of Hormuz",
         "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/worldnews",
-        "source_label": "r/worldnews",
-        "voice_score": 78,
-        "hashtags": "#Economy #FederalReserve #SmallBusiness",
+        "source_url": "https://reddit.com/r/Economics/comments/1s4kat0/iran_oil_revenue_soars_as_its_the_only_exporter/",
+        "source_label": "r/economics on Reddit",
+        "voice_score": 89,
+        "hashtags": "#Economics #OilMarkets #Geopolitics #SupplyChain #RealEstate #BusinessStrategy #MarketDynamics",
         "platforms": "Facebook + Instagram",
-        "post_text": "The Fed held rates again. Inflation still uncertain. Lending still tight.\n\nStraight talk: if you're waiting for rates to drop before making moves, you're tying your growth strategy to a variable you can't control.\n\nOperators winning right now are cutting costs through efficiency (automation), not waiting for cheap capital.\n\nFocus on what you can control: margins, team productivity, systems. The macro clears when it clears.\n\n#Economy #FederalReserve #SmallBusiness #Entrepreneur #BusinessStrategy #AIThatScales"
+        "post_text": "Funny how geopolitics creates weird business opportunities. Iran's oil revenue jumping because they're literally the only exporter moving through Hormuz right now. Real talk \u2014 supply constraints = pricing power. Similar play in real estate when inventory dries up. Market dynamics don't care about politics.\n\n#Economics #OilMarkets #Geopolitics #SupplyChain #RealEstate #BusinessStrategy #MarketDynamics",
+        "published_at": "2026-03-26T21:21:19+00:00",
+        "age_hours": 13.1,
+        "scraped_from": "r/economics",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/Economics/comments/1s4kat0/iran_oil_revenue_soars_as_its_the_only_exporter/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Iran%20oil%20revenue%20soars%20as&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=Iran%20oil%20revenue%20soars%20as%20it%27s%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 9,
         "category": "WORLD",
-        "topic": "Daytona Beach Q1 2026: Occupancy Strong, ADR Up 8% YoY",
-        "image_url": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/realestate",
-        "source_label": "r/realestate",
-        "voice_score": 92,
-        "hashtags": "#FloridaRealEstate #DaytonaBeach #ShortTermRental",
+        "topic": "Trump Team Examines What Oil as High as $200 a Barrel Would Mean",
+        "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
+        "source_url": "https://reddit.com/r/Economics/comments/1s47yp0/trump_team_examines_what_oil_as_high_as_200_a/",
+        "source_label": "r/economics on Reddit",
+        "voice_score": 90,
+        "hashtags": "#SmallBusiness #RealEstate #Economics #Hospitality #CostofDoing Business #FueledByData #BusinessOwner",
         "platforms": "Facebook + Instagram",
-        "post_text": "Daytona Beach Q1 data is in: occupancy holding strong, ADRs up 8% YoY, inventory tight on the quality end.\n\nFor property owners: if your property isn't performing at market, the issue isn't the market.\n\nFor investors watching: the STR opportunity here is real. \"Set it and forget it\" is dead, but returns for well-managed properties are there.\n\nWant to see actual comps or talk through an acquisition? DM me.\n\n#FloridaRealEstate #DaytonaBeach #ShortTermRental #VacationRental #RealEstateInvesting #StayCoastal"
+        "post_text": "Real talk \u2014 if oil hits $200/barrel, hospitality costs spike hard. Gas for guest shuttles, utility bills, supply chain markups. Small business owners legitimately need to start modeling this scenario now. Not subtle economics, but genuinely affects your bottom line.\n\n#SmallBusiness #RealEstate #Economics #Hospitality #CostofDoing Business #FueledByData #BusinessOwner",
+        "published_at": "2026-03-26T13:48:08+00:00",
+        "age_hours": 20.7,
+        "scraped_from": "r/economics",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/Economics/comments/1s47yp0/trump_team_examines_what_oil_as_high_as_200_a/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Trump%20Team%20Examines%20What%20Oil&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=Trump%20Team%20Examines%20What%20Oil%20as%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 10,
         "category": "WORLD",
-        "topic": "35% of US Workforce Permanently Remote — What That Means for STR Operators",
-        "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 83,
-        "hashtags": "#RemoteWork #VacationRental #WorkFromAnywhere",
+        "topic": "Trump's War in Iran is Costing the U.S. Economy 10,000 Jobs a Month, Goldman Sachs Says",
+        "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+        "source_url": "https://reddit.com/r/Economics/comments/1s4iaq5/trumps_war_in_iran_is_costing_the_us_economy/",
+        "source_label": "r/economics on Reddit",
+        "voice_score": 91,
+        "hashtags": "#SmallBusiness #EconomicImpact #RealEstate #BusinessOwner #Economy #Hospitality #UncertaintyMatters",
         "platforms": "Facebook + Instagram",
-        "post_text": "New Gallup data: 35% of the US workforce is now permanently remote. That's not going back.\n\nFor vacation rental operators, this drives mid-week and extended-stay demand. Guests aren't just coming for the weekend — they're coming for 2-4 weeks.\n\nSeen it in our own portfolio. Longer stays, better reviews, less turnover.\n\nSTR not set up for extended stays? (workspace, faster WiFi, monthly discounts) You're leaving money on the table.\n\n#RemoteWork #VacationRental #WorkFromAnywhere #ShortTermRental #StayCoastal #AIThatScales"
+        "post_text": "Goldman Sachs just dropped that geopolitical tensions are bleeding 10k jobs monthly from the economy. Real talk \u2014 when the macro gets unstable, small business hiring freezes. Hospitality and construction feel it first. Hard to scale anything when uncertainty's the only thing growing.\n\n#SmallBusiness #EconomicImpact #RealEstate #BusinessOwner #Economy #Hospitality #UncertaintyMatters",
+        "published_at": "2026-03-26T20:05:59+00:00",
+        "age_hours": 14.4,
+        "scraped_from": "r/economics",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/Economics/comments/1s4iaq5/trumps_war_in_iran_is_costing_the_us_economy/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Trump%27s%20War%20in%20Iran%20is&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=Trump%27s%20War%20in%20Iran%20is%20Costing%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       }
-    ]
+    ],
+    "morning": {
+      "posts": [
+        {
+          "id": 1,
+          "category": "AI",
+          "topic": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
+          "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+          "source_label": "Google AI Blog",
+          "voice_score": 89,
+          "hashtags": "#AI #VoiceAI #SmallBusiness #Hospitality #RealEstate #AIConsulting #GoogleAI",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Google just dropped Gemini 3.1 Flash Live and it's genuinely wild \u2014 audio AI that actually sounds natural instead of robotic. Real talk, this changes how we can automate customer service in hospitality. Already thinking about voice bots for guest check-ins. What's your first move with this?\n\n#AI #VoiceAI #SmallBusiness #Hospitality #RealEstate #AIConsulting #GoogleAI",
+          "published_at": "2026-03-26T15:21:00+00:00",
+          "age_hours": 19.2,
+          "scraped_from": "Google AI Blog",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/Bard/comments/1s4ao0h/gemini_31_flash_live_making_audio_ai_more_natural/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Gemini%203.1%20Flash%20Live%3A%20Making&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "category": "AI",
+          "topic": "Google is making it easier to import another AI\u2019s memory into Gemini",
+          "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+          "source_label": "The Verge AI",
+          "voice_score": 90,
+          "hashtags": "#AI #Gemini #SmallBusiness #RealEstate #AITools #Tech #DigitalTransformation",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: Google just made it way easier to switch your AI without losing all the stuff you've already taught it. Import your memory straight into Gemini. Funny how we're treating AI like we treat switching banks\u2014but genuinely useful if you're actually using multiple assistants for your business. What's your current AI setup looking like?\n\n#AI #Gemini #SmallBusiness #RealEstate #AITools #Tech #DigitalTransformation",
+          "published_at": "2026-03-26T17:44:37-04:00",
+          "age_hours": 12.8,
+          "scraped_from": "The Verge AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/BestofRedditorUpdates/comments/1s23ie6/my_24f_husband_23m_faked_fainting_after_i_gave/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Google%20is%20making%20it%20easier&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://blog.google/innovation-and-ai/products/gemini-app/switch-to-gemini-app/",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "category": "AI",
+          "topic": "ByteDance\u2019s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+          "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+          "source_url": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+          "source_label": "TechCrunch AI",
+          "voice_score": 91,
+          "hashtags": "#AITools #CapCut #ContentCreation #SmallBusiness #VideoMarketing #RealEstate #AIConsulting",
+          "platforms": "Facebook + Instagram",
+          "post_text": "CapCut just added ByteDance's Dreamina 2.0 with built-in IP protections. Real talk\u2014this matters for anyone creating content without getting sued. Whether you're marketing rental properties or building a brand, having safeguards baked in genuinely changes how you approach video production. The bar just got higher.\n\n#AITools #CapCut #ContentCreation #SmallBusiness #VideoMarketing #RealEstate #AIConsulting",
+          "published_at": "2026-03-26T15:25:13+00:00",
+          "age_hours": 19.1,
+          "scraped_from": "TechCrunch AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/AITAH/comments/1s0pmxd/aitah_for_telling_my_daughter_that_she_is_not/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=ByteDance%E2%80%99s%20new%20AI%20video%20generation&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.capcut.com/newsroom/dreamina-seedance-2",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "category": "AI",
+          "topic": "Google&#8217;s &#8216;live&#8217; AI search assistant can handle conversations in dozens more languages",
+          "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
+          "source_url": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
+          "source_label": "The Verge AI",
+          "voice_score": 92,
+          "hashtags": "#AITools #SmallBusiness #RealEstate #VacationRentals #GoogleAI #VoiceSearch #TechTrends",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Google just dropped Search Live in 200+ countries and dozens of languages. Real talk \u2014 this matters for anyone running a business with international clients or vacation rental guests. Voice search in their native language? That's genuinely useful. How many of your customers are searching in languages you didn't expect?\n\n#AITools #SmallBusiness #RealEstate #VacationRentals #GoogleAI #VoiceSearch #TechTrends",
+          "published_at": "2026-03-26T14:47:51-04:00",
+          "age_hours": 15.7,
+          "scraped_from": "The Verge AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/OneOrangeBraincell/comments/1s2onza/my_personal_assistant_cheeto_is_currently/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Google%26%238217%3Bs%20%26%238216%3Blive%26%238217%3B%20AI%20search%20assistant&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://blog.google/products-and-platforms/products/search/search-live-tips/",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "category": "AI",
+          "topic": "Apple will reportedly allow other AI chatbots to plug into Siri",
+          "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+          "source_url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+          "source_label": "The Verge AI",
+          "voice_score": 93,
+          "hashtags": "#AI #SmallBusiness #RealEstate #AppleNews #AIConsulting #BusinessTech #Hospitality",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 Apple letting you pick your AI chatbot for Siri is genuinely smart. Hospitality businesses and real estate teams need different tools. One AI doesn't fit every operation. Funny how giving users actual choice gets overlooked until now. What chatbot would your business actually use daily?\n\n#AI #SmallBusiness #RealEstate #AppleNews #AIConsulting #BusinessTech #Hospitality",
+          "published_at": "2026-03-26T17:31:27-04:00",
+          "age_hours": 13.0,
+          "scraped_from": "The Verge AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/u_spez/comments/1s3ezrc/humans_welcome_bots_must_wear_name_tags/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Apple%20will%20reportedly%20allow%20other&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.msn.com/en-us/news/technology/beyond-chatgpt-ios-27-extensions-will-reportedly-allow-siri-to-use-google-gemini-and-claude/ar-AA1ZumwF",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "category": "AI",
+          "topic": "Anthropic wins injunction against Trump administration over Defense Department saga",
+          "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+          "source_url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+          "source_label": "TechCrunch AI",
+          "voice_score": 94,
+          "hashtags": "#AI #TechPolicy #SmallBusiness #DefenseTech #Anthropic #BusinessLaw #FLTech",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 watching Anthropic fight back against government overreach is genuinely wild. Federal judge just sided with them on those Defense Department restrictions. Not subtle how policy moves can mess with AI companies trying to scale. Small businesses need clarity on what's actually legal, not surprise rule changes.\n\n#AI #TechPolicy #SmallBusiness #DefenseTech #Anthropic #BusinessLaw #FLTech",
+          "published_at": "2026-03-27T01:18:38+00:00",
+          "age_hours": 9.2,
+          "scraped_from": "TechCrunch AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/ecommerce/comments/1s1qu9v/ecommerce_industry_news_recap_week_of_mar_23rd/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Anthropic%20wins%20injunction%20against%20Trump&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://assets.anthropic.com/m/ec212e6566a0d47/original/Disrupting-the-first-reported-AI-orchestrated-cyber-espionage-campaign.pdf",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "category": "AI",
+          "topic": "Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban",
+          "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+          "source_label": "The Verge AI",
+          "voice_score": 88,
+          "hashtags": "#AI #ArtificialIntelligence #Tech #SmallBusiness #Anthropic #Pentagon #TechPolicy",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: A judge just blocked the Pentagon's ban on Anthropic while the lawsuit plays out. Funny how government moves slow even when they're trying to move fast. For small business owners using AI tools, this matters\u2014regulatory chaos kills innovation. What's your read on government AI policy?\n\n#AI #ArtificialIntelligence #Tech #SmallBusiness #Anthropic #Pentagon #TechPolicy",
+          "published_at": "2026-03-26T20:33:44-04:00",
+          "age_hours": 9.9,
+          "scraped_from": "The Verge AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/MyBoyfriendIsAI/comments/1s4ptyz/judge_sides_with_anthropic_to_temporarily_block/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Judge%20sides%20with%20Anthropic%20to&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.anthropic.com/research/bloom?lang=us",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "category": "WORLD",
+          "topic": "Iran oil revenue soars as it's the only exporter out of Hormuz",
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
+          "source_url": "https://reddit.com/r/Economics/comments/1s4kat0/iran_oil_revenue_soars_as_its_the_only_exporter/",
+          "source_label": "r/economics on Reddit",
+          "voice_score": 89,
+          "hashtags": "#Economics #OilMarkets #Geopolitics #SupplyChain #RealEstate #BusinessStrategy #MarketDynamics",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Funny how geopolitics creates weird business opportunities. Iran's oil revenue jumping because they're literally the only exporter moving through Hormuz right now. Real talk \u2014 supply constraints = pricing power. Similar play in real estate when inventory dries up. Market dynamics don't care about politics.\n\n#Economics #OilMarkets #Geopolitics #SupplyChain #RealEstate #BusinessStrategy #MarketDynamics",
+          "published_at": "2026-03-26T21:21:19+00:00",
+          "age_hours": 13.1,
+          "scraped_from": "r/economics",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/Economics/comments/1s4kat0/iran_oil_revenue_soars_as_its_the_only_exporter/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Iran%20oil%20revenue%20soars%20as&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Iran%20oil%20revenue%20soars%20as%20it%27s%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "category": "WORLD",
+          "topic": "Trump Team Examines What Oil as High as $200 a Barrel Would Mean",
+          "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
+          "source_url": "https://reddit.com/r/Economics/comments/1s47yp0/trump_team_examines_what_oil_as_high_as_200_a/",
+          "source_label": "r/economics on Reddit",
+          "voice_score": 90,
+          "hashtags": "#SmallBusiness #RealEstate #Economics #Hospitality #CostofDoing Business #FueledByData #BusinessOwner",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 if oil hits $200/barrel, hospitality costs spike hard. Gas for guest shuttles, utility bills, supply chain markups. Small business owners legitimately need to start modeling this scenario now. Not subtle economics, but genuinely affects your bottom line.\n\n#SmallBusiness #RealEstate #Economics #Hospitality #CostofDoing Business #FueledByData #BusinessOwner",
+          "published_at": "2026-03-26T13:48:08+00:00",
+          "age_hours": 20.7,
+          "scraped_from": "r/economics",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/Economics/comments/1s47yp0/trump_team_examines_what_oil_as_high_as_200_a/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Trump%20Team%20Examines%20What%20Oil&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Trump%20Team%20Examines%20What%20Oil%20as%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "category": "WORLD",
+          "topic": "Trump's War in Iran is Costing the U.S. Economy 10,000 Jobs a Month, Goldman Sachs Says",
+          "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+          "source_url": "https://reddit.com/r/Economics/comments/1s4iaq5/trumps_war_in_iran_is_costing_the_us_economy/",
+          "source_label": "r/economics on Reddit",
+          "voice_score": 91,
+          "hashtags": "#SmallBusiness #EconomicImpact #RealEstate #BusinessOwner #Economy #Hospitality #UncertaintyMatters",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Goldman Sachs just dropped that geopolitical tensions are bleeding 10k jobs monthly from the economy. Real talk \u2014 when the macro gets unstable, small business hiring freezes. Hospitality and construction feel it first. Hard to scale anything when uncertainty's the only thing growing.\n\n#SmallBusiness #EconomicImpact #RealEstate #BusinessOwner #Economy #Hospitality #UncertaintyMatters",
+          "published_at": "2026-03-26T20:05:59+00:00",
+          "age_hours": 14.4,
+          "scraped_from": "r/economics",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/Economics/comments/1s4iaq5/trumps_war_in_iran_is_costing_the_us_economy/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Trump%27s%20War%20in%20Iran%20is&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Trump%27s%20War%20in%20Iran%20is%20Costing%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        }
+      ],
+      "generated_at": "2026-03-27T10:30:11.068673+00:00",
+      "label": "Morning Brief (6:30 AM)",
+      "count": 10
+    },
+    "afternoon": {
+      "posts": [],
+      "generated_at": "",
+      "label": "Afternoon Update (1 PM)",
+      "count": 0
+    },
+    "scripts_thumbnails": []
   },
   "payroll": {
-    "period": "Mar 10 – Mar 24, 2026",
+    "period": "Mar 10 \u2013 Mar 24, 2026",
     "period_type": "B",
     "pay_date": "Mar 27, 2026",
     "total_payout": 5150.0,
@@ -208,7 +782,7 @@
       {
         "level": "red",
         "property": "10 S Halifax Ave",
-        "issue": "AC unit reported not cooling — HVAC scheduled"
+        "issue": "AC unit reported not cooling \u2014 HVAC scheduled"
       },
       {
         "level": "yellow",
@@ -218,7 +792,7 @@
       {
         "level": "green",
         "property": "117 N Hollywood Ave",
-        "issue": "WiFi complaint resolved — confirmed by guest"
+        "issue": "WiFi complaint resolved \u2014 confirmed by guest"
       }
     ],
     "top_performers": [
@@ -238,5 +812,18 @@
         "rating": 4.8
       }
     ]
+  },
+  "scraper_meta": {
+    "scraped_at": "2026-03-27T10:30:11.068673+00:00",
+    "sources_used": [
+      "TechCrunch AI",
+      "The Verge AI",
+      "Google AI Blog",
+      "r/economics"
+    ],
+    "all_from_last_24h": true,
+    "post_count": 10,
+    "morning_count": 10,
+    "afternoon_count": 0
   }
 }
