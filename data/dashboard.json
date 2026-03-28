@@ -1,132 +1,706 @@
 {
-  "generated_at": "2026-03-11T08:46:09.549424-04:00",
-  "date": "2026-03-11",
+  "generated_at": "2026-03-28T06:35:30.884230-04:00",
+  "date": "2026-03-28",
   "content": {
     "posts": [
       {
         "id": 1,
         "category": "AI",
-        "topic": "OpenAI Drops GPT-5 — Real-Time Reasoning Benchmark Shattered",
+        "topic": "STADLER reshapes knowledge work at a 230-year-old company",
         "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
-        "source_url": "https://openai.com/blog",
+        "source_url": "https://openai.com/index/stadler",
         "source_label": "OpenAI Blog",
-        "voice_score": 94,
-        "hashtags": "#AI #GPT5 #Automation #AIThatScales",
+        "voice_score": 89,
+        "hashtags": "#AIConsulting #SmallBusiness #ChatGPT #ProductivityHacks #RealEstate #BusinessAutomation #DaytonaBeach",
         "platforms": "Facebook + Instagram",
-        "post_text": "The game just changed — again.\n\nOpenAI dropped GPT-5 this morning and the reasoning capability leap is real. I've been testing it since 6 AM and the difference isn't subtle.\n\nFor business owners: this isn't theoretical anymore. The automation workflows that felt \"almost there\" last year? They're \"fully there\" now.\n\nWe're already updating 3 client systems this week. If you haven't started automating your operations, you're now 2 generations behind.\n\nDM me if you want to talk about what this means for your business.\n\n#AI #GPT5 #Automation #AIThatScales #BusinessAutomation #FutureOfWork"
+        "post_text": "Real talk: a 230-year-old rail company just saved thousands of hours by letting ChatGPT handle knowledge work. Genuinely wild. If legacy businesses are automating this stuff, small operators need to be asking what ChatGPT could do for your team right now. What's your biggest time sink?\n\n#AIConsulting #SmallBusiness #ChatGPT #ProductivityHacks #RealEstate #BusinessAutomation #DaytonaBeach",
+        "published_at": "2026-03-27T22:00:00+00:00",
+        "age_hours": 12.6,
+        "scraped_from": "OpenAI Blog",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/bookshelf/comments/1s1grpt/i_finally_bought_my_first_home_and_attempted_to/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=STADLER%20reshapes%20knowledge%20work%20at&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://openai.com/index/stadler",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 2,
         "category": "AI",
-        "topic": "AI Agents Now Handle 40% of Fortune 500 Customer Service",
-        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/artificial",
-        "source_label": "r/artificial",
-        "voice_score": 87,
-        "hashtags": "#CustomerService #AIAgents #Automation",
+        "topic": "Why SoftBank\u2019s new $40B loan points to a 2026 OpenAI IPO",
+        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+        "source_url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+        "source_label": "TechCrunch AI",
+        "voice_score": 90,
+        "hashtags": "#OpenAI #AIBusiness #TechNews #StartupInsights #Investing #ArtificialIntelligence #BusinessStrategy",
         "platforms": "Facebook + Instagram",
-        "post_text": "New data out: AI agents handle 40% of customer service interactions at Fortune 500 companies.\n\nThat's not a pilot program. That's operational reality.\n\nThe companies winning aren't waiting for \"perfect\" AI — they're deploying 80% solutions and improving in real-time.\n\nYour competitors are already doing this. The question is whether you're building the system or getting left behind.\n\nWhat's your biggest customer service bottleneck right now?\n\n#CustomerService #AIAgents #Automation #SmallBusiness #AIThatScales"
+        "post_text": "Real talk: when JPMorgan and Goldman Sachs just handed SoftBank $40B unsecured, that's not casual. Wall Street's basically saying \"we know what's coming in 2026.\" OpenAI going public would legitimately reshape how AI plays out in business. Funny how the money moves before the announcement.\n\n#OpenAI #AIBusiness #TechNews #StartupInsights #Investing #ArtificialIntelligence #BusinessStrategy",
+        "published_at": "2026-03-27T21:44:45+00:00",
+        "age_hours": 12.8,
+        "scraped_from": "TechCrunch AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/Piracy/comments/1s2034g/influx_of_ai_posts/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Why%20SoftBank%E2%80%99s%20new%20%2440B%20loan&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+            "label": "News Article"
+          }
+        ]
       },
       {
         "id": 3,
         "category": "AI",
-        "topic": "Claude 4 Sonnet Tops Every Major Coding Benchmark",
-        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
-        "source_url": "https://www.anthropic.com",
-        "source_label": "Anthropic",
+        "topic": "VCs are betting billions on AI\u2019s next wave, so why is OpenAI killing Sora?",
+        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+        "source_url": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
+        "source_label": "TechCrunch AI",
         "voice_score": 91,
-        "hashtags": "#Claude #Anthropic #AITools",
+        "hashtags": "#AIInfrastructure #RealEstate #SmallBusiness #TechTrends #LocalBusiness #EntrepreneurLife #AIConsulting",
         "platforms": "Facebook + Instagram",
-        "post_text": "Anthropic published Claude 4 Sonnet benchmark results and the coding performance is legitimately impressive.\n\nWe use Claude for 80% of our automation builds at AI That Scales. The jump from 3.5 → 4 is the biggest single-version improvement I've seen.\n\nA workflow that used to take 3 iterations now lands first pass 70% of the time. That's not small.\n\nIf you're building automations and not using Claude, you're working harder than you need to.\n\n#Claude #Anthropic #AITools #Automation #AIThatScales #BuildSmarter"
+        "post_text": "Real talk \u2014 AI companies are chasing billions in infrastructure while locals are saying \"nope\" to their plans. Funny how the tech industry moves fast until it hits actual property owners with real leverage. Small business lesson: community trust beats capital every time.\n\n#AIInfrastructure #RealEstate #SmallBusiness #TechTrends #LocalBusiness #EntrepreneurLife #AIConsulting",
+        "published_at": "2026-03-27T15:40:19+00:00",
+        "age_hours": 18.9,
+        "scraped_from": "TechCrunch AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/collapse/comments/1s0iqph/last_week_in_collapse_march_1521_2026/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=VCs%20are%20betting%20billions%20on&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
+            "label": "News Article"
+          }
+        ]
       },
       {
         "id": 4,
         "category": "AI",
-        "topic": "Gemini 2.0 Just Shipped Inside Every Google Workspace App",
+        "topic": "OpenAI shuts down Sora while Meta gets shut out in court",
         "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
-        "source_url": "https://workspace.google.com",
-        "source_label": "Google Workspace",
-        "voice_score": 82,
-        "hashtags": "#Google #Gemini #Productivity",
+        "source_url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
+        "source_label": "TechCrunch AI",
+        "voice_score": 92,
+        "hashtags": "#RealEstate #AIInfrastructure #PropertyRights #SmallBusiness #TechNews #Daytona #FloridaBusiness",
         "platforms": "Facebook + Instagram",
-        "post_text": "Google pushed Gemini 2.0 into Workspace — Docs, Sheets, Gmail, Meet.\n\nThe practical impact for small business teams: your VA now has a co-pilot baked into every tool they already use.\n\nBeen playing with the Sheets integration this week. The ability to describe what you want and have it build formulas + summarize data is genuinely useful — not demo-ware.\n\nIf your team runs on Google, this upgrade happened automatically. Make sure you're actually using it.\n\n#Google #Gemini #Productivity #SmallBusiness #WorkSmarter #AIThatScales"
+        "post_text": "Real talk: An 82-year-old Kentucky woman turning down $26M for her land while AI companies try rezoning nearby is genuinely wild. When tech infrastructure meets real property rights, the real world pushes back hard. Small landowners have more leverage than they think.\n\n#RealEstate #AIInfrastructure #PropertyRights #SmallBusiness #TechNews #Daytona #FloridaBusiness",
+        "published_at": "2026-03-27T13:30:00+00:00",
+        "age_hours": 21.1,
+        "scraped_from": "TechCrunch AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/TwoBestFriendsPlay/comments/1s2rumr/openai_shuts_down_sora_video_making_app/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=OpenAI%20shuts%20down%20Sora%20while&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
+            "label": "News Article"
+          }
+        ]
       },
       {
         "id": 5,
         "category": "AI",
-        "topic": "Make.com, Zapier, n8n — No-Code Platforms Hit 300% Growth",
+        "topic": "AGI has arrived",
         "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/ChatGPT",
-        "source_label": "r/ChatGPT",
-        "voice_score": 89,
-        "hashtags": "#NoCode #Workflow #Automation",
+        "source_url": "https://reddit.com/r/singularity/comments/1s55gs2/agi_has_arrived/",
+        "source_label": "r/singularity on Reddit",
+        "voice_score": 93,
+        "hashtags": "#AGI #AIConsulting #SmallBusiness #RealEstate #FutureOfWork #DaytonaBeach #TechTrends",
         "platforms": "Facebook + Instagram",
-        "post_text": "No-code automation platforms hit 300% user growth last quarter.\n\nTranslation: the barrier to automation is officially gone. You don't need a developer. You need someone who understands your process and 2-4 hours.\n\nI've been building no-code automations for clients for 18 months. The tools keep getting better. The window to get ahead of competitors is still open — but it's closing.\n\nStill doing manually what a bot could do? That's a choice. Make sure it's intentional.\n\n#NoCode #Workflow #Automation #Productivity #AIThatScales #BusinessGrowth"
+        "post_text": "Real talk \u2014 whether AGI actually arrived or we're just watching the hype machine work overtime, the practical question for business owners is the same: what do you do Monday morning? For us running rental ops and consulting clients, it's not about the existential stuff. It's about finding the actual edge right now.\n\n#AGI #AIConsulting #SmallBusiness #RealEstate #FutureOfWork #DaytonaBeach #TechTrends",
+        "published_at": "2026-03-27T14:20:49+00:00",
+        "age_hours": 20.2,
+        "scraped_from": "r/singularity",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/singularity/comments/1s55gs2/agi_has_arrived/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=AGI%20has%20arrived&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=AGI%20has%20arrived%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 6,
         "category": "AI",
-        "topic": "AI Guest Comms Cut STR Response Time from 4 Hours to 8 Minutes",
-        "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/airbnb",
-        "source_label": "r/airbnb",
-        "voice_score": 96,
-        "hashtags": "#VacationRental #PropertyManagement #AI",
+        "topic": "Anatomy of the .claude/ folder",
+        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+        "source_url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+        "source_label": "Hacker News",
+        "voice_score": 94,
+        "hashtags": "#AI #DeveloperTools #TechOptimization #SmallBusiness #AIConsulting #RealEstate #Productivity",
         "platforms": "Facebook + Instagram",
-        "post_text": "Case study: AI-powered guest comms cut response time from 4 hours to 8 minutes across a 40-property portfolio.\n\nNot theoretical — I've seen it firsthand with Stay Coastal's 30+ properties.\n\nGuests don't care if a bot answered. They care that someone answered. Fast responses = better reviews = more bookings.\n\nMath is simple. Setup takes a weekend. ROI is permanent.\n\nRunning STRs and still answering every message manually? Let's talk.\n\n#VacationRental #PropertyManagement #AI #Airbnb #ShortTermRental #AIThatScales"
+        "post_text": "Real talk \u2014 watching developers optimize their .claude/ folders is genuinely fascinating. It's basically organizing your AI toolkit the same way you'd set up systems in a rental business. Small efficiencies compound. How are you structuring your AI workflows?\n\n#AI #DeveloperTools #TechOptimization #SmallBusiness #AIConsulting #RealEstate #Productivity",
+        "published_at": "2026-03-27T14:35:45+00:00",
+        "age_hours": 20.0,
+        "scraped_from": "Hacker News",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/StartupMind/comments/1s0p2h5/how_to_setup_your_claude_code_project/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Anatomy%20of%20the%20.claude/%20folder&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 7,
         "category": "AI",
-        "topic": "2026 AI Adoption Report: SMBs Close the Gap on Enterprise",
-        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 85,
-        "hashtags": "#SMB #AIAdoption #Business2026",
+        "topic": "Iran-linked hackers breach FBI director's personal email",
+        "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
+        "source_url": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/",
+        "source_label": "Hacker News",
+        "voice_score": 88,
+        "hashtags": "#Cybersecurity #SmallBusiness #DataProtection #BusinessSecurity #RealEstateTech #AIConsulting #InfoSec",
         "platforms": "Facebook + Instagram",
-        "post_text": "2026 AI Adoption Report: the gap between enterprise and SMB AI usage closed by 40% last year.\n\nThe tools got cheaper. The interfaces got simpler. The use cases got clearer.\n\nBusinesses that adopted early are seeing it in their margins. The ones who waited are scrambling.\n\nWhere are you in this curve? Reply with where you are and where you want to be.\n\n#SMB #AIAdoption #Business2026 #Productivity #AIThatScales #Entrepreneur"
+        "post_text": "Real talk \u2014 if Iran-linked hackers can breach an FBI director's personal email, your vacation rental guest portal or business email isn't exactly Fort Knox either. This is genuinely the wake-up call small business owners need. Multi-factor authentication isn't optional anymore, it's table stakes.\n\n#Cybersecurity #SmallBusiness #DataProtection #BusinessSecurity #RealEstateTech #AIConsulting #InfoSec",
+        "published_at": "2026-03-27T14:38:28+00:00",
+        "age_hours": 19.9,
+        "scraped_from": "Hacker News",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/news/comments/1s55xxw/iranlinked_hackers_claim_breach_of_fbi_directors/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Iran-linked%20hackers%20breach%20FBI%20director%27s&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 8,
         "category": "WORLD",
-        "topic": "Fed Holds Rates — Here's What That Actually Means for Your Business",
+        "topic": "US may deploy up to 17,000 troops near Iran as war enters new phase \u2014 WSJ",
         "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/worldnews",
-        "source_label": "r/worldnews",
-        "voice_score": 78,
-        "hashtags": "#Economy #FederalReserve #SmallBusiness",
+        "source_url": "https://reddit.com/r/worldnews/comments/1s5p1dy/us_may_deploy_up_to_17000_troops_near_iran_as_war/",
+        "source_label": "r/worldnews on Reddit",
+        "voice_score": 89,
+        "hashtags": "#RealEstateNews #SmallBusiness #GlobalEconomy #Hospitality #BusinessOwner #MarketWatch #CoastalBusiness",
         "platforms": "Facebook + Instagram",
-        "post_text": "The Fed held rates again. Inflation still uncertain. Lending still tight.\n\nStraight talk: if you're waiting for rates to drop before making moves, you're tying your growth strategy to a variable you can't control.\n\nOperators winning right now are cutting costs through efficiency (automation), not waiting for cheap capital.\n\nFocus on what you can control: margins, team productivity, systems. The macro clears when it clears.\n\n#Economy #FederalReserve #SmallBusiness #Entrepreneur #BusinessStrategy #AIThatScales"
+        "post_text": "Real talk \u2014 geopolitical tension like this affects everything downstream. Travel, supply chains, insurance costs for hospitality ops, even your vacation rental bookings. Funny how global headlines hit local business faster than most people realize. Stay informed on this stuff.\n\n#RealEstateNews #SmallBusiness #GlobalEconomy #Hospitality #BusinessOwner #MarketWatch #CoastalBusiness",
+        "published_at": "2026-03-28T03:05:06+00:00",
+        "age_hours": 7.5,
+        "scraped_from": "r/worldnews",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/worldnews/comments/1s5p1dy/us_may_deploy_up_to_17000_troops_near_iran_as_war/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=US%20may%20deploy%20up%20to&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=US%20may%20deploy%20up%20to%2017%2C000%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 9,
         "category": "WORLD",
-        "topic": "Daytona Beach Q1 2026: Occupancy Strong, ADR Up 8% YoY",
-        "image_url": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/realestate",
-        "source_label": "r/realestate",
-        "voice_score": 92,
-        "hashtags": "#FloridaRealEstate #DaytonaBeach #ShortTermRental",
+        "topic": "10 Americans injured in Iranian attack on Saudi airbase",
+        "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
+        "source_url": "https://reddit.com/r/worldnews/comments/1s5jyb7/10_americans_injured_in_iranian_attack_on_saudi/",
+        "source_label": "r/worldnews on Reddit",
+        "voice_score": 90,
+        "hashtags": "#GeopoliticalRisk #BusinessNews #GlobalEconomy #SmallBusiness #RealEstateInsights #EconomyMatters #StayCostal",
         "platforms": "Facebook + Instagram",
-        "post_text": "Daytona Beach Q1 data is in: occupancy holding strong, ADRs up 8% YoY, inventory tight on the quality end.\n\nFor property owners: if your property isn't performing at market, the issue isn't the market.\n\nFor investors watching: the STR opportunity here is real. \"Set it and forget it\" is dead, but returns for well-managed properties are there.\n\nWant to see actual comps or talk through an acquisition? DM me.\n\n#FloridaRealEstate #DaytonaBeach #ShortTermRental #VacationRental #RealEstateInvesting #StayCoastal"
+        "post_text": "Real talk \u2014 geopolitical tension impacts everything from supply chains to travel costs. When conflicts flare up overseas, it ripples through tourism, energy prices, and business operations stateside. Stay informed on what's happening globally because it genuinely affects local economies and your bottom line.\n\n#GeopoliticalRisk #BusinessNews #GlobalEconomy #SmallBusiness #RealEstateInsights #EconomyMatters #StayCostal",
+        "published_at": "2026-03-27T23:15:50+00:00",
+        "age_hours": 11.3,
+        "scraped_from": "r/worldnews",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/worldnews/comments/1s5jyb7/10_americans_injured_in_iranian_attack_on_saudi/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=10%20Americans%20injured%20in%20Iranian&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=10%20Americans%20injured%20in%20Iranian%20attack%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 10,
         "category": "WORLD",
-        "topic": "35% of US Workforce Permanently Remote — What That Means for STR Operators",
-        "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 83,
-        "hashtags": "#RemoteWork #VacationRental #WorkFromAnywhere",
+        "topic": "Cyber Group Behind Kash Patel Email Hack Issues $50M 'Bounty' Threat on Trump and Netanyahu",
+        "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+        "source_url": "https://reddit.com/r/worldnews/comments/1s5qblj/cyber_group_behind_kash_patel_email_hack_issues/",
+        "source_label": "r/worldnews on Reddit",
+        "voice_score": 91,
+        "hashtags": "#Cybersecurity #SmallBusiness #DataProtection #BusinessRisk #EmailSecurity #RealEstate #CyberThreats",
         "platforms": "Facebook + Instagram",
-        "post_text": "New Gallup data: 35% of the US workforce is now permanently remote. That's not going back.\n\nFor vacation rental operators, this drives mid-week and extended-stay demand. Guests aren't just coming for the weekend — they're coming for 2-4 weeks.\n\nSeen it in our own portfolio. Longer stays, better reviews, less turnover.\n\nSTR not set up for extended stays? (workspace, faster WiFi, monthly discounts) You're leaving money on the table.\n\n#RemoteWork #VacationRental #WorkFromAnywhere #ShortTermRental #StayCoastal #AIThatScales"
+        "post_text": "Real talk \u2014 when cyber threats hit high-level officials, small business owners need to pay attention. This isn't some distant headline. Your email, your data, your customers' info could be next. Genuinely, cyber insurance and proper protocols aren't optional anymore.\n\n#Cybersecurity #SmallBusiness #DataProtection #BusinessRisk #EmailSecurity #RealEstate #CyberThreats",
+        "published_at": "2026-03-28T04:08:27+00:00",
+        "age_hours": 6.4,
+        "scraped_from": "r/worldnews",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/worldnews/comments/1s5qblj/cyber_group_behind_kash_patel_email_hack_issues/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Cyber%20Group%20Behind%20Kash%20Patel&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=Cyber%20Group%20Behind%20Kash%20Patel%20Email%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       }
-    ]
+    ],
+    "morning": {
+      "posts": [
+        {
+          "id": 1,
+          "category": "AI",
+          "topic": "STADLER reshapes knowledge work at a 230-year-old company",
+          "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
+          "source_url": "https://openai.com/index/stadler",
+          "source_label": "OpenAI Blog",
+          "voice_score": 89,
+          "hashtags": "#AIConsulting #SmallBusiness #ChatGPT #ProductivityHacks #RealEstate #BusinessAutomation #DaytonaBeach",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: a 230-year-old rail company just saved thousands of hours by letting ChatGPT handle knowledge work. Genuinely wild. If legacy businesses are automating this stuff, small operators need to be asking what ChatGPT could do for your team right now. What's your biggest time sink?\n\n#AIConsulting #SmallBusiness #ChatGPT #ProductivityHacks #RealEstate #BusinessAutomation #DaytonaBeach",
+          "published_at": "2026-03-27T22:00:00+00:00",
+          "age_hours": 12.6,
+          "scraped_from": "OpenAI Blog",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/bookshelf/comments/1s1grpt/i_finally_bought_my_first_home_and_attempted_to/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=STADLER%20reshapes%20knowledge%20work%20at&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://openai.com/index/stadler",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "category": "AI",
+          "topic": "Why SoftBank\u2019s new $40B loan points to a 2026 OpenAI IPO",
+          "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+          "source_url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+          "source_label": "TechCrunch AI",
+          "voice_score": 90,
+          "hashtags": "#OpenAI #AIBusiness #TechNews #StartupInsights #Investing #ArtificialIntelligence #BusinessStrategy",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: when JPMorgan and Goldman Sachs just handed SoftBank $40B unsecured, that's not casual. Wall Street's basically saying \"we know what's coming in 2026.\" OpenAI going public would legitimately reshape how AI plays out in business. Funny how the money moves before the announcement.\n\n#OpenAI #AIBusiness #TechNews #StartupInsights #Investing #ArtificialIntelligence #BusinessStrategy",
+          "published_at": "2026-03-27T21:44:45+00:00",
+          "age_hours": 12.8,
+          "scraped_from": "TechCrunch AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/Piracy/comments/1s2034g/influx_of_ai_posts/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Why%20SoftBank%E2%80%99s%20new%20%2440B%20loan&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+              "label": "News Article"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "category": "AI",
+          "topic": "VCs are betting billions on AI\u2019s next wave, so why is OpenAI killing Sora?",
+          "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+          "source_url": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
+          "source_label": "TechCrunch AI",
+          "voice_score": 91,
+          "hashtags": "#AIInfrastructure #RealEstate #SmallBusiness #TechTrends #LocalBusiness #EntrepreneurLife #AIConsulting",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 AI companies are chasing billions in infrastructure while locals are saying \"nope\" to their plans. Funny how the tech industry moves fast until it hits actual property owners with real leverage. Small business lesson: community trust beats capital every time.\n\n#AIInfrastructure #RealEstate #SmallBusiness #TechTrends #LocalBusiness #EntrepreneurLife #AIConsulting",
+          "published_at": "2026-03-27T15:40:19+00:00",
+          "age_hours": 18.9,
+          "scraped_from": "TechCrunch AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/collapse/comments/1s0iqph/last_week_in_collapse_march_1521_2026/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=VCs%20are%20betting%20billions%20on&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
+              "label": "News Article"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "category": "AI",
+          "topic": "OpenAI shuts down Sora while Meta gets shut out in court",
+          "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
+          "source_url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
+          "source_label": "TechCrunch AI",
+          "voice_score": 92,
+          "hashtags": "#RealEstate #AIInfrastructure #PropertyRights #SmallBusiness #TechNews #Daytona #FloridaBusiness",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: An 82-year-old Kentucky woman turning down $26M for her land while AI companies try rezoning nearby is genuinely wild. When tech infrastructure meets real property rights, the real world pushes back hard. Small landowners have more leverage than they think.\n\n#RealEstate #AIInfrastructure #PropertyRights #SmallBusiness #TechNews #Daytona #FloridaBusiness",
+          "published_at": "2026-03-27T13:30:00+00:00",
+          "age_hours": 21.1,
+          "scraped_from": "TechCrunch AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/TwoBestFriendsPlay/comments/1s2rumr/openai_shuts_down_sora_video_making_app/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=OpenAI%20shuts%20down%20Sora%20while&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
+              "label": "News Article"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "category": "AI",
+          "topic": "AGI has arrived",
+          "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+          "source_url": "https://reddit.com/r/singularity/comments/1s55gs2/agi_has_arrived/",
+          "source_label": "r/singularity on Reddit",
+          "voice_score": 93,
+          "hashtags": "#AGI #AIConsulting #SmallBusiness #RealEstate #FutureOfWork #DaytonaBeach #TechTrends",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 whether AGI actually arrived or we're just watching the hype machine work overtime, the practical question for business owners is the same: what do you do Monday morning? For us running rental ops and consulting clients, it's not about the existential stuff. It's about finding the actual edge right now.\n\n#AGI #AIConsulting #SmallBusiness #RealEstate #FutureOfWork #DaytonaBeach #TechTrends",
+          "published_at": "2026-03-27T14:20:49+00:00",
+          "age_hours": 20.2,
+          "scraped_from": "r/singularity",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/singularity/comments/1s55gs2/agi_has_arrived/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=AGI%20has%20arrived&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=AGI%20has%20arrived%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "category": "AI",
+          "topic": "Anatomy of the .claude/ folder",
+          "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+          "source_url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+          "source_label": "Hacker News",
+          "voice_score": 94,
+          "hashtags": "#AI #DeveloperTools #TechOptimization #SmallBusiness #AIConsulting #RealEstate #Productivity",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 watching developers optimize their .claude/ folders is genuinely fascinating. It's basically organizing your AI toolkit the same way you'd set up systems in a rental business. Small efficiencies compound. How are you structuring your AI workflows?\n\n#AI #DeveloperTools #TechOptimization #SmallBusiness #AIConsulting #RealEstate #Productivity",
+          "published_at": "2026-03-27T14:35:45+00:00",
+          "age_hours": 20.0,
+          "scraped_from": "Hacker News",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/StartupMind/comments/1s0p2h5/how_to_setup_your_claude_code_project/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Anatomy%20of%20the%20.claude/%20folder&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "category": "AI",
+          "topic": "Iran-linked hackers breach FBI director's personal email",
+          "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
+          "source_url": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/",
+          "source_label": "Hacker News",
+          "voice_score": 88,
+          "hashtags": "#Cybersecurity #SmallBusiness #DataProtection #BusinessSecurity #RealEstateTech #AIConsulting #InfoSec",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 if Iran-linked hackers can breach an FBI director's personal email, your vacation rental guest portal or business email isn't exactly Fort Knox either. This is genuinely the wake-up call small business owners need. Multi-factor authentication isn't optional anymore, it's table stakes.\n\n#Cybersecurity #SmallBusiness #DataProtection #BusinessSecurity #RealEstateTech #AIConsulting #InfoSec",
+          "published_at": "2026-03-27T14:38:28+00:00",
+          "age_hours": 19.9,
+          "scraped_from": "Hacker News",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/news/comments/1s55xxw/iranlinked_hackers_claim_breach_of_fbi_directors/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Iran-linked%20hackers%20breach%20FBI%20director%27s&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "category": "WORLD",
+          "topic": "US may deploy up to 17,000 troops near Iran as war enters new phase \u2014 WSJ",
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
+          "source_url": "https://reddit.com/r/worldnews/comments/1s5p1dy/us_may_deploy_up_to_17000_troops_near_iran_as_war/",
+          "source_label": "r/worldnews on Reddit",
+          "voice_score": 89,
+          "hashtags": "#RealEstateNews #SmallBusiness #GlobalEconomy #Hospitality #BusinessOwner #MarketWatch #CoastalBusiness",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 geopolitical tension like this affects everything downstream. Travel, supply chains, insurance costs for hospitality ops, even your vacation rental bookings. Funny how global headlines hit local business faster than most people realize. Stay informed on this stuff.\n\n#RealEstateNews #SmallBusiness #GlobalEconomy #Hospitality #BusinessOwner #MarketWatch #CoastalBusiness",
+          "published_at": "2026-03-28T03:05:06+00:00",
+          "age_hours": 7.5,
+          "scraped_from": "r/worldnews",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/worldnews/comments/1s5p1dy/us_may_deploy_up_to_17000_troops_near_iran_as_war/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=US%20may%20deploy%20up%20to&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=US%20may%20deploy%20up%20to%2017%2C000%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "category": "WORLD",
+          "topic": "10 Americans injured in Iranian attack on Saudi airbase",
+          "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
+          "source_url": "https://reddit.com/r/worldnews/comments/1s5jyb7/10_americans_injured_in_iranian_attack_on_saudi/",
+          "source_label": "r/worldnews on Reddit",
+          "voice_score": 90,
+          "hashtags": "#GeopoliticalRisk #BusinessNews #GlobalEconomy #SmallBusiness #RealEstateInsights #EconomyMatters #StayCostal",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 geopolitical tension impacts everything from supply chains to travel costs. When conflicts flare up overseas, it ripples through tourism, energy prices, and business operations stateside. Stay informed on what's happening globally because it genuinely affects local economies and your bottom line.\n\n#GeopoliticalRisk #BusinessNews #GlobalEconomy #SmallBusiness #RealEstateInsights #EconomyMatters #StayCostal",
+          "published_at": "2026-03-27T23:15:50+00:00",
+          "age_hours": 11.3,
+          "scraped_from": "r/worldnews",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/worldnews/comments/1s5jyb7/10_americans_injured_in_iranian_attack_on_saudi/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=10%20Americans%20injured%20in%20Iranian&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=10%20Americans%20injured%20in%20Iranian%20attack%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "category": "WORLD",
+          "topic": "Cyber Group Behind Kash Patel Email Hack Issues $50M 'Bounty' Threat on Trump and Netanyahu",
+          "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+          "source_url": "https://reddit.com/r/worldnews/comments/1s5qblj/cyber_group_behind_kash_patel_email_hack_issues/",
+          "source_label": "r/worldnews on Reddit",
+          "voice_score": 91,
+          "hashtags": "#Cybersecurity #SmallBusiness #DataProtection #BusinessRisk #EmailSecurity #RealEstate #CyberThreats",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 when cyber threats hit high-level officials, small business owners need to pay attention. This isn't some distant headline. Your email, your data, your customers' info could be next. Genuinely, cyber insurance and proper protocols aren't optional anymore.\n\n#Cybersecurity #SmallBusiness #DataProtection #BusinessRisk #EmailSecurity #RealEstate #CyberThreats",
+          "published_at": "2026-03-28T04:08:27+00:00",
+          "age_hours": 6.4,
+          "scraped_from": "r/worldnews",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/worldnews/comments/1s5qblj/cyber_group_behind_kash_patel_email_hack_issues/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Cyber%20Group%20Behind%20Kash%20Patel&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Cyber%20Group%20Behind%20Kash%20Patel%20Email%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        }
+      ],
+      "generated_at": "2026-03-28T10:33:26.569468+00:00",
+      "label": "Morning Brief (6:30 AM)",
+      "count": 10
+    },
+    "afternoon": {
+      "posts": [],
+      "generated_at": "",
+      "label": "Afternoon Update (1 PM)",
+      "count": 0
+    },
+    "scripts_thumbnails": []
   },
   "payroll": {
-    "period": "Mar 10 – Mar 24, 2026",
+    "period": "Mar 10 \u2013 Mar 24, 2026",
     "period_type": "B",
     "pay_date": "Mar 27, 2026",
     "total_payout": 5150.0,
@@ -208,7 +782,7 @@
       {
         "level": "red",
         "property": "10 S Halifax Ave",
-        "issue": "AC unit reported not cooling — HVAC scheduled"
+        "issue": "AC unit reported not cooling \u2014 HVAC scheduled"
       },
       {
         "level": "yellow",
@@ -218,7 +792,7 @@
       {
         "level": "green",
         "property": "117 N Hollywood Ave",
-        "issue": "WiFi complaint resolved — confirmed by guest"
+        "issue": "WiFi complaint resolved \u2014 confirmed by guest"
       }
     ],
     "top_performers": [
@@ -238,5 +812,19 @@
         "rating": 4.8
       }
     ]
+  },
+  "scraper_meta": {
+    "scraped_at": "2026-03-28T10:33:26.569468+00:00",
+    "sources_used": [
+      "OpenAI Blog",
+      "r/singularity",
+      "TechCrunch AI",
+      "Hacker News",
+      "r/worldnews"
+    ],
+    "all_from_last_24h": true,
+    "post_count": 10,
+    "morning_count": 10,
+    "afternoon_count": 0
   }
 }
