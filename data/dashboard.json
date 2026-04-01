@@ -1,132 +1,706 @@
 {
-  "generated_at": "2026-03-11T08:46:09.549424-04:00",
-  "date": "2026-03-11",
+  "generated_at": "2026-04-01T06:32:26.532939-04:00",
+  "date": "2026-04-01",
   "content": {
     "posts": [
       {
         "id": 1,
         "category": "AI",
-        "topic": "OpenAI Drops GPT-5 — Real-Time Reasoning Benchmark Shattered",
+        "topic": "Gradient Labs gives every bank customer an AI account manager",
         "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
-        "source_url": "https://openai.com/blog",
+        "source_url": "https://openai.com/index/gradient-labs",
         "source_label": "OpenAI Blog",
-        "voice_score": 94,
-        "hashtags": "#AI #GPT5 #Automation #AIThatScales",
+        "voice_score": 89,
+        "hashtags": "#AI #Banking #OpenAI #SmallBusiness #FinTech #AIConsulting #FutureOfWork",
         "platforms": "Facebook + Instagram",
-        "post_text": "The game just changed — again.\n\nOpenAI dropped GPT-5 this morning and the reasoning capability leap is real. I've been testing it since 6 AM and the difference isn't subtle.\n\nFor business owners: this isn't theoretical anymore. The automation workflows that felt \"almost there\" last year? They're \"fully there\" now.\n\nWe're already updating 3 client systems this week. If you haven't started automating your operations, you're now 2 generations behind.\n\nDM me if you want to talk about what this means for your business.\n\n#AI #GPT5 #Automation #AIThatScales #BusinessAutomation #FutureOfWork"
+        "post_text": "Gradient Labs just handed every bank customer an AI account manager. Real talk \u2014 this is what automation looks like when it actually works. Low latency, high reliability, no disasters. Funny how banks are moving faster on AI than most small businesses. Your move?\n\n#AI #Banking #OpenAI #SmallBusiness #FinTech #AIConsulting #FutureOfWork",
+        "published_at": "2026-04-01T02:00:00+00:00",
+        "age_hours": 8.5,
+        "scraped_from": "OpenAI Blog",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/playstation/comments/1s6ep7y/i_moved_on_with_my_life_my_psn_account_didnt/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Gradient%20Labs%20gives%20every%20bank&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://openai.com/index/gradient-labs",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 2,
         "category": "AI",
-        "topic": "AI Agents Now Handle 40% of Fortune 500 Customer Service",
-        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/artificial",
-        "source_label": "r/artificial",
-        "voice_score": 87,
-        "hashtags": "#CustomerService #AIAgents #Automation",
+        "topic": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
+        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+        "source_url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+        "source_label": "Google AI Blog",
+        "voice_score": 90,
+        "hashtags": "#AIConsulting #VideoGeneration #SmallBusiness #RealEstate #GoogleAI #VacationRental #ContentCreation",
         "platforms": "Facebook + Instagram",
-        "post_text": "New data out: AI agents handle 40% of customer service interactions at Fortune 500 companies.\n\nThat's not a pilot program. That's operational reality.\n\nThe companies winning aren't waiting for \"perfect\" AI — they're deploying 80% solutions and improving in real-time.\n\nYour competitors are already doing this. The question is whether you're building the system or getting left behind.\n\nWhat's your biggest customer service bottleneck right now?\n\n#CustomerService #AIAgents #Automation #SmallBusiness #AIThatScales"
+        "post_text": "Google just dropped Veo 3.1 Lite and it's genuinely the most affordable video generation model they've built. Real talk\u2014for vacation rental owners and small agencies, this changes the math on content creation costs. Testing it now in AI Studio before it scales. Worth your 20 minutes.\n\n#AIConsulting #VideoGeneration #SmallBusiness #RealEstate #GoogleAI #VacationRental #ContentCreation",
+        "published_at": "2026-03-31T16:00:00+00:00",
+        "age_hours": 18.5,
+        "scraped_from": "Google AI Blog",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/IndieGaming/comments/1s3k6xm/our_steam_wishlists_have_moved_up_to_40100_a_day/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Build%20with%20Veo%203.1%20Lite%2C&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 3,
         "category": "AI",
-        "topic": "Claude 4 Sonnet Tops Every Major Coding Benchmark",
-        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
-        "source_url": "https://www.anthropic.com",
-        "source_label": "Anthropic",
+        "topic": "You can now use ChatGPT with Apple\u2019s CarPlay",
+        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
+        "source_label": "The Verge AI",
         "voice_score": 91,
-        "hashtags": "#Claude #Anthropic #AITools",
+        "hashtags": "#ChatGPT #CarPlay #RealEstateAI #SmallBusiness #AITools #Entrepreneurship #DaytonaBeach",
         "platforms": "Facebook + Instagram",
-        "post_text": "Anthropic published Claude 4 Sonnet benchmark results and the coding performance is legitimately impressive.\n\nWe use Claude for 80% of our automation builds at AI That Scales. The jump from 3.5 → 4 is the biggest single-version improvement I've seen.\n\nA workflow that used to take 3 iterations now lands first pass 70% of the time. That's not small.\n\nIf you're building automations and not using Claude, you're working harder than you need to.\n\n#Claude #Anthropic #AITools #Automation #AIThatScales #BuildSmarter"
+        "post_text": "ChatGPT in CarPlay is genuinely useful for real estate ops. Dictate property notes, check market data, manage guest requests\u2014all hands-free. Funny how AI keeps sneaking into the tools we already use daily. Not subtle, but legitimately practical for anyone juggling multiple businesses on the road.\n\n#ChatGPT #CarPlay #RealEstateAI #SmallBusiness #AITools #Entrepreneurship #DaytonaBeach",
+        "published_at": "2026-03-31T17:03:18-04:00",
+        "age_hours": 13.4,
+        "scraped_from": "The Verge AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/apple/comments/1s98nvh/openai_brings_chatgpt_to_carplay_for_handsfree/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=You%20can%20now%20use%20ChatGPT&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://community.openai.com/t/feature-request-apple-car-play-app/1064800",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 4,
         "category": "AI",
-        "topic": "Gemini 2.0 Just Shipped Inside Every Google Workspace App",
+        "topic": "Claude Code leak exposes a Tamagotchi-style \u2018pet\u2019 and an always-on agent",
         "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
-        "source_url": "https://workspace.google.com",
-        "source_label": "Google Workspace",
-        "voice_score": 82,
-        "hashtags": "#Google #Gemini #Productivity",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
+        "source_label": "The Verge AI",
+        "voice_score": 92,
+        "hashtags": "#AI #Cybersecurity #TechNews #ArtificialIntelligence #SmallBusiness #RealEstate #DataSecurity",
         "platforms": "Facebook + Instagram",
-        "post_text": "Google pushed Gemini 2.0 into Workspace — Docs, Sheets, Gmail, Meet.\n\nThe practical impact for small business teams: your VA now has a co-pilot baked into every tool they already use.\n\nBeen playing with the Sheets integration this week. The ability to describe what you want and have it build formulas + summarize data is genuinely useful — not demo-ware.\n\nIf your team runs on Google, this upgrade happened automatically. Make sure you're actually using it.\n\n#Google #Gemini #Productivity #SmallBusiness #WorkSmarter #AIThatScales"
+        "post_text": "Real talk \u2014 Anthropic just accidentally leaked Claude's source code and people found a Tamagotchi-style pet buried in there. Funny how even AI companies slip up with security basics. If you're building anything with AI, this is a reminder to audit your stuff before it goes live.\n\n#AI #Cybersecurity #TechNews #ArtificialIntelligence #SmallBusiness #RealEstate #DataSecurity",
+        "published_at": "2026-03-31T18:24:19-04:00",
+        "age_hours": 12.1,
+        "scraped_from": "The Verge AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/MCPservers/comments/1s8lrcs/claude_codes_entire_source_code_just_leaked_heres/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Claude%20Code%20leak%20exposes%20a&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://ruslanmv.com/news-and-trends/issues/news-2026-04-01-03-claude-code-leak-exposes-a-tamagotchi-style-pet-an/",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 5,
         "category": "AI",
-        "topic": "Make.com, Zapier, n8n — No-Code Platforms Hit 300% Growth",
+        "topic": "Anthropic is having a month",
         "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/ChatGPT",
-        "source_label": "r/ChatGPT",
-        "voice_score": 89,
-        "hashtags": "#NoCode #Workflow #Automation",
+        "source_url": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+        "source_label": "TechCrunch AI",
+        "voice_score": 93,
+        "hashtags": "#AINews #TechFail #SmallBusiness #RealEstate #OperationalExcellence #StartupLife #DaytonaBeach",
         "platforms": "Facebook + Instagram",
-        "post_text": "No-code automation platforms hit 300% user growth last quarter.\n\nTranslation: the barrier to automation is officially gone. You don't need a developer. You need someone who understands your process and 2-4 hours.\n\nI've been building no-code automations for clients for 18 months. The tools keep getting better. The window to get ahead of competitors is still open — but it's closing.\n\nStill doing manually what a bot could do? That's a choice. Make sure it's intentional.\n\n#NoCode #Workflow #Automation #Productivity #AIThatScales #BusinessGrowth"
+        "post_text": "Real talk \u2014 when your AI company has two major fumbles in one week, it's giving \"forgot to check the playbook\" energy. Funny how one person can tank momentum. This is why we obsess over process in our rental ops. Small mistakes scale fast.\n\n#AINews #TechFail #SmallBusiness #RealEstate #OperationalExcellence #StartupLife #DaytonaBeach",
+        "published_at": "2026-03-31T23:58:26+00:00",
+        "age_hours": 10.5,
+        "scraped_from": "TechCrunch AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/ClaudeCode/comments/1s8ty5y/anthropic_please_have_your_engineers_dogfood_the/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Anthropic%20is%20having%20a%20month&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.anthropic.com/research/labor-market-impacts",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 6,
         "category": "AI",
-        "topic": "AI Guest Comms Cut STR Response Time from 4 Hours to 8 Minutes",
-        "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/airbnb",
-        "source_label": "r/airbnb",
-        "voice_score": 96,
-        "hashtags": "#VacationRental #PropertyManagement #AI",
+        "topic": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+        "source_url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+        "source_label": "TechCrunch AI",
+        "voice_score": 94,
+        "hashtags": "#OpenAI #AIInvesting #TechFunding #SmallBusiness #RealEstate #AIConsulting #FutureOfWork",
         "platforms": "Facebook + Instagram",
-        "post_text": "Case study: AI-powered guest comms cut response time from 4 hours to 8 minutes across a 40-property portfolio.\n\nNot theoretical — I've seen it firsthand with Stay Coastal's 30+ properties.\n\nGuests don't care if a bot answered. They care that someone answered. Fast responses = better reviews = more bookings.\n\nMath is simple. Setup takes a weekend. ROI is permanent.\n\nRunning STRs and still answering every message manually? Let's talk.\n\n#VacationRental #PropertyManagement #AI #Airbnb #ShortTermRental #AIThatScales"
+        "post_text": "OpenAI just hit $852B valuation with retail investors jumping in. Real talk \u2014 when billion-dollar AI companies are this close to IPO, the real opportunity isn't watching from the sidelines. It's figuring out how AI actually saves you money in your business right now.\n\n#OpenAI #AIInvesting #TechFunding #SmallBusiness #RealEstate #AIConsulting #FutureOfWork",
+        "published_at": "2026-03-31T21:25:04+00:00",
+        "age_hours": 13.1,
+        "scraped_from": "TechCrunch AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/shopify/comments/1s80vtn/this_weeks_top_ecommerce_news_stories_march_30th/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=OpenAI%2C%20not%20yet%20public%2C%20raises&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://openai.com/index/accelerating-the-next-phase-ai/",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 7,
         "category": "AI",
-        "topic": "2026 AI Adoption Report: SMBs Close the Gap on Enterprise",
-        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 85,
-        "hashtags": "#SMB #AIAdoption #Business2026",
+        "topic": "Accelerating the next phase of AI",
+        "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
+        "source_url": "https://openai.com/index/accelerating-the-next-phase-ai",
+        "source_label": "OpenAI Blog",
+        "voice_score": 88,
+        "hashtags": "#AIConsulting #SmallBusiness #OpenAI #RealEstate #TechTrends #BusinessAutomation #FutureOfWork",
         "platforms": "Facebook + Instagram",
-        "post_text": "2026 AI Adoption Report: the gap between enterprise and SMB AI usage closed by 40% last year.\n\nThe tools got cheaper. The interfaces got simpler. The use cases got clearer.\n\nBusinesses that adopted early are seeing it in their margins. The ones who waited are scrambling.\n\nWhere are you in this curve? Reply with where you are and where you want to be.\n\n#SMB #AIAdoption #Business2026 #Productivity #AIThatScales #Entrepreneur"
+        "post_text": "OpenAI just locked in $122B to scale AI globally. Real talk \u2014 this matters for anyone running a business. Better AI tools = lower costs for customer service, marketing, operations. Not subtle capital deployment. What's your biggest operational headache that AI could actually solve right now?\n\n#AIConsulting #SmallBusiness #OpenAI #RealEstate #TechTrends #BusinessAutomation #FutureOfWork",
+        "published_at": "2026-03-31T13:00:00+00:00",
+        "age_hours": 21.5,
+        "scraped_from": "OpenAI Blog",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/singularity/comments/1s90e4e/openai_raises_122_billion_to_accelerate_the_next/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Accelerating%20the%20next%20phase%20of&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 8,
         "category": "WORLD",
-        "topic": "Fed Holds Rates — Here's What That Actually Means for Your Business",
+        "topic": "U.S strongly considering exit from NATO",
         "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/worldnews",
-        "source_label": "r/worldnews",
-        "voice_score": 78,
-        "hashtags": "#Economy #FederalReserve #SmallBusiness",
+        "source_url": "https://reddit.com/r/worldnews/comments/1s9fovj/us_strongly_considering_exit_from_nato/",
+        "source_label": "r/worldnews on Reddit",
+        "voice_score": 89,
+        "hashtags": "#SmallBusiness #NATO #Economics #RealEstate #GeoPolitics #BusinessNews #DaytonaBeach",
         "platforms": "Facebook + Instagram",
-        "post_text": "The Fed held rates again. Inflation still uncertain. Lending still tight.\n\nStraight talk: if you're waiting for rates to drop before making moves, you're tying your growth strategy to a variable you can't control.\n\nOperators winning right now are cutting costs through efficiency (automation), not waiting for cheap capital.\n\nFocus on what you can control: margins, team productivity, systems. The macro clears when it clears.\n\n#Economy #FederalReserve #SmallBusiness #Entrepreneur #BusinessStrategy #AIThatScales"
+        "post_text": "Real talk \u2014 if the U.S. actually exits NATO, small business owners better pay attention. Supply chains, currency stability, travel costs for our hospitality operations... genuinely everything gets messier. Not subtle geopolitics affecting your bottom line. What's your business exposure looking like?\n\n#SmallBusiness #NATO #Economics #RealEstate #GeoPolitics #BusinessNews #DaytonaBeach",
+        "published_at": "2026-04-01T09:32:48+00:00",
+        "age_hours": 1.0,
+        "scraped_from": "r/worldnews",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/worldnews/comments/1s9fovj/us_strongly_considering_exit_from_nato/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=U.S%20strongly%20considering%20exit%20from&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=U.S%20strongly%20considering%20exit%20from%20NATO%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 9,
         "category": "WORLD",
-        "topic": "Daytona Beach Q1 2026: Occupancy Strong, ADR Up 8% YoY",
-        "image_url": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/realestate",
-        "source_label": "r/realestate",
-        "voice_score": 92,
-        "hashtags": "#FloridaRealEstate #DaytonaBeach #ShortTermRental",
+        "topic": "Axios compromised on NPM \u2013 Malicious versions drop remote access trojan",
+        "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
+        "source_url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+        "source_label": "Hacker News",
+        "voice_score": 90,
+        "hashtags": "#Cybersecurity #SmallBusiness #DevOps #TechRisk #NPM #SoftwareSecurity #BusinessContinuity",
         "platforms": "Facebook + Instagram",
-        "post_text": "Daytona Beach Q1 data is in: occupancy holding strong, ADRs up 8% YoY, inventory tight on the quality end.\n\nFor property owners: if your property isn't performing at market, the issue isn't the market.\n\nFor investors watching: the STR opportunity here is real. \"Set it and forget it\" is dead, but returns for well-managed properties are there.\n\nWant to see actual comps or talk through an acquisition? DM me.\n\n#FloridaRealEstate #DaytonaBeach #ShortTermRental #VacationRental #RealEstateInvesting #StayCoastal"
+        "post_text": "Real talk: if you're running apps that depend on open-source packages, this Axios compromise should genuinely get your attention. One trojan in your supply chain can tank everything. Not subtle how vulnerable small dev shops are. What's your backup plan if a dependency goes dark?\n\n#Cybersecurity #SmallBusiness #DevOps #TechRisk #NPM #SoftwareSecurity #BusinessContinuity",
+        "published_at": "2026-03-31T02:54:17+00:00",
+        "age_hours": 31.6,
+        "scraped_from": "Hacker News",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/theprimeagen/comments/1s8czbl/axios_compromised_on_npm_malicious_versions_drop/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Axios%20compromised%20on%20NPM%20%E2%80%93&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 10,
         "category": "WORLD",
-        "topic": "35% of US Workforce Permanently Remote — What That Means for STR Operators",
-        "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 83,
-        "hashtags": "#RemoteWork #VacationRental #WorkFromAnywhere",
+        "topic": "War on Iran could be 'catalyst' for erosion of US petrodollar, Deutsche Bank says",
+        "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+        "source_url": "https://reddit.com/r/Economics/comments/1s8njbm/war_on_iran_could_be_catalyst_for_erosion_of_us/",
+        "source_label": "r/economics on Reddit",
+        "voice_score": 91,
+        "hashtags": "#Economics #Business #RealEstate #Currency #Geopolitics #SmallBusiness #DaytonaBeach",
         "platforms": "Facebook + Instagram",
-        "post_text": "New Gallup data: 35% of the US workforce is now permanently remote. That's not going back.\n\nFor vacation rental operators, this drives mid-week and extended-stay demand. Guests aren't just coming for the weekend — they're coming for 2-4 weeks.\n\nSeen it in our own portfolio. Longer stays, better reviews, less turnover.\n\nSTR not set up for extended stays? (workspace, faster WiFi, monthly discounts) You're leaving money on the table.\n\n#RemoteWork #VacationRental #WorkFromAnywhere #ShortTermRental #StayCoastal #AIThatScales"
+        "post_text": "Real talk: geopolitical tension reshaping currency markets is legitimately worth watching if you hold assets or run a business. Deutsche Bank flagging petrodollar erosion isn't subtle. Diversification isn't just about real estate anymore\u2014it's about what backs your money.\n\n#Economics #Business #RealEstate #Currency #Geopolitics #SmallBusiness #DaytonaBeach",
+        "published_at": "2026-03-31T13:32:01+00:00",
+        "age_hours": 21.0,
+        "scraped_from": "r/economics",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/Economics/comments/1s8njbm/war_on_iran_could_be_catalyst_for_erosion_of_us/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=War%20on%20Iran%20could%20be&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=War%20on%20Iran%20could%20be%20%27catalyst%27%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       }
-    ]
+    ],
+    "morning": {
+      "posts": [
+        {
+          "id": 1,
+          "category": "AI",
+          "topic": "Gradient Labs gives every bank customer an AI account manager",
+          "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
+          "source_url": "https://openai.com/index/gradient-labs",
+          "source_label": "OpenAI Blog",
+          "voice_score": 89,
+          "hashtags": "#AI #Banking #OpenAI #SmallBusiness #FinTech #AIConsulting #FutureOfWork",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Gradient Labs just handed every bank customer an AI account manager. Real talk \u2014 this is what automation looks like when it actually works. Low latency, high reliability, no disasters. Funny how banks are moving faster on AI than most small businesses. Your move?\n\n#AI #Banking #OpenAI #SmallBusiness #FinTech #AIConsulting #FutureOfWork",
+          "published_at": "2026-04-01T02:00:00+00:00",
+          "age_hours": 8.5,
+          "scraped_from": "OpenAI Blog",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/playstation/comments/1s6ep7y/i_moved_on_with_my_life_my_psn_account_didnt/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Gradient%20Labs%20gives%20every%20bank&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://openai.com/index/gradient-labs",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "category": "AI",
+          "topic": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
+          "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+          "source_url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+          "source_label": "Google AI Blog",
+          "voice_score": 90,
+          "hashtags": "#AIConsulting #VideoGeneration #SmallBusiness #RealEstate #GoogleAI #VacationRental #ContentCreation",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Google just dropped Veo 3.1 Lite and it's genuinely the most affordable video generation model they've built. Real talk\u2014for vacation rental owners and small agencies, this changes the math on content creation costs. Testing it now in AI Studio before it scales. Worth your 20 minutes.\n\n#AIConsulting #VideoGeneration #SmallBusiness #RealEstate #GoogleAI #VacationRental #ContentCreation",
+          "published_at": "2026-03-31T16:00:00+00:00",
+          "age_hours": 18.5,
+          "scraped_from": "Google AI Blog",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/IndieGaming/comments/1s3k6xm/our_steam_wishlists_have_moved_up_to_40100_a_day/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Build%20with%20Veo%203.1%20Lite%2C&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "category": "AI",
+          "topic": "You can now use ChatGPT with Apple\u2019s CarPlay",
+          "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
+          "source_label": "The Verge AI",
+          "voice_score": 91,
+          "hashtags": "#ChatGPT #CarPlay #RealEstateAI #SmallBusiness #AITools #Entrepreneurship #DaytonaBeach",
+          "platforms": "Facebook + Instagram",
+          "post_text": "ChatGPT in CarPlay is genuinely useful for real estate ops. Dictate property notes, check market data, manage guest requests\u2014all hands-free. Funny how AI keeps sneaking into the tools we already use daily. Not subtle, but legitimately practical for anyone juggling multiple businesses on the road.\n\n#ChatGPT #CarPlay #RealEstateAI #SmallBusiness #AITools #Entrepreneurship #DaytonaBeach",
+          "published_at": "2026-03-31T17:03:18-04:00",
+          "age_hours": 13.4,
+          "scraped_from": "The Verge AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/apple/comments/1s98nvh/openai_brings_chatgpt_to_carplay_for_handsfree/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=You%20can%20now%20use%20ChatGPT&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://community.openai.com/t/feature-request-apple-car-play-app/1064800",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "category": "AI",
+          "topic": "Claude Code leak exposes a Tamagotchi-style \u2018pet\u2019 and an always-on agent",
+          "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
+          "source_label": "The Verge AI",
+          "voice_score": 92,
+          "hashtags": "#AI #Cybersecurity #TechNews #ArtificialIntelligence #SmallBusiness #RealEstate #DataSecurity",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 Anthropic just accidentally leaked Claude's source code and people found a Tamagotchi-style pet buried in there. Funny how even AI companies slip up with security basics. If you're building anything with AI, this is a reminder to audit your stuff before it goes live.\n\n#AI #Cybersecurity #TechNews #ArtificialIntelligence #SmallBusiness #RealEstate #DataSecurity",
+          "published_at": "2026-03-31T18:24:19-04:00",
+          "age_hours": 12.1,
+          "scraped_from": "The Verge AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/MCPservers/comments/1s8lrcs/claude_codes_entire_source_code_just_leaked_heres/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Claude%20Code%20leak%20exposes%20a&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://ruslanmv.com/news-and-trends/issues/news-2026-04-01-03-claude-code-leak-exposes-a-tamagotchi-style-pet-an/",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "category": "AI",
+          "topic": "Anthropic is having a month",
+          "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+          "source_url": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+          "source_label": "TechCrunch AI",
+          "voice_score": 93,
+          "hashtags": "#AINews #TechFail #SmallBusiness #RealEstate #OperationalExcellence #StartupLife #DaytonaBeach",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 when your AI company has two major fumbles in one week, it's giving \"forgot to check the playbook\" energy. Funny how one person can tank momentum. This is why we obsess over process in our rental ops. Small mistakes scale fast.\n\n#AINews #TechFail #SmallBusiness #RealEstate #OperationalExcellence #StartupLife #DaytonaBeach",
+          "published_at": "2026-03-31T23:58:26+00:00",
+          "age_hours": 10.5,
+          "scraped_from": "TechCrunch AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/ClaudeCode/comments/1s8ty5y/anthropic_please_have_your_engineers_dogfood_the/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Anthropic%20is%20having%20a%20month&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.anthropic.com/research/labor-market-impacts",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "category": "AI",
+          "topic": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+          "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+          "source_url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+          "source_label": "TechCrunch AI",
+          "voice_score": 94,
+          "hashtags": "#OpenAI #AIInvesting #TechFunding #SmallBusiness #RealEstate #AIConsulting #FutureOfWork",
+          "platforms": "Facebook + Instagram",
+          "post_text": "OpenAI just hit $852B valuation with retail investors jumping in. Real talk \u2014 when billion-dollar AI companies are this close to IPO, the real opportunity isn't watching from the sidelines. It's figuring out how AI actually saves you money in your business right now.\n\n#OpenAI #AIInvesting #TechFunding #SmallBusiness #RealEstate #AIConsulting #FutureOfWork",
+          "published_at": "2026-03-31T21:25:04+00:00",
+          "age_hours": 13.1,
+          "scraped_from": "TechCrunch AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/shopify/comments/1s80vtn/this_weeks_top_ecommerce_news_stories_march_30th/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=OpenAI%2C%20not%20yet%20public%2C%20raises&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://openai.com/index/accelerating-the-next-phase-ai/",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "category": "AI",
+          "topic": "Accelerating the next phase of AI",
+          "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
+          "source_url": "https://openai.com/index/accelerating-the-next-phase-ai",
+          "source_label": "OpenAI Blog",
+          "voice_score": 88,
+          "hashtags": "#AIConsulting #SmallBusiness #OpenAI #RealEstate #TechTrends #BusinessAutomation #FutureOfWork",
+          "platforms": "Facebook + Instagram",
+          "post_text": "OpenAI just locked in $122B to scale AI globally. Real talk \u2014 this matters for anyone running a business. Better AI tools = lower costs for customer service, marketing, operations. Not subtle capital deployment. What's your biggest operational headache that AI could actually solve right now?\n\n#AIConsulting #SmallBusiness #OpenAI #RealEstate #TechTrends #BusinessAutomation #FutureOfWork",
+          "published_at": "2026-03-31T13:00:00+00:00",
+          "age_hours": 21.5,
+          "scraped_from": "OpenAI Blog",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/singularity/comments/1s90e4e/openai_raises_122_billion_to_accelerate_the_next/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Accelerating%20the%20next%20phase%20of&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "category": "WORLD",
+          "topic": "U.S strongly considering exit from NATO",
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
+          "source_url": "https://reddit.com/r/worldnews/comments/1s9fovj/us_strongly_considering_exit_from_nato/",
+          "source_label": "r/worldnews on Reddit",
+          "voice_score": 89,
+          "hashtags": "#SmallBusiness #NATO #Economics #RealEstate #GeoPolitics #BusinessNews #DaytonaBeach",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 if the U.S. actually exits NATO, small business owners better pay attention. Supply chains, currency stability, travel costs for our hospitality operations... genuinely everything gets messier. Not subtle geopolitics affecting your bottom line. What's your business exposure looking like?\n\n#SmallBusiness #NATO #Economics #RealEstate #GeoPolitics #BusinessNews #DaytonaBeach",
+          "published_at": "2026-04-01T09:32:48+00:00",
+          "age_hours": 1.0,
+          "scraped_from": "r/worldnews",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/worldnews/comments/1s9fovj/us_strongly_considering_exit_from_nato/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=U.S%20strongly%20considering%20exit%20from&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=U.S%20strongly%20considering%20exit%20from%20NATO%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "category": "WORLD",
+          "topic": "Axios compromised on NPM \u2013 Malicious versions drop remote access trojan",
+          "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
+          "source_url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+          "source_label": "Hacker News",
+          "voice_score": 90,
+          "hashtags": "#Cybersecurity #SmallBusiness #DevOps #TechRisk #NPM #SoftwareSecurity #BusinessContinuity",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: if you're running apps that depend on open-source packages, this Axios compromise should genuinely get your attention. One trojan in your supply chain can tank everything. Not subtle how vulnerable small dev shops are. What's your backup plan if a dependency goes dark?\n\n#Cybersecurity #SmallBusiness #DevOps #TechRisk #NPM #SoftwareSecurity #BusinessContinuity",
+          "published_at": "2026-03-31T02:54:17+00:00",
+          "age_hours": 31.6,
+          "scraped_from": "Hacker News",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/theprimeagen/comments/1s8czbl/axios_compromised_on_npm_malicious_versions_drop/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Axios%20compromised%20on%20NPM%20%E2%80%93&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "category": "WORLD",
+          "topic": "War on Iran could be 'catalyst' for erosion of US petrodollar, Deutsche Bank says",
+          "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+          "source_url": "https://reddit.com/r/Economics/comments/1s8njbm/war_on_iran_could_be_catalyst_for_erosion_of_us/",
+          "source_label": "r/economics on Reddit",
+          "voice_score": 91,
+          "hashtags": "#Economics #Business #RealEstate #Currency #Geopolitics #SmallBusiness #DaytonaBeach",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: geopolitical tension reshaping currency markets is legitimately worth watching if you hold assets or run a business. Deutsche Bank flagging petrodollar erosion isn't subtle. Diversification isn't just about real estate anymore\u2014it's about what backs your money.\n\n#Economics #Business #RealEstate #Currency #Geopolitics #SmallBusiness #DaytonaBeach",
+          "published_at": "2026-03-31T13:32:01+00:00",
+          "age_hours": 21.0,
+          "scraped_from": "r/economics",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/Economics/comments/1s8njbm/war_on_iran_could_be_catalyst_for_erosion_of_us/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=War%20on%20Iran%20could%20be&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=War%20on%20Iran%20could%20be%20%27catalyst%27%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        }
+      ],
+      "generated_at": "2026-04-01T10:30:12.443941+00:00",
+      "label": "Morning Brief (6:30 AM)",
+      "count": 10
+    },
+    "afternoon": {
+      "posts": [],
+      "generated_at": "",
+      "label": "Afternoon Update (1 PM)",
+      "count": 0
+    },
+    "scripts_thumbnails": []
   },
   "payroll": {
-    "period": "Mar 10 – Mar 24, 2026",
+    "period": "Mar 10 \u2013 Mar 24, 2026",
     "period_type": "B",
     "pay_date": "Mar 27, 2026",
     "total_payout": 5150.0,
@@ -208,7 +782,7 @@
       {
         "level": "red",
         "property": "10 S Halifax Ave",
-        "issue": "AC unit reported not cooling — HVAC scheduled"
+        "issue": "AC unit reported not cooling \u2014 HVAC scheduled"
       },
       {
         "level": "yellow",
@@ -218,7 +792,7 @@
       {
         "level": "green",
         "property": "117 N Hollywood Ave",
-        "issue": "WiFi complaint resolved — confirmed by guest"
+        "issue": "WiFi complaint resolved \u2014 confirmed by guest"
       }
     ],
     "top_performers": [
@@ -238,5 +812,21 @@
         "rating": 4.8
       }
     ]
+  },
+  "scraper_meta": {
+    "scraped_at": "2026-04-01T10:30:12.443941+00:00",
+    "sources_used": [
+      "r/worldnews",
+      "The Verge AI",
+      "TechCrunch AI",
+      "OpenAI Blog",
+      "r/economics",
+      "Hacker News",
+      "Google AI Blog"
+    ],
+    "all_from_last_24h": true,
+    "post_count": 10,
+    "morning_count": 10,
+    "afternoon_count": 0
   }
 }
