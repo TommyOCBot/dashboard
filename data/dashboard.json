@@ -1,132 +1,706 @@
 {
-  "generated_at": "2026-03-11T08:46:09.549424-04:00",
-  "date": "2026-03-11",
+  "generated_at": "2026-04-02T06:32:21.590998-04:00",
+  "date": "2026-04-02",
   "content": {
     "posts": [
       {
         "id": 1,
         "category": "AI",
-        "topic": "OpenAI Drops GPT-5 — Real-Time Reasoning Benchmark Shattered",
+        "topic": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident",
         "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
-        "source_url": "https://openai.com/blog",
-        "source_label": "OpenAI Blog",
-        "voice_score": 94,
-        "hashtags": "#AI #GPT5 #Automation #AIThatScales",
+        "source_url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+        "source_label": "TechCrunch AI",
+        "voice_score": 89,
+        "hashtags": "#AINews #TechFail #SmallBusinessLessons #GitHub #Anthropic #AIConsulting #DaytonaBeach",
         "platforms": "Facebook + Instagram",
-        "post_text": "The game just changed — again.\n\nOpenAI dropped GPT-5 this morning and the reasoning capability leap is real. I've been testing it since 6 AM and the difference isn't subtle.\n\nFor business owners: this isn't theoretical anymore. The automation workflows that felt \"almost there\" last year? They're \"fully there\" now.\n\nWe're already updating 3 client systems this week. If you haven't started automating your operations, you're now 2 generations behind.\n\nDM me if you want to talk about what this means for your business.\n\n#AI #GPT5 #Automation #AIThatScales #BusinessAutomation #FutureOfWork"
+        "post_text": "Anthropic just mass-deleted thousands of GitHub repos by accident trying to scrub leaked code. Real talk \u2014 this is why you need lawyers AND engineers in the room. One fumbled takedown notice and suddenly you're the villain. Small business lesson: automate the big stuff, but human eyes on legal moves every time.\n\n#AINews #TechFail #SmallBusinessLessons #GitHub #Anthropic #AIConsulting #DaytonaBeach",
+        "published_at": "2026-04-01T22:12:13+00:00",
+        "age_hours": 12.3,
+        "scraped_from": "TechCrunch AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/pwnhub/comments/1s9zj60/anthropic_took_down_thousands_of_github_repos/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Anthropic%20took%20down%20thousands%20of&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 2,
         "category": "AI",
-        "topic": "AI Agents Now Handle 40% of Fortune 500 Customer Service",
-        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/artificial",
-        "source_label": "r/artificial",
-        "voice_score": 87,
-        "hashtags": "#CustomerService #AIAgents #Automation",
+        "topic": "Demis Hassabis secretly built a hedge fund inside DeepMind trying to beat Jim Simons. Google shut it down.",
+        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+        "source_url": "https://reddit.com/r/singularity/comments/1s9hca9/demis_hassabis_secretly_built_a_hedge_fund_inside/",
+        "source_label": "r/singularity on Reddit",
+        "voice_score": 90,
+        "hashtags": "#AIBusiness #DeepMind #CorporateGovernance #TechLeadership #RealEstate #Entrepreneurship #DaytonaBeach",
         "platforms": "Facebook + Instagram",
-        "post_text": "New data out: AI agents handle 40% of customer service interactions at Fortune 500 companies.\n\nThat's not a pilot program. That's operational reality.\n\nThe companies winning aren't waiting for \"perfect\" AI — they're deploying 80% solutions and improving in real-time.\n\nYour competitors are already doing this. The question is whether you're building the system or getting left behind.\n\nWhat's your biggest customer service bottleneck right now?\n\n#CustomerService #AIAgents #Automation #SmallBusiness #AIThatScales"
+        "post_text": "Real talk: even at one of the world's best AI companies, someone tried to build a shadow hedge fund operation. Google shut it down fast. Funny how the smartest people still think they can operate outside the rules. That's a leadership lesson right there.\n\n#AIBusiness #DeepMind #CorporateGovernance #TechLeadership #RealEstate #Entrepreneurship #DaytonaBeach",
+        "published_at": "2026-04-01T11:03:40+00:00",
+        "age_hours": 23.4,
+        "scraped_from": "r/singularity",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/singularity/comments/1s9hca9/demis_hassabis_secretly_built_a_hedge_fund_inside/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Demis%20Hassabis%20secretly%20built%20a&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/the-thinking-game/",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 3,
         "category": "AI",
-        "topic": "Claude 4 Sonnet Tops Every Major Coding Benchmark",
-        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
-        "source_url": "https://www.anthropic.com",
-        "source_label": "Anthropic",
+        "topic": "Gemini 4 is coming ??",
+        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+        "source_url": "https://reddit.com/r/singularity/comments/1sa2dmt/gemini_4_is_coming/",
+        "source_label": "r/singularity on Reddit",
         "voice_score": 91,
-        "hashtags": "#Claude #Anthropic #AITools",
+        "hashtags": "#AI #TechNews #SmallBusiness #GoogleGemini #Automation #RealEstate #AIConsulting",
         "platforms": "Facebook + Instagram",
-        "post_text": "Anthropic published Claude 4 Sonnet benchmark results and the coding performance is legitimately impressive.\n\nWe use Claude for 80% of our automation builds at AI That Scales. The jump from 3.5 → 4 is the biggest single-version improvement I've seen.\n\nA workflow that used to take 3 iterations now lands first pass 70% of the time. That's not small.\n\nIf you're building automations and not using Claude, you're working harder than you need to.\n\n#Claude #Anthropic #AITools #Automation #AIThatScales #BuildSmarter"
+        "post_text": "Gemini 4 dropping soon and genuinely, this matters for anyone running a business. Better AI = better automation for your operations. Real talk though \u2014 most people won't use it right. What's your move when it hits?\n\n#AI #TechNews #SmallBusiness #GoogleGemini #Automation #RealEstate #AIConsulting",
+        "published_at": "2026-04-02T00:28:35+00:00",
+        "age_hours": 10.0,
+        "scraped_from": "r/singularity",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/singularity/comments/1sa2dmt/gemini_4_is_coming/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Gemini%204%20is%20coming%20%3F%3F&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=Gemini%204%20is%20coming%20%3F%3F%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 4,
         "category": "AI",
-        "topic": "Gemini 2.0 Just Shipped Inside Every Google Workspace App",
+        "topic": "I gave AI access to my bank account and I didn't know it can block retail purchases? Anyone know how to fix this in the app?",
         "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
-        "source_url": "https://workspace.google.com",
-        "source_label": "Google Workspace",
-        "voice_score": 82,
-        "hashtags": "#Google #Gemini #Productivity",
+        "source_url": "https://reddit.com/r/singularity/comments/1s9u4f1/i_gave_ai_access_to_my_bank_account_and_i_didnt/",
+        "source_label": "r/singularity on Reddit",
+        "voice_score": 92,
+        "hashtags": "#AI #FinTech #SmallBusiness #PersonalFinance #DataPrivacy #TechWarning #AIRisks",
         "platforms": "Facebook + Instagram",
-        "post_text": "Google pushed Gemini 2.0 into Workspace — Docs, Sheets, Gmail, Meet.\n\nThe practical impact for small business teams: your VA now has a co-pilot baked into every tool they already use.\n\nBeen playing with the Sheets integration this week. The ability to describe what you want and have it build formulas + summarize data is genuinely useful — not demo-ware.\n\nIf your team runs on Google, this upgrade happened automatically. Make sure you're actually using it.\n\n#Google #Gemini #Productivity #SmallBusiness #WorkSmarter #AIThatScales"
+        "post_text": "Real talk \u2014 giving an AI app veto power over your debit card is wild. SpendGuard-AI declining your McDonald's run without asking first? That's not accountability, that's your money getting managed by an algorithm you didn't fully understand. This is genuinely the kind of permission creep small business owners need to watch for.\n\n#AI #FinTech #SmallBusiness #PersonalFinance #DataPrivacy #TechWarning #AIRisks",
+        "published_at": "2026-04-01T19:07:05+00:00",
+        "age_hours": 15.4,
+        "scraped_from": "r/singularity",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/singularity/comments/1s9u4f1/i_gave_ai_access_to_my_bank_account_and_i_didnt/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=I%20gave%20AI%20access%20to&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=I%20gave%20AI%20access%20to%20my%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 5,
         "category": "AI",
-        "topic": "Make.com, Zapier, n8n — No-Code Platforms Hit 300% Growth",
+        "topic": "The Claude Code leak accidentally published the first complete blueprint for production AI agents. Here's what it tells us about where this is all going.",
         "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/ChatGPT",
-        "source_label": "r/ChatGPT",
-        "voice_score": 89,
-        "hashtags": "#NoCode #Workflow #Automation",
+        "source_url": "https://reddit.com/r/artificial/comments/1s9jprb/the_claude_code_leak_accidentally_published_the/",
+        "source_label": "r/artificial on Reddit",
+        "voice_score": 93,
+        "hashtags": "#AIConsulting #SmallBusiness #ArtificialIntelligence #Automation #RealEstate #TechTrends #EntrepreneurLife",
         "platforms": "Facebook + Instagram",
-        "post_text": "No-code automation platforms hit 300% user growth last quarter.\n\nTranslation: the barrier to automation is officially gone. You don't need a developer. You need someone who understands your process and 2-4 hours.\n\nI've been building no-code automations for clients for 18 months. The tools keep getting better. The window to get ahead of competitors is still open — but it's closing.\n\nStill doing manually what a bot could do? That's a choice. Make sure it's intentional.\n\n#NoCode #Workflow #Automation #Productivity #AIThatScales #BusinessGrowth"
+        "post_text": "Real talk: seeing how Anthropic actually built Claude's agent system at scale is wild. The architecture patterns they're using? You can apply that thinking to automating your own business right now. Not waiting for perfect AI\u2014building with what works.\n\n#AIConsulting #SmallBusiness #ArtificialIntelligence #Automation #RealEstate #TechTrends #EntrepreneurLife",
+        "published_at": "2026-04-01T12:54:08+00:00",
+        "age_hours": 21.6,
+        "scraped_from": "r/artificial",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/artificial/comments/1s9jprb/the_claude_code_leak_accidentally_published_the/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=The%20Claude%20Code%20leak%20accidentally&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=The%20Claude%20Code%20leak%20accidentally%20published%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 6,
         "category": "AI",
-        "topic": "AI Guest Comms Cut STR Response Time from 4 Hours to 8 Minutes",
-        "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/airbnb",
-        "source_label": "r/airbnb",
-        "voice_score": 96,
-        "hashtags": "#VacationRental #PropertyManagement #AI",
+        "topic": "OpenAI \u201cinternal model\u201d solved 3 more Erd\u0151s problems",
+        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+        "source_url": "https://reddit.com/r/singularity/comments/1s9iz2x/openai_internal_model_solved_3_more_erd\u0151s_problems/",
+        "source_label": "r/singularity on Reddit",
+        "voice_score": 94,
+        "hashtags": "#AI #Mathematics #OpenAI #ArtificialIntelligence #Tech #Innovation #FutureOfWork",
         "platforms": "Facebook + Instagram",
-        "post_text": "Case study: AI-powered guest comms cut response time from 4 hours to 8 minutes across a 40-property portfolio.\n\nNot theoretical — I've seen it firsthand with Stay Coastal's 30+ properties.\n\nGuests don't care if a bot answered. They care that someone answered. Fast responses = better reviews = more bookings.\n\nMath is simple. Setup takes a weekend. ROI is permanent.\n\nRunning STRs and still answering every message manually? Let's talk.\n\n#VacationRental #PropertyManagement #AI #Airbnb #ShortTermRental #AIThatScales"
+        "post_text": "OpenAI just solved 3 more Erd\u0151s problems with an internal model. Real talk\u2014we're watching AI go from useful tool to legitimately advancing pure math. Funny how the same tech that helps small businesses scale operations is now cracking century-old problems. What's next?\n\n#AI #Mathematics #OpenAI #ArtificialIntelligence #Tech #Innovation #FutureOfWork",
+        "published_at": "2026-04-01T12:21:33+00:00",
+        "age_hours": 22.1,
+        "scraped_from": "r/singularity",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/singularity/comments/1s9iz2x/openai_internal_model_solved_3_more_erd\u0151s_problems/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=OpenAI%20%E2%80%9Cinternal%20model%E2%80%9D%20solved%203&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=OpenAI%20%E2%80%9Cinternal%20model%E2%80%9D%20solved%203%20more%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 7,
         "category": "AI",
-        "topic": "2026 AI Adoption Report: SMBs Close the Gap on Enterprise",
-        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 85,
-        "hashtags": "#SMB #AIAdoption #Business2026",
+        "topic": "OpenAI $122B Round: The Numbers Are Absurd",
+        "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
+        "source_url": "https://reddit.com/r/singularity/comments/1s9pbus/openai_122b_round_the_numbers_are_absurd/",
+        "source_label": "r/singularity on Reddit",
+        "voice_score": 88,
+        "hashtags": "#AI #OpenAI #TechNews #Startup #RealEstate #SmallBusiness #FutureOfWork",
         "platforms": "Facebook + Instagram",
-        "post_text": "2026 AI Adoption Report: the gap between enterprise and SMB AI usage closed by 40% last year.\n\nThe tools got cheaper. The interfaces got simpler. The use cases got clearer.\n\nBusinesses that adopted early are seeing it in their margins. The ones who waited are scrambling.\n\nWhere are you in this curve? Reply with where you are and where you want to be.\n\n#SMB #AIAdoption #Business2026 #Productivity #AIThatScales #Entrepreneur"
+        "post_text": "Real talk: OpenAI raised $122B to \"prevent AI from destroying humanity\" while Amazon, NVIDIA, and BlackRock throw money at it. Funny how that works. Not saying anything's wrong, but the math on \"safety-focused nonprofit\" got real weird real fast. What's the actual endgame here?\n\n#AI #OpenAI #TechNews #Startup #RealEstate #SmallBusiness #FutureOfWork",
+        "published_at": "2026-04-01T16:22:24+00:00",
+        "age_hours": 18.1,
+        "scraped_from": "r/singularity",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/singularity/comments/1s9pbus/openai_122b_round_the_numbers_are_absurd/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=OpenAI%20%24122B%20Round%3A%20The%20Numbers&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=OpenAI%20%24122B%20Round%3A%20The%20Numbers%20Are%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 8,
         "category": "WORLD",
-        "topic": "Fed Holds Rates — Here's What That Actually Means for Your Business",
+        "topic": "Trump: US to bomb Iran \"back to stone ages\" over next 2-3 weeks",
         "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/worldnews",
-        "source_label": "r/worldnews",
-        "voice_score": 78,
-        "hashtags": "#Economy #FederalReserve #SmallBusiness",
+        "source_url": "https://reddit.com/r/worldnews/comments/1sa8tts/trump_us_to_bomb_iran_back_to_stone_ages_over/",
+        "source_label": "r/worldnews on Reddit",
+        "voice_score": 89,
+        "hashtags": "#GeoPolitics #BusinessImpact #EconomicUncertainty #SmallBusiness #RealEstate #MarketAnalysis #DaytonaBeach",
         "platforms": "Facebook + Instagram",
-        "post_text": "The Fed held rates again. Inflation still uncertain. Lending still tight.\n\nStraight talk: if you're waiting for rates to drop before making moves, you're tying your growth strategy to a variable you can't control.\n\nOperators winning right now are cutting costs through efficiency (automation), not waiting for cheap capital.\n\nFocus on what you can control: margins, team productivity, systems. The macro clears when it clears.\n\n#Economy #FederalReserve #SmallBusiness #Entrepreneur #BusinessStrategy #AIThatScales"
+        "post_text": "Real talk \u2014 geopolitical escalation like this hits different when you're running a business with international exposure. Currency swings, travel patterns, supply chains... all get weird fast. Not subtle rhetoric, but genuinely affects everything from booking rates to inventory costs. How's this sitting with your business planning?\n\n#GeoPolitics #BusinessImpact #EconomicUncertainty #SmallBusiness #RealEstate #MarketAnalysis #DaytonaBeach",
+        "published_at": "2026-04-02T05:38:10+00:00",
+        "age_hours": 4.9,
+        "scraped_from": "r/worldnews",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/worldnews/comments/1sa8tts/trump_us_to_bomb_iran_back_to_stone_ages_over/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Trump%3A%20US%20to%20bomb%20Iran&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=Trump%3A%20US%20to%20bomb%20Iran%20%22back%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 9,
         "category": "WORLD",
-        "topic": "Daytona Beach Q1 2026: Occupancy Strong, ADR Up 8% YoY",
-        "image_url": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/realestate",
-        "source_label": "r/realestate",
-        "voice_score": 92,
-        "hashtags": "#FloridaRealEstate #DaytonaBeach #ShortTermRental",
+        "topic": "Artemis II Launch Day Updates",
+        "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
+        "source_url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
+        "source_label": "Hacker News",
+        "voice_score": 90,
+        "hashtags": "#ArtemisII #SpaceExploration #BusinessExecution #Entrepreneurship #RealEstate #Innovation #Leadership",
         "platforms": "Facebook + Instagram",
-        "post_text": "Daytona Beach Q1 data is in: occupancy holding strong, ADRs up 8% YoY, inventory tight on the quality end.\n\nFor property owners: if your property isn't performing at market, the issue isn't the market.\n\nFor investors watching: the STR opportunity here is real. \"Set it and forget it\" is dead, but returns for well-managed properties are there.\n\nWant to see actual comps or talk through an acquisition? DM me.\n\n#FloridaRealEstate #DaytonaBeach #ShortTermRental #VacationRental #RealEstateInvesting #StayCoastal"
+        "post_text": "Real talk: watching Artemis II launch updates is genuinely fascinating for anyone running a business. The logistics, timeline precision, team coordination\u2014that's the same playbook we use scaling rental operations. NASA just reminded us that execution beats planning every single time.\n\n#ArtemisII #SpaceExploration #BusinessExecution #Entrepreneurship #RealEstate #Innovation #Leadership",
+        "published_at": "2026-04-01T17:11:31+00:00",
+        "age_hours": 17.3,
+        "scraped_from": "Hacker News",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/nasa/comments/1s9orq4/artemis_ii_launch_megathread/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Artemis%20II%20Launch%20Day%20Updates&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
+            "label": "Official Source"
+          }
+        ]
       },
       {
         "id": 10,
         "category": "WORLD",
-        "topic": "35% of US Workforce Permanently Remote — What That Means for STR Operators",
-        "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 83,
-        "hashtags": "#RemoteWork #VacationRental #WorkFromAnywhere",
+        "topic": "Trump threatens to hit Iran 'extremely hard' over next two to three weeks",
+        "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+        "source_url": "https://reddit.com/r/worldnews/comments/1sa56fc/trump_threatens_to_hit_iran_extremely_hard_over/",
+        "source_label": "r/worldnews on Reddit",
+        "voice_score": 91,
+        "hashtags": "#GeopoliticalRisk #SmallBusiness #EconomicImpact #Hospitality #RealEstate #BusinessOwner #MarketTrends",
         "platforms": "Facebook + Instagram",
-        "post_text": "New Gallup data: 35% of the US workforce is now permanently remote. That's not going back.\n\nFor vacation rental operators, this drives mid-week and extended-stay demand. Guests aren't just coming for the weekend — they're coming for 2-4 weeks.\n\nSeen it in our own portfolio. Longer stays, better reviews, less turnover.\n\nSTR not set up for extended stays? (workspace, faster WiFi, monthly discounts) You're leaving money on the table.\n\n#RemoteWork #VacationRental #WorkFromAnywhere #ShortTermRental #StayCoastal #AIThatScales"
+        "post_text": "Geopolitical tension is genuinely wild right now. Real talk \u2014 when global instability spikes, travel and hospitality get hit first. Booking cancellations, insurance costs up, currency swings. Small business owners watching this closely? Not subtle how quick things shift. What's your industry seeing?\n\n#GeopoliticalRisk #SmallBusiness #EconomicImpact #Hospitality #RealEstate #BusinessOwner #MarketTrends",
+        "published_at": "2026-04-02T02:33:37+00:00",
+        "age_hours": 7.9,
+        "scraped_from": "r/worldnews",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/worldnews/comments/1sa56fc/trump_threatens_to_hit_iran_extremely_hard_over/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Trump%20threatens%20to%20hit%20Iran&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=Trump%20threatens%20to%20hit%20Iran%20%27extremely%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       }
-    ]
+    ],
+    "morning": {
+      "posts": [
+        {
+          "id": 1,
+          "category": "AI",
+          "topic": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident",
+          "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
+          "source_url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+          "source_label": "TechCrunch AI",
+          "voice_score": 89,
+          "hashtags": "#AINews #TechFail #SmallBusinessLessons #GitHub #Anthropic #AIConsulting #DaytonaBeach",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Anthropic just mass-deleted thousands of GitHub repos by accident trying to scrub leaked code. Real talk \u2014 this is why you need lawyers AND engineers in the room. One fumbled takedown notice and suddenly you're the villain. Small business lesson: automate the big stuff, but human eyes on legal moves every time.\n\n#AINews #TechFail #SmallBusinessLessons #GitHub #Anthropic #AIConsulting #DaytonaBeach",
+          "published_at": "2026-04-01T22:12:13+00:00",
+          "age_hours": 12.3,
+          "scraped_from": "TechCrunch AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/pwnhub/comments/1s9zj60/anthropic_took_down_thousands_of_github_repos/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Anthropic%20took%20down%20thousands%20of&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "category": "AI",
+          "topic": "Demis Hassabis secretly built a hedge fund inside DeepMind trying to beat Jim Simons. Google shut it down.",
+          "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+          "source_url": "https://reddit.com/r/singularity/comments/1s9hca9/demis_hassabis_secretly_built_a_hedge_fund_inside/",
+          "source_label": "r/singularity on Reddit",
+          "voice_score": 90,
+          "hashtags": "#AIBusiness #DeepMind #CorporateGovernance #TechLeadership #RealEstate #Entrepreneurship #DaytonaBeach",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: even at one of the world's best AI companies, someone tried to build a shadow hedge fund operation. Google shut it down fast. Funny how the smartest people still think they can operate outside the rules. That's a leadership lesson right there.\n\n#AIBusiness #DeepMind #CorporateGovernance #TechLeadership #RealEstate #Entrepreneurship #DaytonaBeach",
+          "published_at": "2026-04-01T11:03:40+00:00",
+          "age_hours": 23.4,
+          "scraped_from": "r/singularity",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/singularity/comments/1s9hca9/demis_hassabis_secretly_built_a_hedge_fund_inside/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Demis%20Hassabis%20secretly%20built%20a&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/the-thinking-game/",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "category": "AI",
+          "topic": "Gemini 4 is coming ??",
+          "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+          "source_url": "https://reddit.com/r/singularity/comments/1sa2dmt/gemini_4_is_coming/",
+          "source_label": "r/singularity on Reddit",
+          "voice_score": 91,
+          "hashtags": "#AI #TechNews #SmallBusiness #GoogleGemini #Automation #RealEstate #AIConsulting",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Gemini 4 dropping soon and genuinely, this matters for anyone running a business. Better AI = better automation for your operations. Real talk though \u2014 most people won't use it right. What's your move when it hits?\n\n#AI #TechNews #SmallBusiness #GoogleGemini #Automation #RealEstate #AIConsulting",
+          "published_at": "2026-04-02T00:28:35+00:00",
+          "age_hours": 10.0,
+          "scraped_from": "r/singularity",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/singularity/comments/1sa2dmt/gemini_4_is_coming/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Gemini%204%20is%20coming%20%3F%3F&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Gemini%204%20is%20coming%20%3F%3F%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "category": "AI",
+          "topic": "I gave AI access to my bank account and I didn't know it can block retail purchases? Anyone know how to fix this in the app?",
+          "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
+          "source_url": "https://reddit.com/r/singularity/comments/1s9u4f1/i_gave_ai_access_to_my_bank_account_and_i_didnt/",
+          "source_label": "r/singularity on Reddit",
+          "voice_score": 92,
+          "hashtags": "#AI #FinTech #SmallBusiness #PersonalFinance #DataPrivacy #TechWarning #AIRisks",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 giving an AI app veto power over your debit card is wild. SpendGuard-AI declining your McDonald's run without asking first? That's not accountability, that's your money getting managed by an algorithm you didn't fully understand. This is genuinely the kind of permission creep small business owners need to watch for.\n\n#AI #FinTech #SmallBusiness #PersonalFinance #DataPrivacy #TechWarning #AIRisks",
+          "published_at": "2026-04-01T19:07:05+00:00",
+          "age_hours": 15.4,
+          "scraped_from": "r/singularity",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/singularity/comments/1s9u4f1/i_gave_ai_access_to_my_bank_account_and_i_didnt/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=I%20gave%20AI%20access%20to&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=I%20gave%20AI%20access%20to%20my%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "category": "AI",
+          "topic": "The Claude Code leak accidentally published the first complete blueprint for production AI agents. Here's what it tells us about where this is all going.",
+          "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+          "source_url": "https://reddit.com/r/artificial/comments/1s9jprb/the_claude_code_leak_accidentally_published_the/",
+          "source_label": "r/artificial on Reddit",
+          "voice_score": 93,
+          "hashtags": "#AIConsulting #SmallBusiness #ArtificialIntelligence #Automation #RealEstate #TechTrends #EntrepreneurLife",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: seeing how Anthropic actually built Claude's agent system at scale is wild. The architecture patterns they're using? You can apply that thinking to automating your own business right now. Not waiting for perfect AI\u2014building with what works.\n\n#AIConsulting #SmallBusiness #ArtificialIntelligence #Automation #RealEstate #TechTrends #EntrepreneurLife",
+          "published_at": "2026-04-01T12:54:08+00:00",
+          "age_hours": 21.6,
+          "scraped_from": "r/artificial",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/artificial/comments/1s9jprb/the_claude_code_leak_accidentally_published_the/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=The%20Claude%20Code%20leak%20accidentally&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=The%20Claude%20Code%20leak%20accidentally%20published%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "category": "AI",
+          "topic": "OpenAI \u201cinternal model\u201d solved 3 more Erd\u0151s problems",
+          "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+          "source_url": "https://reddit.com/r/singularity/comments/1s9iz2x/openai_internal_model_solved_3_more_erd\u0151s_problems/",
+          "source_label": "r/singularity on Reddit",
+          "voice_score": 94,
+          "hashtags": "#AI #Mathematics #OpenAI #ArtificialIntelligence #Tech #Innovation #FutureOfWork",
+          "platforms": "Facebook + Instagram",
+          "post_text": "OpenAI just solved 3 more Erd\u0151s problems with an internal model. Real talk\u2014we're watching AI go from useful tool to legitimately advancing pure math. Funny how the same tech that helps small businesses scale operations is now cracking century-old problems. What's next?\n\n#AI #Mathematics #OpenAI #ArtificialIntelligence #Tech #Innovation #FutureOfWork",
+          "published_at": "2026-04-01T12:21:33+00:00",
+          "age_hours": 22.1,
+          "scraped_from": "r/singularity",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/singularity/comments/1s9iz2x/openai_internal_model_solved_3_more_erd\u0151s_problems/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=OpenAI%20%E2%80%9Cinternal%20model%E2%80%9D%20solved%203&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=OpenAI%20%E2%80%9Cinternal%20model%E2%80%9D%20solved%203%20more%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "category": "AI",
+          "topic": "OpenAI $122B Round: The Numbers Are Absurd",
+          "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
+          "source_url": "https://reddit.com/r/singularity/comments/1s9pbus/openai_122b_round_the_numbers_are_absurd/",
+          "source_label": "r/singularity on Reddit",
+          "voice_score": 88,
+          "hashtags": "#AI #OpenAI #TechNews #Startup #RealEstate #SmallBusiness #FutureOfWork",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: OpenAI raised $122B to \"prevent AI from destroying humanity\" while Amazon, NVIDIA, and BlackRock throw money at it. Funny how that works. Not saying anything's wrong, but the math on \"safety-focused nonprofit\" got real weird real fast. What's the actual endgame here?\n\n#AI #OpenAI #TechNews #Startup #RealEstate #SmallBusiness #FutureOfWork",
+          "published_at": "2026-04-01T16:22:24+00:00",
+          "age_hours": 18.1,
+          "scraped_from": "r/singularity",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/singularity/comments/1s9pbus/openai_122b_round_the_numbers_are_absurd/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=OpenAI%20%24122B%20Round%3A%20The%20Numbers&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=OpenAI%20%24122B%20Round%3A%20The%20Numbers%20Are%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "category": "WORLD",
+          "topic": "Trump: US to bomb Iran \"back to stone ages\" over next 2-3 weeks",
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
+          "source_url": "https://reddit.com/r/worldnews/comments/1sa8tts/trump_us_to_bomb_iran_back_to_stone_ages_over/",
+          "source_label": "r/worldnews on Reddit",
+          "voice_score": 89,
+          "hashtags": "#GeoPolitics #BusinessImpact #EconomicUncertainty #SmallBusiness #RealEstate #MarketAnalysis #DaytonaBeach",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 geopolitical escalation like this hits different when you're running a business with international exposure. Currency swings, travel patterns, supply chains... all get weird fast. Not subtle rhetoric, but genuinely affects everything from booking rates to inventory costs. How's this sitting with your business planning?\n\n#GeoPolitics #BusinessImpact #EconomicUncertainty #SmallBusiness #RealEstate #MarketAnalysis #DaytonaBeach",
+          "published_at": "2026-04-02T05:38:10+00:00",
+          "age_hours": 4.9,
+          "scraped_from": "r/worldnews",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/worldnews/comments/1sa8tts/trump_us_to_bomb_iran_back_to_stone_ages_over/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Trump%3A%20US%20to%20bomb%20Iran&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Trump%3A%20US%20to%20bomb%20Iran%20%22back%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "category": "WORLD",
+          "topic": "Artemis II Launch Day Updates",
+          "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
+          "source_url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
+          "source_label": "Hacker News",
+          "voice_score": 90,
+          "hashtags": "#ArtemisII #SpaceExploration #BusinessExecution #Entrepreneurship #RealEstate #Innovation #Leadership",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: watching Artemis II launch updates is genuinely fascinating for anyone running a business. The logistics, timeline precision, team coordination\u2014that's the same playbook we use scaling rental operations. NASA just reminded us that execution beats planning every single time.\n\n#ArtemisII #SpaceExploration #BusinessExecution #Entrepreneurship #RealEstate #Innovation #Leadership",
+          "published_at": "2026-04-01T17:11:31+00:00",
+          "age_hours": 17.3,
+          "scraped_from": "Hacker News",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/nasa/comments/1s9orq4/artemis_ii_launch_megathread/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Artemis%20II%20Launch%20Day%20Updates&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
+              "label": "Official Source"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "category": "WORLD",
+          "topic": "Trump threatens to hit Iran 'extremely hard' over next two to three weeks",
+          "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+          "source_url": "https://reddit.com/r/worldnews/comments/1sa56fc/trump_threatens_to_hit_iran_extremely_hard_over/",
+          "source_label": "r/worldnews on Reddit",
+          "voice_score": 91,
+          "hashtags": "#GeopoliticalRisk #SmallBusiness #EconomicImpact #Hospitality #RealEstate #BusinessOwner #MarketTrends",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Geopolitical tension is genuinely wild right now. Real talk \u2014 when global instability spikes, travel and hospitality get hit first. Booking cancellations, insurance costs up, currency swings. Small business owners watching this closely? Not subtle how quick things shift. What's your industry seeing?\n\n#GeopoliticalRisk #SmallBusiness #EconomicImpact #Hospitality #RealEstate #BusinessOwner #MarketTrends",
+          "published_at": "2026-04-02T02:33:37+00:00",
+          "age_hours": 7.9,
+          "scraped_from": "r/worldnews",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/worldnews/comments/1sa56fc/trump_threatens_to_hit_iran_extremely_hard_over/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Trump%20threatens%20to%20hit%20Iran&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Trump%20threatens%20to%20hit%20Iran%20%27extremely%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        }
+      ],
+      "generated_at": "2026-04-02T10:30:13.289390+00:00",
+      "label": "Morning Brief (6:30 AM)",
+      "count": 10
+    },
+    "afternoon": {
+      "posts": [],
+      "generated_at": "",
+      "label": "Afternoon Update (1 PM)",
+      "count": 0
+    },
+    "scripts_thumbnails": []
   },
   "payroll": {
-    "period": "Mar 10 – Mar 24, 2026",
+    "period": "Mar 10 \u2013 Mar 24, 2026",
     "period_type": "B",
     "pay_date": "Mar 27, 2026",
     "total_payout": 5150.0,
@@ -208,7 +782,7 @@
       {
         "level": "red",
         "property": "10 S Halifax Ave",
-        "issue": "AC unit reported not cooling — HVAC scheduled"
+        "issue": "AC unit reported not cooling \u2014 HVAC scheduled"
       },
       {
         "level": "yellow",
@@ -218,7 +792,7 @@
       {
         "level": "green",
         "property": "117 N Hollywood Ave",
-        "issue": "WiFi complaint resolved — confirmed by guest"
+        "issue": "WiFi complaint resolved \u2014 confirmed by guest"
       }
     ],
     "top_performers": [
@@ -238,5 +812,19 @@
         "rating": 4.8
       }
     ]
+  },
+  "scraper_meta": {
+    "scraped_at": "2026-04-02T10:30:13.289390+00:00",
+    "sources_used": [
+      "Hacker News",
+      "TechCrunch AI",
+      "r/worldnews",
+      "r/singularity",
+      "r/artificial"
+    ],
+    "all_from_last_24h": true,
+    "post_count": 10,
+    "morning_count": 10,
+    "afternoon_count": 0
   }
 }
