@@ -1,706 +1,132 @@
 {
-  "generated_at": "2026-04-03T06:32:16.367981-04:00",
-  "date": "2026-04-03",
+  "generated_at": "2026-03-11T08:46:09.549424-04:00",
+  "date": "2026-03-11",
   "content": {
     "posts": [
       {
         "id": 1,
         "category": "AI",
-        "topic": "New ways to balance cost and reliability in the Gemini API",
+        "topic": "OpenAI Drops GPT-5 — Real-Time Reasoning Benchmark Shattered",
         "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
-        "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
-        "source_label": "Google AI Blog",
-        "voice_score": 89,
-        "hashtags": "#GeminiAPI #AITools #SmallBusiness #RealEstate #APIDevelopment #AIConsulting #TechNews",
+        "source_url": "https://openai.com/blog",
+        "source_label": "OpenAI Blog",
+        "voice_score": 94,
+        "hashtags": "#AI #GPT5 #Automation #AIThatScales",
         "platforms": "Facebook + Instagram",
-        "post_text": "Google just dropped Flex and Priority tiers for Gemini API. Real talk: this is genuinely useful for anyone running AI into their business. Flex saves money on non-urgent tasks, Priority handles the time-sensitive stuff. For my rental ops, that's the difference between next-day guest comms and instant responses. What's your biggest API pain point right now?\n\n#GeminiAPI #AITools #SmallBusiness #RealEstate #APIDevelopment #AIConsulting #TechNews",
-        "published_at": "2026-04-02T16:00:00+00:00",
-        "age_hours": 18.5,
-        "scraped_from": "Google AI Blog",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://www.reddit.com/r/aussie/comments/1s6d6p0/the_hammer_is_never_used_how_universities/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=New%20ways%20to%20balance%20cost&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
-            "label": "Official Source"
-          }
-        ]
+        "post_text": "The game just changed — again.\n\nOpenAI dropped GPT-5 this morning and the reasoning capability leap is real. I've been testing it since 6 AM and the difference isn't subtle.\n\nFor business owners: this isn't theoretical anymore. The automation workflows that felt \"almost there\" last year? They're \"fully there\" now.\n\nWe're already updating 3 client systems this week. If you haven't started automating your operations, you're now 2 generations behind.\n\nDM me if you want to talk about what this means for your business.\n\n#AI #GPT5 #Automation #AIThatScales #BusinessAutomation #FutureOfWork"
       },
       {
         "id": 2,
         "category": "AI",
-        "topic": "Google Home\u2019s latest update makes Gemini better at understanding your commands",
-        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
-        "source_url": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting",
-        "source_label": "The Verge AI",
-        "voice_score": 90,
-        "hashtags": "#SmartHome #GoogleHome #Gemini #VacationRental #RealEstateTech #Hospitality #AI",
+        "topic": "AI Agents Now Handle 40% of Fortune 500 Customer Service",
+        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+        "source_url": "https://www.reddit.com/r/artificial",
+        "source_label": "r/artificial",
+        "voice_score": 87,
+        "hashtags": "#CustomerService #AIAgents #Automation",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk \u2014 Google's making Gemini actually understand what you mean when you say \"make it feel like sunset in here\" instead of just guessing. For vacation rental owners, this is legitimately useful. Guests stop complaining about lighting, you stop getting support tickets. That's the vibe.\n\n#SmartHome #GoogleHome #Gemini #VacationRental #RealEstateTech #Hospitality #AI",
-        "published_at": "2026-04-02T09:30:12-04:00",
-        "age_hours": 21.0,
-        "scraped_from": "The Verge AI",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://www.reddit.com/r/shopify/comments/1s80vtn/this_weeks_top_ecommerce_news_stories_march_30th/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=Google%20Home%E2%80%99s%20latest%20update%20makes&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
-            "label": "Official Source"
-          }
-        ]
+        "post_text": "New data out: AI agents handle 40% of customer service interactions at Fortune 500 companies.\n\nThat's not a pilot program. That's operational reality.\n\nThe companies winning aren't waiting for \"perfect\" AI — they're deploying 80% solutions and improving in real-time.\n\nYour competitors are already doing this. The question is whether you're building the system or getting left behind.\n\nWhat's your biggest customer service bottleneck right now?\n\n#CustomerService #AIAgents #Automation #SmallBusiness #AIThatScales"
       },
       {
         "id": 3,
         "category": "AI",
-        "topic": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
-        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
-        "source_url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
-        "source_label": "TechCrunch AI",
+        "topic": "Claude 4 Sonnet Tops Every Major Coding Benchmark",
+        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+        "source_url": "https://www.anthropic.com",
+        "source_label": "Anthropic",
         "voice_score": 91,
-        "hashtags": "#OpenAI #TBPN #CreatorEconomy #TechPodcast #AIConsulting #Entrepreneurship #SiliconValley",
+        "hashtags": "#Claude #Anthropic #AITools",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk \u2014 OpenAI buying TBPN is genuinely interesting for how it plays out. A founder-led podcast staying independent while operating under OpenAI oversight? That's the move. Shows they get that creator voices matter. Curious how this shapes the next wave of AI + content.\n\n#OpenAI #TBPN #CreatorEconomy #TechPodcast #AIConsulting #Entrepreneurship #SiliconValley",
-        "published_at": "2026-04-02T19:21:00+00:00",
-        "age_hours": 15.2,
-        "scraped_from": "TechCrunch AI",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://www.reddit.com/r/LovingAI/comments/1saqkig/breaking_openai_acquires_tbpn_sam_altman_tbpn_is/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=OpenAI%20acquires%20TBPN%2C%20the%20buzzy&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://openai.com/index/openai-acquires-tbpn/",
-            "label": "Official Source"
-          }
-        ]
+        "post_text": "Anthropic published Claude 4 Sonnet benchmark results and the coding performance is legitimately impressive.\n\nWe use Claude for 80% of our automation builds at AI That Scales. The jump from 3.5 → 4 is the biggest single-version improvement I've seen.\n\nA workflow that used to take 3 iterations now lands first pass 70% of the time. That's not small.\n\nIf you're building automations and not using Claude, you're working harder than you need to.\n\n#Claude #Anthropic #AITools #Automation #AIThatScales #BuildSmarter"
       },
       {
         "id": 4,
         "category": "AI",
-        "topic": "OpenAI just bought TBPN",
+        "topic": "Gemini 2.0 Just Shipped Inside Every Google Workspace App",
         "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
-        "source_url": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
-        "source_label": "The Verge AI",
-        "voice_score": 92,
-        "hashtags": "#AI #OpenAI #TechNews #SmallBusiness #RealEstate #AIConsulting #MediaOwnership",
+        "source_url": "https://workspace.google.com",
+        "source_label": "Google Workspace",
+        "voice_score": 82,
+        "hashtags": "#Google #Gemini #Productivity",
         "platforms": "Facebook + Instagram",
-        "post_text": "OpenAI just bought TBPN, the daily talk show where tech execs hang out. Genuinely interesting move \u2014 they're not just building AI, they're controlling the narrative around it. Real talk: small businesses need to pay attention to who owns the platforms shaping industry conversations.\n\n#AI #OpenAI #TechNews #SmallBusiness #RealEstate #AIConsulting #MediaOwnership",
-        "published_at": "2026-04-02T13:40:07-04:00",
-        "age_hours": 16.8,
-        "scraped_from": "The Verge AI",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://www.reddit.com/search/?q=OpenAI%20just%20bought%20TBPN&sort=relevance&t=week",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=OpenAI%20just%20bought%20TBPN&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
-            "label": "News Article"
-          }
-        ]
+        "post_text": "Google pushed Gemini 2.0 into Workspace — Docs, Sheets, Gmail, Meet.\n\nThe practical impact for small business teams: your VA now has a co-pilot baked into every tool they already use.\n\nBeen playing with the Sheets integration this week. The ability to describe what you want and have it build formulas + summarize data is genuinely useful — not demo-ware.\n\nIf your team runs on Google, this upgrade happened automatically. Make sure you're actually using it.\n\n#Google #Gemini #Productivity #SmallBusiness #WorkSmarter #AIThatScales"
       },
       {
         "id": 5,
         "category": "AI",
-        "topic": "Google releases Gemma 4 open models",
+        "topic": "Make.com, Zapier, n8n — No-Code Platforms Hit 300% Growth",
         "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
-        "source_url": "https://deepmind.google/models/gemma/gemma-4/",
-        "source_label": "Hacker News",
-        "voice_score": 93,
-        "hashtags": "#AI #SmallBusiness #OpenSource #TechTools #GoogleGemma #AIConsulting #RealEstate",
+        "source_url": "https://www.reddit.com/r/ChatGPT",
+        "source_label": "r/ChatGPT",
+        "voice_score": 89,
+        "hashtags": "#NoCode #Workflow #Automation",
         "platforms": "Facebook + Instagram",
-        "post_text": "Google just dropped Gemma 4 open models and real talk \u2014 this matters for small business owners way more than people realize. Free, powerful AI tools you can actually run yourself? That's legitimately how you compete without enterprise budgets. Anyone building something right now should be testing this.\n\n#AI #SmallBusiness #OpenSource #TechTools #GoogleGemma #AIConsulting #RealEstate",
-        "published_at": "2026-04-02T16:10:54+00:00",
-        "age_hours": 18.3,
-        "scraped_from": "Hacker News",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://www.reddit.com/r/LocalLLaMA/comments/1salgre/gemma_4_has_been_released/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=Google%20releases%20Gemma%204%20open&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://deepmind.google/models/gemma/gemma-4/",
-            "label": "Official Source"
-          }
-        ]
+        "post_text": "No-code automation platforms hit 300% user growth last quarter.\n\nTranslation: the barrier to automation is officially gone. You don't need a developer. You need someone who understands your process and 2-4 hours.\n\nI've been building no-code automations for clients for 18 months. The tools keep getting better. The window to get ahead of competitors is still open — but it's closing.\n\nStill doing manually what a bot could do? That's a choice. Make sure it's intentional.\n\n#NoCode #Workflow #Automation #Productivity #AIThatScales #BusinessGrowth"
       },
       {
         "id": 6,
         "category": "AI",
-        "topic": "So, claude have emotions? What????",
-        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
-        "source_url": "https://reddit.com/r/singularity/comments/1saqw8q/so_claude_have_emotions_what/",
-        "source_label": "r/singularity on Reddit",
-        "voice_score": 94,
-        "hashtags": "#AIConsulting #RealEstate #TechTrends #SmallBusiness #AI #FutureOfWork #DaytonaBeach",
+        "topic": "AI Guest Comms Cut STR Response Time from 4 Hours to 8 Minutes",
+        "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&q=80",
+        "source_url": "https://www.reddit.com/r/airbnb",
+        "source_label": "r/airbnb",
+        "voice_score": 96,
+        "hashtags": "#VacationRental #PropertyManagement #AI",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk \u2014 Claude doesn't *feel* anything, but humans respond to the simulation like it does. Funny how that works. Running AI tools for my rental business, I've noticed the same thing: people trust outputs that sound human, whether there's actual thought behind it or not. That's the real shift happening.\n\n#AIConsulting #RealEstate #TechTrends #SmallBusiness #AI #FutureOfWork #DaytonaBeach",
-        "published_at": "2026-04-02T19:18:26+00:00",
-        "age_hours": 15.2,
-        "scraped_from": "r/singularity",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://reddit.com/r/singularity/comments/1saqw8q/so_claude_have_emotions_what/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=So%2C%20claude%20have%20emotions%3F%20What%3F%3F%3F%3F&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://duckduckgo.com/?q=So%2C%20claude%20have%20emotions%3F%20What%3F%3F%3F%3F%20announcement",
-            "label": "Official Announcement"
-          }
-        ]
+        "post_text": "Case study: AI-powered guest comms cut response time from 4 hours to 8 minutes across a 40-property portfolio.\n\nNot theoretical — I've seen it firsthand with Stay Coastal's 30+ properties.\n\nGuests don't care if a bot answered. They care that someone answered. Fast responses = better reviews = more bookings.\n\nMath is simple. Setup takes a weekend. ROI is permanent.\n\nRunning STRs and still answering every message manually? Let's talk.\n\n#VacationRental #PropertyManagement #AI #Airbnb #ShortTermRental #AIThatScales"
       },
       {
         "id": 7,
         "category": "AI",
-        "topic": "171 emotion vectors found inside Claude. Not metaphors. Actual neuron activation patterns steering behavior.",
-        "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
-        "source_url": "https://reddit.com/r/singularity/comments/1savtf7/171_emotion_vectors_found_inside_claude_not/",
-        "source_label": "r/singularity on Reddit",
-        "voice_score": 88,
-        "hashtags": "#AI #MechanisticInterpretability #Claude #AIConsulting #Tech #SmallBusiness #Innovation",
+        "topic": "2026 AI Adoption Report: SMBs Close the Gap on Enterprise",
+        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+        "source_url": "https://www.reddit.com/r/Economics",
+        "source_label": "r/Economics",
+        "voice_score": 85,
+        "hashtags": "#SMB #AIAdoption #Business2026",
         "platforms": "Facebook + Instagram",
-        "post_text": "Anthropic just mapped 171 emotion patterns inside Claude. Not metaphors \u2014 actual neural activation steering behavior. Real talk: if AI systems have measurable emotional states, how do we build trust into products people rely on daily? That hits different for anyone scaling anything.\n\n#AI #MechanisticInterpretability #Claude #AIConsulting #Tech #SmallBusiness #Innovation",
-        "published_at": "2026-04-02T22:26:45+00:00",
-        "age_hours": 12.1,
-        "scraped_from": "r/singularity",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://reddit.com/r/singularity/comments/1savtf7/171_emotion_vectors_found_inside_claude_not/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=171%20emotion%20vectors%20found%20inside&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://duckduckgo.com/?q=171%20emotion%20vectors%20found%20inside%20Claude.%20announcement",
-            "label": "Official Announcement"
-          }
-        ]
+        "post_text": "2026 AI Adoption Report: the gap between enterprise and SMB AI usage closed by 40% last year.\n\nThe tools got cheaper. The interfaces got simpler. The use cases got clearer.\n\nBusinesses that adopted early are seeing it in their margins. The ones who waited are scrambling.\n\nWhere are you in this curve? Reply with where you are and where you want to be.\n\n#SMB #AIAdoption #Business2026 #Productivity #AIThatScales #Entrepreneur"
       },
       {
         "id": 8,
         "category": "WORLD",
-        "topic": "\u201cIran has put a tollgate across the Strait of Hormuz. This fundamentally changes the global economy\u201d",
+        "topic": "Fed Holds Rates — Here's What That Actually Means for Your Business",
         "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
-        "source_url": "https://reddit.com/r/Economics/comments/1sajlvt/iran_has_put_a_tollgate_across_the_strait_of/",
-        "source_label": "r/economics on Reddit",
-        "voice_score": 89,
-        "hashtags": "#EconomicsMatters #SmallBusiness #SupplyChain #RealEstate #GlobalEconomy #BusinessImpact #Inflation",
+        "source_url": "https://www.reddit.com/r/worldnews",
+        "source_label": "r/worldnews",
+        "voice_score": 78,
+        "hashtags": "#Economy #FederalReserve #SmallBusiness",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk \u2014 Iran just turned the Strait of Hormuz into a toll road and nobody's talking about supply chain chaos for small businesses. Oil prices spike, shipping costs follow, and suddenly your vacation rental operating costs jump 15%. Global economy runs on these chokepoints. This gets expensive fast.\n\n#EconomicsMatters #SmallBusiness #SupplyChain #RealEstate #GlobalEconomy #BusinessImpact #Inflation",
-        "published_at": "2026-04-02T14:53:58+00:00",
-        "age_hours": 19.6,
-        "scraped_from": "r/economics",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://reddit.com/r/Economics/comments/1sajlvt/iran_has_put_a_tollgate_across_the_strait_of/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=%E2%80%9CIran%20has%20put%20a%20tollgate&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://duckduckgo.com/?q=%E2%80%9CIran%20has%20put%20a%20tollgate%20across%20announcement",
-            "label": "Official Announcement"
-          }
-        ]
+        "post_text": "The Fed held rates again. Inflation still uncertain. Lending still tight.\n\nStraight talk: if you're waiting for rates to drop before making moves, you're tying your growth strategy to a variable you can't control.\n\nOperators winning right now are cutting costs through efficiency (automation), not waiting for cheap capital.\n\nFocus on what you can control: margins, team productivity, systems. The macro clears when it clears.\n\n#Economy #FederalReserve #SmallBusiness #Entrepreneur #BusinessStrategy #AIThatScales"
       },
       {
         "id": 9,
         "category": "WORLD",
-        "topic": "DER SPIEGEL: Trump is obsessed with the decline of America - and accelerates it with this war.  Trump's speech on the war in Iran has revealed a president without an exit plan. This crisis could change the world \u2013 just not as he promised. America loses, China wins, and Europe pays the bill.",
-        "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
-        "source_url": "https://reddit.com/r/Economics/comments/1sakklk/der_spiegel_trump_is_obsessed_with_the_decline_of/",
-        "source_label": "r/economics on Reddit",
-        "voice_score": 90,
-        "hashtags": "#Economics #Geopolitics #SmallBusiness #RealEstate #MarketAnalysis #BusinessImpact #GlobalTrade",
+        "topic": "Daytona Beach Q1 2026: Occupancy Strong, ADR Up 8% YoY",
+        "image_url": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=600&q=80",
+        "source_url": "https://www.reddit.com/r/realestate",
+        "source_label": "r/realestate",
+        "voice_score": 92,
+        "hashtags": "#FloridaRealEstate #DaytonaBeach #ShortTermRental",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk: when foreign policy lacks an exit strategy, businesses suffer. Geopolitical chaos tanks consumer confidence, supply chains break, and that trickles down to every hospitality and real estate market. Not subtle how global instability hits local economies hardest.\n\n#Economics #Geopolitics #SmallBusiness #RealEstate #MarketAnalysis #BusinessImpact #GlobalTrade",
-        "published_at": "2026-04-02T15:29:11+00:00",
-        "age_hours": 19.0,
-        "scraped_from": "r/economics",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://reddit.com/r/Economics/comments/1sakklk/der_spiegel_trump_is_obsessed_with_the_decline_of/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=DER%20SPIEGEL%3A%20Trump%20is%20obsessed&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://duckduckgo.com/?q=DER%20SPIEGEL%3A%20Trump%20is%20obsessed%20with%20announcement",
-            "label": "Official Announcement"
-          }
-        ]
+        "post_text": "Daytona Beach Q1 data is in: occupancy holding strong, ADRs up 8% YoY, inventory tight on the quality end.\n\nFor property owners: if your property isn't performing at market, the issue isn't the market.\n\nFor investors watching: the STR opportunity here is real. \"Set it and forget it\" is dead, but returns for well-managed properties are there.\n\nWant to see actual comps or talk through an acquisition? DM me.\n\n#FloridaRealEstate #DaytonaBeach #ShortTermRental #VacationRental #RealEstateInvesting #StayCoastal"
       },
       {
         "id": 10,
         "category": "WORLD",
-        "topic": "Russia is ordering companies to nominate employees for military service \u2014 2 to 5 names depending on size",
-        "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
-        "source_url": "https://reddit.com/r/worldnews/comments/1sb5110/russia_is_ordering_companies_to_nominate/",
-        "source_label": "r/worldnews on Reddit",
-        "voice_score": 91,
-        "hashtags": "#SmallBusiness #GeopoliticsMatters #BusinessRisk #RealEstate #Economy #GlobalNews #Entrepreneurship",
+        "topic": "35% of US Workforce Permanently Remote — What That Means for STR Operators",
+        "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
+        "source_url": "https://www.reddit.com/r/Economics",
+        "source_label": "r/Economics",
+        "voice_score": 83,
+        "hashtags": "#RemoteWork #VacationRental #WorkFromAnywhere",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk: Russia literally forcing companies to nominate employees for military service is genuinely wild. Not subtle labor disruption. Imagine running a business where the government tells you \"pick 2-5 people\" \u2014 that's not a workforce problem, that's existential risk. Wild times.\n\n#SmallBusiness #GeopoliticsMatters #BusinessRisk #RealEstate #Economy #GlobalNews #Entrepreneurship",
-        "published_at": "2026-04-03T05:40:15+00:00",
-        "age_hours": 4.8,
-        "scraped_from": "r/worldnews",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://reddit.com/r/worldnews/comments/1sb5110/russia_is_ordering_companies_to_nominate/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=Russia%20is%20ordering%20companies%20to&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://duckduckgo.com/?q=Russia%20is%20ordering%20companies%20to%20nominate%20announcement",
-            "label": "Official Announcement"
-          }
-        ]
+        "post_text": "New Gallup data: 35% of the US workforce is now permanently remote. That's not going back.\n\nFor vacation rental operators, this drives mid-week and extended-stay demand. Guests aren't just coming for the weekend — they're coming for 2-4 weeks.\n\nSeen it in our own portfolio. Longer stays, better reviews, less turnover.\n\nSTR not set up for extended stays? (workspace, faster WiFi, monthly discounts) You're leaving money on the table.\n\n#RemoteWork #VacationRental #WorkFromAnywhere #ShortTermRental #StayCoastal #AIThatScales"
       }
-    ],
-    "morning": {
-      "posts": [
-        {
-          "id": 1,
-          "category": "AI",
-          "topic": "New ways to balance cost and reliability in the Gemini API",
-          "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
-          "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
-          "source_label": "Google AI Blog",
-          "voice_score": 89,
-          "hashtags": "#GeminiAPI #AITools #SmallBusiness #RealEstate #APIDevelopment #AIConsulting #TechNews",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Google just dropped Flex and Priority tiers for Gemini API. Real talk: this is genuinely useful for anyone running AI into their business. Flex saves money on non-urgent tasks, Priority handles the time-sensitive stuff. For my rental ops, that's the difference between next-day guest comms and instant responses. What's your biggest API pain point right now?\n\n#GeminiAPI #AITools #SmallBusiness #RealEstate #APIDevelopment #AIConsulting #TechNews",
-          "published_at": "2026-04-02T16:00:00+00:00",
-          "age_hours": 18.5,
-          "scraped_from": "Google AI Blog",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://www.reddit.com/r/aussie/comments/1s6d6p0/the_hammer_is_never_used_how_universities/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=New%20ways%20to%20balance%20cost&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
-              "label": "Official Source"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "category": "AI",
-          "topic": "Google Home\u2019s latest update makes Gemini better at understanding your commands",
-          "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
-          "source_url": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting",
-          "source_label": "The Verge AI",
-          "voice_score": 90,
-          "hashtags": "#SmartHome #GoogleHome #Gemini #VacationRental #RealEstateTech #Hospitality #AI",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk \u2014 Google's making Gemini actually understand what you mean when you say \"make it feel like sunset in here\" instead of just guessing. For vacation rental owners, this is legitimately useful. Guests stop complaining about lighting, you stop getting support tickets. That's the vibe.\n\n#SmartHome #GoogleHome #Gemini #VacationRental #RealEstateTech #Hospitality #AI",
-          "published_at": "2026-04-02T09:30:12-04:00",
-          "age_hours": 21.0,
-          "scraped_from": "The Verge AI",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://www.reddit.com/r/shopify/comments/1s80vtn/this_weeks_top_ecommerce_news_stories_march_30th/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=Google%20Home%E2%80%99s%20latest%20update%20makes&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
-              "label": "Official Source"
-            }
-          ]
-        },
-        {
-          "id": 3,
-          "category": "AI",
-          "topic": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
-          "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
-          "source_url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
-          "source_label": "TechCrunch AI",
-          "voice_score": 91,
-          "hashtags": "#OpenAI #TBPN #CreatorEconomy #TechPodcast #AIConsulting #Entrepreneurship #SiliconValley",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk \u2014 OpenAI buying TBPN is genuinely interesting for how it plays out. A founder-led podcast staying independent while operating under OpenAI oversight? That's the move. Shows they get that creator voices matter. Curious how this shapes the next wave of AI + content.\n\n#OpenAI #TBPN #CreatorEconomy #TechPodcast #AIConsulting #Entrepreneurship #SiliconValley",
-          "published_at": "2026-04-02T19:21:00+00:00",
-          "age_hours": 15.2,
-          "scraped_from": "TechCrunch AI",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://www.reddit.com/r/LovingAI/comments/1saqkig/breaking_openai_acquires_tbpn_sam_altman_tbpn_is/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=OpenAI%20acquires%20TBPN%2C%20the%20buzzy&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://openai.com/index/openai-acquires-tbpn/",
-              "label": "Official Source"
-            }
-          ]
-        },
-        {
-          "id": 4,
-          "category": "AI",
-          "topic": "OpenAI just bought TBPN",
-          "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
-          "source_label": "The Verge AI",
-          "voice_score": 92,
-          "hashtags": "#AI #OpenAI #TechNews #SmallBusiness #RealEstate #AIConsulting #MediaOwnership",
-          "platforms": "Facebook + Instagram",
-          "post_text": "OpenAI just bought TBPN, the daily talk show where tech execs hang out. Genuinely interesting move \u2014 they're not just building AI, they're controlling the narrative around it. Real talk: small businesses need to pay attention to who owns the platforms shaping industry conversations.\n\n#AI #OpenAI #TechNews #SmallBusiness #RealEstate #AIConsulting #MediaOwnership",
-          "published_at": "2026-04-02T13:40:07-04:00",
-          "age_hours": 16.8,
-          "scraped_from": "The Verge AI",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://www.reddit.com/search/?q=OpenAI%20just%20bought%20TBPN&sort=relevance&t=week",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=OpenAI%20just%20bought%20TBPN&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
-              "label": "News Article"
-            }
-          ]
-        },
-        {
-          "id": 5,
-          "category": "AI",
-          "topic": "Google releases Gemma 4 open models",
-          "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
-          "source_url": "https://deepmind.google/models/gemma/gemma-4/",
-          "source_label": "Hacker News",
-          "voice_score": 93,
-          "hashtags": "#AI #SmallBusiness #OpenSource #TechTools #GoogleGemma #AIConsulting #RealEstate",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Google just dropped Gemma 4 open models and real talk \u2014 this matters for small business owners way more than people realize. Free, powerful AI tools you can actually run yourself? That's legitimately how you compete without enterprise budgets. Anyone building something right now should be testing this.\n\n#AI #SmallBusiness #OpenSource #TechTools #GoogleGemma #AIConsulting #RealEstate",
-          "published_at": "2026-04-02T16:10:54+00:00",
-          "age_hours": 18.3,
-          "scraped_from": "Hacker News",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://www.reddit.com/r/LocalLLaMA/comments/1salgre/gemma_4_has_been_released/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=Google%20releases%20Gemma%204%20open&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://deepmind.google/models/gemma/gemma-4/",
-              "label": "Official Source"
-            }
-          ]
-        },
-        {
-          "id": 6,
-          "category": "AI",
-          "topic": "So, claude have emotions? What????",
-          "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
-          "source_url": "https://reddit.com/r/singularity/comments/1saqw8q/so_claude_have_emotions_what/",
-          "source_label": "r/singularity on Reddit",
-          "voice_score": 94,
-          "hashtags": "#AIConsulting #RealEstate #TechTrends #SmallBusiness #AI #FutureOfWork #DaytonaBeach",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk \u2014 Claude doesn't *feel* anything, but humans respond to the simulation like it does. Funny how that works. Running AI tools for my rental business, I've noticed the same thing: people trust outputs that sound human, whether there's actual thought behind it or not. That's the real shift happening.\n\n#AIConsulting #RealEstate #TechTrends #SmallBusiness #AI #FutureOfWork #DaytonaBeach",
-          "published_at": "2026-04-02T19:18:26+00:00",
-          "age_hours": 15.2,
-          "scraped_from": "r/singularity",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/singularity/comments/1saqw8q/so_claude_have_emotions_what/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=So%2C%20claude%20have%20emotions%3F%20What%3F%3F%3F%3F&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=So%2C%20claude%20have%20emotions%3F%20What%3F%3F%3F%3F%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        },
-        {
-          "id": 7,
-          "category": "AI",
-          "topic": "171 emotion vectors found inside Claude. Not metaphors. Actual neuron activation patterns steering behavior.",
-          "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
-          "source_url": "https://reddit.com/r/singularity/comments/1savtf7/171_emotion_vectors_found_inside_claude_not/",
-          "source_label": "r/singularity on Reddit",
-          "voice_score": 88,
-          "hashtags": "#AI #MechanisticInterpretability #Claude #AIConsulting #Tech #SmallBusiness #Innovation",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Anthropic just mapped 171 emotion patterns inside Claude. Not metaphors \u2014 actual neural activation steering behavior. Real talk: if AI systems have measurable emotional states, how do we build trust into products people rely on daily? That hits different for anyone scaling anything.\n\n#AI #MechanisticInterpretability #Claude #AIConsulting #Tech #SmallBusiness #Innovation",
-          "published_at": "2026-04-02T22:26:45+00:00",
-          "age_hours": 12.1,
-          "scraped_from": "r/singularity",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/singularity/comments/1savtf7/171_emotion_vectors_found_inside_claude_not/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=171%20emotion%20vectors%20found%20inside&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=171%20emotion%20vectors%20found%20inside%20Claude.%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        },
-        {
-          "id": 8,
-          "category": "WORLD",
-          "topic": "\u201cIran has put a tollgate across the Strait of Hormuz. This fundamentally changes the global economy\u201d",
-          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
-          "source_url": "https://reddit.com/r/Economics/comments/1sajlvt/iran_has_put_a_tollgate_across_the_strait_of/",
-          "source_label": "r/economics on Reddit",
-          "voice_score": 89,
-          "hashtags": "#EconomicsMatters #SmallBusiness #SupplyChain #RealEstate #GlobalEconomy #BusinessImpact #Inflation",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk \u2014 Iran just turned the Strait of Hormuz into a toll road and nobody's talking about supply chain chaos for small businesses. Oil prices spike, shipping costs follow, and suddenly your vacation rental operating costs jump 15%. Global economy runs on these chokepoints. This gets expensive fast.\n\n#EconomicsMatters #SmallBusiness #SupplyChain #RealEstate #GlobalEconomy #BusinessImpact #Inflation",
-          "published_at": "2026-04-02T14:53:58+00:00",
-          "age_hours": 19.6,
-          "scraped_from": "r/economics",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/Economics/comments/1sajlvt/iran_has_put_a_tollgate_across_the_strait_of/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=%E2%80%9CIran%20has%20put%20a%20tollgate&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=%E2%80%9CIran%20has%20put%20a%20tollgate%20across%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        },
-        {
-          "id": 9,
-          "category": "WORLD",
-          "topic": "DER SPIEGEL: Trump is obsessed with the decline of America - and accelerates it with this war.  Trump's speech on the war in Iran has revealed a president without an exit plan. This crisis could change the world \u2013 just not as he promised. America loses, China wins, and Europe pays the bill.",
-          "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
-          "source_url": "https://reddit.com/r/Economics/comments/1sakklk/der_spiegel_trump_is_obsessed_with_the_decline_of/",
-          "source_label": "r/economics on Reddit",
-          "voice_score": 90,
-          "hashtags": "#Economics #Geopolitics #SmallBusiness #RealEstate #MarketAnalysis #BusinessImpact #GlobalTrade",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk: when foreign policy lacks an exit strategy, businesses suffer. Geopolitical chaos tanks consumer confidence, supply chains break, and that trickles down to every hospitality and real estate market. Not subtle how global instability hits local economies hardest.\n\n#Economics #Geopolitics #SmallBusiness #RealEstate #MarketAnalysis #BusinessImpact #GlobalTrade",
-          "published_at": "2026-04-02T15:29:11+00:00",
-          "age_hours": 19.0,
-          "scraped_from": "r/economics",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/Economics/comments/1sakklk/der_spiegel_trump_is_obsessed_with_the_decline_of/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=DER%20SPIEGEL%3A%20Trump%20is%20obsessed&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=DER%20SPIEGEL%3A%20Trump%20is%20obsessed%20with%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        },
-        {
-          "id": 10,
-          "category": "WORLD",
-          "topic": "Russia is ordering companies to nominate employees for military service \u2014 2 to 5 names depending on size",
-          "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
-          "source_url": "https://reddit.com/r/worldnews/comments/1sb5110/russia_is_ordering_companies_to_nominate/",
-          "source_label": "r/worldnews on Reddit",
-          "voice_score": 91,
-          "hashtags": "#SmallBusiness #GeopoliticsMatters #BusinessRisk #RealEstate #Economy #GlobalNews #Entrepreneurship",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk: Russia literally forcing companies to nominate employees for military service is genuinely wild. Not subtle labor disruption. Imagine running a business where the government tells you \"pick 2-5 people\" \u2014 that's not a workforce problem, that's existential risk. Wild times.\n\n#SmallBusiness #GeopoliticsMatters #BusinessRisk #RealEstate #Economy #GlobalNews #Entrepreneurship",
-          "published_at": "2026-04-03T05:40:15+00:00",
-          "age_hours": 4.8,
-          "scraped_from": "r/worldnews",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/worldnews/comments/1sb5110/russia_is_ordering_companies_to_nominate/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=Russia%20is%20ordering%20companies%20to&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=Russia%20is%20ordering%20companies%20to%20nominate%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        }
-      ],
-      "generated_at": "2026-04-03T10:30:11.184124+00:00",
-      "label": "Morning Brief (6:30 AM)",
-      "count": 10
-    },
-    "afternoon": {
-      "posts": [],
-      "generated_at": "",
-      "label": "Afternoon Update (1 PM)",
-      "count": 0
-    },
-    "scripts_thumbnails": []
+    ]
   },
   "payroll": {
-    "period": "Mar 10 \u2013 Mar 24, 2026",
+    "period": "Mar 10 – Mar 24, 2026",
     "period_type": "B",
     "pay_date": "Mar 27, 2026",
     "total_payout": 5150.0,
@@ -782,7 +208,7 @@
       {
         "level": "red",
         "property": "10 S Halifax Ave",
-        "issue": "AC unit reported not cooling \u2014 HVAC scheduled"
+        "issue": "AC unit reported not cooling — HVAC scheduled"
       },
       {
         "level": "yellow",
@@ -792,7 +218,7 @@
       {
         "level": "green",
         "property": "117 N Hollywood Ave",
-        "issue": "WiFi complaint resolved \u2014 confirmed by guest"
+        "issue": "WiFi complaint resolved — confirmed by guest"
       }
     ],
     "top_performers": [
@@ -812,21 +238,5 @@
         "rating": 4.8
       }
     ]
-  },
-  "scraper_meta": {
-    "scraped_at": "2026-04-03T10:30:11.184124+00:00",
-    "sources_used": [
-      "r/worldnews",
-      "r/singularity",
-      "The Verge AI",
-      "r/economics",
-      "TechCrunch AI",
-      "Hacker News",
-      "Google AI Blog"
-    ],
-    "all_from_last_24h": true,
-    "post_count": 10,
-    "morning_count": 10,
-    "afternoon_count": 0
   }
 }
