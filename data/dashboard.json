@@ -1,706 +1,132 @@
 {
-  "generated_at": "2026-04-12T00:30:08.120542-04:00",
-  "date": "2026-04-12",
+  "generated_at": "2026-03-11T08:46:09.549424-04:00",
+  "date": "2026-03-11",
   "content": {
     "posts": [
       {
         "id": 1,
         "category": "AI",
-        "topic": "Sam Altman responds to \u2018incendiary\u2019 New Yorker article after attack on his home",
+        "topic": "OpenAI Drops GPT-5 — Real-Time Reasoning Benchmark Shattered",
         "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
-        "source_url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
-        "source_label": "TechCrunch AI",
-        "voice_score": 89,
-        "hashtags": "#OpenAI #SamAltman #AILeadership #TechNews #BusinessReputation #Leadership #RealTalk",
+        "source_url": "https://openai.com/blog",
+        "source_label": "OpenAI Blog",
+        "voice_score": 94,
+        "hashtags": "#AI #GPT5 #Automation #AIThatScales",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk \u2014 when the CEO of the biggest AI company has to respond to both a home attack AND trustworthiness questions in the same week, that's genuinely messy. Funny how the tech world moves fast until accountability shows up. Small business owners deal with this constantly \u2014 one bad review tanks credibility. What's Sam's recovery plan actually look like?\n\n#OpenAI #SamAltman #AILeadership #TechNews #BusinessReputation #Leadership #RealTalk",
-        "published_at": "2026-04-11T17:18:22+00:00",
-        "age_hours": 11.2,
-        "scraped_from": "TechCrunch AI",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://www.reddit.com/r/DailyTechNewsShow/comments/1sir2bl/sam_altman_responds_to_incendiary_new_yorker/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=Sam%20Altman%20responds%20to%20%E2%80%98incendiary%E2%80%99&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://www.thewrap.com/industry-news/tech/sam-altman-responds-to-new-yorker-article-molotov-cocktail-attack/",
-            "label": "Official Source"
-          }
-        ]
+        "post_text": "The game just changed — again.\n\nOpenAI dropped GPT-5 this morning and the reasoning capability leap is real. I've been testing it since 6 AM and the difference isn't subtle.\n\nFor business owners: this isn't theoretical anymore. The automation workflows that felt \"almost there\" last year? They're \"fully there\" now.\n\nWe're already updating 3 client systems this week. If you haven't started automating your operations, you're now 2 generations behind.\n\nDM me if you want to talk about what this means for your business.\n\n#AI #GPT5 #Automation #AIThatScales #BusinessAutomation #FutureOfWork"
       },
       {
         "id": 2,
         "category": "AI",
-        "topic": "Your article about AI doesn\u2019t need AI art",
-        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
-        "source_url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
-        "source_label": "The Verge AI",
-        "voice_score": 90,
-        "hashtags": "#AIConsulting #SmallBusiness #RealTalk #Design #Technology #ArtistsDeserveWork #DAYTONAbusiness",
+        "topic": "AI Agents Now Handle 40% of Fortune 500 Customer Service",
+        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+        "source_url": "https://www.reddit.com/r/artificial",
+        "source_label": "r/artificial",
+        "voice_score": 87,
+        "hashtags": "#CustomerService #AIAgents #Automation",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk: The New Yorker used AI art for their Sam Altman profile and it's genuinely creepy\u2014disembodied faces hovering around his head. Funny how we rush to use AI for everything without asking if we should. Not every article needs algorithmic shortcuts. Sometimes hiring a real illustrator just hits different.\n\n#AIConsulting #SmallBusiness #RealTalk #Design #Technology #ArtistsDeserveWork #DAYTONAbusiness",
-        "published_at": "2026-04-11T11:00:00-04:00",
-        "age_hours": 13.5,
-        "scraped_from": "The Verge AI",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://www.reddit.com/r/jobsearchhacks/comments/1sexhgc/i_was_a_recuiter_and_posted_jobs_we_were_never/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=Your%20article%20about%20AI%20doesn%E2%80%99t&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://www.24-7pressrelease.com/article/126/press-releases-vs-blogs-when-to-announce-when-to-explain",
-            "label": "Press Release"
-          }
-        ]
+        "post_text": "New data out: AI agents handle 40% of customer service interactions at Fortune 500 companies.\n\nThat's not a pilot program. That's operational reality.\n\nThe companies winning aren't waiting for \"perfect\" AI — they're deploying 80% solutions and improving in real-time.\n\nYour competitors are already doing this. The question is whether you're building the system or getting left behind.\n\nWhat's your biggest customer service bottleneck right now?\n\n#CustomerService #AIAgents #Automation #SmallBusiness #AIThatScales"
       },
       {
         "id": 3,
         "category": "AI",
-        "topic": "GPT Image 2 preview",
-        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
-        "source_url": "https://reddit.com/r/OpenAI/comments/1simerz/gpt_image_2_preview/",
-        "source_label": "r/OpenAI on Reddit",
+        "topic": "Claude 4 Sonnet Tops Every Major Coding Benchmark",
+        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+        "source_url": "https://www.anthropic.com",
+        "source_label": "Anthropic",
         "voice_score": 91,
-        "hashtags": "#AITools #OpenAI #RealEstateMarketing #AIConsulting #SmallBusiness #TechNews #VacationRental",
+        "hashtags": "#Claude #Anthropic #AITools",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk: OpenAI's silently testing GPT Image 2 and it's noticeably better \u2014 sharper, more realistic, way less \"styled.\" Then they switched it back. Funny how that works. For anyone building with AI (vacation rental listings, marketing content), this matters. The gap between good and great just shifted.\n\n#AITools #OpenAI #RealEstateMarketing #AIConsulting #SmallBusiness #TechNews #VacationRental",
-        "published_at": "2026-04-11T15:41:36+00:00",
-        "age_hours": 12.8,
-        "scraped_from": "r/OpenAI",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://reddit.com/r/OpenAI/comments/1simerz/gpt_image_2_preview/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=GPT%20Image%202%20preview&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-mai-transcribe-1-mai-voice-1-and-mai-image-2-in-microsoft-foundry/4507787",
-            "label": "Official Source"
-          }
-        ]
+        "post_text": "Anthropic published Claude 4 Sonnet benchmark results and the coding performance is legitimately impressive.\n\nWe use Claude for 80% of our automation builds at AI That Scales. The jump from 3.5 → 4 is the biggest single-version improvement I've seen.\n\nA workflow that used to take 3 iterations now lands first pass 70% of the time. That's not small.\n\nIf you're building automations and not using Claude, you're working harder than you need to.\n\n#Claude #Anthropic #AITools #Automation #AIThatScales #BuildSmarter"
       },
       {
         "id": 4,
         "category": "AI",
-        "topic": "Small models also found the vulnerabilities that Mythos found",
+        "topic": "Gemini 2.0 Just Shipped Inside Every Google Workspace App",
         "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
-        "source_url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-        "source_label": "Hacker News",
-        "voice_score": 92,
-        "hashtags": "#AI #Cybersecurity #SmallBusiness #Tech #AIConsulting #RealEstate #Innovation",
+        "source_url": "https://workspace.google.com",
+        "source_label": "Google Workspace",
+        "voice_score": 82,
+        "hashtags": "#Google #Gemini #Productivity",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk \u2014 bigger isn't always better with AI. Small models finding the same vulnerabilities as Mythos? That's genuinely important for anyone running a business. Means you don't need expensive enterprise solutions to stay secure. The scrappy approach works here too.\n\n#AI #Cybersecurity #SmallBusiness #Tech #AIConsulting #RealEstate #Innovation",
-        "published_at": "2026-04-11T16:47:28+00:00",
-        "age_hours": 11.7,
-        "scraped_from": "Hacker News",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1sfekku/anthropics_restraint_is_a_terrifying_warning_sign/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=Small%20models%20also%20found%20the&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-            "label": "Official Source"
-          }
-        ]
+        "post_text": "Google pushed Gemini 2.0 into Workspace — Docs, Sheets, Gmail, Meet.\n\nThe practical impact for small business teams: your VA now has a co-pilot baked into every tool they already use.\n\nBeen playing with the Sheets integration this week. The ability to describe what you want and have it build formulas + summarize data is genuinely useful — not demo-ware.\n\nIf your team runs on Google, this upgrade happened automatically. Make sure you're actually using it.\n\n#Google #Gemini #Productivity #SmallBusiness #WorkSmarter #AIThatScales"
       },
       {
         "id": 5,
         "category": "AI",
-        "topic": "Unitree makes a humanoid that runs at 10m/s (Bolt runs at 12.42 m/s)",
+        "topic": "Make.com, Zapier, n8n — No-Code Platforms Hit 300% Growth",
         "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
-        "source_url": "https://reddit.com/r/singularity/comments/1siiarz/unitree_makes_a_humanoid_that_runs_at_10ms_bolt/",
-        "source_label": "r/singularity on Reddit",
-        "voice_score": 93,
-        "hashtags": "#AI #Robotics #RealEstate #Automation #Hospitality #FutureOfWork #Tech",
+        "source_url": "https://www.reddit.com/r/ChatGPT",
+        "source_label": "r/ChatGPT",
+        "voice_score": 89,
+        "hashtags": "#NoCode #Workflow #Automation",
         "platforms": "Facebook + Instagram",
-        "post_text": "Unitree just dropped a humanoid running 10 m/s and everyone's focused on the speed numbers. Real talk though\u2014what genuinely matters is when these things become reliable enough to handle actual work. That's when hospitality ops and property management get flipped upside down. We're not there yet, but funny how fast we're moving toward it.\n\n#AI #Robotics #RealEstate #Automation #Hospitality #FutureOfWork #Tech",
-        "published_at": "2026-04-11T12:53:08+00:00",
-        "age_hours": 15.6,
-        "scraped_from": "r/singularity",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://reddit.com/r/singularity/comments/1siiarz/unitree_makes_a_humanoid_that_runs_at_10ms_bolt/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=Unitree%20makes%20a%20humanoid%20that&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://shop-unitree.us/blog/",
-            "label": "Official Source"
-          }
-        ]
+        "post_text": "No-code automation platforms hit 300% user growth last quarter.\n\nTranslation: the barrier to automation is officially gone. You don't need a developer. You need someone who understands your process and 2-4 hours.\n\nI've been building no-code automations for clients for 18 months. The tools keep getting better. The window to get ahead of competitors is still open — but it's closing.\n\nStill doing manually what a bot could do? That's a choice. Make sure it's intentional.\n\n#NoCode #Workflow #Automation #Productivity #AIThatScales #BusinessGrowth"
       },
       {
         "id": 6,
         "category": "AI",
-        "topic": "OpenAI Says Not to Worry About UBI, Because It Has Another Idea",
-        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
-        "source_url": "https://reddit.com/r/singularity/comments/1simfsz/openai_says_not_to_worry_about_ubi_because_it_has/",
-        "source_label": "r/singularity on Reddit",
-        "voice_score": 94,
-        "hashtags": "#AI #SmallBusiness #FutureOfWork #RealEstate #AIConsulting #DaytonaBeach #TechTrends",
+        "topic": "AI Guest Comms Cut STR Response Time from 4 Hours to 8 Minutes",
+        "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&q=80",
+        "source_url": "https://www.reddit.com/r/airbnb",
+        "source_label": "r/airbnb",
+        "voice_score": 96,
+        "hashtags": "#VacationRental #PropertyManagement #AI",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk\u2014OpenAI basically saying \"don't worry about UBI, we got something better\" is funny how it skips the actual problem. Small business owners already know: AI changes job markets fast. The real question isn't what OpenAI proposes next. It's how you adapt your business today.\n\n#AI #SmallBusiness #FutureOfWork #RealEstate #AIConsulting #DaytonaBeach #TechTrends",
-        "published_at": "2026-04-11T15:42:39+00:00",
-        "age_hours": 12.8,
-        "scraped_from": "r/singularity",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://reddit.com/r/singularity/comments/1simfsz/openai_says_not_to_worry_about_ubi_because_it_has/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=OpenAI%20Says%20Not%20to%20Worry&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://help.openai.com/en/articles/10562178-why-did-i-receive-a-warning-about-my-account",
-            "label": "Official Source"
-          }
-        ]
+        "post_text": "Case study: AI-powered guest comms cut response time from 4 hours to 8 minutes across a 40-property portfolio.\n\nNot theoretical — I've seen it firsthand with Stay Coastal's 30+ properties.\n\nGuests don't care if a bot answered. They care that someone answered. Fast responses = better reviews = more bookings.\n\nMath is simple. Setup takes a weekend. ROI is permanent.\n\nRunning STRs and still answering every message manually? Let's talk.\n\n#VacationRental #PropertyManagement #AI #Airbnb #ShortTermRental #AIThatScales"
       },
       {
         "id": 7,
         "category": "AI",
-        "topic": "AMD's senior director of AI thinks 'Claude has regressed' and that it 'cannot be trusted to perform complex engineering'",
-        "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
-        "source_url": "https://reddit.com/r/singularity/comments/1sinatl/amds_senior_director_of_ai_thinks_claude_has/",
-        "source_label": "r/singularity on Reddit",
-        "voice_score": 88,
-        "hashtags": "#AI #Claude #RealEstate #TechTruth #AIConsulting #BusinessReality #VacationRentals",
+        "topic": "2026 AI Adoption Report: SMBs Close the Gap on Enterprise",
+        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+        "source_url": "https://www.reddit.com/r/Economics",
+        "source_label": "r/Economics",
+        "voice_score": 85,
+        "hashtags": "#SMB #AIAdoption #Business2026",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk \u2014 when AMD's AI director says Claude's regressed and can't handle complex engineering, that's a red flag for anyone betting their business on these tools. We're not at the \"set it and forget it\" stage yet. Still need human eyes on the critical stuff.\n\n#AI #Claude #RealEstate #TechTruth #AIConsulting #BusinessReality #VacationRentals",
-        "published_at": "2026-04-11T16:15:21+00:00",
-        "age_hours": 12.2,
-        "scraped_from": "r/singularity",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://reddit.com/r/singularity/comments/1sinatl/amds_senior_director_of_ai_thinks_claude_has/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=AMD%27s%20senior%20director%20of%20AI&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://www.msn.com/en-us/news/other/amd-ai-chief-criticizes-claude-code-after-performance-drop/gm-GM70163F6A",
-            "label": "Official Announcement"
-          }
-        ]
+        "post_text": "2026 AI Adoption Report: the gap between enterprise and SMB AI usage closed by 40% last year.\n\nThe tools got cheaper. The interfaces got simpler. The use cases got clearer.\n\nBusinesses that adopted early are seeing it in their margins. The ones who waited are scrambling.\n\nWhere are you in this curve? Reply with where you are and where you want to be.\n\n#SMB #AIAdoption #Business2026 #Productivity #AIThatScales #Entrepreneur"
       },
       {
         "id": 8,
         "category": "WORLD",
-        "topic": "U.S.-Iran talks end with no agreement, Vance says",
+        "topic": "Fed Holds Rates — Here's What That Actually Means for Your Business",
         "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
-        "source_url": "https://reddit.com/r/worldnews/comments/1sj1bmw/usiran_talks_end_with_no_agreement_vance_says/",
-        "source_label": "r/worldnews on Reddit",
-        "voice_score": 89,
-        "hashtags": "#SmallBusiness #EconomicUncertainty #InternationalRelations #BusinessStrategy #RealEstateInvesting #CashFlowMatters #EntrepreneurLife",
+        "source_url": "https://www.reddit.com/r/worldnews",
+        "source_label": "r/worldnews",
+        "voice_score": 78,
+        "hashtags": "#Economy #FederalReserve #SmallBusiness",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk \u2014 when major negotiations end with nothing, it affects everything downstream. Oil prices shift, supply chains get nervous, and businesses start playing defense. Genuinely impacts how we price inventory and plan cash flow. What's your read on how this plays out for small ops?\n\n#SmallBusiness #EconomicUncertainty #InternationalRelations #BusinessStrategy #RealEstateInvesting #CashFlowMatters #EntrepreneurLife",
-        "published_at": "2026-04-12T01:48:58+00:00",
-        "age_hours": 2.6,
-        "scraped_from": "r/worldnews",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://reddit.com/r/worldnews/comments/1sj1bmw/usiran_talks_end_with_no_agreement_vance_says/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=U.S.-Iran%20talks%20end%20with%20no&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://duckduckgo.com/?q=U.S.-Iran%20talks%20end%20with%20no%20agreement%2C%20announcement",
-            "label": "Official Announcement"
-          }
-        ]
+        "post_text": "The Fed held rates again. Inflation still uncertain. Lending still tight.\n\nStraight talk: if you're waiting for rates to drop before making moves, you're tying your growth strategy to a variable you can't control.\n\nOperators winning right now are cutting costs through efficiency (automation), not waiting for cheap capital.\n\nFocus on what you can control: margins, team productivity, systems. The macro clears when it clears.\n\n#Economy #FederalReserve #SmallBusiness #Entrepreneur #BusinessStrategy #AIThatScales"
       },
       {
         "id": 9,
         "category": "WORLD",
-        "topic": "JD Vance says US delegation leaving Pakistan after failing to reach deal with Iran",
-        "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
-        "source_url": "https://reddit.com/r/worldnews/comments/1sj23d4/jd_vance_says_us_delegation_leaving_pakistan/",
-        "source_label": "r/worldnews on Reddit",
-        "voice_score": 90,
-        "hashtags": "#Geopolitics #BusinessImpact #InternationalRelations #RealEstate #EconomicNews #Diplomacy #GlobalMarkets",
+        "topic": "Daytona Beach Q1 2026: Occupancy Strong, ADR Up 8% YoY",
+        "image_url": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=600&q=80",
+        "source_url": "https://www.reddit.com/r/realestate",
+        "source_label": "r/realestate",
+        "voice_score": 92,
+        "hashtags": "#FloridaRealEstate #DaytonaBeach #ShortTermRental",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk \u2014 when diplomatic negotiations fall apart this fast, it reminds me of a failed business deal. Nobody wins. The ripple effects hit markets, travel, real estate valuations in affected regions. Genuinely impacts where capital flows next. Stability matters more than people think.\n\n#Geopolitics #BusinessImpact #InternationalRelations #RealEstate #EconomicNews #Diplomacy #GlobalMarkets",
-        "published_at": "2026-04-12T02:26:22+00:00",
-        "age_hours": 2.0,
-        "scraped_from": "r/worldnews",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://reddit.com/r/worldnews/comments/1sj23d4/jd_vance_says_us_delegation_leaving_pakistan/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=JD%20Vance%20says%20US%20delegation&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://duckduckgo.com/?q=JD%20Vance%20says%20US%20delegation%20leaving%20announcement",
-            "label": "Official Announcement"
-          }
-        ]
+        "post_text": "Daytona Beach Q1 data is in: occupancy holding strong, ADRs up 8% YoY, inventory tight on the quality end.\n\nFor property owners: if your property isn't performing at market, the issue isn't the market.\n\nFor investors watching: the STR opportunity here is real. \"Set it and forget it\" is dead, but returns for well-managed properties are there.\n\nWant to see actual comps or talk through an acquisition? DM me.\n\n#FloridaRealEstate #DaytonaBeach #ShortTermRental #VacationRental #RealEstateInvesting #StayCoastal"
       },
       {
         "id": 10,
         "category": "WORLD",
-        "topic": "Americans say their incomes can\u2019t keep up with rising prices\u2014they\u2019re cutting back on groceries, rideshares and alcohol",
-        "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
-        "source_url": "https://reddit.com/r/Economics/comments/1silu1z/americans_say_their_incomes_cant_keep_up_with/",
-        "source_label": "r/economics on Reddit",
-        "voice_score": 91,
-        "hashtags": "#SmallBusiness #EconomicTrends #RealEstateInvesting #ConsumerBehavior #BusinessStrategy #Daytona #FloridaBusiness",
+        "topic": "35% of US Workforce Permanently Remote — What That Means for STR Operators",
+        "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
+        "source_url": "https://www.reddit.com/r/Economics",
+        "source_label": "r/Economics",
+        "voice_score": 83,
+        "hashtags": "#RemoteWork #VacationRental #WorkFromAnywhere",
         "platforms": "Facebook + Instagram",
-        "post_text": "Real talk\u2014when consumers start cutting groceries and rideshares, that's the canary in the coal mine for small business. People aren't choosing to spend less, they're being forced to. That changes everything about pricing strategy and customer loyalty. What's your business seeing right now?\n\n#SmallBusiness #EconomicTrends #RealEstateInvesting #ConsumerBehavior #BusinessStrategy #Daytona #FloridaBusiness",
-        "published_at": "2026-04-11T15:19:10+00:00",
-        "age_hours": 13.1,
-        "scraped_from": "r/economics",
-        "batch": "morning",
-        "is_feature_release": false,
-        "sources_array": [
-          {
-            "source_type": "reddit",
-            "url": "https://reddit.com/r/Economics/comments/1silu1z/americans_say_their_incomes_cant_keep_up_with/",
-            "label": "Reddit"
-          },
-          {
-            "source_type": "twitter",
-            "url": "https://twitter.com/search?q=Americans%20say%20their%20incomes%20can%E2%80%99t&src=typed_query&f=live",
-            "label": "Twitter/X"
-          },
-          {
-            "source_type": "press_release",
-            "url": "https://duckduckgo.com/?q=Americans%20say%20their%20incomes%20can%E2%80%99t%20keep%20announcement",
-            "label": "Official Announcement"
-          }
-        ]
+        "post_text": "New Gallup data: 35% of the US workforce is now permanently remote. That's not going back.\n\nFor vacation rental operators, this drives mid-week and extended-stay demand. Guests aren't just coming for the weekend — they're coming for 2-4 weeks.\n\nSeen it in our own portfolio. Longer stays, better reviews, less turnover.\n\nSTR not set up for extended stays? (workspace, faster WiFi, monthly discounts) You're leaving money on the table.\n\n#RemoteWork #VacationRental #WorkFromAnywhere #ShortTermRental #StayCoastal #AIThatScales"
       }
-    ],
-    "morning": {
-      "posts": [
-        {
-          "id": 1,
-          "category": "AI",
-          "topic": "Sam Altman responds to \u2018incendiary\u2019 New Yorker article after attack on his home",
-          "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
-          "source_url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
-          "source_label": "TechCrunch AI",
-          "voice_score": 89,
-          "hashtags": "#OpenAI #SamAltman #AILeadership #TechNews #BusinessReputation #Leadership #RealTalk",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk \u2014 when the CEO of the biggest AI company has to respond to both a home attack AND trustworthiness questions in the same week, that's genuinely messy. Funny how the tech world moves fast until accountability shows up. Small business owners deal with this constantly \u2014 one bad review tanks credibility. What's Sam's recovery plan actually look like?\n\n#OpenAI #SamAltman #AILeadership #TechNews #BusinessReputation #Leadership #RealTalk",
-          "published_at": "2026-04-11T17:18:22+00:00",
-          "age_hours": 11.2,
-          "scraped_from": "TechCrunch AI",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://www.reddit.com/r/DailyTechNewsShow/comments/1sir2bl/sam_altman_responds_to_incendiary_new_yorker/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=Sam%20Altman%20responds%20to%20%E2%80%98incendiary%E2%80%99&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://www.thewrap.com/industry-news/tech/sam-altman-responds-to-new-yorker-article-molotov-cocktail-attack/",
-              "label": "Official Source"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "category": "AI",
-          "topic": "Your article about AI doesn\u2019t need AI art",
-          "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
-          "source_label": "The Verge AI",
-          "voice_score": 90,
-          "hashtags": "#AIConsulting #SmallBusiness #RealTalk #Design #Technology #ArtistsDeserveWork #DAYTONAbusiness",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk: The New Yorker used AI art for their Sam Altman profile and it's genuinely creepy\u2014disembodied faces hovering around his head. Funny how we rush to use AI for everything without asking if we should. Not every article needs algorithmic shortcuts. Sometimes hiring a real illustrator just hits different.\n\n#AIConsulting #SmallBusiness #RealTalk #Design #Technology #ArtistsDeserveWork #DAYTONAbusiness",
-          "published_at": "2026-04-11T11:00:00-04:00",
-          "age_hours": 13.5,
-          "scraped_from": "The Verge AI",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://www.reddit.com/r/jobsearchhacks/comments/1sexhgc/i_was_a_recuiter_and_posted_jobs_we_were_never/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=Your%20article%20about%20AI%20doesn%E2%80%99t&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://www.24-7pressrelease.com/article/126/press-releases-vs-blogs-when-to-announce-when-to-explain",
-              "label": "Press Release"
-            }
-          ]
-        },
-        {
-          "id": 3,
-          "category": "AI",
-          "topic": "GPT Image 2 preview",
-          "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
-          "source_url": "https://reddit.com/r/OpenAI/comments/1simerz/gpt_image_2_preview/",
-          "source_label": "r/OpenAI on Reddit",
-          "voice_score": 91,
-          "hashtags": "#AITools #OpenAI #RealEstateMarketing #AIConsulting #SmallBusiness #TechNews #VacationRental",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk: OpenAI's silently testing GPT Image 2 and it's noticeably better \u2014 sharper, more realistic, way less \"styled.\" Then they switched it back. Funny how that works. For anyone building with AI (vacation rental listings, marketing content), this matters. The gap between good and great just shifted.\n\n#AITools #OpenAI #RealEstateMarketing #AIConsulting #SmallBusiness #TechNews #VacationRental",
-          "published_at": "2026-04-11T15:41:36+00:00",
-          "age_hours": 12.8,
-          "scraped_from": "r/OpenAI",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/OpenAI/comments/1simerz/gpt_image_2_preview/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=GPT%20Image%202%20preview&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-mai-transcribe-1-mai-voice-1-and-mai-image-2-in-microsoft-foundry/4507787",
-              "label": "Official Source"
-            }
-          ]
-        },
-        {
-          "id": 4,
-          "category": "AI",
-          "topic": "Small models also found the vulnerabilities that Mythos found",
-          "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
-          "source_url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-          "source_label": "Hacker News",
-          "voice_score": 92,
-          "hashtags": "#AI #Cybersecurity #SmallBusiness #Tech #AIConsulting #RealEstate #Innovation",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk \u2014 bigger isn't always better with AI. Small models finding the same vulnerabilities as Mythos? That's genuinely important for anyone running a business. Means you don't need expensive enterprise solutions to stay secure. The scrappy approach works here too.\n\n#AI #Cybersecurity #SmallBusiness #Tech #AIConsulting #RealEstate #Innovation",
-          "published_at": "2026-04-11T16:47:28+00:00",
-          "age_hours": 11.7,
-          "scraped_from": "Hacker News",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1sfekku/anthropics_restraint_is_a_terrifying_warning_sign/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=Small%20models%20also%20found%20the&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-              "label": "Official Source"
-            }
-          ]
-        },
-        {
-          "id": 5,
-          "category": "AI",
-          "topic": "Unitree makes a humanoid that runs at 10m/s (Bolt runs at 12.42 m/s)",
-          "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
-          "source_url": "https://reddit.com/r/singularity/comments/1siiarz/unitree_makes_a_humanoid_that_runs_at_10ms_bolt/",
-          "source_label": "r/singularity on Reddit",
-          "voice_score": 93,
-          "hashtags": "#AI #Robotics #RealEstate #Automation #Hospitality #FutureOfWork #Tech",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Unitree just dropped a humanoid running 10 m/s and everyone's focused on the speed numbers. Real talk though\u2014what genuinely matters is when these things become reliable enough to handle actual work. That's when hospitality ops and property management get flipped upside down. We're not there yet, but funny how fast we're moving toward it.\n\n#AI #Robotics #RealEstate #Automation #Hospitality #FutureOfWork #Tech",
-          "published_at": "2026-04-11T12:53:08+00:00",
-          "age_hours": 15.6,
-          "scraped_from": "r/singularity",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/singularity/comments/1siiarz/unitree_makes_a_humanoid_that_runs_at_10ms_bolt/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=Unitree%20makes%20a%20humanoid%20that&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://shop-unitree.us/blog/",
-              "label": "Official Source"
-            }
-          ]
-        },
-        {
-          "id": 6,
-          "category": "AI",
-          "topic": "OpenAI Says Not to Worry About UBI, Because It Has Another Idea",
-          "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
-          "source_url": "https://reddit.com/r/singularity/comments/1simfsz/openai_says_not_to_worry_about_ubi_because_it_has/",
-          "source_label": "r/singularity on Reddit",
-          "voice_score": 94,
-          "hashtags": "#AI #SmallBusiness #FutureOfWork #RealEstate #AIConsulting #DaytonaBeach #TechTrends",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk\u2014OpenAI basically saying \"don't worry about UBI, we got something better\" is funny how it skips the actual problem. Small business owners already know: AI changes job markets fast. The real question isn't what OpenAI proposes next. It's how you adapt your business today.\n\n#AI #SmallBusiness #FutureOfWork #RealEstate #AIConsulting #DaytonaBeach #TechTrends",
-          "published_at": "2026-04-11T15:42:39+00:00",
-          "age_hours": 12.8,
-          "scraped_from": "r/singularity",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/singularity/comments/1simfsz/openai_says_not_to_worry_about_ubi_because_it_has/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=OpenAI%20Says%20Not%20to%20Worry&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://help.openai.com/en/articles/10562178-why-did-i-receive-a-warning-about-my-account",
-              "label": "Official Source"
-            }
-          ]
-        },
-        {
-          "id": 7,
-          "category": "AI",
-          "topic": "AMD's senior director of AI thinks 'Claude has regressed' and that it 'cannot be trusted to perform complex engineering'",
-          "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
-          "source_url": "https://reddit.com/r/singularity/comments/1sinatl/amds_senior_director_of_ai_thinks_claude_has/",
-          "source_label": "r/singularity on Reddit",
-          "voice_score": 88,
-          "hashtags": "#AI #Claude #RealEstate #TechTruth #AIConsulting #BusinessReality #VacationRentals",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk \u2014 when AMD's AI director says Claude's regressed and can't handle complex engineering, that's a red flag for anyone betting their business on these tools. We're not at the \"set it and forget it\" stage yet. Still need human eyes on the critical stuff.\n\n#AI #Claude #RealEstate #TechTruth #AIConsulting #BusinessReality #VacationRentals",
-          "published_at": "2026-04-11T16:15:21+00:00",
-          "age_hours": 12.2,
-          "scraped_from": "r/singularity",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/singularity/comments/1sinatl/amds_senior_director_of_ai_thinks_claude_has/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=AMD%27s%20senior%20director%20of%20AI&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://www.msn.com/en-us/news/other/amd-ai-chief-criticizes-claude-code-after-performance-drop/gm-GM70163F6A",
-              "label": "Official Announcement"
-            }
-          ]
-        },
-        {
-          "id": 8,
-          "category": "WORLD",
-          "topic": "U.S.-Iran talks end with no agreement, Vance says",
-          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
-          "source_url": "https://reddit.com/r/worldnews/comments/1sj1bmw/usiran_talks_end_with_no_agreement_vance_says/",
-          "source_label": "r/worldnews on Reddit",
-          "voice_score": 89,
-          "hashtags": "#SmallBusiness #EconomicUncertainty #InternationalRelations #BusinessStrategy #RealEstateInvesting #CashFlowMatters #EntrepreneurLife",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk \u2014 when major negotiations end with nothing, it affects everything downstream. Oil prices shift, supply chains get nervous, and businesses start playing defense. Genuinely impacts how we price inventory and plan cash flow. What's your read on how this plays out for small ops?\n\n#SmallBusiness #EconomicUncertainty #InternationalRelations #BusinessStrategy #RealEstateInvesting #CashFlowMatters #EntrepreneurLife",
-          "published_at": "2026-04-12T01:48:58+00:00",
-          "age_hours": 2.6,
-          "scraped_from": "r/worldnews",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/worldnews/comments/1sj1bmw/usiran_talks_end_with_no_agreement_vance_says/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=U.S.-Iran%20talks%20end%20with%20no&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=U.S.-Iran%20talks%20end%20with%20no%20agreement%2C%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        },
-        {
-          "id": 9,
-          "category": "WORLD",
-          "topic": "JD Vance says US delegation leaving Pakistan after failing to reach deal with Iran",
-          "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
-          "source_url": "https://reddit.com/r/worldnews/comments/1sj23d4/jd_vance_says_us_delegation_leaving_pakistan/",
-          "source_label": "r/worldnews on Reddit",
-          "voice_score": 90,
-          "hashtags": "#Geopolitics #BusinessImpact #InternationalRelations #RealEstate #EconomicNews #Diplomacy #GlobalMarkets",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk \u2014 when diplomatic negotiations fall apart this fast, it reminds me of a failed business deal. Nobody wins. The ripple effects hit markets, travel, real estate valuations in affected regions. Genuinely impacts where capital flows next. Stability matters more than people think.\n\n#Geopolitics #BusinessImpact #InternationalRelations #RealEstate #EconomicNews #Diplomacy #GlobalMarkets",
-          "published_at": "2026-04-12T02:26:22+00:00",
-          "age_hours": 2.0,
-          "scraped_from": "r/worldnews",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/worldnews/comments/1sj23d4/jd_vance_says_us_delegation_leaving_pakistan/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=JD%20Vance%20says%20US%20delegation&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=JD%20Vance%20says%20US%20delegation%20leaving%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        },
-        {
-          "id": 10,
-          "category": "WORLD",
-          "topic": "Americans say their incomes can\u2019t keep up with rising prices\u2014they\u2019re cutting back on groceries, rideshares and alcohol",
-          "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
-          "source_url": "https://reddit.com/r/Economics/comments/1silu1z/americans_say_their_incomes_cant_keep_up_with/",
-          "source_label": "r/economics on Reddit",
-          "voice_score": 91,
-          "hashtags": "#SmallBusiness #EconomicTrends #RealEstateInvesting #ConsumerBehavior #BusinessStrategy #Daytona #FloridaBusiness",
-          "platforms": "Facebook + Instagram",
-          "post_text": "Real talk\u2014when consumers start cutting groceries and rideshares, that's the canary in the coal mine for small business. People aren't choosing to spend less, they're being forced to. That changes everything about pricing strategy and customer loyalty. What's your business seeing right now?\n\n#SmallBusiness #EconomicTrends #RealEstateInvesting #ConsumerBehavior #BusinessStrategy #Daytona #FloridaBusiness",
-          "published_at": "2026-04-11T15:19:10+00:00",
-          "age_hours": 13.1,
-          "scraped_from": "r/economics",
-          "batch": "morning",
-          "is_feature_release": false,
-          "sources_array": [
-            {
-              "source_type": "reddit",
-              "url": "https://reddit.com/r/Economics/comments/1silu1z/americans_say_their_incomes_cant_keep_up_with/",
-              "label": "Reddit"
-            },
-            {
-              "source_type": "twitter",
-              "url": "https://twitter.com/search?q=Americans%20say%20their%20incomes%20can%E2%80%99t&src=typed_query&f=live",
-              "label": "Twitter/X"
-            },
-            {
-              "source_type": "press_release",
-              "url": "https://duckduckgo.com/?q=Americans%20say%20their%20incomes%20can%E2%80%99t%20keep%20announcement",
-              "label": "Official Announcement"
-            }
-          ]
-        }
-      ],
-      "generated_at": "2026-04-12T04:27:47.142533+00:00",
-      "label": "Morning Brief (6:30 AM)",
-      "count": 10
-    },
-    "afternoon": {
-      "posts": [],
-      "generated_at": "",
-      "label": "Afternoon Update (1 PM)",
-      "count": 0
-    },
-    "scripts_thumbnails": []
+    ]
   },
   "payroll": {
-    "period": "Mar 10 \u2013 Mar 24, 2026",
+    "period": "Mar 10 – Mar 24, 2026",
     "period_type": "B",
     "pay_date": "Mar 27, 2026",
     "total_payout": 5150.0,
@@ -782,7 +208,7 @@
       {
         "level": "red",
         "property": "10 S Halifax Ave",
-        "issue": "AC unit reported not cooling \u2014 HVAC scheduled"
+        "issue": "AC unit reported not cooling — HVAC scheduled"
       },
       {
         "level": "yellow",
@@ -792,7 +218,7 @@
       {
         "level": "green",
         "property": "117 N Hollywood Ave",
-        "issue": "WiFi complaint resolved \u2014 confirmed by guest"
+        "issue": "WiFi complaint resolved — confirmed by guest"
       }
     ],
     "top_performers": [
@@ -812,21 +238,5 @@
         "rating": 4.8
       }
     ]
-  },
-  "scraper_meta": {
-    "scraped_at": "2026-04-12T04:27:47.142533+00:00",
-    "sources_used": [
-      "TechCrunch AI",
-      "r/singularity",
-      "r/economics",
-      "r/worldnews",
-      "Hacker News",
-      "r/OpenAI",
-      "The Verge AI"
-    ],
-    "all_from_last_24h": true,
-    "post_count": 10,
-    "morning_count": 10,
-    "afternoon_count": 0
   }
 }
