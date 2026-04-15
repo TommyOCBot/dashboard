@@ -1,132 +1,706 @@
 {
-  "generated_at": "2026-03-11T08:46:09.549424-04:00",
-  "date": "2026-03-11",
+  "generated_at": "2026-04-15T06:34:24.515429-04:00",
+  "date": "2026-04-15",
   "content": {
     "posts": [
       {
         "id": 1,
         "category": "AI",
-        "topic": "OpenAI Drops GPT-5 — Real-Time Reasoning Benchmark Shattered",
+        "topic": "Anthropic\u2019s rise is giving some OpenAI investors second thoughts",
         "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
-        "source_url": "https://openai.com/blog",
-        "source_label": "OpenAI Blog",
-        "voice_score": 94,
-        "hashtags": "#AI #GPT5 #Automation #AIThatScales",
+        "source_url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+        "source_label": "TechCrunch AI",
+        "voice_score": 89,
+        "hashtags": "#AI #StartupLife #BusinessStrategy #RealEstate #TechInvesting #Entrepreneurship #AIConsulting",
         "platforms": "Facebook + Instagram",
-        "post_text": "The game just changed — again.\n\nOpenAI dropped GPT-5 this morning and the reasoning capability leap is real. I've been testing it since 6 AM and the difference isn't subtle.\n\nFor business owners: this isn't theoretical anymore. The automation workflows that felt \"almost there\" last year? They're \"fully there\" now.\n\nWe're already updating 3 client systems this week. If you haven't started automating your operations, you're now 2 generations behind.\n\nDM me if you want to talk about what this means for your business.\n\n#AI #GPT5 #Automation #AIThatScales #BusinessAutomation #FutureOfWork"
+        "post_text": "Real talk: when investors are questioning a $1.2T valuation while Anthropic looks like a bargain at $380B, something's off. Funny how the AI hype cycle works. For those of us actually building businesses, this means one thing \u2014 pick your tools based on what works, not who's winning the valuation game.\n\n#AI #StartupLife #BusinessStrategy #RealEstate #TechInvesting #Entrepreneurship #AIConsulting",
+        "published_at": "2026-04-15T02:31:04+00:00",
+        "age_hours": 8.0,
+        "scraped_from": "TechCrunch AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/search/?q=Anthropic%E2%80%99s%20rise%20is%20giving%20some&sort=relevance&t=week",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Anthropic%E2%80%99s%20rise%20is%20giving%20some&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+            "label": "News Article"
+          }
+        ]
       },
       {
         "id": 2,
         "category": "AI",
-        "topic": "AI Agents Now Handle 40% of Fortune 500 Customer Service",
-        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/artificial",
-        "source_label": "r/artificial",
-        "voice_score": 87,
-        "hashtags": "#CustomerService #AIAgents #Automation",
+        "topic": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
+        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+        "source_url": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
+        "source_label": "TechCrunch AI",
+        "voice_score": 90,
+        "hashtags": "#AI #TechPolicy #GovernmentRelations #SmallBusiness #Anthropic #AIStrategy #RealEstateTech",
         "platforms": "Facebook + Instagram",
-        "post_text": "New data out: AI agents handle 40% of customer service interactions at Fortune 500 companies.\n\nThat's not a pilot program. That's operational reality.\n\nThe companies winning aren't waiting for \"perfect\" AI — they're deploying 80% solutions and improving in real-time.\n\nYour competitors are already doing this. The question is whether you're building the system or getting left behind.\n\nWhat's your biggest customer service bottleneck right now?\n\n#CustomerService #AIAgents #Automation #SmallBusiness #AIThatScales"
+        "post_text": "Real talk \u2014 Anthropic suing the government while briefing them on AI safety? That's genuinely smart positioning. They're playing both sides legitimately. Small business lesson: sometimes you gotta challenge the rules while staying at the table. Government moves slow, but they're listening now.\n\n#AI #TechPolicy #GovernmentRelations #SmallBusiness #Anthropic #AIStrategy #RealEstateTech",
+        "published_at": "2026-04-14T18:09:12+00:00",
+        "age_hours": 16.4,
+        "scraped_from": "TechCrunch AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/accelerate/comments/1sll1jt/anthropic_cofounder_confirms_the_company_briefed/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Anthropic%20co-founder%20confirms%20the%20company&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
+            "label": "News Article"
+          }
+        ]
       },
       {
         "id": 3,
         "category": "AI",
-        "topic": "Claude 4 Sonnet Tops Every Major Coding Benchmark",
-        "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
-        "source_url": "https://www.anthropic.com",
-        "source_label": "Anthropic",
+        "topic": "Google adds AI Skills to Chrome to help you save favorite workflows",
+        "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+        "source_url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+        "source_label": "TechCrunch AI",
         "voice_score": 91,
-        "hashtags": "#Claude #Anthropic #AITools",
+        "hashtags": "#AITools #Chrome #SmallBusiness #Productivity #RealEstate #AIConsulting #Automation",
         "platforms": "Facebook + Instagram",
-        "post_text": "Anthropic published Claude 4 Sonnet benchmark results and the coding performance is legitimately impressive.\n\nWe use Claude for 80% of our automation builds at AI That Scales. The jump from 3.5 → 4 is the biggest single-version improvement I've seen.\n\nA workflow that used to take 3 iterations now lands first pass 70% of the time. That's not small.\n\nIf you're building automations and not using Claude, you're working harder than you need to.\n\n#Claude #Anthropic #AITools #Automation #AIThatScales #BuildSmarter"
+        "post_text": "Google's new Chrome Skills feature is genuinely useful for anyone running multiple businesses. Save your AI prompts once, reuse them across sites. Real talk \u2014 this cuts down the repetitive stuff we all waste time on. Legitimately saves hours weekly if you're managing properties or client workflows.\n\n#AITools #Chrome #SmallBusiness #Productivity #RealEstate #AIConsulting #Automation",
+        "published_at": "2026-04-14T17:00:00+00:00",
+        "age_hours": 17.5,
+        "scraped_from": "TechCrunch AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/search/?q=Google%20adds%20AI%20Skills%20to&sort=relevance&t=week",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Google%20adds%20AI%20Skills%20to&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+            "label": "News Article"
+          }
+        ]
       },
       {
         "id": 4,
         "category": "AI",
-        "topic": "Gemini 2.0 Just Shipped Inside Every Google Workspace App",
+        "topic": "Google brings its Gemini Personal Intelligence feature to India",
         "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
-        "source_url": "https://workspace.google.com",
-        "source_label": "Google Workspace",
-        "voice_score": 82,
-        "hashtags": "#Google #Gemini #Productivity",
+        "source_url": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
+        "source_label": "TechCrunch AI",
+        "voice_score": 92,
+        "hashtags": "#AIConsulting #SmallBusiness #RealEstate #Google #Gemini #PersonalIntelligence #HospitalityTech",
         "platforms": "Facebook + Instagram",
-        "post_text": "Google pushed Gemini 2.0 into Workspace — Docs, Sheets, Gmail, Meet.\n\nThe practical impact for small business teams: your VA now has a co-pilot baked into every tool they already use.\n\nBeen playing with the Sheets integration this week. The ability to describe what you want and have it build formulas + summarize data is genuinely useful — not demo-ware.\n\nIf your team runs on Google, this upgrade happened automatically. Make sure you're actually using it.\n\n#Google #Gemini #Productivity #SmallBusiness #WorkSmarter #AIThatScales"
+        "post_text": "Google's Gemini just hit India with personal intelligence features that connect your Gmail, Photos, and more. Real talk: this is legitimately how AI becomes useful for small businesses. Imagine pulling guest data for your rental properties in seconds. Not subtle competitive advantage.\n\n#AIConsulting #SmallBusiness #RealEstate #Google #Gemini #PersonalIntelligence #HospitalityTech",
+        "published_at": "2026-04-14T14:48:34+00:00",
+        "age_hours": 19.7,
+        "scraped_from": "TechCrunch AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/u_TheConstellationGuy/comments/1sgvevn/csi_and_the_ai_mirage_repost/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Google%20brings%20its%20Gemini%20Personal&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
+            "label": "News Article"
+          }
+        ]
       },
       {
         "id": 5,
         "category": "AI",
-        "topic": "Make.com, Zapier, n8n — No-Code Platforms Hit 300% Growth",
+        "topic": "The attacks on Sam Altman are a warning for the AI world",
         "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/ChatGPT",
-        "source_label": "r/ChatGPT",
-        "voice_score": 89,
-        "hashtags": "#NoCode #Workflow #Automation",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home",
+        "source_label": "The Verge AI",
+        "voice_score": 93,
+        "hashtags": "#AI #AIConsulting #TechSafety #SmallBusiness #OpenAI #RealTalk #DaytonaBeach",
         "platforms": "Facebook + Instagram",
-        "post_text": "No-code automation platforms hit 300% user growth last quarter.\n\nTranslation: the barrier to automation is officially gone. You don't need a developer. You need someone who understands your process and 2-4 hours.\n\nI've been building no-code automations for clients for 18 months. The tools keep getting better. The window to get ahead of competitors is still open — but it's closing.\n\nStill doing manually what a bot could do? That's a choice. Make sure it's intentional.\n\n#NoCode #Workflow #Automation #Productivity #AIThatScales #BusinessGrowth"
+        "post_text": "Real talk: when AI anxiety turns into real-world violence, that's genuinely a wake-up call for everyone building in this space. The attacks on Sam Altman aren't just about one person\u2014they're a sign that fear + misinformation = dangerous. Small businesses need to think hard about how they're positioning AI before the narrative gets uglier.\n\n#AI #AIConsulting #TechSafety #SmallBusiness #OpenAI #RealTalk #DaytonaBeach",
+        "published_at": "2026-04-14T14:04:42-04:00",
+        "age_hours": 16.5,
+        "scraped_from": "The Verge AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/search/?q=The%20attacks%20on%20Sam%20Altman&sort=relevance&t=week",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=The%20attacks%20on%20Sam%20Altman&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home",
+            "label": "News Article"
+          }
+        ]
       },
       {
         "id": 6,
         "category": "AI",
-        "topic": "AI Guest Comms Cut STR Response Time from 4 Hours to 8 Minutes",
-        "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/airbnb",
-        "source_label": "r/airbnb",
-        "voice_score": 96,
-        "hashtags": "#VacationRental #PropertyManagement #AI",
+        "topic": "Chrome now lets you turn AI prompts into repeatable &#8216;Skills&#8217;",
+        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+        "source_url": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch",
+        "source_label": "The Verge AI",
+        "voice_score": 94,
+        "hashtags": "#AITools #ChromeUpdate #SmallBusiness #RealEstate #ProductivityHack #GoogleGemini #TechNews",
         "platforms": "Facebook + Instagram",
-        "post_text": "Case study: AI-powered guest comms cut response time from 4 hours to 8 minutes across a 40-property portfolio.\n\nNot theoretical — I've seen it firsthand with Stay Coastal's 30+ properties.\n\nGuests don't care if a bot answered. They care that someone answered. Fast responses = better reviews = more bookings.\n\nMath is simple. Setup takes a weekend. ROI is permanent.\n\nRunning STRs and still answering every message manually? Let's talk.\n\n#VacationRental #PropertyManagement #AI #Airbnb #ShortTermRental #AIThatScales"
+        "post_text": "Real talk \u2014 Google just made AI workflows actually useful for small business. Chrome's new \"Skills\" feature lets you save your favorite AI prompts and run them across multiple tabs instantly. For real estate teams managing listings? Legitimately cuts repetitive work in half. Not subtle efficiency gain.\n\n#AITools #ChromeUpdate #SmallBusiness #RealEstate #ProductivityHack #GoogleGemini #TechNews",
+        "published_at": "2026-04-14T13:00:00-04:00",
+        "age_hours": 17.5,
+        "scraped_from": "The Verge AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/Battlefield/comments/1shp0vg/battlefield_6_game_update_1230/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Chrome%20now%20lets%20you%20turn&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch",
+            "label": "News Article"
+          }
+        ]
       },
       {
         "id": 7,
         "category": "AI",
-        "topic": "2026 AI Adoption Report: SMBs Close the Gap on Enterprise",
-        "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 85,
-        "hashtags": "#SMB #AIAdoption #Business2026",
+        "topic": "Has Google\u2019s AI watermarking system been reverse-engineered?",
+        "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
+        "source_label": "The Verge AI",
+        "voice_score": 88,
+        "hashtags": "#AI #ArtificialIntelligence #TechSecurity #SmallBusiness #Google #AINews #CyberSecurity",
         "platforms": "Facebook + Instagram",
-        "post_text": "2026 AI Adoption Report: the gap between enterprise and SMB AI usage closed by 40% last year.\n\nThe tools got cheaper. The interfaces got simpler. The use cases got clearer.\n\nBusinesses that adopted early are seeing it in their margins. The ones who waited are scrambling.\n\nWhere are you in this curve? Reply with where you are and where you want to be.\n\n#SMB #AIAdoption #Business2026 #Productivity #AIThatScales #Entrepreneur"
+        "post_text": "Real talk: Google's AI watermarking system getting reverse-engineered is exactly why security theater doesn't work. If you're betting your business on \"protected\" AI images, you're playing a risky game. The tech moves faster than the safeguards. What's your actual backup plan?\n\n#AI #ArtificialIntelligence #TechSecurity #SmallBusiness #Google #AINews #CyberSecurity",
+        "published_at": "2026-04-14T09:53:53-04:00",
+        "age_hours": 20.6,
+        "scraped_from": "The Verge AI",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/antiai/comments/1sfub7y/im_exhausted_by_the_ai_hype_before_ive_even/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Has%20Google%E2%80%99s%20AI%20watermarking%20system&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
+            "label": "News Article"
+          }
+        ]
       },
       {
         "id": 8,
         "category": "WORLD",
-        "topic": "Fed Holds Rates — Here's What That Actually Means for Your Business",
+        "topic": "Trump\u2019s economy officially passes Biden\u2019s for worst consumer sentiment in recorded history",
         "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/worldnews",
-        "source_label": "r/worldnews",
-        "voice_score": 78,
-        "hashtags": "#Economy #FederalReserve #SmallBusiness",
+        "source_url": "https://reddit.com/r/Economics/comments/1slt3ju/trumps_economy_officially_passes_bidens_for_worst/",
+        "source_label": "r/economics on Reddit",
+        "voice_score": 89,
+        "hashtags": "#SmallBusiness #RealEstate #EconomyMatters #HospitalityIndustry #BusinessInsights #DaytonaBeach #RealTalk",
         "platforms": "Facebook + Instagram",
-        "post_text": "The Fed held rates again. Inflation still uncertain. Lending still tight.\n\nStraight talk: if you're waiting for rates to drop before making moves, you're tying your growth strategy to a variable you can't control.\n\nOperators winning right now are cutting costs through efficiency (automation), not waiting for cheap capital.\n\nFocus on what you can control: margins, team productivity, systems. The macro clears when it clears.\n\n#Economy #FederalReserve #SmallBusiness #Entrepreneur #BusinessStrategy #AIThatScales"
+        "post_text": "Real talk \u2014 when consumer sentiment hits historic lows, hospitality and real estate feel it first. People stop vacationing, rental demand softens, businesses pause expansion plans. Funny how the economy's \"strength\" doesn't match what small business owners are actually experiencing. What are you seeing in your market?\n\n#SmallBusiness #RealEstate #EconomyMatters #HospitalityIndustry #BusinessInsights #DaytonaBeach #RealTalk",
+        "published_at": "2026-04-15T02:21:53+00:00",
+        "age_hours": 8.2,
+        "scraped_from": "r/economics",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/Economics/comments/1slt3ju/trumps_economy_officially_passes_bidens_for_worst/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Trump%E2%80%99s%20economy%20officially%20passes%20Biden%E2%80%99s&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=Trump%E2%80%99s%20economy%20officially%20passes%20Biden%E2%80%99s%20for%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 9,
         "category": "WORLD",
-        "topic": "Daytona Beach Q1 2026: Occupancy Strong, ADR Up 8% YoY",
-        "image_url": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/realestate",
-        "source_label": "r/realestate",
-        "voice_score": 92,
-        "hashtags": "#FloridaRealEstate #DaytonaBeach #ShortTermRental",
+        "topic": "Australia's richest person must share part of her mining fortunes, court rules",
+        "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
+        "source_url": "https://reddit.com/r/worldnews/comments/1slyo9i/australias_richest_person_must_share_part_of_her/",
+        "source_label": "r/worldnews on Reddit",
+        "voice_score": 90,
+        "hashtags": "#BusinessLaw #WealthRedistribution #RealEstate #Economics #Entrepreneurship #Mining #CourtRulings",
         "platforms": "Facebook + Instagram",
-        "post_text": "Daytona Beach Q1 data is in: occupancy holding strong, ADRs up 8% YoY, inventory tight on the quality end.\n\nFor property owners: if your property isn't performing at market, the issue isn't the market.\n\nFor investors watching: the STR opportunity here is real. \"Set it and forget it\" is dead, but returns for well-managed properties are there.\n\nWant to see actual comps or talk through an acquisition? DM me.\n\n#FloridaRealEstate #DaytonaBeach #ShortTermRental #VacationRental #RealEstateInvesting #StayCoastal"
+        "post_text": "Real talk: when courts start redistributing massive wealth from mining operations, it changes the entire risk-reward calculation for business owners. Genuinely curious how this affects foreign investment in resource-heavy markets. Not subtle economic pressure.\n\n#BusinessLaw #WealthRedistribution #RealEstate #Economics #Entrepreneurship #Mining #CourtRulings",
+        "published_at": "2026-04-15T07:06:57+00:00",
+        "age_hours": 3.4,
+        "scraped_from": "r/worldnews",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://reddit.com/r/worldnews/comments/1slyo9i/australias_richest_person_must_share_part_of_her/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Australia%27s%20richest%20person%20must%20share&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://duckduckgo.com/?q=Australia%27s%20richest%20person%20must%20share%20part%20announcement",
+            "label": "Official Announcement"
+          }
+        ]
       },
       {
         "id": 10,
         "category": "WORLD",
-        "topic": "35% of US Workforce Permanently Remote — What That Means for STR Operators",
-        "image_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
-        "source_url": "https://www.reddit.com/r/Economics",
-        "source_label": "r/Economics",
-        "voice_score": 83,
-        "hashtags": "#RemoteWork #VacationRental #WorkFromAnywhere",
+        "topic": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+        "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+        "source_url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+        "source_label": "Hacker News",
+        "voice_score": 91,
+        "hashtags": "#WordPress #CyberSecurity #SmallBusiness #RealEstateTech #DataProtection #WebsiteSecurity #EntrepreneurLife",
         "platforms": "Facebook + Instagram",
-        "post_text": "New Gallup data: 35% of the US workforce is now permanently remote. That's not going back.\n\nFor vacation rental operators, this drives mid-week and extended-stay demand. Guests aren't just coming for the weekend — they're coming for 2-4 weeks.\n\nSeen it in our own portfolio. Longer stays, better reviews, less turnover.\n\nSTR not set up for extended stays? (workspace, faster WiFi, monthly discounts) You're leaving money on the table.\n\n#RemoteWork #VacationRental #WorkFromAnywhere #ShortTermRental #StayCoastal #AIThatScales"
+        "post_text": "Real talk \u2014 someone just bought 30 WordPress plugins and backdoored all of them. Funny how people managing vacation rentals or small business websites think they're safe because they're \"too small to target.\" You're not. Security isn't optional, it's overhead that saves your business.\n\n#WordPress #CyberSecurity #SmallBusiness #RealEstateTech #DataProtection #WebsiteSecurity #EntrepreneurLife",
+        "published_at": "2026-04-13T17:54:39+00:00",
+        "age_hours": 40.6,
+        "scraped_from": "Hacker News",
+        "batch": "morning",
+        "is_feature_release": false,
+        "sources_array": [
+          {
+            "source_type": "reddit",
+            "url": "https://www.reddit.com/r/Wordpress/comments/1sk6ls6/someone_bought_30_wordpress_plugins_and_planted_a/",
+            "label": "Reddit"
+          },
+          {
+            "source_type": "twitter",
+            "url": "https://twitter.com/search?q=Someone%20bought%2030%20WordPress%20plugins&src=typed_query&f=live",
+            "label": "Twitter/X"
+          },
+          {
+            "source_type": "press_release",
+            "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+            "label": "Press Release"
+          }
+        ]
       }
-    ]
+    ],
+    "morning": {
+      "posts": [
+        {
+          "id": 1,
+          "category": "AI",
+          "topic": "Anthropic\u2019s rise is giving some OpenAI investors second thoughts",
+          "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
+          "source_url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+          "source_label": "TechCrunch AI",
+          "voice_score": 89,
+          "hashtags": "#AI #StartupLife #BusinessStrategy #RealEstate #TechInvesting #Entrepreneurship #AIConsulting",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: when investors are questioning a $1.2T valuation while Anthropic looks like a bargain at $380B, something's off. Funny how the AI hype cycle works. For those of us actually building businesses, this means one thing \u2014 pick your tools based on what works, not who's winning the valuation game.\n\n#AI #StartupLife #BusinessStrategy #RealEstate #TechInvesting #Entrepreneurship #AIConsulting",
+          "published_at": "2026-04-15T02:31:04+00:00",
+          "age_hours": 8.0,
+          "scraped_from": "TechCrunch AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/search/?q=Anthropic%E2%80%99s%20rise%20is%20giving%20some&sort=relevance&t=week",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Anthropic%E2%80%99s%20rise%20is%20giving%20some&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+              "label": "News Article"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "category": "AI",
+          "topic": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
+          "image_url": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=600&q=80",
+          "source_url": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
+          "source_label": "TechCrunch AI",
+          "voice_score": 90,
+          "hashtags": "#AI #TechPolicy #GovernmentRelations #SmallBusiness #Anthropic #AIStrategy #RealEstateTech",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 Anthropic suing the government while briefing them on AI safety? That's genuinely smart positioning. They're playing both sides legitimately. Small business lesson: sometimes you gotta challenge the rules while staying at the table. Government moves slow, but they're listening now.\n\n#AI #TechPolicy #GovernmentRelations #SmallBusiness #Anthropic #AIStrategy #RealEstateTech",
+          "published_at": "2026-04-14T18:09:12+00:00",
+          "age_hours": 16.4,
+          "scraped_from": "TechCrunch AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/accelerate/comments/1sll1jt/anthropic_cofounder_confirms_the_company_briefed/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Anthropic%20co-founder%20confirms%20the%20company&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
+              "label": "News Article"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "category": "AI",
+          "topic": "Google adds AI Skills to Chrome to help you save favorite workflows",
+          "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=600&q=80",
+          "source_url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+          "source_label": "TechCrunch AI",
+          "voice_score": 91,
+          "hashtags": "#AITools #Chrome #SmallBusiness #Productivity #RealEstate #AIConsulting #Automation",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Google's new Chrome Skills feature is genuinely useful for anyone running multiple businesses. Save your AI prompts once, reuse them across sites. Real talk \u2014 this cuts down the repetitive stuff we all waste time on. Legitimately saves hours weekly if you're managing properties or client workflows.\n\n#AITools #Chrome #SmallBusiness #Productivity #RealEstate #AIConsulting #Automation",
+          "published_at": "2026-04-14T17:00:00+00:00",
+          "age_hours": 17.5,
+          "scraped_from": "TechCrunch AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/search/?q=Google%20adds%20AI%20Skills%20to&sort=relevance&t=week",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Google%20adds%20AI%20Skills%20to&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+              "label": "News Article"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "category": "AI",
+          "topic": "Google brings its Gemini Personal Intelligence feature to India",
+          "image_url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?w=600&q=80",
+          "source_url": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
+          "source_label": "TechCrunch AI",
+          "voice_score": 92,
+          "hashtags": "#AIConsulting #SmallBusiness #RealEstate #Google #Gemini #PersonalIntelligence #HospitalityTech",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Google's Gemini just hit India with personal intelligence features that connect your Gmail, Photos, and more. Real talk: this is legitimately how AI becomes useful for small businesses. Imagine pulling guest data for your rental properties in seconds. Not subtle competitive advantage.\n\n#AIConsulting #SmallBusiness #RealEstate #Google #Gemini #PersonalIntelligence #HospitalityTech",
+          "published_at": "2026-04-14T14:48:34+00:00",
+          "age_hours": 19.7,
+          "scraped_from": "TechCrunch AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/u_TheConstellationGuy/comments/1sgvevn/csi_and_the_ai_mirage_repost/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Google%20brings%20its%20Gemini%20Personal&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
+              "label": "News Article"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "category": "AI",
+          "topic": "The attacks on Sam Altman are a warning for the AI world",
+          "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home",
+          "source_label": "The Verge AI",
+          "voice_score": 93,
+          "hashtags": "#AI #AIConsulting #TechSafety #SmallBusiness #OpenAI #RealTalk #DaytonaBeach",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: when AI anxiety turns into real-world violence, that's genuinely a wake-up call for everyone building in this space. The attacks on Sam Altman aren't just about one person\u2014they're a sign that fear + misinformation = dangerous. Small businesses need to think hard about how they're positioning AI before the narrative gets uglier.\n\n#AI #AIConsulting #TechSafety #SmallBusiness #OpenAI #RealTalk #DaytonaBeach",
+          "published_at": "2026-04-14T14:04:42-04:00",
+          "age_hours": 16.5,
+          "scraped_from": "The Verge AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/search/?q=The%20attacks%20on%20Sam%20Altman&sort=relevance&t=week",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=The%20attacks%20on%20Sam%20Altman&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home",
+              "label": "News Article"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "category": "AI",
+          "topic": "Chrome now lets you turn AI prompts into repeatable &#8216;Skills&#8217;",
+          "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
+          "source_url": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch",
+          "source_label": "The Verge AI",
+          "voice_score": 94,
+          "hashtags": "#AITools #ChromeUpdate #SmallBusiness #RealEstate #ProductivityHack #GoogleGemini #TechNews",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 Google just made AI workflows actually useful for small business. Chrome's new \"Skills\" feature lets you save your favorite AI prompts and run them across multiple tabs instantly. For real estate teams managing listings? Legitimately cuts repetitive work in half. Not subtle efficiency gain.\n\n#AITools #ChromeUpdate #SmallBusiness #RealEstate #ProductivityHack #GoogleGemini #TechNews",
+          "published_at": "2026-04-14T13:00:00-04:00",
+          "age_hours": 17.5,
+          "scraped_from": "The Verge AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/Battlefield/comments/1shp0vg/battlefield_6_game_update_1230/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Chrome%20now%20lets%20you%20turn&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch",
+              "label": "News Article"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "category": "AI",
+          "topic": "Has Google\u2019s AI watermarking system been reverse-engineered?",
+          "image_url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&q=80",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
+          "source_label": "The Verge AI",
+          "voice_score": 88,
+          "hashtags": "#AI #ArtificialIntelligence #TechSecurity #SmallBusiness #Google #AINews #CyberSecurity",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: Google's AI watermarking system getting reverse-engineered is exactly why security theater doesn't work. If you're betting your business on \"protected\" AI images, you're playing a risky game. The tech moves faster than the safeguards. What's your actual backup plan?\n\n#AI #ArtificialIntelligence #TechSecurity #SmallBusiness #Google #AINews #CyberSecurity",
+          "published_at": "2026-04-14T09:53:53-04:00",
+          "age_hours": 20.6,
+          "scraped_from": "The Verge AI",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/antiai/comments/1sfub7y/im_exhausted_by_the_ai_hype_before_ive_even/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Has%20Google%E2%80%99s%20AI%20watermarking%20system&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
+              "label": "News Article"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "category": "WORLD",
+          "topic": "Trump\u2019s economy officially passes Biden\u2019s for worst consumer sentiment in recorded history",
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
+          "source_url": "https://reddit.com/r/Economics/comments/1slt3ju/trumps_economy_officially_passes_bidens_for_worst/",
+          "source_label": "r/economics on Reddit",
+          "voice_score": 89,
+          "hashtags": "#SmallBusiness #RealEstate #EconomyMatters #HospitalityIndustry #BusinessInsights #DaytonaBeach #RealTalk",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 when consumer sentiment hits historic lows, hospitality and real estate feel it first. People stop vacationing, rental demand softens, businesses pause expansion plans. Funny how the economy's \"strength\" doesn't match what small business owners are actually experiencing. What are you seeing in your market?\n\n#SmallBusiness #RealEstate #EconomyMatters #HospitalityIndustry #BusinessInsights #DaytonaBeach #RealTalk",
+          "published_at": "2026-04-15T02:21:53+00:00",
+          "age_hours": 8.2,
+          "scraped_from": "r/economics",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/Economics/comments/1slt3ju/trumps_economy_officially_passes_bidens_for_worst/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Trump%E2%80%99s%20economy%20officially%20passes%20Biden%E2%80%99s&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Trump%E2%80%99s%20economy%20officially%20passes%20Biden%E2%80%99s%20for%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "category": "WORLD",
+          "topic": "Australia's richest person must share part of her mining fortunes, court rules",
+          "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80",
+          "source_url": "https://reddit.com/r/worldnews/comments/1slyo9i/australias_richest_person_must_share_part_of_her/",
+          "source_label": "r/worldnews on Reddit",
+          "voice_score": 90,
+          "hashtags": "#BusinessLaw #WealthRedistribution #RealEstate #Economics #Entrepreneurship #Mining #CourtRulings",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk: when courts start redistributing massive wealth from mining operations, it changes the entire risk-reward calculation for business owners. Genuinely curious how this affects foreign investment in resource-heavy markets. Not subtle economic pressure.\n\n#BusinessLaw #WealthRedistribution #RealEstate #Economics #Entrepreneurship #Mining #CourtRulings",
+          "published_at": "2026-04-15T07:06:57+00:00",
+          "age_hours": 3.4,
+          "scraped_from": "r/worldnews",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://reddit.com/r/worldnews/comments/1slyo9i/australias_richest_person_must_share_part_of_her/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Australia%27s%20richest%20person%20must%20share&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://duckduckgo.com/?q=Australia%27s%20richest%20person%20must%20share%20part%20announcement",
+              "label": "Official Announcement"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "category": "WORLD",
+          "topic": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+          "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+          "source_url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+          "source_label": "Hacker News",
+          "voice_score": 91,
+          "hashtags": "#WordPress #CyberSecurity #SmallBusiness #RealEstateTech #DataProtection #WebsiteSecurity #EntrepreneurLife",
+          "platforms": "Facebook + Instagram",
+          "post_text": "Real talk \u2014 someone just bought 30 WordPress plugins and backdoored all of them. Funny how people managing vacation rentals or small business websites think they're safe because they're \"too small to target.\" You're not. Security isn't optional, it's overhead that saves your business.\n\n#WordPress #CyberSecurity #SmallBusiness #RealEstateTech #DataProtection #WebsiteSecurity #EntrepreneurLife",
+          "published_at": "2026-04-13T17:54:39+00:00",
+          "age_hours": 40.6,
+          "scraped_from": "Hacker News",
+          "batch": "morning",
+          "is_feature_release": false,
+          "sources_array": [
+            {
+              "source_type": "reddit",
+              "url": "https://www.reddit.com/r/Wordpress/comments/1sk6ls6/someone_bought_30_wordpress_plugins_and_planted_a/",
+              "label": "Reddit"
+            },
+            {
+              "source_type": "twitter",
+              "url": "https://twitter.com/search?q=Someone%20bought%2030%20WordPress%20plugins&src=typed_query&f=live",
+              "label": "Twitter/X"
+            },
+            {
+              "source_type": "press_release",
+              "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+              "label": "Press Release"
+            }
+          ]
+        }
+      ],
+      "generated_at": "2026-04-15T10:32:38.716827+00:00",
+      "label": "Morning Brief (6:30 AM)",
+      "count": 10
+    },
+    "afternoon": {
+      "posts": [],
+      "generated_at": "",
+      "label": "Afternoon Update (1 PM)",
+      "count": 0
+    },
+    "scripts_thumbnails": []
   },
   "payroll": {
-    "period": "Mar 10 – Mar 24, 2026",
+    "period": "Mar 10 \u2013 Mar 24, 2026",
     "period_type": "B",
     "pay_date": "Mar 27, 2026",
     "total_payout": 5150.0,
@@ -208,7 +782,7 @@
       {
         "level": "red",
         "property": "10 S Halifax Ave",
-        "issue": "AC unit reported not cooling — HVAC scheduled"
+        "issue": "AC unit reported not cooling \u2014 HVAC scheduled"
       },
       {
         "level": "yellow",
@@ -218,7 +792,7 @@
       {
         "level": "green",
         "property": "117 N Hollywood Ave",
-        "issue": "WiFi complaint resolved — confirmed by guest"
+        "issue": "WiFi complaint resolved \u2014 confirmed by guest"
       }
     ],
     "top_performers": [
@@ -238,5 +812,19 @@
         "rating": 4.8
       }
     ]
+  },
+  "scraper_meta": {
+    "scraped_at": "2026-04-15T10:32:38.716827+00:00",
+    "sources_used": [
+      "The Verge AI",
+      "TechCrunch AI",
+      "Hacker News",
+      "r/economics",
+      "r/worldnews"
+    ],
+    "all_from_last_24h": true,
+    "post_count": 10,
+    "morning_count": 10,
+    "afternoon_count": 0
   }
 }
