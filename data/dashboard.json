@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T12:08:04.292679-04:00",
+  "generated_at": "2026-04-27T12:12:29.132005-04:00",
   "date": "2026-04-27",
   "content": {
     "posts": [],
     "morning": {
       "posts": [],
-      "generated_at": "2026-04-27T16:07:18.906659+00:00",
+      "generated_at": "2026-04-27T16:12:01.843490+00:00",
       "label": "Morning Brief (6:30 AM)",
       "count": 0
     },
@@ -132,7 +132,7 @@
     ]
   },
   "scraper_meta": {
-    "scraped_at": "2026-04-27T16:07:18.906659+00:00",
+    "scraped_at": "2026-04-27T16:12:01.843490+00:00",
     "sources_used": [],
     "all_from_last_24h": true,
     "post_count": 0,
